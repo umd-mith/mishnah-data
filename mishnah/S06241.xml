@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"/>
+<?xml-stylesheet type="text/css"
+    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,7 +41,7 @@
                 <idno type="local">S06241</idno>
                 <availability>
                     <licence>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0/">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0/">Creative
                             Commons Attribution Non-Commercial 3.0 Unported License</ref>.</licence>
                 </availability>
                 <date>2013-03-10</date>
@@ -63,8 +66,11 @@
                     <msContents>
                         <msItem>
                             <locusGrp>
+                                
+
                                 <locus n="1v" facs="www.genizah.org">C10853</locus>
                                 <locus n="1r" facs="www.genizah.org">C10852</locus>
+
                             </locusGrp>
                             <title>Mishnah</title>
                         </msItem>
@@ -77,6 +83,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="frag">
                                         <width unit="cm">8.6</width>
                                         <height unit="cm">26.5</height>
@@ -115,7 +122,9 @@
     </teiHeader>
     <text>
         <body>
+
             <div1 xml:id="S06241.4">
+
                 <pb xml:id="S016241.1v" n="1v" next="#S06241.1r"/>
                 <div2 xml:id="S06241.4.4">
                     <div3 xml:id="S06241.4.4.10">
@@ -284,6 +293,7 @@
                                 "סנהדרין."</note> פרק<am rend="overmark"/> י<am rend="overdot">׳</am>ב<am rend="overdot">׳</am> הלכ<unclear reason="damage">ו</unclear>
                             <gap reason="damage" extent="2" unit="chars"/>
                         </trailer>
+                        
                     </div3>
                 </div2>
                 <div2 xml:id="S06241.4.5">
@@ -312,6 +322,7 @@
                         <lb n="16"/>
                     </div3>
                 </div2>
+
             </div1>
         </body>
     </text>

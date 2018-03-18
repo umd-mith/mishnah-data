@@ -1,4 +1,6 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="utf-8"/>
+<?xml-stylesheet type="text/css"
+    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -34,7 +36,7 @@
                 <idno type="local">S07106</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -50,6 +52,7 @@
                         Michael Pollack, revised and edited by Hayim Lapin (Hamb.xml).</p>
                 </note>
             </notesStmt>
+
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -70,6 +73,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">30.5</width>
                                         <height unit="cm">39.3</height>
@@ -88,6 +92,7 @@
                         </objectDesc>
                         <handDesc>
                             <handNote xml:id="Hamb.IbH" scribe="first" script="Sephardic square">
+                                
                                 <date notBefore="1184" notAfter="1184">1184</date>
                                 <region>Spain</region>
                                 <note>Colophon, folio 223b: Written Gerona, AM
@@ -116,7 +121,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <tagsDecl/>
+            <tagsDecl> </tagsDecl>
         </encodingDesc>
         <revisionDesc>
             <change when="2011-12" who="ref.xml#MP">Original transcription and tagging of BM Ch. 2
@@ -175,6 +180,7 @@
                         <trailer xml:id="S07106.4.1.1.T">סליק פירקא</trailer>
                     </div3>
                     <lb n="13"/>
+
                     <pb n="9r" xml:id="S07106.9r"/>
                     <div3 xml:id="S07106.4.1.2">
                         <ab xml:id="S07106.4.1.2.1">
@@ -517,6 +523,9 @@
                         <trailer xml:id="S07106.4.1.3.T">סליק פירק׳א</trailer>
                     </div3>
                     <lb n="29"/>
+
+
+
                     <pb n="21r" xml:id="S07106.21r"/>
                     <div3 xml:id="S07106.4.1.4">
                         <ab xml:id="S07106.4.1.4.1">שור שנגח ארבעה וחמשה שוורי<del hand="#S07106.h2" rend="rubbed">ם</del>
@@ -774,6 +783,7 @@
                         <trailer xml:id="S07106.4.1.5.T">סליק פירקא</trailer>
                     </div3>
                     <lb n="32"/>
+
                     <pb n="33r" xml:id="S07106.33r"/>
                     <div3 xml:id="S07106.4.1.6">
                         <ab xml:id="S07106.4.1.6.1">הכונס צאן לדיר ונעל בפניה כראוי ויצתה והזיקה
@@ -1250,8 +1260,8 @@
                             </w>
                             <listTranspose>
                                 <transpose>
-                                    <ptr target="S07106.4.1.9.2.tr2"/>
-                                    <ptr target="S07106.4.1.9.2.tr1"/>
+                                    <ptr target="#S07106.4.1.9.2.tr2"/>
+                                    <ptr target="#S07106.4.1.9.2.tr1"/>
                                 </transpose>
                             </listTranspose>
                             <note>There appear to be dots marking the transposition,
@@ -2099,6 +2109,7 @@
                             המטלטלין קונין זה את זה<pc type="unitEnd" rend=":">:</pc>
                             <space extent="3" unit="chars"/>
                         </ab>
+
                         <ab xml:id="S07106.4.2.4.2">כיצד משך הימנו פירות ולא נתן לו <lb n="32"/>
                             מעות אינו יכול לחזור בו נתן לו מעות ולא משך ממנו פירות יכול לחזור בו אבל
                             אמרו מי שפרע <lb n="33"/> מאנשי דור המבול ומאנשי דור הפלגה הוא עתיד
@@ -2186,6 +2197,7 @@
                             ונותנה למעשר שני ואינו חושש שאינה <c rend="lig">אל</c>א נפש רעה<pc type="unitEnd" rend=":">:</pc>
                             <space extent="3" unit="chars"/>
                         </ab>
+
                         <ab xml:id="S07106.4.2.4.7">ההונאה <lb n="9"/> ארבעה כסף והטענה שתי כסף
                             וההודאה שוה פרוטה חמש פרוטות הן ההודאה שוה <choice>
                                 <abbr>פרוט<am rend="overdot">'</am>
@@ -2296,6 +2308,7 @@
                             <lb n="30"/>
                         </ab>
                         <trailer xml:id="S07106.4.2.4.T">סליק פירקא</trailer>
+
                     </div3>
                     <div3 xml:id="S07106.4.2.5">
                         <pb n="218" xml:id="S07106.218"/>
@@ -2491,6 +2504,7 @@
                     </div3>
                     <div3 xml:id="S07106.4.2.6">
                         <pb n="236" xml:id="S07106.236"/>
+
                         <ab xml:id="S07106.4.2.6.1">השוכר את האומנין <lb n="1"/> והטעו זה את זה אין
                                 <lb n="2"/> להם זה על זה אלא תרעומת שכר את החמר ואת הקדר להביא
                             אפיריפרין וחלילין לכלה או <lb n="3"/> למת ופועלין להעלות פשתנו מן המשרה
@@ -2968,6 +2982,7 @@
                             אשלם במיטבה<pc type="unitEnd" rend="˙">:</pc>
                             <space extent="3" unit="chars"/>
                         </ab>
+
                         <ab xml:id="S07106.4.2.9.4">המקבל שדה <lb n="32"/> מחברו ולא רצה לנכש <choice>
                                 <abbr>אמ<am rend="overdot">'</am>
                                 </abbr>
@@ -3243,8 +3258,10 @@
                             <lb n="1"/>
                         </ab>
                         <trailer xml:id="S07106.4.2.10.T">סליק פירקא</trailer>
+
                     </div3>
                 </div2>
+
             </div1>
         </body>
     </text>

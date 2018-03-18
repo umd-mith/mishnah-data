@@ -1,4 +1,6 @@
-<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"/>
+<?xml-stylesheet type="text/css"
+    href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -36,10 +38,11 @@
                 <idno type="local">S01724</idno>
                 <availability>
                     <licence>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</licence>
                 </availability>
                 <date>2013-03-2</date>
+
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -62,6 +65,8 @@
                     <msContents>
                         <msItem>
                             <locusGrp>
+
+                                
                                 <locus n="1r" facs="www.genizah.org">C165816</locus>
                                 <locus n="1v" facs="www.genizah.org">C165817</locus>
                             </locusGrp>
@@ -76,11 +81,13 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="frag">
                                         <width unit="cm">24.2</width>
                                         <height unit="cm">26.5</height>
                                     </dimensions>
                                     <dimensions scope="sheet">
+                                        
                                         <width unit="cm">23.2</width>
                                         <height unit="cm">27.8</height>
                                     </dimensions>
@@ -102,6 +109,7 @@
                                 <region/>
                             </handNote>
                         </handDesc>
+
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -538,6 +546,7 @@
                         </ab>
                     </div3>
                 </div2>
+
             </div1>
         </body>
     </text>

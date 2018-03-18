@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css"
-    href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="for-transcribers.xsl"?>
+    href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,7 +63,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locusGrp>
+                            <locusGrp><!-- Needs fixing globally -->
                                 <locus n="1v" facs="ww.genizah.org">C211274</locus>
                                 <locus n="1r" facs="ww.genizah.org">C211273</locus>
                             </locusGrp>
@@ -76,7 +77,7 @@
                                 <extent>1</extent>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1">
+                                <layout columns="1"><!-- at longest/widest -->
                                     <dimensions scope="sheet">
                                         <width unit="cm">25</width>
                                         <height unit="cm">30</height>
@@ -96,7 +97,7 @@
                         <handDesc>
                             <handNote script="Oriental Square">
                                 <date notBefore="1000" notAfter="1300">11th-13th c.</date>
-                                <region/>
+                                <region><!-- placeholder --></region>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -104,7 +105,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <tagsDecl/>
+            <tagsDecl><!-- placeholder --></tagsDecl>
         </encodingDesc>
         <revisionDesc>
             <change when="2012-11-23" who="Nurit Ezer" corresp="ref.xml#NE">Transcription</change>
@@ -288,7 +289,7 @@
                             <pc rend="°" type="unitEnd">:</pc>
                         </trailer>
                         <note>At the end of chapter 6, formula matches the common form for a chapter
-                            end, but the chapter number corresponds to the following chapter.</note>
+                            end, but the chapter number corresponds to the following chapter.</note><!-- WORK ON THIS -->
                     </div3>
                     <div3 xml:id="S01835.4.4.6">
                         <ab xml:id="S01835.4.4.6.1"> ניגמר הדין <damage>
@@ -516,7 +517,7 @@
                             <pc rend="°" type="unitEnd">:</pc>
                         </trailer>
                         <note>This is the common form for a chapter end, but the chapter number
-                            corresponds to the following chapter.</note>
+                            corresponds to the following chapter.</note><!-- WORK ON THIS -->
                     </div3>
                     <div3 xml:id="S01835.4.4.7">
                         <ab xml:id="S01835.4.4.7.1">ארבע מיתות נמסרו לבית דין סקילה שריפה הרג וחנק <choice>

@@ -1,4 +1,6 @@
-<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"/>
+<?xml-stylesheet type="text/css"
+    href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -39,7 +41,7 @@
                 <idno type="local">S04561</idno>
                 <availability>
                     <licence>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0/">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0/">Creative
                             Commons Attribution Non-Commercial 3.0 Unported License</ref>.</licence>
                 </availability>
                 <date>2013-03-11</date>
@@ -64,6 +66,7 @@
                     <msContents>
                         <msItem>
                             <locusGrp>
+                                
                                 <locus n="1r" facs="ww.genizah.org">C96800</locus>
                                 <locus n="1v" facs="ww.genizah.org">C96801</locus>
                             </locusGrp>
@@ -78,6 +81,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="frag-sheet">
                                         <width unit="cm">14.8</width>
                                         <height unit="cm">11.4</height>
@@ -90,6 +94,7 @@
                                         <width unit="chars"/>
                                         <height unit="lines">13</height>
                                         <dim type="char-p-cm">2.9</dim>
+                                        
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
@@ -249,6 +254,7 @@
                         <lb n="13"/>
                         <note>There are traces but no readable text.</note>
                         <lb n="14"/>
+
                         <pb n="1v" xml:id="S04561.1v"/>
                         <ab xml:id="S04561.4.4.7.6">
                             <damage>
@@ -362,9 +368,11 @@
                             </damage>
                         </ab>
                         <lb n="13"/>
+
                     </div3>
                 </div2>
             </div1>
+
         </body>
     </text>
 </TEI>

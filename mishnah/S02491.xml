@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"/>
 <?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -31,11 +32,12 @@
                 <idno type="local">S02491</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution-NonCommercial 3.0  License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
                 <date>2012-06-18</date>
+                
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -61,6 +63,8 @@
                         <msItem>
                             <locusGrp>
                                 <locus/>
+                                
+                                
                                 <locus n="1v" facs="www.genizah.org">C99171</locus>
                                 <locus n="1r" facs="www.genizah.org">C99172</locus>
                             </locusGrp>
@@ -81,10 +85,12 @@
                                         <height unit="cm">19</height>
                                     </dimensions>
                                     <dimensions scope="col-cm">
+                                        
                                         <width unit="cm" atLeast="14.6" atMost="15.6">15.1</width>
                                         <height unit="cm" atMost="16.9" atLeast="15.9">16.45</height>
                                     </dimensions>
                                     <dimensions scope="col-writ">
+                                        
                                         <width unit="chars" atLeast="40" atMost="47">40-47</width>
                                         <height unit="lines" atMost="26" atLeast="20">20-26</height>
                                         <dim type="char-p-cm" atLeast="2.7" atMost="3">2.85</dim>

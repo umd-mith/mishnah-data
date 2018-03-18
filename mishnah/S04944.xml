@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"/>
 <?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -26,6 +27,7 @@
                     <licence/>
                 </availability>
                 <date/>
+                
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -48,6 +50,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            
                             <locusGrp>
                                 <locus n="1r" facs="www.genizah.org">C101630</locus>
                                 <locus n="1v" facs="www.genizah.org">C101629</locus>
@@ -605,7 +608,7 @@
                             </damage>כל ל<damage>פי ה<damageSpan xml:id="S04944.damBeg.1r.19c" spanTo="#S04944.damEnd.1r.19c"/>
                                 <unclear extent="4" unit="chars">מדה ו</unclear>
                                 <anchor xml:id="S04944.damEnd.1r.19c"/>
-                            </damage>הכל   <lb n="19"/>
+                            </damage>הכל   <lb n="19"/>
                             <milestone xml:id="S04944.1r.pageEnd" unit="page"/>
                         </ab>
                     </div3>

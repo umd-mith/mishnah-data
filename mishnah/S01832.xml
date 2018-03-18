@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"/>
 <?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -34,10 +35,11 @@
                 <idno type="local">S01832</idno>
                 <availability status="restricted">
                     <licence>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</licence>
                 </availability>
                 <date>2012-11-30</date>
+
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -57,14 +59,18 @@
                         <settlement>Cambridge</settlement>
                         <repository>University Library</repository>
                         <idno type="genizah-CUL">TS E2.71</idno>
+
                     </msIdentifier>
+
                     <msContents>
                         <msItem>
                             <locusGrp>
+                                
                                 <locus n="1v" facs="ww.genizah.org">C211268</locus>
                                 <locus n="1r" facs="ww.genizah.org">C211267</locus>
                             </locusGrp>
                             <title>Mishnah</title>
+
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -75,6 +81,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">25.7</width>
                                         <height unit="cm">29.44</height>
@@ -115,6 +122,7 @@
             <div1 xml:id="S01832.4">
                 <div2 xml:id="S01832.4.1">
                     <pb n="1v" xml:id="S01832.1v"/>
+
                     <div3 xml:id="S01832.4.1.8">
                         <ab xml:id="S01832.4.1.8.6"> ומנחת ע<c rend="tall">ל</c> ראשה והעמיד <c rend="tall">ל</c>ה עדים ובא <c rend="tall">ל</c>פני <choice>
                                 <abbr>ר<am rend="overdot">׳</am>
@@ -471,6 +479,8 @@
                     </div3>
                 </div2>
             </div1>
+
+
         </body>
     </text>
 </TEI>

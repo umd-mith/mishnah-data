@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"/>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -27,7 +28,7 @@
                 <idno type="local">S03524</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -59,6 +60,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
+                            
                             <locusGrp>
                                 <locus n="1r" facs="www.genizah.org">C102610</locus>
                                 <locus n="1v" facs="www.genizah.org">C102611</locus>
@@ -77,6 +79,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">14</width>
                                         <height unit="cm">23.8</height>
@@ -89,7 +92,9 @@
                                         <height unit="lines">37</height>
                                         <dim type="char-p-cm">2.7</dim>
                                     </dimensions>
+                                    
                                     <dimensions scope="sheet">
+                                        
                                         <width unit="cm">24.4</width>
                                         <height unit="cm">28.4</height>
                                     </dimensions>
