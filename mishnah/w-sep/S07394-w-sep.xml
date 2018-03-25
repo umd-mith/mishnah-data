@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -3854,7 +3853,7 @@
                                  <expan>אומרים</expan>
                               </choice>
                            </w>
-                           <!--Preceding abbreviation elements are from overlapping or nested nodes. Requires editorial review.-->
+                           
                         </choice>
                      </w>
                      <w xml:id="S07394.4.2.4.13.39">זכור</w>
@@ -4205,7 +4204,7 @@
                         </choice>
                      </w>
                      <pc type="unitEnd" rend="raisedDot"/>
-                     <!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                     
                      <gap extent="9" unit="lines" reason="TalmudBavli"/>
                      <gap extent="20" unit="chars" reason="TalmudBavli"/>
                      <pb xml:id="S07394.34aR" n="34aR"/>
@@ -5068,7 +5067,7 @@
                      <damageSpan type="unclear" spanTo="#d30e3379" subtype="damage" unit="chars" extent="3"/>
                      <delSpan spanTo="#d30e3380" hand="h1" rend="rubbing"/>
                      <anchor xml:id="d30e3380" type="del"/>
-                     <!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                     
                      <anchor xml:id="d30e3379" type="unclear"/>
                      <w xml:id="S07394.4.2.6.3.10">פטור</w>
                      <w xml:id="S07394.4.2.6.3.11">אם</w>

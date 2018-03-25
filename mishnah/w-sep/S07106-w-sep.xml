@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -66,7 +65,7 @@
                         <extent>223</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- based on catalog description of width of page -->
+                        <layout columns="1">
                            <dimensions scope="sheet">
                               <width unit="cm">30.5</width>
                               <height unit="cm">39.3</height>
@@ -84,10 +83,10 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote xml:id="Hamb.IbH" scribe="first" script="Sephardic square"><!-- Check? Needs work-->
+                     <handNote xml:id="Hamb.IbH" scribe="first" script="Sephardic square">
                         <date notBefore="1184" notAfter="1184">1184</date>
                         <region>Spain</region>
-                        <note>Colophon, folio 223b<!-- verify number -->: Written Gerona, AM
+                        <note>Colophon, folio 223b: Written Gerona, AM
                                     4944 = 1184 CE.</note>
                         <placeName xml:id="en">Gerona</placeName>
                         <placeName xml:id="he">גירונא</placeName>

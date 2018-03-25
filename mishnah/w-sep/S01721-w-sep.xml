@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -57,11 +56,11 @@
                   <msItem>
                      <locusGrp>
                         <locus/>
-                        <!-- This is still not resolved -->
+                        
                         <locus n="1r" facs="www.genizah.org">C164810</locus>
                         <locus n="1v" facs="www.genizah.org">C165811</locus>
                      </locusGrp>
-                     <note type="nli-ref"><!-- Not in Cat --></note>
+                     <note type="nli-ref"/>
                      <title>Mishnah</title>
                   </msItem>
                </msContents>
@@ -71,7 +70,7 @@
                         <extent>1</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="frag-sheet">
                               <width unit="cm">20.19</width>
                               <height unit="cm">22.41</height>
@@ -91,7 +90,7 @@
                   <handDesc>
                      <handNote scribe="first" script="Oriental Square" scope="major">
                         <date notAfter="1300" notBefore="1000">11th - 13th C.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <desc>pointed-Babylonian sporadic</desc>
                         <desc>cantillation</desc>
                      </handNote>
@@ -101,7 +100,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change/>
@@ -260,7 +259,7 @@
                      <w xml:id="S01721.4.3.6.8.68">פתח</w>
                      <w xml:id="S01721.4.3.6.8.69">המערה</w>
                      <lb n="7"/>
-                     <!-- insertion I can't make sense of -->
+                     
                      <w xml:id="S01721.4.3.6.8.70">שש</w>
                      <w xml:id="S01721.4.3.6.8.71">על</w>
                      <w xml:id="S01721.4.3.6.8.72">שש</w>

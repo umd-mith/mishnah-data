@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -72,7 +71,7 @@
                         <extent>2</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2"><!-- at longest/widest -->
+                        <layout columns="2">
                            <dimensions scope="sheet">
                               <width unit="cm">19.5</width>
                               <height unit="cm">20.4</height>
@@ -92,7 +91,7 @@
                   <handDesc>
                      <handNote script="Orienal Square">
                         <date notAfter="1300" notBefore="1000">11th - 13th C.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <desc>pointed<desc>Babylonian</desc>
                         </desc>
                      </handNote>
@@ -102,7 +101,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change when="2012-05-13" who="ref.xml#AL">Begun transcription and markup.</change>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <div2 xmlns="http://www.tei-c.org/ns/1.0" xml:id="ref.4.1" n="Bava_Qamma">
                     <head xml:id="ref.4.1.H"/>
                     <div3 xml:id="ref.4.1.1">
@@ -548,7 +547,7 @@
                             <w xml:id="ref.4.1.2.5.94">קרן</w>
                             <w xml:id="ref.4.1.2.5.95">מ<link target="S01715.xml#S01715.damEnd.2r.2a"/>רג<link target="S01715.xml#S01715.damBeg.2r.2b"/>ל</w>
                             <w xml:id="ref.4.1.2.5.96">ומה</w>
-                            <!-- Next word added for pointing -->
+                            
                             <w xml:id="ref.4.1.2.5.97">א<link target="S01715.xml#S01715.damEnd.2r.2b"/>ם</w>
                             <w xml:id="ref.4.1.2.5.98">במקום</w>
                             <w xml:id="ref.4.1.2.5.99">שהקל</w>
@@ -4263,7 +4262,7 @@
                             <label xml:id="ref.4.1.10.3.L">ג</label>
                             <w xml:id="ref.4.1.10.3.1">
                 <link target="S04636.xml#S04636.damBeg.1rL.7a"/>המכיר</w>
-                            <!-- added to allow pointing -->
+                            
                             <w xml:id="ref.4.1.10.3.2">א<link target="S04636.xml#S04636.damEnd.1rL.7a"/>ת</w>
                             <w xml:id="ref.4.1.10.3.3">
                 <link target="S04636.xml#S04636.damBeg.1rL.7b"/>כליו</w>
@@ -4468,7 +4467,7 @@
                             <w xml:id="ref.4.1.10.7.27">הלויתני</w>
                             <w xml:id="ref.4.1.10.7.28">אם</w>
                             <w xml:id="ref.4.1.10.7.29">הפקדת</w>
-                            <!-- next two words added for pointing -->
+                            
                             <w xml:id="ref.4.1.10.7.30">אם<link target="S04636.xml#S04636.damEnd.1vR.3"/>
             </w>
                             <w xml:id="ref.4.1.10.7.31">לא</w>
@@ -4510,7 +4509,7 @@
             </w>
                             <w xml:id="ref.4.1.10.8.19">את</w>
                             <w xml:id="ref.4.1.10.8.20">ה<link target="S04533.xml#S04533.damBeg.1r.1b"/>צאן</w>
-                            <!-- next three words now conflate versions, to capture variation -->
+                            
                             <w xml:id="ref.4.1.10.8.21">והיא<link target="S04533.xml#S04533.damEnd.1r.1b"/>
             </w>
                             <w xml:id="ref.4.1.10.8.22">ושלמ<link target="S03524.xml#S03524.damEnd.1r.1a"/>
@@ -4518,7 +4517,7 @@
                             <w xml:id="ref.4.1.10.8.23">היא<link target="S04636.xml#S04636.damEnd.1vR.6"/>
             </w>
                             <w xml:id="ref.4.1.10.8.24">פטור</w>
-                            <!--word added to allow for links-->
+                            
                             <w xml:id="ref.4.1.10.8.25">מ<link target="S03524.xml#S03524.damBeg.1r.1b"/>ל<link target="S03524.xml#S03524.damEnd.1r.1b"/>שלם</w>
                         </ab>
                         <ab xml:id="ref.4.1.10.9">
@@ -4638,15 +4637,14 @@
                             <w xml:id="ref.4.1.10.10.47">ש<link target="S03524.xml#S03524.damEnd.1r.7a"/>לש</w>
                             <w xml:id="ref.4.1.10.10.48">על</w>
                             <w xml:id="ref.4.1.10.10.49">שלש</w>
-                            <!-- Two alternate expressions,appearing in the different mss. Leave plain 
-							or wrap in "choice" ?-->
-                            <!-- First text expression here -->
+                            
+                            
                             <w xml:id="ref.4.1.10.10.50">חייב</w>
                             <w xml:id="ref.4.1.10.10.51">
                 <link target="S03524.xml#S03524.damBeg.1r.7b"/>להחז<link target="S03524.xml#S03524.damEnd.1r.7b"/>יר</w>
                             <w xml:id="ref.4.1.10.10.52">
                 <link target="S03524.xml#S03524.damBeg.1r.8a"/>לבעלים</w>
-                            <!-- Second text expression here -->
+                            
                             <w xml:id="ref.4.1.10.10.53">הרי</w>
                             <w xml:id="ref.4.1.10.10.54">אלו</w>
                             <w xml:id="ref.4.1.10.10.55">של</w>

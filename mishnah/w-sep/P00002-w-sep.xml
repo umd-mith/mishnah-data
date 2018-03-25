@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader xmlns:xi="http://www.w3.org/2001/XInclude">
       <fileDesc>
@@ -67,11 +66,7 @@
             </bibl>
             <msDesc>
                <msIdentifier/>
-               <!--<msContents>
-                        <msItem>
-                            
-                        </msItem>
-                    </msContents>-->
+               
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="paper">
@@ -95,9 +90,7 @@
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <!--<handDesc>
-                            <ab/>
-                        </handDesc>-->
+                  
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -113,8 +106,7 @@
    </teiHeader>
    <text xmlns:xi="http://www.w3.org/2001/XInclude">
       <body>
-         <div1 xml:id="P00002.4" n="Neziqin" type="Order"><!--<!-\-ref to file containing Bava Qamma, P00002-0401.xml-\->
-                <xi:include xmlns:tei="http://www.tei-c.org/ns/1.0" href="P00002/P00002-0401.xml"/>-->
+         <div1 xml:id="P00002.4" n="Neziqin" type="Order">
             <div2 xml:id="P00002.4.1">
                <div3 xml:id="P00002.4.1.1" n="Chapter1">
                   <pb n="4_2r" xml:id="P00002.4_2r"/>
@@ -6170,8 +6162,7 @@
                </div3>
                <lb n="28"/>
             </div2>
-            <!--<!-\-ref to file containing Bava Metsia, P00002-0402.xml-\->
-                <xi:include xmlns:tei="http://www.tei-c.org/ns/1.0" href="P00002/P00002-0402.xml"/>-->
+            
             <div2 xml:id="P00002.4.2">
                <div3 xml:id="P00002.4.2.1" n="Chapter1">
                   <pb n="4_7v" xml:id="P00002.4_7v"/>
@@ -13011,8 +13002,7 @@
                </div3>
                <lb n="2"/>
             </div2>
-            <!--<!-\-ref to file containing Bava Batra, P00002-0403.xml-\->
-                <xi:include xmlns:tei="http://www.tei-c.org/ns/1.0" href="P00002/P00002-0403.xml"/>-->
+            
             <div2 xml:id="P00002.4.3">
                <div3 xml:id="P00002.4.3.1" n="Chapter1">
                   <cb n="4_12vB" xml:id="P00002.4_12vB"/>
@@ -19844,7 +19834,7 @@
                </div3>
                <lb n="1"/>
             </div2>
-            <!--ref to file containing Sanhedrin, P00002-0404.xml-->
+            
             <div2 xml:id="P00002.4.4" xml:base="P00002/P00002-0404.xml">
                <div3 xml:id="P00002.4.4.1" n="Chapter1">
                   <pb n="4_17v" xml:id="P00002.4_17v"/>
@@ -27116,7 +27106,7 @@
                </div3>
                <lb n="7"/>
             </div2>
-            <!--ref to file containing Makkot, P00002-0405.xml-->
+            
             <div2 xml:id="P00002.4.5" xml:base="P00002/P00002-0405.xml">
                <div3 xml:id="P00002.4.5.1" n="Chapter1">
                   <pb n="4_30v" xml:id="P00002.4_30v"/>
@@ -29810,7 +29800,7 @@
                      <w xml:id="P00002.4.5.3.15.71">
                         <abbr>בר<am rend="overmark">׳</am>
                         </abbr>
-                        <expan><!-- Check expansion -->ברבי</expan>
+                        <expan>ברבי</expan>
                      </w>
                      <w xml:id="P00002.4.5.3.15.72">אומר</w>
                      <w xml:id="P00002.4.5.3.15.73">הרי</w>
@@ -29912,7 +29902,7 @@
                </div3>
                <lb n="46"/>
             </div2>
-            <!--ref to file containing Shevuot, P00002-0406.xml-->
+            
             <div2 xml:id="P00002.4.6" xml:base="P00002/P00002-0406.xml">
                <div3 xml:id="P00002.4.6.1" n="Chapter1">
                   <pb n="4_32v" xml:id="P00002.4_32v"/>
@@ -34545,8 +34535,8 @@
                </div3>
                <lb n="29"/>
             </div2>
-            <!-- No Eduyot -->
-            <!--ref to file containing Avodah_Zarah, P00002-0408.xml-->
+            
+            
             <div2 xml:id="P00002.4.8" xml:base="P00002/P00002-0408.xml">
                <div3 xml:id="P00002.4.8.1" n="Chapter1">
                   <pb n="4_39r" xml:id="P00002.4_39r"/>
@@ -37811,8 +37801,8 @@
                </div3>
                <lb n="39"/>
             </div2>
-            <!-- No Avot -->
-            <!--ref to file containing Horayot, P00002-0410.xml-->
+            
+            
             <div2 xml:id="P00002.4.10" xml:base="P00002/P00002-0410.xml">
                <div3 xml:id="P00002.4.10.1" n="Chapter1">
                   <pb n="4_45v" xml:id="P00002.4_45v"/>

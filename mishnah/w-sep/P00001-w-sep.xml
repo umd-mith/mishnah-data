@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -85,7 +84,7 @@
                               <height unit="cm">39</height>
                            </dimensions>
                            <dimensions scope="col-writ">
-                              <height unit="lines">53<!-- Average from small sample--></height>
+                              <height unit="lines">53</height>
                               <width unit="chars">37</width>
                            </dimensions>
                         </layout>
@@ -127,7 +126,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 xml:id="P00001.4"><!--NOTE: At BB 8.7 168v lines 12 and 19, the marginalia appear outside the textual annotations, suggesting that they were added at a later stage of annotating the manuscript.-->
+         <div1 xml:id="P00001.4">
             <pb xml:id="P00001.151r" n="151r"/>
             <fw type="head" place="top-center" rend="size() align(center) pad() ornamented(n)">בבא
                קמא</fw>
@@ -2602,7 +2601,7 @@
                      <w xml:id="P00001.4.1.4.9.29">והזיק</w>
                      <lb n="39"/>
                      <span type="seg" to="#d2e1603"/>
-                     <w xml:id="P00001.4.1.4.9.30"><!-- This page missing from digital copy. Transposition needs to be checked against original. -->אחד</w>
+                     <w xml:id="P00001.4.1.4.9.30">אחד</w>
                      <w xml:id="P00001.4.1.4.9.31">תם</w>
                      <metamark function="transposition" place="above" rend="?"/>
                      <w xml:id="P00001.4.1.4.9.32">ואחד</w>
@@ -6292,7 +6291,7 @@
                      <lb n="23"/>
                      <gap reason="Maimonides" extent="3" unit="lines"/>
                   </ab>
-                  <ab xml:id="P00001.4.1.9.8"><!-- Check for label -->
+                  <ab xml:id="P00001.4.1.9.8">
                      <addSpan spanTo="#d2e3937" type="comm" place="margin-right" hand="#P00001.h3"/>
                      <w xml:id="P00001.4.1.9.8.1">ג"ש<anchor xml:id="d2e3937" type="comm"/>
                         <space extent="20" unit="chars"/>
@@ -9025,7 +9024,7 @@
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <!-- Need to verify or note issue of resp of hand -->
+                     
                      <span type="seg" to="#d2e5603"/>
                      <delSpan spanTo="#d2e5604"/>
                      <w xml:id="P00001.4.2.2.10.75">ישמע<c rend="lig">אל</c>
@@ -17227,7 +17226,7 @@
                   </ab>
                   <ab xml:id="P00001.4.3.2.5">
                      <label rend="size() align() pad(rl)">ה</label>
-                     <w xml:id="P00001.4.3.2.5.1"><!--[graphic here]-->
+                     <w xml:id="P00001.4.3.2.5.1">
                         <addSpan spanTo="#d2e10916" type="comm" place="margin-left" hand="#P00001.h3"/>פ"ט</w>
                      <anchor xml:id="d2e10916" type="comm"/>
                      <w xml:id="P00001.4.3.2.5.2">מרחיקין</w>

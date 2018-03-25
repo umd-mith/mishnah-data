@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <teiHeader>
         <fileDesc>
@@ -138,7 +137,7 @@
                                     </abbr>
                                     <expan>והאומר</expan>
                                     <seg function="CHECK-ME">
-                                        <unclear reason="damage" unit="chars" extent="1"/><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <unclear reason="damage" unit="chars" extent="1"/>
                                     </seg>
                                 </choice>
                             </w>
@@ -165,7 +164,7 @@
                                     </abbr>
                                     <expan>שלשה</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -282,7 +281,7 @@
                                             <unclear reason="writ">ו</unclear>
                                         </damage>
                                         <unclear reason="writ">ו</unclear>
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -400,11 +399,11 @@
                             <w xml:id="S07397.4.2.1.4.14">כלום</w>
                             <w xml:id="S07397.4.2.1.4.15">
                                 <span type="seg" function="CHECK-ME" to="#d33e336"/>
-                                <ptr xml:id="s145" type="s" target="#e145"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s145" type="s" target="#e145"/>
                                 <anchor xml:id="d33e336" type="seg"/>
                                 <anchor xml:id="d33e334" type="damage"/>:</w>
                             <w xml:id="S07397.4.2.1.4.16">
-                                <span type="seg" function="CHECK-ME" to="#d33e341"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e341"/>
                                 <anchor xml:id="d33e341" type="seg"/>
                                 <space extent="1" unit="chars"/>
                             </w>
@@ -459,7 +458,7 @@
                                     </abbr>
                                     <expan>ומציאת</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>א</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>א</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -500,7 +499,7 @@
                             </w>
                             <w xml:id="S07397.4.2.1.6.28">
                                 <span type="seg" function="CHECK-ME" to="#d33e442"/>
-                                <damageSpan type="damage" spanTo="#d33e443"/>?<anchor xml:id="d33e443" type="damage"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <damageSpan type="damage" spanTo="#d33e443"/>?<anchor xml:id="d33e443" type="damage"/>
                                 <anchor xml:id="d33e442" type="seg"/>
                                 <anchor xml:id="d33e439" type="unclear"/>לא</w>
                             <lb n="34"/>
@@ -652,7 +651,7 @@
                                         <damage>
                                             <unclear reason="writ">ר</unclear>
                                         </damage>
-                                        <unclear reason="writ">ר</unclear><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <unclear reason="writ">ר</unclear>
                                     </seg>
                                 </choice>
                             </w>
@@ -706,11 +705,11 @@
                             <w xml:id="S07397.4.2.1.8.38">שטרות</w>
                             <w xml:id="S07397.4.2.1.8.39">שלש<c rend="tall">ה<sep/>
                                     <span type="seg" function="CHECK-ME" to="#d33e617"/>
-                                    <ptr xml:id="s301" type="s" target="#e301"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                    <ptr xml:id="s301" type="s" target="#e301"/>
                                     <anchor xml:id="d33e617" type="seg"/>
                                 </c>?</w>
                             <w xml:id="S07397.4.2.1.8.40">
-                                <span type="seg" function="CHECK-ME" to="#d33e621"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e621"/>
                                 <anchor xml:id="d33e621" type="seg"/>
                             </w>
                             <lb n="12"/>
@@ -725,7 +724,7 @@
                                     </abbr>
                                     <expan>שמעון</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>מ׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>מ׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -739,7 +738,7 @@
                                     </abbr>
                                     <expan>אומר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>ומ׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>ומ׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -750,11 +749,11 @@
                             <w xml:id="S07397.4.2.1.8.52">יחזיר</w>
                             <w xml:id="S07397.4.2.1.8.53">ללו<c rend="tall">ה<sep/>
                                     <span type="seg" function="CHECK-ME" to="#d33e665"/>
-                                    <ptr xml:id="s321" type="s" target="#e321"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                    <ptr xml:id="s321" type="s" target="#e321"/>
                                     <anchor xml:id="d33e665" type="seg"/>
                                 </c>?</w>
                             <w xml:id="S07397.4.2.1.8.54">
-                                <span type="seg" function="CHECK-ME" to="#d33e669"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e669"/>
                                 <anchor xml:id="d33e669" type="seg"/>
                             </w>
                             <lb n="14"/>
@@ -764,11 +763,11 @@
                             <w xml:id="S07397.4.2.1.8.58">האחד</w>
                             <w xml:id="S07397.4.2.1.8.59">יחזי<c rend="tall">ר<sep/>
                                     <span type="seg" function="CHECK-ME" to="#d33e677"/>
-                                    <ptr xml:id="s325" type="s" target="#e325"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                    <ptr xml:id="s325" type="s" target="#e325"/>
                                     <anchor xml:id="d33e677" type="seg"/>
                                 </c>?</w>
                             <w xml:id="S07397.4.2.1.8.60">
-                                <span type="seg" function="CHECK-ME" to="#d33e681"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e681"/>
                                 <anchor xml:id="d33e681" type="seg"/>
                             </w>
                             <lb n="15"/>
@@ -837,13 +836,13 @@
                                     </abbr>
                                     <expan>וכולי</expan>
                                     <seg function="CHECK-ME">
-                                        <pc s="351" attribs="pc &amp;type=unitEnd&amp;rend=gershayyim" endPos="167"/><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <pc s="351" attribs="pc &amp;type=unitEnd&amp;rend=gershayyim" endPos="167"/>
                                     </seg>
                                 </choice>
                             </w>
                             <w xml:id="S07397.4.2.1.T.4">:</w>
                             <w xml:id="S07397.4.2.1.T.5">
-                                <span type="seg" function="CHECK-ME" to="#d33e743"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e743"/>
                                 <anchor xml:id="d33e743" type="seg"/>
                             </w>
                         </trailer>
@@ -2295,7 +2294,7 @@
                             </w>
                             <w xml:id="S07397.4.2.3.1.120">
                                 <span type="seg" function="CHECK-ME" to="#d33e1751"/>
-                                <delSpan spanTo="#d33e1752" hand="h1" rend="rubbing"/>ר<anchor xml:id="d33e1752" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e1752" hand="h1" rend="rubbing"/>ר<anchor xml:id="d33e1752" type="del"/>
                                 <anchor xml:id="d33e1751" type="seg"/>
                                 <anchor xml:id="d33e1748" type="unclear"/>
                             </w>
@@ -2308,14 +2307,14 @@
                                 <trnsp-seg s="7030">
                                     <sep/>
                                     <span type="seg" function="CHECK-ME" to="#d33e1761"/>
-                                    <ptr xml:id="s759" type="s" target="#e759"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                    <ptr xml:id="s759" type="s" target="#e759"/>
                                     <anchor xml:id="d33e1761" type="seg"/>שהפקידו</trnsp-seg>
                                 <metamark>ב</metamark>
                                 <trnsp-seg s="7038">שנים</trnsp-seg>
                                 <metamark>א</metamark>
                             </w>
                             <w xml:id="S07397.4.2.3.2.2">
-                                <span type="seg" function="CHECK-ME" to="#d33e1771"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e1771"/>
                                 <anchor xml:id="d33e1771" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.3.2.3">אצל</w>
@@ -2668,11 +2667,11 @@
                             <w xml:id="S07397.4.2.3.6.6">
                                 <span type="seg" function="CHECK-ME" to="#d33e2030"/>
                                 <ptr xml:id="s891" type="s" target="#e891"/>
-                                <ptr xml:id="s890" type="s" target="#e890"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s890" type="s" target="#e890"/>
                                 <anchor xml:id="d33e2030" type="seg"/>
                                 <anchor xml:id="d33e2028" type="del"/>ר׳</w>
                             <w xml:id="S07397.4.2.3.6.7">
-                                <span type="seg" function="CHECK-ME" to="#d33e2035"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e2035"/>
                                 <anchor xml:id="d33e2035" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.3.6.8">יהודה</w>
@@ -2875,7 +2874,7 @@
                                     </abbr>
                                     <expan>השומרים</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -2923,7 +2922,7 @@
                             </w>
                             <w xml:id="S07397.4.2.3.9.24">
                                 <span type="seg" function="CHECK-ME" to="#d33e2213"/>
-                                <delSpan spanTo="#d33e2214" hand="h1" rend="other"/>ב<anchor xml:id="d33e2214" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e2214" hand="h1" rend="other"/>ב<anchor xml:id="d33e2214" type="del"/>
                                 <anchor xml:id="d33e2213" type="seg"/>
                                 <anchor xml:id="d33e2210" type="unclear"/>
                                 <anchor xml:id="d33e2209" type="damage"/>
@@ -2979,7 +2978,7 @@
                                     </abbr>
                                     <expan>רבי</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>ר׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>ר׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -3022,7 +3021,7 @@
                                     </abbr>
                                     <expan>הוצאה</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>א׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>א׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -3513,12 +3512,12 @@
                             <w xml:id="S07397.4.2.4.4.23">לדינר</w>
                             <w xml:id="S07397.4.2.4.4.24">
                                 <span type="seg" function="CHECK-ME" to="#d33e2656"/>
-                                <ptr xml:id="s10905" type="s" target="#e10905"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s10905" type="s" target="#e10905"/>
                                 <anchor xml:id="d33e2656" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.4.4.25">
                                 <span type="seg" function="CHECK-ME" to="#d33e2659"/>
-                                <ptr xml:id="s10901" type="s" target="#e10901"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s10901" type="s" target="#e10901"/>
                                 <anchor xml:id="d33e2659" type="seg"/>
                             </w>
                             <pc type="unitEnd" rend="raisedDot">:</pc>
@@ -3526,7 +3525,7 @@
                         <ab xml:id="S07397.4.2.4.5">
                             <w xml:id="S07397.4.2.4.5.1">
                                 <span type="seg" function="CHECK-ME" to="#d33e2665"/>
-                                <ptr xml:id="s10902" type="s" target="#e10902"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s10902" type="s" target="#e10902"/>
                                 <anchor xml:id="d33e2665" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.4.5.2">
@@ -3538,7 +3537,7 @@
                                 <span type="seg" xml:id="S07397.10961" to="#d33e2672"/>
                             </w>
                             <w xml:id="S07397.4.2.4.5.4">
-                                <span type="seg" function="CHECK-ME" to="#d33e2673"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e2673"/>
                                 <anchor xml:id="d33e2673" type="seg"/>
                                 <metamark>2</metamark>
                             </w>
@@ -3826,7 +3825,7 @@
                                     </abbr>
                                     <expan>רבי</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -4001,7 +4000,7 @@
                                     </abbr>
                                     <expan>אבל</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -4268,7 +4267,7 @@
                                     </abbr>
                                     <expan>דינרים</expan>
                                     <seg function="CHECK-ME">
-                                        <c rend="tall">ר</c><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <c rend="tall">ר</c>
                                     </seg>
                                 </choice>
                             </w>
@@ -4282,12 +4281,12 @@
                             <w xml:id="S07397.4.2.5.1.60">אין</w>
                             <w xml:id="S07397.4.2.5.1.61">לו</w>
                             <surplus reason="fill">??<seg function="CHECK-ME">
-                                    <ptr xml:id="s1389" type="s" target="#e1389"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                    <ptr xml:id="s1389" type="s" target="#e1389"/>
                                 </seg>
                             </surplus>
                             <w xml:id="S07397.4.2.5.1.62">:</w>
                             <w xml:id="S07397.4.2.5.1.63">
-                                <span type="seg" function="CHECK-ME" to="#d33e3231"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e3231"/>
                                 <anchor xml:id="d33e3231" type="seg"/>
                             </w>
                             <lb n="37"/>
@@ -4444,7 +4443,7 @@
                                     </abbr>
                                     <expan>ואמר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>מ׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>מ׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -4687,13 +4686,13 @@
                                     <expan>ישראל</expan>
                                     <seg function="CHECK-ME">
                                         <pc s="1491" attribs="pc &amp;type=unitEnd&amp;rend=gershayyim" endPos="708"/>
-                                        <dam s="1490" attribs="damage" endPos="707"/><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <dam s="1490" attribs="damage" endPos="707"/>
                                     </seg>
                                 </choice>
                             </w>
                             <w xml:id="S07397.4.2.5.7.34">:</w>
                             <w xml:id="S07397.4.2.5.7.35">
-                                <span type="seg" function="CHECK-ME" to="#d33e3507"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e3507"/>
                                 <anchor xml:id="d33e3507" type="seg"/>
                                 <space extent="2" unit="chars"/>
                             </w>
@@ -4806,7 +4805,7 @@
                                     </abbr>
                                     <expan>אומר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>מ</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>מ</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -5055,7 +5054,7 @@
                                         <damage>
                                             <unclear reason="writ">מ׳</unclear>
                                         </damage>
-                                        <unclear reason="writ">מ׳</unclear><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <unclear reason="writ">מ׳</unclear>
                                     </seg>
                                 </choice>
                             </w>
@@ -5094,7 +5093,7 @@
                             </w>
                             <w xml:id="S07397.4.2.5.12.33">
                                 <span type="seg" function="CHECK-ME" to="#d33e3829"/>
-                                <delSpan spanTo="#d33e3830" hand="h1" rend="rubbing"/>?<anchor xml:id="d33e3830" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e3830" hand="h1" rend="rubbing"/>?<anchor xml:id="d33e3830" type="del"/>
                                 <anchor xml:id="d33e3829" type="seg"/>
                                 <anchor xml:id="d33e3826" type="unclear"/>
                             </w>
@@ -5227,7 +5226,7 @@
                                     </abbr>
                                     <expan>והעדים</expan>
                                     <seg function="CHECK-ME">
-                                        <add place="above line" hand="#h1">והעדי׳</add><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <add place="above line" hand="#h1">והעדי׳</add>
                                     </seg>
                                 </choice>
                             </w>
@@ -5264,7 +5263,7 @@
                             </w>
                             <w xml:id="S07397.4.2.5.14.23">
                                 <span type="seg" function="CHECK-ME" to="#d33e3954"/>
-                                <damageSpan type="damage" spanTo="#d33e3955"/>א<anchor xml:id="d33e3955" type="damage"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <damageSpan type="damage" spanTo="#d33e3955"/>א<anchor xml:id="d33e3955" type="damage"/>
                                 <anchor xml:id="d33e3954" type="seg"/>
                                 <anchor xml:id="d33e3951" type="unclear"/>תו</w>
                             <w xml:id="S07397.4.2.5.14.24">ועל</w>
@@ -5427,14 +5426,14 @@
                             </w>
                             <w xml:id="S07397.4.2.6.2.29">
                                 <span type="seg" function="CHECK-ME" to="#d33e4050"/>
-                                <ptr xml:id="s17464" type="s" target="#e17464"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s17464" type="s" target="#e17464"/>
                                 <anchor xml:id="d33e4050" type="seg"/>
                             </w>
                             <lb n="9"/>
                             <w xml:id="S07397.4.2.6.2.30">הת</w>
                             <w xml:id="S07397.4.2.6.2.31">
                                 <span type="seg" function="CHECK-ME" to="#d33e4056"/>
-                                <ptr xml:id="s1693" type="s" target="#e1693"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s1693" type="s" target="#e1693"/>
                                 <anchor xml:id="d33e4056" type="seg"/>חתונה</w>
                             <pc type="unitEnd" rend="gershayyim">:</pc>
                             <w xml:id="S07397.4.2.6.2.32">
@@ -5480,16 +5479,16 @@
                             <lb n="15"/>
                             <w xml:id="S07397.4.2.6.4.26">
                                 <span type="seg" function="CHECK-ME" to="#d33e4090"/>
-                                <ptr xml:id="s17642" type="s" target="#e17642"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s17642" type="s" target="#e17642"/>
                                 <anchor xml:id="d33e4090" type="seg"/>חייב</w>
                             <pc type="unitEnd" rend="gershayyim">:</pc>
                             <w xml:id="S07397.4.2.6.4.27">
-                                <span type="seg" function="CHECK-ME" to="#d33e4096"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e4096"/>
                                 <anchor xml:id="d33e4096" type="seg"/>
                                 <metamark/>
                             </w>
                             <w xml:id="S07397.4.2.6.4.28">
-                                <span type="seg" function="CHECK-ME" to="#d33e4101"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e4101"/>
                                 <anchor xml:id="d33e4101" type="seg"/>
                                 <metamark>2</metamark>
                                 <space extent="3" unit="chars"/>
@@ -5549,7 +5548,7 @@
                             <w xml:id="S07397.4.2.6.3.22">חייב</w>
                             <pc type="unitEnd" rend="gershayyim">:</pc>
                             <w xml:id="S07397.4.2.6.3.23">
-                                <span type="seg" function="CHECK-ME" to="#d33e4155"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e4155"/>
                                 <anchor xml:id="d33e4155" type="seg"/>
                                 <metamark>1</metamark>
                                 <space extent="2" unit="chars"/>
@@ -5557,7 +5556,7 @@
                         </ab>
                         <ab xml:id="S07397.4.2.6.5">
                             <w xml:id="S07397.4.2.6.5.1">
-                                <span type="seg" function="CHECK-ME" to="#d33e4163"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e4163"/>
                                 <anchor xml:id="d33e4163" type="seg"/>שכר</w>
                             <w xml:id="S07397.4.2.6.5.2">א<c rend="wide tall">ת</c>
                             </w>
@@ -5578,7 +5577,7 @@
                                     </abbr>
                                     <expan>אומר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>מ׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>מ׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -5828,7 +5827,7 @@
                                     </abbr>
                                     <expan>אומר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -5874,7 +5873,7 @@
                                     </abbr>
                                     <expan>ושברה</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>ש</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>ש</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -6166,7 +6165,7 @@
                             <w xml:id="S07397.4.2.7.2.26">
                                 <span type="seg" function="CHECK-ME" to="#d33e4597"/>
                                 <delSpan spanTo="#d33e4598" hand="h1" rend="rubbing"/>
-                                <anchor xml:id="d33e4598" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <anchor xml:id="d33e4598" type="del"/>
                                 <anchor xml:id="d33e4597" type="seg"/>
                                 <anchor xml:id="d33e4595" type="unclear"/>
                             </w>
@@ -6276,7 +6275,7 @@
                                     </abbr>
                                     <expan>בענבים</expan>
                                     <seg function="CHECK-ME">
-                                        <add place="margin-right" hand="#h1">בענבי׳</add><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <add place="margin-right" hand="#h1">בענבי׳</add>
                                     </seg>
                                 </choice>
                             </w>
@@ -6315,7 +6314,7 @@
                             <w xml:id="S07397.4.2.7.5.4">
                                 <span type="seg" function="CHECK-ME" to="#d33e4694"/>
                                 <delSpan spanTo="#d33e4695" hand="h1" rend="rubbing"/>
-                                <anchor xml:id="d33e4695" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <anchor xml:id="d33e4695" type="del"/>
                                 <anchor xml:id="d33e4694" type="seg"/>
                                 <anchor xml:id="d33e4692" type="unclear"/>
                             </w>
@@ -6515,7 +6514,7 @@
                             </w>
                             <w xml:id="S07397.4.2.7.7.19">
                                 <span type="seg" function="CHECK-ME" to="#d33e4841"/>
-                                <addSpan spanTo="#d33e4842" place="above line" hand="#h1"/>ב<anchor xml:id="d33e4842" type="add"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <addSpan spanTo="#d33e4842" place="above line" hand="#h1"/>ב<anchor xml:id="d33e4842" type="add"/>
                                 <anchor xml:id="d33e4841" type="seg"/>
                                 <anchor xml:id="d33e4838" type="unclear"/>
                             </w>
@@ -7039,7 +7038,7 @@
                                     </abbr>
                                     <expan>שכורה</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -7115,7 +7114,7 @@
                             </w>
                             <w xml:id="S07397.4.2.8.3.14">
                                 <span type="seg" function="CHECK-ME" to="#d33e5259"/>
-                                <addSpan spanTo="#d33e5260" place="above line" hand="#h1"/>מ<anchor xml:id="d33e5260" type="add"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <addSpan spanTo="#d33e5260" place="above line" hand="#h1"/>מ<anchor xml:id="d33e5260" type="add"/>
                                 <anchor xml:id="d33e5259" type="seg"/>
                                 <anchor xml:id="d33e5256" type="unclear"/>שואל<note type="EdRevReqd" resp="#NE"/>
                             </w>
@@ -7460,7 +7459,7 @@
                                     </abbr>
                                     <expan>אומר</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>מ</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>מ</damage>
                                     </seg>
                                 </choice>
                             </w>
@@ -7529,11 +7528,11 @@
                             <pc type="unitEnd" rend="other">:</pc>
                             <w xml:id="S07397.4.2.8.7.33">
                                 <span type="seg" function="CHECK-ME" to="#d33e5501"/>
-                                <ptr xml:id="s2252" type="s" target="#e2252"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s2252" type="s" target="#e2252"/>
                                 <anchor xml:id="d33e5501" type="seg"/>המשכיר</w>
                             <w xml:id="S07397.4.2.8.7.34">כו<anchor xml:id="d33e5478" type="add"/>]</w>
                             <w xml:id="S07397.4.2.8.7.35">
-                                <span type="seg" function="CHECK-ME" to="#d33e5506"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e5506"/>
                                 <anchor xml:id="d33e5506" type="seg"/>
                             </w>
                         </ab>
@@ -7826,7 +7825,7 @@
                             </w>
                             <w xml:id="S07397.4.2.9.4.5">
                                 <span type="seg" function="CHECK-ME" to="#d33e5711"/>
-                                <delSpan spanTo="#d33e5712" hand="h1" rend="rubbing"/>ה<anchor xml:id="d33e5712" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e5712" hand="h1" rend="rubbing"/>ה<anchor xml:id="d33e5712" type="del"/>
                                 <anchor xml:id="d33e5711" type="seg"/>
                                 <anchor xml:id="d33e5708" type="unclear"/>חכי<c rend="wide">ר</c>
                             </w>
@@ -8151,11 +8150,11 @@
                             <w xml:id="S07397.4.2.9.10.15">או<delSpan spanTo="#d33e5925" hand="h1" rend="overwritten"/>מ</w>
                             <w xml:id="S07397.4.2.9.10.16">
                                 <span type="seg" function="CHECK-ME" to="#d33e5927"/>
-                                <ptr xml:id="s2435" type="s" target="#e2435"/><!--Remnant of overlap and/or nesting problem. Requires editorial review.-->
+                                <ptr xml:id="s2435" type="s" target="#e2435"/>
                                 <anchor xml:id="d33e5927" type="seg"/>
                                 <anchor xml:id="d33e5925" type="del"/>ס</w>
                             <w xml:id="S07397.4.2.9.10.17">
-                                <span type="seg" function="CHECK-ME" to="#d33e5931"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e5931"/>
                                 <anchor xml:id="d33e5931" type="seg"/>ר</w>
                             <w xml:id="S07397.4.2.9.10.18">קיטנית</w>
                             <w xml:id="S07397.4.2.9.10.19">יזרענ<c rend="tall">ה</c>
@@ -8425,7 +8424,7 @@
                             </w>
                             <w xml:id="S07397.4.2.9.14.30">
                                 <span type="seg" function="CHECK-ME" to="#d33e6112"/>
-                                <delSpan spanTo="#d33e6113" hand="h1" rend="rubbing"/>ו<anchor xml:id="d33e6113" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e6113" hand="h1" rend="rubbing"/>ו<anchor xml:id="d33e6113" type="del"/>
                                 <anchor xml:id="d33e6112" type="seg"/>
                                 <anchor xml:id="d33e6109" type="unclear"/>תושב</w>
                             <w xml:id="S07397.4.2.9.14.31">יש</w>
@@ -8494,13 +8493,13 @@
                                     </abbr>
                                     <expan>וגומר</expan>
                                     <seg function="CHECK-ME">
-                                        <pc s="2524" attribs="pc &amp;type=stop&amp;rend=gershayyim" endPos="1213"/><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <pc s="2524" attribs="pc &amp;type=stop&amp;rend=gershayyim" endPos="1213"/>
                                     </seg>
                                 </choice>
                             </w>
                             <w xml:id="S07397.4.2.9.15.20">.</w>
                             <w xml:id="S07397.4.2.9.15.21">
-                                <span type="seg" function="CHECK-ME" to="#d33e6166"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e6166"/>
                                 <anchor xml:id="d33e6166" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.9.15.22">היו</w>
@@ -8538,11 +8537,11 @@
                                 <span type="seg" function="CHECK-ME" to="#d33e6185"/>
                             </w>
                             <pc s="2530" attribs="pc &amp;type=stop&amp;rend=raisedDot" endPos="1216"/>
-                            <w xml:id="S07397.4.2.9.15.44"><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                            <w xml:id="S07397.4.2.9.15.44">
                                 <anchor xml:id="d33e6185" type="seg"/>
                                 <anchor xml:id="d33e6179" type="unclear"/>.</w>
                             <w xml:id="S07397.4.2.9.15.45">
-                                <span type="seg" function="CHECK-ME" to="#d33e6189"/><!--Remnant of overlap or nesting problem. Requires editorial review.-->
+                                <span type="seg" function="CHECK-ME" to="#d33e6189"/>
                                 <anchor xml:id="d33e6189" type="seg"/>
                             </w>
                             <w xml:id="S07397.4.2.9.15.46">רבן</w>
@@ -8759,7 +8758,7 @@
                             </w>
                             <w xml:id="S07397.4.2.10.2.4">
                                 <span type="seg" function="CHECK-ME" to="#d33e6340"/>
-                                <delSpan spanTo="#d33e6341" hand="h1" rend="rubbing"/>ש<anchor xml:id="d33e6341" type="del"/><!--Preceding non-unclear/gap elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                <delSpan spanTo="#d33e6341" hand="h1" rend="rubbing"/>ש<anchor xml:id="d33e6341" type="del"/>
                                 <anchor xml:id="d33e6340" type="seg"/>
                                 <anchor xml:id="d33e6337" type="unclear"/>ניפחתה</w>
                             <w xml:id="S07397.4.2.10.2.5">העלייה</w>
@@ -8859,7 +8858,7 @@
                                     </abbr>
                                     <expan>העלייה</expan>
                                     <seg function="CHECK-ME">
-                                        <add place="above line" hand="#h1">העליי׳</add><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <add place="above line" hand="#h1">העליי׳</add>
                                     </seg>
                                 </choice>
                             </w>
@@ -9270,7 +9269,7 @@
                                     </abbr>
                                     <expan>רבי</expan>
                                     <seg function="CHECK-ME">
-                                        <damage>׳</damage><!--Preceding non-abbreviation elements and/or comments are from overlapping or nested nodes. Requires editorial review.-->
+                                        <damage>׳</damage>
                                     </seg>
                                 </choice>
                             </w>

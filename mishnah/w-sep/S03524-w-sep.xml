@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -58,7 +57,7 @@
                   <idno type="genizah-CUL">TS NS 329.286</idno>
                </msIdentifier>
                <msContents>
-                  <msItem><!-- Still considering this use of locus -->
+                  <msItem>
                      <locusGrp>
                         <locus n="1r" facs="www.genizah.org">C102610</locus>
                         <locus n="1v" facs="www.genizah.org">C102611</locus>
@@ -67,7 +66,7 @@
                      <join target="g6.xml"/>
                      <join target="g7.xml"/>
                      <title>Mishnah</title>
-                     <note type="nli"><!-- Not in Cat --></note>
+                     <note type="nli"/>
                   </msItem>
                </msContents>
                <physDesc>
@@ -76,7 +75,7 @@
                         <extent>1</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="sheet">
                               <width unit="cm">14</width>
                               <height unit="cm">23.8</height>
@@ -89,9 +88,8 @@
                               <height unit="lines">37</height>
                               <dim type="char-p-cm">2.7</dim>
                            </dimensions>
-                           <!-- Following assume join with G4 -->
-                           <dimensions scope="sheet"><!-- assumes margins of 2.5 cm on outside and and 3.5 cm on
-                                        inside-->
+                           
+                           <dimensions scope="sheet">
                               <width unit="cm">24.4</width>
                               <height unit="cm">28.4</height>
                            </dimensions>
@@ -109,7 +107,7 @@
                   </objectDesc>
                   <handDesc>
                      <handNote script="Oriental Square">
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <date notBefore="1000" notAfter="1300">11th-13th c.</date>
                      </handNote>
                   </handDesc>
@@ -118,7 +116,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change when="2011-08-25" who="Hayim Lapin">Transcription</change>

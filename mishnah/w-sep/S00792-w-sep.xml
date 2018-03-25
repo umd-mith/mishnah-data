@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -77,8 +76,7 @@
                         <extent>2</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest --><!-- With the exception of characters per line and lines per
-                                        page, assumes identical with G1, since can't verify at present -->
+                        <layout columns="1">
                            <dimensions scope="sheet">
                               <width unit="cm">20</width>
                               <height unit="cm">21.5</height>
@@ -90,7 +88,7 @@
                            <dimensions scope="col-writ">
                               <width unit="chars">50</width>
                               <height unit="lines" max="22" min="27">25</height>
-                              <!--averages the line lenghts -->
+                              
                               <dim type="char-p-cm">2.4</dim>
                            </dimensions>
                         </layout>
@@ -99,11 +97,11 @@
                   <handDesc>
                      <handNote scribe="first" xml:id="S00792.h1" script="Oriental Square">
                         <date notBefore="1000" notAfter="1300">11th-13th c.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                      </handNote>
                      <handNote xml:id="S00792.h2" script="pointing"> Corrections to the text
                                 in the same color as the pointing are attributed to h2. <date notAfter="1300" notBefore="1000">11th - 13th C.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <desc>pointed<desc>Babyonian</desc>
                         </desc>
                         <desc>cantillation</desc>
@@ -114,7 +112,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change who="ref.xml#SS" when="2012-03-22">Transcription</change>

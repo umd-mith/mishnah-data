@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -31,7 +30,7 @@
                         Center for Jewish Studies and licensed under a .</p>
             </availability>
             <date>2012-06-15</date>
-            <!-- A publication date is required for TEI conformance -->
+            
          </publicationStmt>
          <notesStmt>
             <note>
@@ -70,7 +69,7 @@
                         <extent>1 leaf</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="frag-sheet">
                               <width unit="cm">15.6</width>
                               <height unit="cm">5.6</height>
@@ -92,7 +91,7 @@
                   <handDesc>
                      <handNote script="Oriental Square">
                         <date notBefore="1000" notAfter="1300">11th-13th c.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <desc>pointed-Babylonian sporadic</desc>
                      </handNote>
                   </handDesc>
@@ -101,7 +100,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change when="2011-12-01" who="Nurit Ezer">Transcription</change>
@@ -184,7 +183,7 @@
                      </w>
                      <w xml:id="S05134.4.2.1.6.4">אחר</w>
                      <gap extent="14" unit="chars"/>
-                     <w xml:id="S05134.4.2.1.6.5"><!-- Seems to require ca 16 chars -->ן</w>
+                     <w xml:id="S05134.4.2.1.6.5">ן</w>
                      <w xml:id="S05134.4.2.1.6.6">ב<anchor xml:id="d23e173" type="damage"/>ה<damageSpan type="damage" spanTo="#d23e181"/>
                      </w>
                      <gap extent="13" unit="chars"/>

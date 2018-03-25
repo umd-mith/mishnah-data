@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -62,7 +61,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locusGrp><!--Needs to be dealt with globally-->
+                     <locusGrp>
                         <locus n="1r" facs="ww.genizah.org">C96800</locus>
                         <locus n="1v" facs="ww.genizah.org">C96801</locus>
                      </locusGrp>
@@ -76,7 +75,7 @@
                         <extent>1</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="frag-sheet">
                               <width unit="cm">14.8</width>
                               <height unit="cm">11.4</height>
@@ -89,7 +88,7 @@
                               <width unit="chars"/>
                               <height unit="lines">13</height>
                               <dim type="char-p-cm">2.9</dim>
-                              <!-- Letters seem larger than expected, but could only sample small sections of writing. -->
+                              
                            </dimensions>
                         </layout>
                      </layoutDesc>
@@ -97,7 +96,7 @@
                   <handDesc>
                      <handNote script="Oriental Square">
                         <date notBefore="1000" notAfter="1300">11th - 13th c.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                      </handNote>
                   </handDesc>
                </physDesc>
@@ -105,7 +104,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change/>

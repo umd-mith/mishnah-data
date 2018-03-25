@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -62,12 +61,12 @@
                         <extent>2</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="frag">
                               <width unit="cm">22.7</width>
                               <height unit="cm">8.3</height>
                            </dimensions>
-                           <!-- at longest/widest -->
+                           
                            <dimensions scope="frag-sheet">
                               <width unit="cm">16.6</width>
                               <height unit="cm">8.3</height>
@@ -94,9 +93,9 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote script="Oriental Square"><!-- CHECK -->
+                     <handNote script="Oriental Square">
                         <date/>
-                        <region><!-- placeholder --></region>
+                        <region/>
                      </handNote>
                   </handDesc>
                </physDesc>
@@ -104,7 +103,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change when="2011-12-08" who="Nurit Ezer">Transcription</change>
@@ -162,7 +161,7 @@
                      </w>
                      <w xml:id="S04636.4.1.10.2.12">
                         <choice>
-                           <abbr>ישמ<am rend="?"><!-- Work on this abbrev mark -->'</am>
+                           <abbr>ישמ<am rend="?">'</am>
                            </abbr>
                            <expan>ישמעאל</expan>
                         </choice>
@@ -290,7 +289,7 @@
                      <milestone unit="page" xml:id="S04636.1vR.pageEnd" next="#g5.1vL"/>
                   </ab>
                </div3>
-               <!-- Thru here -->
+               
             </div2>
             <pb n="1vL" xml:id="S04636.1vL" next="#g5.1vL.pageEnd"/>
             <note>Precise location of starting position for highly damaged text is not clear.</note>

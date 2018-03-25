@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -56,7 +55,7 @@
                   <idno type="genizah-CUL">TS E1.99</idno>
                </msIdentifier>
                <msContents>
-                  <msItem><!-- Need help with this; different from g2, g3, g4 --><!-- The following URIs have images --><!-- http://jnul.huji.ac.il/dl/talmud/mishna/showmi1.asp?mishnanum=4&pereknum=002&masecet=32&mnusriptnum=5308&p=1&masecetindex=32&perekindex=2&numamud=4&manuscriptindex=2&k= --><!-- http://www.lib.cam.ac.uk/cgi-bin/GOLD/thumbs?class_mark=T-S_E1.99&search=handlist -->
+                  <msItem>
                      <locusGrp>
                         <locus n="2v" facs="www.genizah.org">C166192</locus>
                         <locus n="2r" facs="www.genizah.org">C166193</locus>
@@ -64,7 +63,7 @@
                         <locus n="1r" facs="www.genizah.org">C166195</locus>
                      </locusGrp>
                      <join target="g9.xml g11.xml"/>
-                     <note type="nli-ref"><!-- Not in Cat --></note>
+                     <note type="nli-ref"/>
                      <title>Mishnah</title>
                   </msItem>
                </msContents>
@@ -74,7 +73,7 @@
                         <extent>2</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1"><!-- at longest/widest -->
+                        <layout columns="1">
                            <dimensions scope="sheet">
                               <width unit="cm">20</width>
                               <height unit="cm">21.5</height>
@@ -94,11 +93,11 @@
                   <handDesc>
                      <handNote scribe="first" script="Oriental Square" scope="major">
                         <date notAfter="1300" notBefore="1000">11th - 13th C.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                      </handNote>
                      <handNote scribe="second" scope="minor">
                         <date notAfter="1300" notBefore="1000">11th - 13th C.</date>
-                        <region><!-- placeholder --></region>
+                        <region/>
                         <desc>pointed<desc>Babyonian</desc>
                         </desc>
                         <desc>cantillation</desc>
@@ -111,7 +110,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change when="2011-03-06" who="Hayim Lapin">Begun transcription and tagging</change>
@@ -1475,7 +1474,7 @@
                         <damageSpan type="damage" spanTo="#d9e1376"/>ה<anchor xml:id="d9e1376" type="damage"/>ם</w>
                      <pc type="unitEnd">:</pc>
                   </ab>
-                  <!-- Thru here -->
+                  
                   <ab xml:id="S01715.4.2.1.6">
                      <milestone unit="MSMishnah" n="6"/>
                      <label rend="size(larger) align() pad (rl)">ו<am rend="overdot">׳</am>
@@ -1960,8 +1959,7 @@
                      <w xml:id="S01715.4.2.2.5.4">אילו</w>
                      <w xml:id="S01715.4.2.2.5.5">ולמה</w>
                      <w xml:id="S01715.4.2.2.5.6">
-                        <damageSpan type="damage" spanTo="#d9e1750"/>י<!-- Thru
-                                        here -->
+                        <damageSpan type="damage" spanTo="#d9e1750"/>י
                                 <damageSpan type="unclear" spanTo="#d9e1754" extent="7"/>צאת</w>
                      <w xml:id="S01715.4.2.2.5.7">להקי<anchor xml:id="d9e1754" type="unclear"/>
                      </w>

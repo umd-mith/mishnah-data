@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
    <teiHeader>
       <fileDesc>
@@ -61,7 +60,7 @@
                <msContents>
                   <msItem>
                      <locusGrp>
-                        <locus><!-- place holder --></locus>
+                        <locus/>
                      </locusGrp>
                      <title>Mishnah</title>
                      <note type="comm">Maimonides Hebrew</note>
@@ -79,7 +78,7 @@
                            <dimensions scope="col-writ">
                               <height unit="lines">50</height>
                               <width unit="chars">32</width>
-                              <!-- NEEDS WORK -->
+                              
                            </dimensions>
                         </layout>
                      </layoutDesc>
@@ -102,7 +101,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <tagsDecl><!-- placeholder --></tagsDecl>
+         <tagsDecl/>
       </encodingDesc>
       <revisionDesc>
          <change who="ref.xml#NE" when="2012-07-30">Transcription of Bavot by Nurit Ezer</change>
@@ -127,7 +126,7 @@
                <div3 xml:id="S08174.4.1.1">
                   <ab xml:id="S08174.4.1.1.1">
                      <w rend="size(large) align(right) pad(lb)" xml:id="S08174.4.1.1.1.1">ארבעה</w>
-                     <!-- rend/rendition need work -->
+                     
                      <w xml:id="S08174.4.1.1.1.2">אבות</w>
                      <w xml:id="S08174.4.1.1.1.3">נזיקין</w>
                      <w xml:id="S08174.4.1.1.1.4">השור</w>
@@ -6812,7 +6811,7 @@
                   </ab>
                </div3>
                <trailer xml:id="S08174.4.1.T" rend="size(smaller) align(center) pad(rltb) ornamented(y)">
-                  <w xml:id="S08174.4.1.T.1"><!-- rendition needs work -->סליק</w>
+                  <w xml:id="S08174.4.1.T.1">סליק</w>
                   <w xml:id="S08174.4.1.T.2">פירקא</w>
                   <pc rend="&#34;" type="stop">.</pc>
                   <w xml:id="S08174.4.1.T.3">וסליקא</w>
@@ -15850,7 +15849,7 @@
                      </label>
                      <lb n="34"/>
                      <space extent="15" unit="chars"/>
-                     <!-- Special case: space blocked out for a drawing in the commentary? How handle? -->
+                     
                      <w xml:id="S08174.4.3.2.5.1">מרחיקין</w>
                      <w xml:id="S08174.4.3.2.5.2">את</w>
                      <w xml:id="S08174.4.3.2.5.3">הסולם</w>
