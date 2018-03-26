@@ -69,7 +69,9 @@
            user="${exist.user}"
            password="${exist.pass}"
            failonerror="true">
-           <fileset dir="mishnah"/>
+           <fileset dir="mishnah">
+             <exclude name="*.bak" />
+           </fileset>
        </xdb:store>
        <xdb:store xmlns:xdb="http://exist-db.org/ant"
            uri="${exist.db}/digitalmishnah-tei/standoff"
@@ -78,7 +80,9 @@
            user="${exist.user}"
            password="${exist.pass}"
            failonerror="true">
-           <fileset dir="standoff"/>
+           <fileset dir="standoff">
+             <exclude name="*.bak" />
+           </fileset>
        </xdb:store>
        <xdb:store xmlns:xdb="http://exist-db.org/ant"
            uri="${exist.db}/digitalmishnah-tei/tosefta"
@@ -87,7 +91,9 @@
            user="${exist.user}"
            password="${exist.pass}"
            failonerror="true">
-           <fileset dir="tosefta"/>
+           <fileset dir="tosefta">
+             <exclude name="*.bak" />
+           </fileset>
        </xdb:store>
      </target>
 </project>
