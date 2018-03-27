@@ -1,3 +1,5 @@
+<?xml-stylesheet type="text/css"
+    href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -35,10 +37,11 @@
                 <idno type="local">S01835</idno>
                 <availability>
                     <licence>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</licence>
                 </availability>
                 <date>2013-03-11</date>
+
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -61,6 +64,7 @@
                     <msContents>
                         <msItem>
                             <locusGrp>
+                                
                                 <locus n="1v" facs="ww.genizah.org">C211274</locus>
                                 <locus n="1r" facs="ww.genizah.org">C211273</locus>
                             </locusGrp>
@@ -75,6 +79,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">25</width>
                                         <height unit="cm">30</height>
@@ -287,6 +292,7 @@
                         </trailer>
                         <note>At the end of chapter 6, formula matches the common form for a chapter
                             end, but the chapter number corresponds to the following chapter.</note>
+                        
                     </div3>
                     <div3 xml:id="S01835.4.4.6">
                         <ab xml:id="S01835.4.4.6.1"> ניגמר הדין <damage>
@@ -515,6 +521,7 @@
                         </trailer>
                         <note>This is the common form for a chapter end, but the chapter number
                             corresponds to the following chapter.</note>
+                        
                     </div3>
                     <div3 xml:id="S01835.4.4.7">
                         <ab xml:id="S01835.4.4.7.1">ארבע מיתות נמסרו לבית דין סקילה שריפה הרג וחנק <choice>
@@ -527,6 +534,8 @@
                     </div3>
                 </div2>
             </div1>
+
+
         </body>
     </text>
 </TEI>

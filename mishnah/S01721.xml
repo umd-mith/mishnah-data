@@ -1,4 +1,5 @@
-<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-stylesheet type="text/css"
+    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -15,10 +16,12 @@
                     <resp>markup</resp>
                     <persName corresp="ref.xml#AS">Atara Siegal</persName>
                 </respStmt>
+
                 <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish
                     Studies</sponsor>
                 <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
                     Literature</sponsor>
+
             </titleStmt>
             <publicationStmt>
                 <publisher>Digital Mishnah Project</publisher>
@@ -31,7 +34,7 @@
                 <idno type="local">S01721</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution 3.0 Unported License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -58,6 +61,8 @@
                         <msItem>
                             <locusGrp>
                                 <locus/>
+                                
+
                                 <locus n="1r" facs="www.genizah.org">C164810</locus>
                                 <locus n="1v" facs="www.genizah.org">C165811</locus>
                             </locusGrp>
@@ -72,6 +77,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="frag-sheet">
                                         <width unit="cm">20.19</width>
                                         <height unit="cm">22.41</height>
@@ -112,6 +118,7 @@
     </teiHeader>
     <text>
         <body>
+
             <div1 xml:id="S01721.4" n="Neziqin" type="Order">
                 <div2 xml:id="S01721.4.3" n="Bava Batra">
                     <div3 xml:id="S01721.4.3.6">

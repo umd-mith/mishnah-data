@@ -1,4 +1,4 @@
-<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -33,7 +33,7 @@
                 <idno type="local">S00651</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -52,6 +52,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
+                        
                         <settlement>Oxford</settlement>
                         <repository>Bodleian Library</repository>
                         <idno>Pococke 295</idno>
@@ -69,9 +70,11 @@
                             <supportDesc>
                                 <support>paper</support>
                                 <extent>790</extent>
+                                
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">28.6</width>
                                         <height unit="cm">43</height>
@@ -98,10 +101,11 @@
                         </handDesc>
                     </physDesc>
                 </msDesc>
+               
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <tagsDecl/>
+            <tagsDecl> </tagsDecl>
         </encodingDesc>
         <revisionDesc>
             <change/>
@@ -112,6 +116,7 @@
     </teiHeader>
     <text>
         <body>
+
             <div1 xml:id="S00651.4">
                 <div2 xml:id="S00651.4.1">
                     <pb xml:id="S00651.2_183" n="2_183"/>
@@ -419,6 +424,7 @@
                             <gap reason="Maimonides" extent="3" unit="lines"/>
                             <gap reason="Maimonides" extent="42" unit="chars"/>
                         </ab>
+
                         <ab xml:id="S00651.4.1.9.11"> הגוזל את הגר ונשבע לו <damage>
                                 <unclear extent="1" unit="chars"/>מת</damage> הרי זה<lb n="7"/> משלם קרן
                             וחומש לכהנים ואשם למזבח <choice>
@@ -708,6 +714,7 @@
                         </ab>
                         <trailer xml:id="S00651.4.2.1.T"/>
                     </div3>
+
                     <div3 xml:id="S00651.4.2.2">
                         <head xml:id="S00651.4.2.2.H" rend="size(large) align(center) pad(rl)" rendition="ref.xml#ornamented">פרק שני</head>
                         <lb n="31"/>
@@ -1375,6 +1382,7 @@
                         </ab>
                         <trailer xml:id="S00651.4.2.4.T"/>
                     </div3>
+
                     <div3 xml:id="S00651.4.2.5">
                         <head xml:id="S00651.4.2.5.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">פרק חמישי</head>
                         <lb n="14"/>
@@ -2853,6 +2861,7 @@
                             <gap reason="Maimonides" extent="4" unit="lines"/>
                             <gap reason="Maimonides" extent="16" unit="chars"/>
                         </ab>
+
                         <trailer xml:id="S00651.4.3.3.T"/>
                     </div3>
                     <div3 xml:id="S00651.4.3.4">
@@ -2983,6 +2992,7 @@
                             </choice> שאינה עשויה בטיט ואת החרוב שאינו מורכב ואת בתולת שקמ<c rend="long">ה</c>
                             <lb n="11"/>
                         </ab>
+
                         <ab xml:id="S00651.4.3.4.9">אבל לא מכר לא את האבנים שאינן לצרכה ולא את הקנים
                             שבכרם שאי<c rend="long">נ</c>ן<lb n="12"/> לצרכו ולא את התבואה שהיא
                             תלושה מן הקרקע ובזמ<damage>ן</damage>
@@ -3125,6 +3135,7 @@
                             <gap reason="Maimonides" extent="10" unit="lines"/>
                             <gap reason="Maimonides" extent="10" unit="chars"/>
                         </ab>
+
                         <ab xml:id="S00651.4.3.5.5"> המוכר את הראש בבהמה גסה לא מכר את
                                     ה<damage>
                                 <unclear>רגל</unclear>

@@ -1,4 +1,5 @@
-<?oxygen RNGSchema="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/tei_all_Mishnah.rnc" type="compact"?>
+<?xml-stylesheet type="text/css"
+   href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><?oxygen RNGSchema="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/tei_all_Mishnah.rnc" type="compact"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -24,14 +25,14 @@
                 <publisher>Digital Mishnah Project</publisher>
                 <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
                 <address>
-                    <addrLine>0301 Hornbake Library</addrLine>
-                    <addrLine>University of Maryland</addrLine>
-                    <addrLine>College Park, MD</addrLine>
-                </address>
+                   <addrLine>0301 Hornbake Library</addrLine>
+                   <addrLine>University of Maryland</addrLine>
+                   <addrLine>College Park, MD</addrLine>
+               </address>
                 <idno type="local">S01719</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution-NonCommercial 3.0  License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -74,6 +75,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="2">
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">19.5</width>
                                         <height unit="cm">20.4</height>
@@ -373,6 +375,7 @@
                                 <unclear extent="1" unit="chars">ח</unclear>
                             </damage>
                         </head>
+                       
                         <ab xml:id="S01719.4.2.9.1">
                             <label rend="align() size() pad() location(margin-right)">א<am rend="overdot">'</am>
                             </label> המקבל <lb n="16"/>שדה

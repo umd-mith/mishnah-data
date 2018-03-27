@@ -29,6 +29,7 @@
                     <licence/>
                 </availability>
                 <date/>
+                
             </publicationStmt>
             <notesStmt>
                 <note>
@@ -52,6 +53,7 @@
                         <msItem>
                             <locusGrp>
                                 <locus/>
+                                
                             </locusGrp>
                             <join target="g2.xml"/>
                             <join target="g6.xml"/>
@@ -68,6 +70,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
                                     <dimensions scope="frag-sheet">
                                         <width unit="cm"/>
                                         <height unit="cm"/>
