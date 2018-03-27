@@ -1,0 +1,14 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:my="local-functions.uri">
+        <fulltext default="none" attributes="false"/>
+        <range>
+            <create qname="tei:ab" type="xs:string"/>
+            <create qname="tei:w" type="xs:string"/>
+            <create qname="tei:head" type="xs:string"/>
+            <create qname="tei:trailer" type="xs:string"/>
+            <create qname="my:mishnah" type="xs:string"/>
+            <create qname="my:chapter" type="xs:string"/>
+            <create qname="my:tract" type="xs:string"/>
+        </range>
+    </index>
+</collection>

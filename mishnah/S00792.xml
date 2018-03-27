@@ -1,4 +1,5 @@
-<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../derivative/digital_mishnah_witness.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../derivative/digital_mishnah_witness.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css"
+    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -32,7 +33,7 @@
                 <idno type="local">S00792</idno>
                 <availability status="restricted">
                     <p>This work is copyright Hayim Lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licensesby/4.0//">Creative
+                        Center for Jewish Studies and licensed under a <ref target="http://creativecommons.org/licensesby/4.0//">Creative
                             Commons Attribution International 4.0 License</ref>.</p>
                 </availability>
                 <pubPlace>College Park, MD USA</pubPlace>
@@ -79,6 +80,8 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
+                                    
+                                    
                                     <dimensions scope="sheet">
                                         <width unit="cm">20</width>
                                         <height unit="cm">21.5</height>
@@ -90,6 +93,7 @@
                                     <dimensions scope="col-writ">
                                         <width unit="chars">50</width>
                                         <height unit="lines" max="22" min="27">25</height>
+                                        
                                         <dim type="char-p-cm">2.4</dim>
                                     </dimensions>
                                 </layout>
