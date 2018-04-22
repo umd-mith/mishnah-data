@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
+                <title>Edited Collation of Mishnah 4.2.5.1</title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -14,7 +14,7 @@
     </teiHeader>
     <text>
         <body>
-            <ab>
+            <ab xml:id="app.4.2.5.1">
                 <app xml:id="app.4.2.5.1.1">
                     <rdgGrp n="1">
                         <rdg wit="S07326">
