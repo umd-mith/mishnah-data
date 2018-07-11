@@ -198,8 +198,7 @@
                   <ab xml:id="S07394.4.2.1.8"> מצא איגרות שום ואיגר<damage>ות</damage> מזון שטרי <lb n="43"/>חליצה ומיאונין ושיט<damage>רי ב</damage>ירורין וכ<c rend="wide tall">ל</c>
                      <lb n="44"/>מעשה בית דין הרי זה יחזיר<pc type="unitEnd" rend="raisedDot">:</pc>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.1.9"> מצא <surplus reason="fill">פז</surplus>
+                   מצא <surplus reason="fill">פז</surplus>
                      <lb n="45"/>בחפיסא או בדלוסקמא תכרין ש<c rend="wide tall">ל</c>
                      <pb xml:id="S07394.1v" n="1v"/>
                      <cb xml:id="S07394.1vA" n="1vB"/>
@@ -343,7 +342,9 @@
                   <ab xml:id="S07394.4.2.2.5"> אף השמלה הייתה בכלל כל <lb n="41"/>אילו למה יצאת
                      להקיש אליה ולומר לך <surplus reason="fill">?</surplus>
                      <lb n="42"/>מה שמלה מיוחדת שיש בה סימנין ויש לה <lb n="43"/>תובעין אף כל דבר
-                     שיש בה סימנין ויש לה <lb n="44"/>תובעין חייב להכריז עד מתי חייב להכריז <lb n="45"/>עד כדי שידעו שכיניו <damage>ב</damage>ו דברי <choice>
+                     שיש בה סימנין ויש לה <lb n="44"/>תובעין חייב להכריז 
+                  </ab>
+                  <ab xml:id="S07394.4.2.2.6">עד מתי חייב להכריז <lb n="45"/>עד כדי שידעו שכיניו <damage>ב</damage>ו דברי <choice>
                         <abbr>ר<am rend="overdot">׳</am>
                         </abbr>
                         <expan>רבי</expan>
@@ -375,7 +376,7 @@
                      <lb n="4"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.2.6"> אמר את האבידה ולא אמר את <surplus reason="fill">סי</surplus>
+                  <ab xml:id="S07394.4.2.2.7"> אמר את האבידה ולא אמר את <surplus reason="fill">סי</surplus>
                      <lb n="5"/>סימניה הרי זה לא יתן לו והרמאי <choice>
                         <abbr>א<am rend="overmark">׳</am>ע<am rend="overmark">׳</am>
                         </abbr>
@@ -421,7 +422,8 @@
                         <expan>אומר</expan>
                      </choice> לא ישתמש לפיכ<c rend="wide tall">ך</c>
                      <lb n="13"/>אם אבדו אינו חייב באחריותן<pc type="stop" rend="raisedDot">.</pc>
-                     מצא ספרים <lb n="14"/>קורא בהן אחד לשלשים יום ואם אינו יודע <lb n="15"/>לקרות
+                     </ab> 
+                  <ab xml:id="S07394.4.2.2.8">מצא ספרים <lb n="14"/>קורא בהן אחד לשלשים יום ואם אינו יודע <lb n="15"/>לקרות
                      גוללן אבל לא ילמוד בהן בתחילה ולא <lb n="16"/>יקרא אחר עמו מצא כסות מנערה אחת
                         <surplus reason="fill">לשל?</surplus>
                      <lb n="17"/>לשלשים יום ושוטחה לצורכה אבל לא <surplus reason="fill">לכבו</surplus>
@@ -436,7 +438,7 @@
                      <gap extent="11" unit="lines" reason="TalmudBavli"/>
                      <lb n="12"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.2.7">
+                  <ab xml:id="S07394.4.2.2.9">
                      <space extent="3" unit="chars"/> איזו <lb n="13"/>היא אבידה מצא חמור או
                      פרה רועים בדרך <lb n="14"/>אין זו אבידה חמור וכלין הפוכין פרה ורצה <lb n="15"/>בין הכרמים הרי זה אבידה החזירה וברח<c rend="wide">ה</c>
                      <lb n="16"/>החזירה וברחה אפילו ארבע<del hand="h1" rend="rubbing">ים</del> וחמשה
@@ -477,7 +479,7 @@
                      <lb n="18"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.2.8"> מצאה ברפת אין <surplus reason="fill">חי</surplus>
+                  <ab xml:id="S07394.4.2.2.10"> מצאה ברפת אין <surplus reason="fill">חי</surplus>
                      <lb n="19"/>חייב בה ברשות הרבים חייב בה היתה בבית <lb n="20"/>הקברות אל יטמא אם <choice>
                         <abbr>אמ<am rend="none">׳</am>
                         </abbr>
@@ -547,7 +549,7 @@
                      <gap extent="4" unit="lines" reason="TalmudBavli"/>
                      <lb n="5"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.2.9"> אבידתו ואבידת אביו שלו קודם <lb n="6"/>אבידתו ואבידת
+                  <ab xml:id="S07394.4.2.2.11"> אבידתו ואבידת אביו שלו קודם <lb n="6"/>אבידתו ואבידת
                      רבו שלו קודם אבידת אביו <lb n="7"/>ואבידת רבו של רבו קודמת משל אביו <surplus reason="fill">שא</surplus>
                      <lb n="8"/>שאביו מביאו לחיי העולם הזה ורבו <choice>
                         <abbr>שלימד<am rend="overdot">׳</am>
@@ -631,7 +633,9 @@
                      <lb n="15"/>לשנים גזלתי אחד מכם מנה ואיני יודע איזה <lb n="16"/>מכם או אביו של
                      אחד מכם הפקיד לי מנה <surplus reason="fill">ואי</surplus>
                      <lb n="17"/>ואיני יודע איזה הוא נותן לזה מנה ולזה מנה <lb n="18"/>שהודה מפי
-                     עצמו שנים שהפקידו אצל אחד <lb n="19"/>זה מנה וזה מאתים זה <choice>
+                     עצמו 
+                     </ab>
+                  <ab xml:id="S07394.4.2.3.4">שנים שהפקידו אצל אחד <lb n="19"/>זה מנה וזה מאתים זה <choice>
                         <abbr>אומ<am rend="none">׳</am>
                         </abbr>
                         <expan>אומר</expan>
@@ -661,7 +665,7 @@
                      <lb n="35"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.3.4"> וכן שני כלים אחד יפה <lb n="36"/>מנה ואחד יפה אלף זוז
+                  <ab xml:id="S07394.4.2.3.5"> וכן שני כלים אחד יפה <lb n="36"/>מנה ואחד יפה אלף זוז
                      זה <choice>
                         <abbr>או<am rend="overmark">׳</am>
                         </abbr>
@@ -692,7 +696,7 @@
                      <lb n="2"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.3.5"> המפקיד פירות אצל חבירו אפילו הן אובדין <lb n="3"/>לא
+                  <ab xml:id="S07394.4.2.3.6"> המפקיד פירות אצל חבירו אפילו הן אובדין <lb n="3"/>לא
                      יגע בהן רבן <choice>
                         <abbr>שמע<am rend="overmark">׳</am>
                         </abbr>
@@ -714,7 +718,7 @@
                      <gap extent="18" unit="lines" reason="TalmudBavli"/>
                      <lb n="19"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.3.6"> המפקיד פירות אצל חבירו הרי זה יוציא לי <surplus reason="fill">חסר</surplus>
+                  <ab xml:id="S07394.4.2.3.7"> המפקיד פירות אצל חבירו הרי זה יוציא לי <surplus reason="fill">חסר</surplus>
                      <lb n="20"/>חסרונות לחיטין ולאורז תשעת חצאי קבין <surplus reason="fill">?</surplus>
                      <lb n="21"/>לכור לשערין ולדוחן תשעת קבין לכור לכוסמין <lb n="22"/>ולזרע פשתן
                         שלש<damage>ת</damage> סאין לכור הכל לפי המדה <lb n="23"/>הכל לפי הזמן<pc type="unitEnd" rend="raisedDot">:</pc>
@@ -722,8 +726,6 @@
                      <gap extent="6" unit="lines" reason="TalmudBavli"/>
                      <gap extent="18" unit="chars" reason="TalmudBavli"/> <lb n="30"/>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.3.7">
                      <choice>
                         <abbr>א<am rend="overdot">׳</am>ר<am rend="overdot">׳</am>
                         </abbr>
@@ -1115,9 +1117,8 @@
                      <gap extent="8" unit="chars" reason="TalmudBavli"/>
                      <gap extent="35" unit="lines" reason="TalmudBavli"/>
                      <lb n="36"/>
-                     <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.4.8"> האונאה ארבעה <lb n="37"/>כסף <damage>וה</damage>טענה שתי כסף והרואה שוה פ? <lb n="38"/>פרוטה<pc type="stop" rend="raisedDot">.</pc>
+                     <space extent="2" unit="chars"/>האונאה ארבעה 
+                     <lb n="37"/>כסף <damage>וה</damage>טענה שתי כסף והרואה שוה פ? <lb n="38"/>פרוטה<pc type="stop" rend="raisedDot">.</pc>
                      <space extent="2" unit="chars"/> חמש פרוטות הן ההוראה שוה <lb n="39"/>פרוטה
                      והאשה מתקדשת בשוה פרוטה <lb n="40"/>והנהנה שוה פרוטה מן ההקדש מעל <surplus reason="fill">המ</surplus>
                      <lb n="41"/>
@@ -1139,7 +1140,7 @@
                      <lb n="34"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.4.9"> חמשה <choice>
+                  <ab xml:id="S07394.4.2.4.8"> חמשה <choice>
                         <abbr>חומשי<am rend="overdot">׳</am>
                         </abbr>
                         <expan>חומשין</expan>
@@ -1162,7 +1163,7 @@
                      <lb n="3"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.4.10"> אילו דברים שאין להן אונאה הקרקעות <surplus reason="fill">והע?</surplus>
+                  <ab xml:id="S07394.4.2.4.9"> אילו דברים שאין להן אונאה הקרקעות <surplus reason="fill">והע?</surplus>
                      <lb n="4"/>והעבדים והשטרות וההקדשות אין להן <surplus reason="fill">תש?</surplus>
                      <lb n="5"/>תשלומי כפל ולא תשלומי ארבעה וחמש<c rend="wide">ה</c>
                      <lb n="6"/>שומר חנם אינו נשבע נושא שכר אינו <choice>
@@ -1210,7 +1211,7 @@
                      <gap extent="16" unit="lines" reason="TalmudBavli"/>
                      <lb n="17"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.4.11"> כשם שאינה <lb n="18"/>במקח וממכר כך אונאה בדברים לא
+                  <ab xml:id="S07394.4.2.4.10"> כשם שאינה <lb n="18"/>במקח וממכר כך אונאה בדברים לא
                      יאמר <lb n="19"/>לו בכמה חפץ זה והוא אינו רוצה לק<c rend="wide">ח</c>
                      <lb n="20"/>אם היה בעל תשובה לא יאמר לו זכו<c rend="wide">ר</c>
                      <lb n="21"/>מעשיך הראשונים אם היה בן גרים ל<c rend="wide">א</c>
@@ -1228,7 +1229,7 @@
                      <gap extent="9" unit="lines" reason="TalmudBavli"/>
                      <lb n="10"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.4.12"> אין מערבין <lb n="11"/>פירות בפירות אפילו
+                  <ab xml:id="S07394.4.2.4.11"> אין מערבין <lb n="11"/>פירות בפירות אפילו
                      חדשים בחדשים ואין <lb n="12"/>צריך לומר חדשים בישנים באמת ביין <surplus reason="fill">הת</surplus>
                      <lb n="13"/>התירו לערב קשה ברך מפני שמשבי<c rend="wide">ח</c>ו <lb n="14"/>אין
                      מערבין שמרי יין ביין אבל נותן לו <surplus reason="fill">שמ</surplus>
@@ -1249,7 +1250,7 @@
                      <lb n="12"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.4.13"> התגר נוטל מחמש גרנות ונותן <lb n="13"/>לתוך מגורה
+                  <ab xml:id="S07394.4.2.4.12"> התגר נוטל מחמש גרנות ונותן <lb n="13"/>לתוך מגורה
                      אחת מחמש גיתות ונותן לתוך <lb n="14"/>פיתם אחד ובלבד שלא יתכוין לערב <choice>
                         <abbr>ר<am rend="overdot">׳</am>
                         </abbr>
@@ -1456,8 +1457,7 @@
                      <gap extent="16" unit="lines" reason="TalmudBavli"/>
                      <lb n="17"/>
                      <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.5.8">  פוסק עמו על הזבל כל <lb n="18"/>ימות השנה <choice>
+                    פוסק עמו על הזבל כל <lb n="18"/>ימות השנה <choice>
                         <abbr>ר<am rend="overdot">׳</am>
                         </abbr>
                         <expan>רבי</expan>
@@ -1501,7 +1501,7 @@
                      <lb n="7"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.5.9"> מלוה <lb n="8"/>אדם את אריסיו חיטין בחיטין לזרע אבל
+                  <ab xml:id="S07394.4.2.5.8"> מלוה <lb n="8"/>אדם את אריסיו חיטין בחיטין לזרע אבל
                         <lb n="9"/>לא לאכל שהיה רבן <choice>
                         <abbr>גמל<am rend="overmark">׳</am>
                         </abbr>
@@ -1514,7 +1514,7 @@
                      <lb n="29"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.5.10"> לא יאמר<lb n="30"/>אדם לחבירו הלויני כור חיטין ואנכי
+                  <ab xml:id="S07394.4.2.5.9"> לא יאמר<lb n="30"/>אדם לחבירו הלויני כור חיטין ואנכי
                      נותן <surplus reason="fill">?</surplus>
                      <lb n="31"/>לך לגורן אלא <choice>
                         <abbr>או<am rend="overdot">׳</am>
@@ -1540,7 +1540,7 @@
                      <lb n="10"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.5.11">
+                  <ab xml:id="S07394.4.2.5.10">
                      <choice>
                         <abbr>או<am rend="none">׳</am>
                         </abbr>
@@ -1602,7 +1602,7 @@
                      <lb n="26"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.5.12"> אילו <lb n="27"/>עוברין בלא תעשה המלוה והלווה הערב
+                  <ab xml:id="S07394.4.2.5.11"> אילו <lb n="27"/>עוברין בלא תעשה המלוה והלווה הערב
                         <lb n="28"/>והעדים <choice>
                         <abbr>וחכמ<am rend="none">׳</am>
                         </abbr>
@@ -1658,8 +1658,7 @@
                      <lb n="14"/>והוליכה בהר אם הוחמה פטור ואם החליקה חייב <lb n="15"/>אם מחמת המעלה
                      החליקה חייב<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.6.4"> השוכ<c rend="tall">ר</c>
+                   השוכ<c rend="tall">ר</c>
                      <lb n="16"/>את החמור להוליכה בהר והוליכה בבקעה <choice>
                         <abbr>בבקע<am rend="overmark">׳</am>
                         </abbr>
@@ -1681,8 +1680,7 @@
                      <gap extent="7" unit="chars" reason="TalmudBavli"/>
                      <gap extent="3" unit="lines" reason="TalmudBavli"/>
                      <lb n="4"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.6.5"> השוכר את החמור והבדיקה או <lb n="5"/>שנעשית אנגריא <choice>
+                   השוכר את החמור והבדיקה או <lb n="5"/>שנעשית אנגריא <choice>
                         <abbr>או<am rend="overmark">׳</am>
                         </abbr>
                         <expan>אומר</expan>
@@ -1696,7 +1694,7 @@
                      <lb n="21"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.6.6"> השוכר א<c rend="wide">ת</c>
+                  <ab xml:id="S07394.4.2.6.4"> השוכר א<c rend="wide">ת</c>
                      <lb n="22"/>הפרה לחרוש בהר וחרש בבקעה ונשבר הקנקן <lb n="23"/>פטור בבקעה וחרש
                      בהר ונשבר הקנקן חייב <surplus reason="fill">?</surplus>
                      <lb n="24"/>לדוש בקטנית ודש בתבואה פטור בתבואה <surplus reason="fill">?</surplus>
@@ -1706,7 +1704,7 @@
                      <lb n="43"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.6.7"> השוכר את <choice>
+                  <ab xml:id="S07394.4.2.6.5"> השוכר את <choice>
                         <abbr>החמ<am rend="overdot">׳</am>
                         </abbr>
                         <expan>החמור</expan>
@@ -1729,7 +1727,7 @@
                      <lb n="27"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.6.8">  כל האומנין <lb n="28"/>שומרי שכר הן וכולן שאמרו טול
+                  <ab xml:id="S07394.4.2.6.6">  כל האומנין <lb n="28"/>שומרי שכר הן וכולן שאמרו טול
                      את של<c rend="wide">ך</c>
                      <lb n="29"/>והבא מעות שומר חנם<pc type="unitEnd" rend="raisedDot">:</pc>
                      <gap extent="17" unit="lines" reason="TalmudBavli"/>
@@ -1740,8 +1738,7 @@
                      <gap extent="35" unit="lines" reason="TalmudBavli"/>
                      <lb n="36"/>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.6.9"> שמר לי ואשמר <lb n="37"/>לך שומר שכר שמר לי <choice>
+                   שמר לי ואשמר <lb n="37"/>לך שומר שכר שמר לי <choice>
                         <abbr>וא<am rend="overdot">׳</am>
                         </abbr>
                         <expan>ואמר</expan>
@@ -1752,6 +1749,8 @@
                      <pb xml:id="S07394.47v" n="47v"/>
                      <cb xml:id="S07394.47vA" n="47vA"/>
                      <gap extent="2" unit="lines" reason="TalmudBavli"/>
+                  </ab>
+                  <ab xml:id="S07394.4.2.6.7">
                      <lb n="3"/>הלוהו על המשכון שומר שכר <choice>
                         <abbr>ר<am rend="overdot">׳</am>
                         </abbr>
@@ -1780,9 +1779,8 @@
                      <gap extent="7" unit="chars" reason="TalmudBavli"/>
                      <gap extent="3" unit="lines" reason="TalmudBavli"/>
                      <lb n="4"/>
-                     <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.6.10"> אבא שאול אומר מותר <surplus reason="fill">לא</surplus>
+                     <space extent="2" unit="chars"/>                  
+                  אבא שאול אומר מותר <surplus reason="fill">לא</surplus>
                      <lb n="5"/>לאדם להשכיר משכינו על עני להיות פוסק<lb n="6"/>עליו והולך מפני שהוא
                      כמשיב אבידה<pc type="unitEnd" rend="raisedDot">:</pc>
                      <gap extent="4" unit="chars" reason="TalmudBavli"/>
@@ -1790,7 +1788,7 @@
                      <lb n="10"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.6.11"> המעביר חבית ממקום למקום <surplus reason="fill">ונ</surplus>
+                  <ab xml:id="S07394.4.2.6.8"> המעביר חבית ממקום למקום <surplus reason="fill">ונ</surplus>
                      <lb n="11"/>ונשברה בין שומר חנם ובין שומר שכר <surplus reason="fill">יש?</surplus>
                      <lb n="12"/>ישבע דברי <choice>
                         <abbr>ר<am rend="overdot">׳</am>
@@ -1850,8 +1848,7 @@
                      <gap extent="16" unit="lines" reason="TalmudBavli"/>
                      <lb n="17"/>
                      <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.7.2"> מעשה <choice>
+                  מעשה <choice>
                         <abbr>ב<am rend="overdot">׳</am>
                         </abbr>
                      <expan>ב<c rend="wide">ר</c>בי</expan>
@@ -1899,7 +1896,7 @@
                      <lb n="41"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.7.3"> ואילו אוכלין <lb n="42"/>מן התורה העושה במחובר לקרקע
+                  <ab xml:id="S07394.4.2.7.2"> ואילו אוכלין <lb n="42"/>מן התורה העושה במחובר לקרקע
                         בשע<c rend="wide">ת</c>
                      <lb n="43"/>גמר מלאכה ובתלוש מן הקרקע עד שלא <lb n="44"/>נגמרה מלאכתו ובדבר
                      שגידולו מן הארץ <surplus reason="fill">?</surplus>
@@ -1927,7 +1924,7 @@
                      <gap extent="15" unit="lines" reason="TalmudBavli"/>
                      <lb n="16"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.7.4"> היה עושה בידיו אבל <lb n="17"/>לא ברגליו ברגליו אבל
+                  <ab xml:id="S07394.4.2.7.3"> היה עושה בידיו אבל <lb n="17"/>לא ברגליו ברגליו אבל
                      לא בידיו <choice>
                         <abbr>אפי<am rend="overdot">׳</am>
                         </abbr>
@@ -1955,7 +1952,7 @@
                      <lb n="19"/>בידיו וברגליו<pc type="unitEnd" rend="raisedDot">:</pc>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.7.5"> היה עושה בתאינים לא יאכל <surplus reason="fill">?</surplus>
+                  <ab xml:id="S07394.4.2.7.4"> היה עושה בתאינים לא יאכל <surplus reason="fill">?</surplus>
                      <lb n="20"/>בענבים לא יאכל בתאינים אבל מונע את עצמו <lb n="21"/>עד שיגיע למקום
                      יפות ואוכל וכולן לא אמרו <lb n="22"/>אלא בשעת מלאכה אבל מפני השב אבידה <surplus reason="fill">?</surplus>
                      <lb n="23"/>לבעלים אמרו פועלים אוכלין בהליכתן <surplus reason="fill">מא</surplus>
@@ -1970,7 +1967,7 @@
                      <lb n="26"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.7.6"> אוכל <surplus reason="fill">פע</surplus>
+                  <ab xml:id="S07394.4.2.7.5"> אוכל <surplus reason="fill">פע</surplus>
                      <lb n="27"/>פועל קישות ואפילו בדינר כותבת ואפילו <choice>
                         <abbr>בדינ<am rend="overmark">׳</am>
                         </abbr>
@@ -1997,7 +1994,9 @@
                         <expan>אומרים</expan>
                      </choice> מתירין אבל מלמדין את האדם שלא <lb n="30"/>יהא רעבתן ויהא סותם את הפתח
                         לפניו<pc type="stop" rend="gershayyim">.</pc>
-                     <lb n="31"/>קוצץ אדם על ידי עצמו על ידי בנו ובתו <choice>
+                        </ab>
+                     <ab xml:id="S07394.4.2.7.6">
+                            <lb n="31"/>קוצץ אדם על ידי עצמו על ידי בנו ובתו <choice>
                         <abbr>הגדול<am rend="overdot">׳</am>
                         </abbr>
                         <expan>הגדולים</expan>
@@ -2080,8 +2079,7 @@
                      <gap extent="14" unit="chars" reason="TalmudBavli"/>
                      <lb n="20"/>
                      <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.7.10"> הליסטיס <lb n="21"/>הרי זה אונס הארי והדוב והנמר
+                   הליסטיס <lb n="21"/>הרי זה אונס הארי והדוב והנמר
                         והברדל<c rend="wide">ס</c>
                      <lb n="22"/>והנחש הרי אילו אונסין אימתי בזמן שבאו <lb n="23"/>מאיליהן אבל
                      הוליכן למקום גדורי חיה <surplus reason="fill">ולי</surplus>
@@ -2092,7 +2090,7 @@
                      <lb n="35"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.7.11"> מתה <lb n="36"/>כדרכה הרי זה אונס סיגפה ומתה אינו
+                  <ab xml:id="S07394.4.2.7.10"> מתה <lb n="36"/>כדרכה הרי זה אונס סיגפה ומתה אינו
                      אונס <lb n="37"/>עלתה לראשי צוקין ונפל הרי זה אונס העלה <lb n="38"/>לראש צוקין
                         <damage>אינו</damage> אונס<pc type="stop" rend="raisedDot">.</pc>
                      <space extent="2" unit="chars"/> מתנה שומר <lb n="39"/>חנם להיות <del hand="h1" rend="rubbing">
@@ -2100,7 +2098,9 @@
                         <unclear reason="damage" unit="chars" extent="2"/>
                      </del> פטור שבועה והשוא<c rend="wide">ל</c>
                      <lb n="40"/>להיות פטור <damage>מ</damage>שלם נושא שכר והשוכר <surplus reason="fill">לה</surplus>
-                     <lb n="41"/>להיות פטורין מלשבע ומלשלם וכל <choice>
+                     <lb n="41"/>להיות פטורין מלשבע ומלשלם </ab>
+                  <ab xml:id="S07394.4.2.7.11">
+                     וכל <choice>
                         <abbr>המתנ<am rend="overdot">׳</am>
                         </abbr>
                         <expan>המתנה</expan>
@@ -2209,8 +2209,7 @@
                      </choice> משלקחתי יחלוקו <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="18"/>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.8.5"> היו לו שני עבדים אחד גדול ואחד קטן וכן שתי <lb n="19"/>ש<unclear reason="writ">
+                   היו לו שני עבדים אחד גדול ואחד קטן וכן שתי <lb n="19"/>ש<unclear reason="writ">
                         <del hand="h1" rend="rubbing">י</del>
                      </unclear>
                      <unclear reason="writ">ד</unclear>ות אחת גדולה ואחד קטנה הלוקח <choice>
@@ -2251,7 +2250,7 @@
                      </choice> איני יודע <lb n="24"/>יחלוקו<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.8.6"> המוכר זיתיו לעצים ועשו פחות <surplus reason="fill">מ?</surplus>
+                  <ab xml:id="S07394.4.2.8.5"> המוכר זיתיו לעצים ועשו פחות <surplus reason="fill">מ?</surplus>
                      <lb n="25"/>מרביעית לסאה הרי אילו של בעל הזיתים עשר <lb n="26"/>רביעית לסאה זה <choice>
                         <abbr>או<am rend="overdot">׳</am>
                         </abbr>
@@ -2263,8 +2262,8 @@
                      </choice> ארצי <surplus reason="fill">?</surplus>
                      <lb n="27"/>גידלה יחלוקו<pc type="unitEnd" rend="raisedDot">:</pc>
                      <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.8.7"> שטף נהר את זיתיו ונתנן <lb n="28"/>לתוך שדה של חבירו
+                   שטף נהר את זיתיו ונתנן 
+                     <lb n="28"/>לתוך שדה של חבירו
                      זה <choice>
                         <abbr>או<am rend="overdot">׳</am>
                         </abbr>
@@ -2277,7 +2276,7 @@
                      <lb n="29"/>ארצי גידלה יחלוקו<pc type="unitEnd" rend="raisedDot">:</pc>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.8.8"> המשכיר בית לחבירו <lb n="30"/>בימות הגשמים אינו יכול
+                  <ab xml:id="S07394.4.2.8.6"> המשכיר בית לחבירו <lb n="30"/>בימות הגשמים אינו יכול
                      להוציאן מן החג <lb n="31"/>ועד הפסח בימות החמה עד שלשים יום <surplus reason="fill">?</surplus>
                      <lb n="32"/>ובכרכים אחד ימות החמה ואחד ימות <choice>
                         <abbr>הגשמי<damage>
@@ -2305,13 +2304,13 @@
                      <lb n="36"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.8.9"> המשכיר בית לחבירו משכיר חייב בדל<c rend="tall">ת</c>
+                  <ab xml:id="S07394.4.2.8.7"> המשכיר בית לחבירו משכיר חייב בדל<c rend="tall">ת</c>
                      <lb n="37"/>ובנגר ובמנעול וכל דבר שמעשה אומן אבל <lb n="38"/>דבר שאין מעשה אומן
                      השוכר עושהו ה<unclear reason="writ">ז</unclear>בל <lb n="39"/>של בעל הבית אין
                      לו לשוכר אלא היוצא מן <lb n="40"/>התנור ומן הכירה בלבד<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="4" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.8.10"> המשכיר בית <lb n="41"/>לחבירו לשנה נתעברה השנה
+                  <ab xml:id="S07394.4.2.8.8"> המשכיר בית <lb n="41"/>לחבירו לשנה נתעברה השנה
                      נתעברה לשוכר <lb n="42"/>השכיר לו לחדשים נתעברה <choice>
                         <abbr>השנ<am rend="overmark">׳</am>
                         </abbr>
@@ -2331,7 +2330,7 @@
                             <pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.8.11"> המשכיר
+                  <ab xml:id="S07394.4.2.8.9"> המשכיר
                      <pb xml:id="S07394.55v" n="55v"/>
                      <cb xml:id="S07394.55vA" n="55vA"/>
                      <lb n="1"/>בית לחבירו ונפל חייב להעמיד לו בית ואם היה <surplus reason="fill">ק</surplus>
@@ -2552,7 +2551,9 @@
                         </abbr>
                         <expan>דינרים</expan>
                      </choice> השביעית מן המניין<pc type="stop" rend="raisedDot">.</pc>
-                     <space extent="1" unit="chars"/> שכיר יום <surplus reason="fill">גו</surplus>
+                     <space extent="1" unit="chars"/>
+                        </ab>
+                  <ab xml:id="S07394.4.2.9.11"> שכיר יום <surplus reason="fill">גו</surplus>
                      <lb n="17"/>גובה כל הלילה ושכיר לילה גובה כל היום <surplus reason="fill">וש</surplus>
                      <lb n="18"/>ושכיר שעות גובה כל היום וכל הלילה<pc type="stop" rend="raisedDot">.</pc>
                      <space extent="1" unit="chars"/> שכיר <lb n="19"/>שבת ושכיר חודש שכיר שנה שכיר
@@ -2566,7 +2567,7 @@
                      <lb n="41"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.9.11"> אחד שכר <surplus reason="fill">א</surplus>
+                  <ab xml:id="S07394.4.2.9.12"> אחד שכר <surplus reason="fill">א</surplus>
                      <lb n="42"/>האדם ואחד שכר הבהמה ואחד שכר כלי <surplus reason="fill">ה</surplus>
                      <lb n="43"/>יש בהן משום ביומו תתן שכרו ויש ב<c rend="wide">ה</c>ן <lb n="44"/>משום לא תלין פעולת שכיר אתך עד בקר <lb n="45"/>אמתי בזמן שתבעו אבל לא תבעו
                      אינו <surplus reason="fill">?</surplus>
@@ -2586,7 +2587,7 @@
                      <gap extent="1" unit="lines" reason="TalmudBavli"/>
                      <lb n="2"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.9.12"> המלוה את <choice>
+                  <ab xml:id="S07394.4.2.9.13"> המלוה את <choice>
                         <abbr>חביר<am rend="overdot">׳</am>
                         </abbr>
                         <expan>חבירו</expan>
@@ -2620,8 +2621,7 @@
                      <gap extent="42" unit="lines" reason="TalmudBavli"/>
                      <lb n="43"/>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.9.13"> אלמנה בין שהי<c rend="wide">א</c> <lb n="44"/>עבריה
+                   אלמנה בין שהי<c rend="wide">א</c> <lb n="44"/>עבריה
                      בין שהיא עשירה אין ממשכנין <surplus reason="fill">או?</surplus>
                      <lb n="45"/>אותה <choice>
                         <abbr>דכת<am rend="overdot">׳</am>
@@ -2730,8 +2730,7 @@
                      <gap extent="11" unit="chars" reason="TalmudBavli"/>
                      <lb n="35"/>
                      <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.10.5"> הכותל והאילן שנפלו לרשו<c rend="wide">ת</c>
+                   הכותל והאילן שנפלו לרשו<c rend="wide">ת</c>
                      <lb n="36"/>הרבי<damage>ם ו</damage>הזיקו פטור מלשלם נתנו לו זמן <surplus reason="fill">לס</surplus>
                      <lb n="37"/>לסתור את הכותל ולקוץ את האילן ונפלו <lb n="38"/>תוך הזמן פטור לאחר
                      זמן חייב<unclear reason="writ">
@@ -2746,7 +2745,7 @@
                      <gap extent="0" unit="lines" reason="TalmudBavli"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.10.6"> מי ש<damage>הי</damage>ה כותלו סמוך
+                  <ab xml:id="S07394.4.2.10.5"> מי ש<damage>הי</damage>ה כותלו סמוך
                         לג<damage>ינת</damage>
                      <lb n="41"/>חבירו ונפל <choice>
                         <abbr>וא<am rend="overdot">׳</am>
@@ -2769,8 +2768,7 @@
                      <cb xml:id="S07394.60vB" n="60vB"/>
                      <gap extent="3" unit="lines" reason="TalmudBavli"/>
                      <lb n="4"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.10.7"> השוכר את הפועל לעשות עמו בתבן ובקש <surplus reason="fill">?</surplus>
+                   השוכר את הפועל לעשות עמו בתבן ובקש <surplus reason="fill">?</surplus>
                      <lb n="5"/>
                      <choice>
                         <abbr>וא<am rend="overdot">׳</am>
@@ -2796,8 +2794,7 @@
                      <gap extent="33" unit="lines" reason="TalmudBavli"/>
                      <lb n="34"/>
                      <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07394.4.2.10.8"> המוציא <lb n="35"/>
+                   המוציא <lb n="35"/>
                      <space extent="1" unit="chars"/> זבל לרשות הרבים המוציא <lb n="36"/>
                      <space extent="2" unit="chars"/> מוציא ו<damage>המ</damage>זבל מזבל <lb n="37"/>
                      <space extent="3" unit="chars"/> אין שורין טיט <surplus reason="fill">בר</surplus>
@@ -2848,7 +2845,7 @@
                      <lb n="14"/>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07394.4.2.10.9"> שתי ג<damage>נ</damage>ות <damage>זו</damage> ע<c rend="wide tall">ל</c>
+                  <ab xml:id="S07394.4.2.10.6"> שתי ג<damage>נ</damage>ות <damage>זו</damage> ע<c rend="wide tall">ל</c>
                      <lb n="15"/>גב זו והירק בינתיים <choice>
                         <abbr>ר<am rend="overdot">׳</am>
                         </abbr>
