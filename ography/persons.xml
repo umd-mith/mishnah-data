@@ -1,0 +1,2136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="http://www.jewishstudies.umd.edu/faculty/Lapin/MishnahProject/TestMishnahStyleSheet.css" title="Mishnah Style Sheet" alternate="no"?>
+
+
+<!--<?oxygen RNGSchema="?xml-model href="../derivative/digital_mishnah_reference_test.rnc" type="xml"?>
+<?xml-model href="../derivative/digital_mishnah_reference_test.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="file:/Users/hlapin/Sites/HL%20Website/Faculty/HLapin/MishnahProject/tei_all_Mishnah.rnc" type="application/relax-ng-compact-syntax"?>-->
+
+
+<?xml-model href="Schema/digital_mishnah_reference.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- NOTE originally designed to be part of the backmatter of ref.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mishnah Project Reference File</title>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name xml:id="HL">Hayim Lapin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription and Markup</resp>
+                    <name xml:id="AS">Atara Siegel</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>This document contains the text of the Vilna edition of the Mishnah, slightly
+                    normalized and all punctuation removed, as the basis for the alignment of the
+                    witnesses to the text of the Mishnah. The text below uses the unvocalized text
+                    at <ptr target="http://he.wikisource.org/wiki"/>, corrected to reflect the text
+                    of Yakhin u-Boaz. Changes are introduced as necessary to account for varying
+                    textual traditions to allow for proper pointing from the witness files to
+                    ref.xml<!-- Bibliography -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <ab><!-- Place holder --></ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <segmentation>
+                    <ab> </ab>
+                </segmentation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition xml:id="displacing" scheme="free">Text padding extends into lines below
+                    displacing text. Use CSS to render</rendition>
+                <rendition xml:id="ornamented" scheme="free">Text is ornamented in some
+                    way</rendition>
+            </tagsDecl>
+            <refsDecl>
+                <p> </p>
+                <p>The following describes the structure of the Mishnah, to be referenced by xml:id.
+                    The Mishnah is divided into six orders, each divided into tractates, each of
+                    which is further divided into chapters and mishnayot (mishnahs). Full references
+                    to an individual section uses the following system:
+                    ref.order.tractate.chapter.mishnah. Order and tractate refs are numerical and
+                    follow the outline below. By convention, references to chapter and mishnah are
+                    numerical. When looking up a specific witness, "ref." is replaced by the
+                    relevant /TEI/teiHeader/fileDesc/sourceDesc/listWit/witness@xml:id</p>
+                <p/>
+            </refsDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <list>
+                <item>
+                    <date/>
+                </item>
+                <item>
+                    <date/>
+                </item>
+                <item>
+                    <date/>
+                </item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1/>
+        </body>
+        <back>
+            <div type="editorial">
+                <div type="periodization">
+                    <note>Periodization is approximate. The coarsest subdivisions are into "Early,"
+                        "Yavnean," "Ushan," and "Late" periods. Within these, both <ref
+                            target="#alb-mav">Albeck</ref> and <ref target="#stem-str"
+                            >Stemberger-Strack</ref> subdivide the generations further
+                        (Stemberger-Strack largely corresponding to Albeck). However, since
+                        Stemberger-Strack's index cites the generations according to the coarser
+                        periodization as T, T1, T2, etc., it is this periodization that is given in
+                        references to Stemberger-Strack. </note>
+                    <list n="early">
+                        <head xml:id="E">Early<date notBefore="-0200" notAfter="0070"/></head>
+                        <item xml:id="T" corresp="#alb-A">The Earliest Period<date notBefore="-0200"
+                                notAfter="-0001"/><ref target="#stem-str">63 - 65</ref></item>
+                        <item xml:id="T1" corresp="#alb-B">First Generation of Tannaites<date
+                                notBefore="0001" notAfter="0070"/><ref target="#stem-str">65 -
+                                68</ref></item>
+                        <item xml:id="alb-A" corresp="#T">Simeon the Righteous to Houses<date
+                                notBefore="-0200" notAfter="-0001"/><ref target="#alb-mav">216 -
+                                218</ref></item>
+                        <item xml:id="alb-B" corresp="#T1">Houses to Revolt<date notBefore="0001"
+                                notAfter="0070"/><ref target="#alb-mav">218 - 222</ref></item>
+                    </list>
+                    <list n="yavnean">
+                        <head xml:id="Y" corresp="T2">Yavnean<date notBefore="0070" notAfter="0135"
+                            /></head>
+                        <item xml:id="T2" corresp="#Y">Second Generation, 90-130<date
+                                notBefore="0090" notAfter="0130"/><ref target="#stem-str">69 -
+                                75</ref></item>
+                        <item xml:id="alb-C1">Revolt to Bar Kokhba, first group<date
+                                notBefore="0070" notAfter="0100"/><ref target="#alb-mav">222 -
+                                225</ref></item>
+                        <item xml:id="alb-C2">Revolt to Bar Kokhba, second group<date
+                                notBefore="0100" notAfter="0135"/><ref target="#alb-mav">225 -
+                                228</ref></item>
+                    </list>
+                    <list n="ushan">
+                        <head xml:id="U" corresp="#abl-D">Ushan<date notBefore="0135"
+                                notAfter="0170"/></head>
+                        <item xml:id="T3" corresp="#U">Third Generation of Tannaites, 130 - 160<date
+                                notBefore="0130" notAfter="0160"/><ref target="#stem-str">75 -
+                                78</ref></item>
+                        <item xml:id="alb-D" corresp="#U">Bar Kokhba to Judah the Patriarch<ref
+                                target="#alb-mav">228 - 231</ref><date notBefore="0135"
+                                notAfter="0170"/></item>
+                    </list>
+                    <list n="late">
+                        <head xml:id="L" corresp="#abl-E">Late<date notBefore="0170" notAfter="0220"
+                            /></head>
+                        <item xml:id="alb-E" corresp="#L">Generation of Judah the Patriarch<ref
+                                target="#alb-mav">231 - 233</ref><date notBefore="0170"
+                                notAfter="0220"/></item>
+                        <item xml:id="T4">Fourth Generation of Tannaites<date notBefore="0160"
+                                notAfter="0200"/><ref target="#stem-str"/></item>
+                        <item xml:id="T5">Fifth Generation of Tannaites<date notBefore="0200"
+                                notAfter="0240"/><ref target="#stem-str"/></item>
+                    </list>
+                    <list n="other">
+                        <head>Other</head>
+                        <item xml:id="Bib">Biblical</item>
+                    </list>
+                </div>
+                <div type="persons">
+                    <p>Types: toponym, patronym, occupation, descr, attribute, alternate, honorific,
+                        full,nickname,alt_toponym,alt_patronym, alt_descr</p>
+                    <listPerson>
+                        <personGrp>
+                            <persName xml:id="Elijah">
+                                <forename>Elijah</forename>
+                                <addName xml:lang="he">אליהו</addName>
+                                <date ana="#Bib"/>
+                            </persName>
+                            <persName xml:id="Yose_ish_Tsreda">
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">ben
+                                    </nameLink> Yoezer</addName>
+                                <addName type="toponym" xml:lang="en" corresp="#Sereda"><nameLink>of
+                                    </nameLink>Tsreda</addName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym"><nameLink xml:lang="he">בן</nameLink>
+                                    יועזר</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Sereda"><nameLink
+                                        xml:lang="he">איש</nameLink> צרידה</addName>
+                                <addName xml:lang="he" type="full">יוסי בן יועזר איש צרידה</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Yose_ish_Yerushalayim">
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Yokhanan</addName>
+                                <addName type="toponym" xml:lang="en" corresp="#Jerusalem">
+                                    <nameLink xml:lang="en">of</nameLink> Jerusalem</addName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> יוחנן</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Jerusalem">
+                                    <nameLink xml:lang="he">איש</nameLink> ירושלים</addName>
+                                <addName xml:lang="he" type="full">יוסי בן יוחנן איש
+                                    ירושלים</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Perakhiah">
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Perakhiah</addName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> פרחיה</addName>
+                                <addName type="full" xml:lang="he">יהושע בן פרחיה</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Nittai_Ha-Arbeli">
+                                <forename xml:lang="en">Nittai</forename>
+                                <addName type="alternate" xml:lang="en">Mattai</addName>
+                                <addName type="toponym" corresp="#Arbela_II"><nameLink xml:lang="en"
+                                        > of</nameLink> Arbel</addName>
+                                <forename xml:lang="he">נתאי</forename>
+                                <addName type="alternate" xml:lang="he">מתאי</addName>
+                                <addName xml:lang="he" type="toponym" corresp="#Arbela_II"
+                                    >הארבלי</addName>
+                                <addName type="full" xml:lang="he">נתאי הארבלי</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Judah_b_Tabbai">
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">ben
+                                    </nameLink>Tabbai</addName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="he">בן</nameLink> טבאי</addName>
+                                <addName type="full" xml:lang="he">יהודה בן טבאי</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Shetakh">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">ben
+                                    </nameLink>Shetakh</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                    </nameLink>שטח</addName>
+                                <addName type="full" xml:lang="he">שמעון בן שטח</addName>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Shemayah">
+                                <forename xml:lang="en">Shemayah</forename>
+                                <forename xml:lang="he">שמעיה</forename>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Avtalyon">
+                                <forename xml:lang="en">Avtalyon</forename>
+                                <forename xml:lang="he">אבטליון</forename>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Hillel">
+                                <forename xml:lang="en">Hillel</forename>
+                                <forename xml:lang="he">הלל</forename>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Shammai">
+                                <forename xml:lang="en">Shammai</forename>
+                                <forename xml:lang="he">שמאי</forename>
+                                <date ana="#E #T #alb-A">Early</date>
+                            </persName>
+                            <persName xml:id="Bet_Hillel" xml:lang="en">Bet Hillel <forename
+                                    xml:lang="he">בית הלל</forename>
+                                <date ana="#E #T1 #alb-B">Early</date></persName>
+                            <persName xml:id="Bet_Shammai" xml:lang="en">Bet Shammai <forename
+                                    xml:lang="he">בית שמאי</forename>
+                                <date ana="#E #T1 #alb-B">Early</date></persName>
+                            <persName xml:id="Dostai_of_Yotmah">
+                                <forename xml:lang="en">Dostai</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Kefar_Yotmah">
+                                    <nameLink xml:lang="en">of</nameLink> Kefar Yotmah</addName>
+                                <forename xml:lang="he">דוסתאי</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Kefar_Yotmah">
+                                    <nameLink xml:lang="he">איש</nameLink> כפר יתמה</addName>
+                                <addName type="full" xml:lang="he">דוסתאי איש כפר יתמה</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Yoezer_of_ha-Birah">
+                                <forename xml:lang="en">Yo'ezer</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#ha-Birah">
+                                    <nameLink xml:lang="en">of</nameLink> ha-Birah</addName>
+                                <forename xml:lang="he">יועזר</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#ha-Birah">
+                                    <nameLink xml:lang="he">איש</nameLink>הבירה </addName>
+                                <addName type="full" xml:lang="he">יועזר איש הבירה</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_ha-Horani">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="descr" xml:lang="en" corresp="#Horon"><nameLink
+                                        xml:lang="en"> ben</nameLink> ha-Horani</addName>
+                                <addName type="alt_descr" xml:lang="en" corresp="#Horon"><nameLink
+                                        xml:lang="en"> ben</nameLink> ha-Horanit</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="descr" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>החורני</addName>
+                                <addName type="alt_descr" xml:lang="he" corresp="#Horon"><nameLink
+                                        xml:lang="he">בן</nameLink> החורונית</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן החורני</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Bava_b_Buta">
+                                <forename xml:lang="en">Bava</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="en"> ben</nameLink> Buta</addName>
+                                <forename xml:lang="he">בבא</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he"> בן</nameLink> בוטא</addName>
+                                <addName type="full" xml:lang="he">בבא בן בוטא</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Gamaliel_I">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Gamaliel</forename>
+                                <addName type="descr" xml:lang="en">the Elder</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">גמליאל</forename>
+                                <addName type="descr" xml:lang="he">הזקן</addName>
+                                <addName type="full" xml:lang="he">רבן גמליאל הזקן</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Zakkai">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="en">ben</nameLink> Zakkai</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he">בן</nameLink> זכאי</addName>
+                                <addName type="full" xml:lang="he">רבן יוחנן בן זכאי</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Yaakov_I">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Yaakov</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>יעקב</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן יעקב</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Aqavia">
+                                <forename xml:lang="en">Aqavia</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink> ben</nameLink> Mahalalel</addName>
+                                <forename xml:lang="he">עקביא</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink>בן</nameLink> מהללאל</addName>
+                                <addName type="full" xml:lang="he">עקביא בן מהללאל</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Hananiah_Segan_ha-Kohanim">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="occupation" xml:lang="en">Officer of the
+                                    Priests</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה</forename>
+                                <addName type="occupation" xml:lang="he">סגן הכהנים</addName>
+                                <addName type="full" xml:lang="he">חנניה סגן הכהנים</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Admon">
+                                <forename xml:lang="en">Admon</forename>
+                                <forename xml:lang="he">אדמון</forename>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Hanan_b_Avishalom">
+                                <forename xml:lang="en">Hanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink>
+                                    ben</nameLink>Avishalom</addName>
+                                <forename xml:lang="he">חנן</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink>
+                                    בן</nameLink>אבישלום</addName>
+                                <addName type="full" xml:lang="he">חנן בן אבישלום</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Nakhum_ha-Madi">
+                                <forename xml:lang="en">Nakhum</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Medea">
+                                    <nameLink>of</nameLink> Medea</addName>
+                                <forename xml:lang="he">נחום</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Medea"
+                                    >המדי</addName>
+                                <addName type="full" xml:lang="he">נחום המדי</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Nakhum_ish_Gamzo">
+                                <forename xml:lang="en">Nakhum</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Gamzo">
+                                    <nameLink xml:lang="en">of</nameLink> Gamzo</addName>
+                                <forename xml:lang="he">נחום</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Gamzo">
+                                    <nameLink xml:lang="he">איש</nameLink> גמזו</addName>
+                                <addName type="full" xml:lang="he">נחום איש גמזו</addName>
+                                <date ana="#E #T1">Early</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Hezekiah_b_Garon">
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Hezekiah ben Garon</addName>
+                                <forename xml:lang="he">חנניה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> חזקיה בן גרון</addName>
+                                <addName type="full" xml:lang="he">חנניה בן חזקיה בן גרון</addName>
+                                <date ana="#E #T1">Early</date>
+                            </persName>
+                            <persName xml:id="Haninah_b_Dosa">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Haninah</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="en">ben</nameLink> Dosa</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנינא</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he">בן</nameLink> דוסא</addName>
+                                <addName type="full" xml:lang="he">חנינא בן דוסא</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Zadok">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Zadok</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">צדוק</forename>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Dosa_b_Harkinas">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Dosa</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Harkinas</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">דוסא</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>הרכינס</addName>
+                                <addName type="full" xml:lang="he">דוסא בן הרכינס</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Hanina_b_Antigonus">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hanina</forename>
+                                <addName type="alternate" xml:lang="en">Hananiah</addName>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Antigonus</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנינא</forename>
+                                <addName type="alternate" xml:lang="he">חנניה</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>אנטיגנוס</addName>
+                                <addName type="full" xml:lang="he">חנינא בן אנטיגנוס</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Zechariah_b_ha-qatsav">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Zecharia</forename>
+                                <addName type="occupation" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>ha-qatsav</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">זכריה</forename>
+                                <addName type="occupation" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>הקצב</addName>
+                                <addName type="full" xml:lang="he">זכריה בן הקצב</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Gamaliel_I">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Gamaliel</addName>
+                                <addName type="honorific" xml:lang="en">the elder</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>גמליאל</addName>
+                                <addName type="honorific" xml:lang="he">הזקן</addName>
+                                <addName type="full" xml:lang="he">רבן שמעון בן גמליאל</addName>
+                                <date ana="#E #T1 #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Simeon_ish_ha-Mitspah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Mizpeh_I"><nameLink
+                                        xml:lang="en"> of</nameLink> Mitspah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Mizpeh_I"><nameLink
+                                        xml:lang="he">איש</nameLink> המצפה</addName>
+                                <addName type="full" xml:lang="he">שמעון איש המצפה</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Miyasha">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Miyasha</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">מיאשא</forename>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Nakhum_ha-lavlar">
+                                <forename xml:lang="en">Nakhum</forename>
+                                <addName type="occupation" xml:lang="en">the scribe</addName>
+                                <forename xml:lang="he">נחום</forename>
+                                <addName type="occupation" xml:lang="he">הלבלר</addName>
+                                <addName type="full" xml:lang="he">נחום הלבלר</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Abba_Yose_Haliqufri">
+                                <forename xml:lang="en">Abba Yose</forename>
+                                <addName type="nickname" xml:lang="en">Haliqufri</addName>
+                                <addName type="toponym" xml:lang="en" corresp="#Tivon">
+                                    <nameLink xml:lang="en">of</nameLink> Tiv'on</addName>
+                                <forename xml:lang="he">אבא יוסי</forename>
+                                <addName type="nickname" xml:lang="he">חליקופרי</addName>
+                                <addName type="alt_nickname" xml:lang="he">חלי קופרי</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Tivon">
+                                    <nameLink xml:lang="he">איש</nameLink> טבעון</addName>
+                                <addName type="full" xml:lang="he">אבא יוסי חליקופרי איש
+                                    טבעון</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Abba_Yose_b_Hanan">
+                                <forename xml:lang="en">Abba Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Hanan</addName>
+                                <forename xml:lang="he">אבא יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>חנן</addName>
+                                <addName type="full" xml:lang="he">אבא יוסי בן חנן</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Ben_Bukhri">
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Bukhri</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>בוכרי</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Daglai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Daglai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>דגלאי</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן דגלאי</addName>
+                                <date ana="#E #alb-B">Early</date>
+                            </persName>
+                            <persName xml:id="Gamaliel_II">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Gamaliel</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Rabban Simeon</addName>
+                                <!--should I seperate Rabban Simeon into an honorific+a name?-->
+                                <addName type="toponym" xml:lang="en" corresp="#Yavneh">
+                                    <nameLink xml:lang="en">of</nameLink> Yavneh</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">גמליאל</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> רבן שמעון</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Yavneh">
+                                    דיבנה</addName>
+                                <addName type="full" xml:lang="he">רבן גמליאל בן רבן שמעון
+                                    דיבנה</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eliezar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eliezar</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="en">ben </nameLink>Hyrcanus</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he">בן</nameLink> הרקנוס</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן הורקנוס</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Hananiah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Hananiah</addName>
+                                <roleName type="honorific" xml:lang="he">Rabbi</roleName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>חנניה</addName>
+                                <addName type="full" xml:lang="he">יהושע בן חנניה</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yose_ha-Kohen">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="descr" xml:lang="en">the Priest</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="descr" xml:lang="he">הכהן</addName>
+                                <addName type="full" xml:lang="he">יוסי הכהן</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Nethaneel">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Nethaneel</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>נתנאל</addName>
+                                <addName type="full" xml:lang="he">שמעון בן נתנאל</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Arakh">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Elazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Arakh</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>ערך</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן ערך</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Zadok">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Elazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink>Zadok</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink>צדוק</addName>
+                                <addName type="full" xml:lang="he">אלעזר בר צדוק</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Pappas">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Pappas</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">פפייס</forename>
+                                <addName type="alternate" xml:lang="en">פפיס</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Nekhunia">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Nekhunia</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> ha-Qaneh</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">נחוניה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> הקנה</addName>
+                                <addName type="full" xml:lang="he">נחוניה בן הקנה</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_ha-Modai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Modiin"><nameLink
+                                        xml:lang="en"> of</nameLink>Modi'in</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Modiin"
+                                    >המודעי</addName>
+                                <addName type="full" xml:lang="he">אלעזר המודעי</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Gudgida">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="alternate" xml:lang="en">Nekhunia</addName>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Gudgida</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="alternate" xml:lang="he">נחוניא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> גודגדא</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן גודגדא</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Samuel_the_Small">
+                                <forename xml:lang="en">Samuel</forename>
+                                <addName type="attribute" xml:lang="en"><nameLink xml:lang="en">
+                                        the</nameLink> Small</addName>
+                                <forename xml:lang="he">שמואל</forename>
+                                <addName type="attribute" xml:lang="he">הקטן</addName>
+                                <addName type="full" xml:lang="he">שמואל הקטן</addName>
+                                <date ana="#Y #T2 #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_ha-Peqoli">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="occupation" xml:lang="en">the flax dealer</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="occupation" xml:lang="he"> הפקולי</addName>
+                                <addName type="full" xml:lang="he">שמעון הפקולי</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Honi">
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Honi</addName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> חוני</addName>
+                                <addName type="full" xml:lang="he">יוסי בן חוני</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_akhi_Azariah">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="descr" xml:lang="en"><nameLink xml:lang="en">brother
+                                        of </nameLink>Azariah</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="descr" xml:lang="he"><nameLink xml:lang="he">אחי
+                                    </nameLink>עזריה</addName>
+                                <addName type="full" xml:lang="he">שמעון אחי עזריה</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Nekhunia_of_Kefar_ha-Bavli">
+                                <roleName xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Nekhunia</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">ben
+                                    </nameLink>Elinatan</addName>
+                                <addName type="toponym" xml:lang="en"><nameLink xml:lang="en">
+                                        of</nameLink> Kfar ha-Bavli</addName>
+                                <roleName xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">נחוניא</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                    </nameLink>אלינתן</addName>
+                                <addName type="toponym" xml:lang="he"><nameLink xml:lang="he">
+                                        איש</nameLink>כפר הבבלי</addName>
+                                <addName type="full" xml:lang="he">נחוניא בן אלינתן איש כפר
+                                    הבבלי</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yaqim_ish_Hadar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yaqim</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Hadar">
+                                    <nameLink xml:lang="en">of</nameLink> Hadar</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יקים</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Hadar">
+                                    <nameLink xml:lang="he">איש</nameLink> הדר</addName>
+                                <addName type="full" xml:lang="he">יקים איש הדר</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Betera">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Betera</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>בתירא</addName>
+                                <addName type="full" xml:lang="en">יהושע בן בתירא</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Hyrcanus">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Hyrcanus</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>הורקנוס</addName>
+                                <addName type="full" xml:lang="he">יהושע בן הורקנוס</addName>
+                                <date ana="#Y #alb-C1">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Betera">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Betera</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>בתירא</addName>
+                                <addName type="full" xml:lang="he">שמעון בן בתירא</addName>
+                                <date ana="#Y #alb-C1" cert="medium">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Menahem_b_Signai">
+                                <forename xml:lang="en">Menahem</forename>
+                                <addName type="toponym" xml:lang="en" corresp="PLACEHOLDER"
+                                        ><nameLink xml:lang="en"> of</nameLink> Sogane</addName>
+                                <forename xml:lang="he">מנחם</forename>
+                                <addName type="toponym" xml:lang="he" corresp="PLACEHOLER"><nameLink
+                                        xml:lang="he"> בן</nameLink>סגנאי</addName>
+                                <addName type="full" xml:lang="he">מנחם בן סגנאי</addName>
+                                <date ana="#Y #alb-C1" cert="medium">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Levitas_ish_Yavneh">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Levitas</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Yavneh">
+                                    <nameLink xml:lang="en">of</nameLink> Yavneh</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">לויטס</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Yavneh"><nameLink
+                                        xml:lang="he"> איש</nameLink>יבנה</addName>
+                                <addName type="full" xml:lang="he">לויטס איש יבנה</addName>
+                                <date ana="#Y #T2 #alb-C1" cert="medium">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Abba_Saul_b_Botnit">
+                                <forename xml:lang="en">Abba Saul</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Botnit</addName>
+                                <forename xml:lang="he">אבא שאול</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>בטנית</addName>
+                                <addName type="full" xml:lang="he">אבא שאול בן בטנית</addName>
+                                <date ana="#Y #alb-C1" cert="medium">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Ishmael">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ishmael</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Elisha</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ישמעאל</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he">בן</nameLink> אלישע</addName>
+                                <addName type="full" xml:lang="he">ישמעאל בן אלישע</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Aqiva">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Aqiva</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Joseph</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">עקיבא</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> יוסף</addName>
+                                <addName type="full" xml:lang="he">עקיבא בן יוסף</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Tarfon">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Tarfon</forename>
+                                <roleName xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">טרפון</forename>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yose_ha-Gelili">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Galillee_I">
+                                    <!-- or Galillee II? -->
+                                    <nameLink xml:lang="en">of</nameLink> Galilee</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Galillee_I"
+                                    >הגלילי</addName>
+                                <addName type="full" xml:lang="he">יוסי הגלילי</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Nuri">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Nuri</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> נורי</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן נורי</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Azariah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Azariah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> עזריה</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן עזריה</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Judah_b_Betera">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Betera</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> בתירא</addName>
+                                <addName type="full" xml:lang="he">יהודה בן בתירא</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Beroqah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en"
+                                        >ben</nameLink> Beroqah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he"
+                                        >בן</nameLink> ברוקה</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן ברוקה</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_Hisma">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="descr" xml:lang="en">Hisma</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="descr" xml:lang="he">חסמא</addName>
+                                <addName type="full" xml:lang="he">אלעזר חסמא</addName>
+                                <date ana="#Y #T2 #alb=C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Judah_b_Bava">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Bava</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                    </nameLink>בבא</addName>
+                                <addName type="full" xml:lang="he">יהודה בן בבא</addName>
+                                <date ana="#Y #T2 #alb=C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Judah_ha-Kohen">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="descr" xml:lang="en">the Priest</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="descr" xml:lang="he">הכהן</addName>
+                                <addName type="full" xml:lang="he">יהודה הכהן</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Ilai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ila'i</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעאי</forename>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Halafta">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Halafta</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חלפתא</forename>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Teradyon">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Teradyon</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                    </nameLink>תרדיון</addName>
+                                <addName type="full" xml:lang="he">חנניה בן תרדיון</addName>
+                                <date ana="#Y #T2 #alb=C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Nanas">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Nanas</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                    </nameLink>ננס</addName>
+                                <addName type="full" xml:lang="he">שמעון בן ננס</addName>
+                                <date ana="#Y #alb=C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Jeshebeab">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Jeshebeab</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ישבב</forename>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Perata">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Perata</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>פרטא</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן פרטא</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Matya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Matya</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>מתיא</addName>
+                                <addName type="full" xml:lang="he">יהושע בן מתיא</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_ish_Bartuta">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Elazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">ben
+                                        </nameLink>Judah<nameLink xml:lang="en">of</nameLink>
+                                    <addName type="toponym" xml:lang="en" corresp="#Bartuta"
+                                        >Bartuta</addName></addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">בן
+                                        </nameLink>יהודה<nameLink xml:lang="he">איש</nameLink>
+                                    <addName type="toponym" xml:lang="he" corresp="#Bartuta"
+                                        >ברתותא</addName></addName>
+                                <addName type="full" xml:lang="he">אלעזר בן יהודה איש
+                                    ברתותא</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Hutspit">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hutspit</forename>
+                                <addName type="occupation" xml:lang="en">the translator</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חוצפית</forename>
+                                <addName type="occupation" xml:lang="he">המתורגמן</addName>
+                                <addName type="full" xml:lang="he">חוצפית המתורגמן</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Ben_Azzai">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Azzai</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>עזאי</addName>
+                                <addName type="full" xml:lang="he">שמעון בן עזאי</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Ben_Zoma">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink>Zoma</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>זומא</addName>
+                                <addName type="full" xml:lang="he">שמעון בן זומא</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Qismah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Qismah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> קסמא</addName>
+                                <addName type="full" xml:lang="he">יוסי בן קסמא</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Aqilas_ha-Ger">
+                                <forename xml:lang="en">Aqilas</forename>
+                                <addName type="descr" xml:lang="en">the proselyte</addName>
+                                <forename xml:lang="he">עקילס</forename>
+                                <addName type="descr" xml:lang="he">הגר</addName>
+                                <addName type="full" xml:lang="he">עקילס הגר</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Torta">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Torta</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> תורתא</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן תורתא</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_ha-Temani">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Timnah">
+                                    <nameLink xml:lang="en">of</nameLink> Timnah</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Timnah"
+                                    >התימני</addName>
+                                <addName type="full" xml:lang="he">שמעון התימני</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Hakhinai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="alternate" xml:lang="en">Hanina</addName>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Hakhinai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה</forename>
+                                <addName type="alternate" xml:lang="he">חנינא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> חכינאי</addName>
+                                <addName type="full" xml:lang="he">חנניה בן חכינאי</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Matya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Matya</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> מתיא</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן מתיא</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Matya_b_Harash">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Matya</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Harash</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">מתיא</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> חרש</addName>
+                                <addName type="full" xml:lang="he"> מתיא בן חרש</addName>
+                                <date ana="#Y #T2 #alb-C2" cert="medium">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Dormaskit">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en" corresp="TEMP"><nameLink
+                                        xml:lang="en"> ben</nameLink> Dormaskit</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> דורמסקית</addName>
+                                <addName type="full" xml:lang="he">יוסי בן דורמסקית</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Nehemiah_bet_dli">
+                                <forename xml:lang="en">Nehemiah</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Bet_Dli">
+                                    <nameLink xml:lang="en">of</nameLink> Bet Dli</addName>
+                                <forename xml:lang="he">נחמיה</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Bet_Dli">
+                                    <nameLink xml:lang="he">איש</nameLink> בית דלי</addName>
+                                <addName type="full" xml:lang="he">נחמיה איש בית דלי</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Elisha_b_Avuya">
+                                <forename xml:lang="en">Elisha</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Avuya</addName>
+                                <addName type="nickname" xml:lang="en">Akher</addName>
+                                <forename xml:lang="he">אלישע</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        בן</nameLink> אבויה</addName>
+                                <addName type="nickname" xml:lang="en">אחר</addName>
+                                <addName type="full" xml:lang="he">אלישע בן אבויה</addName>
+                                <date ana="#Y #T2 #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Avtolmos">
+                                <forename xml:lang="en">Avtolmos</forename>
+                                <forename xml:lang="he">אבטולמוס</forename>
+                                <addName type="full" xml:lang="he">אבטולמוס</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Abba_Gorion">
+                                <forename xml:lang="en">Abba Gorion</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Tsidon">
+                                    <nameLink xml:lang="en">of</nameLink> Tsidon</addName>
+                                <forename xml:lang="he">אבא גרין</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Tsidon">
+                                    <nameLink xml:lang="he">איש</nameLink> צידן</addName>
+                                <addName type="full" xml:lang="he">אבא גרין איש צידן</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Hyrcanus">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hyrcanus</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">הורקנוס</forename>
+                                <addName type="full" xml:lang="he">הורקנוס</addName>
+                                <date ana="#Y #alb-C2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Pappos_b_Judah">
+                                <forename xml:lang="en">Pappos</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah</addName>
+                                <forename xml:lang="he">פפוס</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה</addName>
+                                <addName type="full" xml:lang="he">פפוס בן יהודה</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Hidqa">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hidqa</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חדקא</forename>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Simeon_ha-Shiqmoni">
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Shiqmona">
+                                    <nameLink xml:lang="en">of</nameLink> Shiqmona</addName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Shiqmona">
+                                    השקמוני</addName>
+                                <addName type="full" xml:lang="he">שמעון השקמוני</addName>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Hananiah">
+                                <forename xml:lang="en">Hananiah</forename>
+                                <forename xml:lang="he">חנניה</forename>
+                                <date ana="#Y #T2">Yavnean</date>
+                            </persName>
+                            <persName xml:id="Yoshiya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yoshiya</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יאשיהו</forename>
+                                <date ana="#U #T3">Ushan</date>
+                            </persName>
+                            <persName xml:id="Abba_Hanan">
+                                <forename xml:lang="en">Abba</forename>
+                                <forename xml:lang="he">אבא </forename>
+                                <date ana="#U #T3" cert="medium">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Yasyan">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yasyan</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יסיאן</addName>
+                                <addName type="full" xml:lang="he">יוסי בן יסיאן</addName>
+                                <date ana="#U #T3">Ushan</date>
+                            </persName>
+                            <persName xml:id="Issi_b_Judah">
+                                <forename xml:lang="en">Issi</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah</addName>
+                                <forename xml:lang="he">איסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה</addName>
+                                <addName type="full" xml:lang="he">איסי בן יהודה</addName>
+                                <date ana="#U #T3">Ushan</date>
+                            </persName>
+                            <persName xml:id="Reuben_b_Istrobeli">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Reuben</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Istrobeli</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ראובן</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> איסטרובלי</addName>
+                                <addName type="full" xml:lang="he">ראובן בן איסטרובלי</addName>
+                                <date ana="#U #T3">Ushan</date>
+                            </persName>
+                            <persName xml:id="Abba_Yose_b_Dostai">
+                                <forename xml:lang="en">Abba Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Dostai</addName>
+                                <forename xml:lang="he">אבא יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> דוסתאי</addName>
+                                <addName type="full" xml:lang="he">אבא יוסי בן דוסתאי</addName>
+                                <date ana="#U #T3">Ushan</date>
+                            </persName>
+                            <persName xml:id="Eleazar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Shamu'a</addName>
+                                <forename xml:lang="he">אלעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> שמוע</addName>
+                                <addName type="full" xml:lang="he"> אלעזר בן שמוע</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Judah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en">
+                                    <nameLink xml:lang="en"> bar</nameLink> Ilai</addName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="patronym" xml:lang="he">
+                                    <nameLink xml:lang="he"> בר</nameLink> אלעאי</addName>
+                                <addName type="full" xml:lang="he">יהודה בר אילעאי</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Meir">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Meir</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">מאיר</forename>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yose">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Halafta</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> חלפתא</addName>
+                                <addName type="full" xml:lang="he">יוסי בן חלפתא</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Yokhai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Yokhai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> יוחי</addName>
+                                <addName type="full" xml:lang="he">שמעון בר יוחי</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Nekhemiah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Nekhemiah</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">נחמיה</forename>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Yakov_II">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yaakov</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יעקב</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן יעקב</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_ha-Sandlar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="occupation" xml:lang="en">the sandal maker</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן</forename>
+                                <addName type="occupation" xml:lang="he">הסנדלר</addName>
+                                <addName type="full" xml:lang="he">יוחנן הסנדלר</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Jonathan">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Jonathan</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יונתן</forename>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Yose_Hagelili">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yose Hagelili</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוסי הגלילי</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן יוסי הגלילי</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Simeon_Shezuri">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Shezor">
+                                    <nameLink xml:lang="en">of</nameLink> Shezor</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Shezor">
+                                    שזורי</addName>
+                                <addName type="full" xml:lang="he">שמעון שזורי</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Abba_Saul">
+                                <forename xml:lang="en">Abba Saul</forename>
+                                <forename xml:lang="he">אבא שאול</forename>
+                                <date ana="#U #T3 #alb-D" cert="medium">Ushan</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Gamaliel_II">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Rabban Gamaliel II</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> רבן גמליאל </addName>
+                                <addName type="full" xml:lang="he">שמעון בן רבן גמליאל
+                                    דיבנה</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Gamaliel">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="alternate" xml:lang="en">Hanina</addName>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Gamaliel</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה</forename>
+                                <addName type="alternate" xml:lang="he">חנינא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> גמליאל</addName>
+                                <addName type="full" xml:lang="he">חנניה בן גמליאל</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Joshua_b_Qorha">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Qorha</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהושע </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> קרחה</addName>
+                                <addName type="full" xml:lang="he">יהושע בן קרחה</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Ishmael_b_Yokhanan_beroqah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ishmael</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yokhanan ben Beroqah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ישמעאל </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוחנן בן ברוקה</addName>
+                                <addName type="full" xml:lang="he">ישמעאל בן יוחנן בן
+                                    ברוקה</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Zadok_II">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Zadok</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> צדוק</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן צדוק</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Aqavia">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="alternate" xml:lang="en">Hanina</addName>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Aqavia</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה </forename>
+                                <addName type="alternate" xml:lang="he">חנינא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>עקביא</addName>
+                                <addName type="full" xml:lang="he">חנניה בן עקביא</addName>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Hananiah_b_Aqashia">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hananiah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Aqashia</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנניה </forename>
+                                <addName type="alternate" xml:lang="he">חנניא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink>עקשיא</addName>
+                                <addName type="full" xml:lang="he">חנניה בן עקשיא</addName>
+                                <date ana="#U #alb-D" cert="medium">Ushan</date>
+                            </persName>
+                            <persName xml:id="Nehorai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Nehorai</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">נהוראי</forename>
+                                <date ana="#U #T3 #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Abba_Eleazar_b_Dulai">
+                                <forename xml:lang="en">Abba Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Dulai</addName>
+                                <forename xml:lang="he">אבא אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> דולעאי</addName>
+                                <addName type="full" xml:lang="he">אבא אליעזר בן דולעאי</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Hanina_ish_Ono">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hanina</forename>
+                                <addName type="alternate" xml:lang="en">Hananiah</addName>
+                                <addName type="toponym" xml:lang="en" corresp="#Ono">
+                                    <nameLink xml:lang="en">of</nameLink> Ono</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חנינא</forename>
+                                <addName type="alternate" xml:lang="he">חנניה</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Ono">
+                                    <nameLink xml:lang="he">איש</nameLink> אונו</addName>
+                                <addName type="full" xml:lang="he">חנינא איש אונו</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Judah_ish_Kefar_ha-Bavli">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah</addName>
+                                <addName type="toponym" xml:lang="en" corresp="#Kefar_ha-Bavli">
+                                    <nameLink xml:lang="en">of</nameLink> Kefar ha-Bavli</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="en">
+                                        בן</nameLink> יהודה</addName>
+                                <addName type="toponym" xml:lang="he" corresp="#Kefar_ha-Bavli">
+                                    <nameLink xml:lang="he">איש</nameLink> כפר הבבלי</addName>
+                                <addName type="full" xml:lang="he"> רבי יוסי בן יהודה איש כפר
+                                    הבבלי</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yose_Qatunta">
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="attribute" xml:lang="en">the Small</addName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="attribute" xml:lang="he">קטונתא</addName>
+                                <addName type="full" xml:lang="he"> יוסי קטונתא</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Joshua">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Joshua</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהושע</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן יהושע</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yokhanan_b_Matya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yokhanan</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Matya</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוחנן </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> מתיא</addName>
+                                <addName type="full" xml:lang="he">יוחנן בן מתיא</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Pila">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Pila</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> פילא</addName>
+                                <addName type="full" xml:lang="he">אלעזר בן פילא</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yose_b_ha-Hotef_Efrati">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> ha-Hotef Efrati</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> החוטף אפרתי</addName>
+                                <addName type="full" xml:lang="he">יוסי בן החוטף אפרתי</addName>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Judah_b_Tema" cert="medium" calendar="">
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Tema</addName>
+                                <forename xml:lang="he">יהודה </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> תימא</addName>
+                                <addName type="full" xml:lang="he">יהודה בן תימא</addName>
+                                <date ana="#U #alb-D" cert="medium">Ushan</date>
+                            </persName>
+                            <persName xml:id="Yanai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yanai</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ינאי</forename>
+                                <date ana="#U #alb-D">Ushan</date>
+                            </persName>
+                            <persName xml:id="Judah_ha-Nassi">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Simeon ben Gamaliel II</addName>
+                                <addName type="honorific" xml:lang="en">the Patriarch</addName>
+                                <addName type="nickname" xml:lang="en">Rabbi</addName>
+                                <addName type="nickname" xml:lang="en">Rabbenu ha-Kadosh</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="honorific" xml:lang="he">הנשיא</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> רבן שמעון בן רבן גמליאל דיבנה</addName>
+                                <addName type="nickname" xml:lang="he">רבי</addName>
+                                <addName type="nickname" xml:lang="he">רבינו הקדוש</addName>
+                                <addName type="full" xml:lang="he">רבי יהודה הנשיא</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Natan">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Natan</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">נתן</forename>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Symmachus">
+                                <forename xml:lang="en">Symmachus</forename>
+                                <forename xml:lang="he">סומכוס</forename>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Judah_b_Ilai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah bar Ilai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה בר אלעאי</addName>
+                                <addName type="full" xml:lang="he">יוסי בן יהודה בר אלעאי</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Eleazar_b_Simeon_b_Yokhai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Simeon bar Yokhai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אלעזר </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> שמעון בר יוחי</addName>
+                                <addName type="full" xml:lang="he">אלעזר בר שמעון בר יוחי</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Eleazar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Eleazar</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון </forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> אלעזר</addName>
+                                <addName type="full" xml:lang="he"> שמעון בן אלעזר </addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Ishmael_b_Yose">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ishmael</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yose ben Halafta</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">ישמעאל</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוסי בן חלפתא</addName>
+                                <addName type="full" xml:lang="he">ישמעאל בן יוסי בן חלפתא</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Menahem">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Menahkem</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yose</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">מנחם</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוסי</addName>
+                                <addName type="full" xml:lang="he">מנחם בן יוסי</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Urdemos_b_Yose">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Urdemos</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yose</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אורדמוס</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוסי</addName>
+                                <addName type="full" xml:lang="he">אורדמוס בן יוסי</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Dostai_b_Yanai">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Dostai</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Yanai</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">דוסתאי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> ינאי</addName>
+                                <addName type="full" xml:lang="he">דוסתאי בר ינאי</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Meshullam">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Meshullam</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> משולם</addName>
+                                <addName type="full" xml:lang="he">יוסי בן משולם</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Menasiya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Menasiya</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> מנסיא</addName>
+                                <addName type="full" xml:lang="he">שמעון בן מנסיא</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Yaakov">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ya'akov</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יעקב</forename>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Eleazar_ha-Qappar">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="alternate" xml:lang="en">Elazar</addName>
+                                <addName type="descr" xml:lang="en">ha-Qappar</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="alternate" xml:lang="he">אלעזר</addName>
+                                <addName type="descr" xml:lang="he">הקפר</addName>
+                                <addName type="full" xml:lang="he">אלעזר הקפר</addName>
+                                <date ana="#L #T4 #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Yadua_ha-Bavli">
+                                <forename xml:lang="en">Yadua</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Bavel"> the
+                                    Babylonian</addName>
+                                <forename xml:lang="he">ידוע</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Bavel">
+                                    הבבלי</addName>
+                                <addName type="full" xml:lang="he">ידוע הבבלי</addName>
+                                <date ana="#L #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Halafta_ish_Kfar_Hananiah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Halafta</forename>
+                                <addName type="toponym" xml:lang="en" corresp="#Kefar_Hananiah">
+                                    <nameLink xml:lang="en">of</nameLink> Kefar Hananiah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חלפתא</forename>
+                                <addName type="toponym" xml:lang="he" corresp="#Kefar_Hananiah">
+                                    <nameLink xml:lang="he">איש</nameLink> כפר חנניה</addName>
+                                <addName type="full" xml:lang="he"> חלפתא איש כפר חנניה</addName>
+                                <date ana="#L #alb-E">Late</date>
+                            </persName>
+                            <persName xml:id="Phineas_b_Yair">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Phineas</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yair</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">פנחס</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יאיר</addName>
+                                <addName type="full" xml:lang="he">פנחס בן יאיר</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Judah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה</addName>
+                                <addName type="full" xml:lang="he">שמעון בן יהודה</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Yose_b_Leqonyah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yose ben Leqonyah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יוסי בן לקוניה</addName>
+                                <addName type="full" xml:lang="he">שמעון בן יוסי בן לקוניה</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Mana">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Mana</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">מנא</forename>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Ahai_b_Yoshiya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Ahai</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Yoshiya</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אחאי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יאשיה</addName>
+                                <addName type="full" xml:lang="he">אחאי בן יאשיה</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Isaac">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Isaac</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יצחק</forename>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Kipper">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Kipper</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> כיפר</addName>
+                                <addName type="full" xml:lang="he">יוסי בן כיפר</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Dosa">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Dosa</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">דוסא</forename>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Dostai_b_Judah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Dostai</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">דוסתאי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה</addName>
+                                <addName type="full" xml:lang="he">דוסתאי בן יהודה</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Judah_b_Laqish">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Laqish</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> לקיש</addName>
+                                <addName type="full" xml:lang="he">יהודה בן לקיש</addName>
+                                <date ana="#L #T4">Late</date>
+                            </persName>
+                            <persName xml:id="Gamaliel_b_Judah_ha-Nassi">
+                                <roleName type="honorific" xml:lang="en">Rabban</roleName>
+                                <forename xml:lang="en">Gamaliel</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Judah ha-Nassi</addName>
+                                <roleName type="honorific" xml:lang="he">רבן</roleName>
+                                <forename xml:lang="he">גמליאל</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> יהודה הנשיא</addName>
+                                <addName type="full" xml:lang="he">גמליאל בן יהודה הנשיא</addName>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Simeon_b_Rabbi">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Rabbi</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> רבי</addName>
+                                <addName type="full" xml:lang="he">שמעון בר רבי</addName>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Hiyya">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Hiyya</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">חייא</forename>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Bar_Qapparah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Eleazar</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Eleazar ha-Qappar</addName>
+                                <addName type="nickname" xml:lang="en">Bar Qapparah</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">אליעזר</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> רבי אלעזר הקפר</addName>
+                                <addName type="nickname" xml:lang="he">בר קפרה</addName>
+                                <addName type="full" xml:lang="he">אליעזר בן רבי אליעזר
+                                    הקפר</addName>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Levi_b_Sisi">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Levi</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        bar</nameLink> Sisi</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">לוי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בר</nameLink> סיסי</addName>
+                                <addName type="full" xml:lang="he">לוי בר סיסי</addName>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Bannaah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Banaah</forename>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">בנאה</forename>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Yose_b_Saul">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Yose</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Saul</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יוסי</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> שאול</addName>
+                                <addName type="full" xml:lang="he">יוסי בן שאול</addName>
+                                <date ana="#L #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Huna">
+                                <roleName type="honorific" xml:lang="en">Rav</roleName>
+                                <forename xml:lang="en">Huna</forename>
+                                <roleName type="honorific" xml:lang="he">רב</roleName>
+                                <forename xml:lang="he">הונא</forename>
+                                <date ana="#l #T5">Late</date>
+                            </persName>
+                            <persName xml:id="Judah_Nesiah">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Judah</forename>
+                                <addName type="honorific" xml:lang="en">Nesiah</addName>
+                                <addName type="nickname" xml:lang="en">Rabbi</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהודה</forename>
+                                <addName type="honorific" xml:lang="he">נשיאה</addName>
+                                <addName type="nickname" xml:lang="he">רבי</addName>
+                                <addName type="full" xml:lang="he">רבי יהודה נשיאה</addName>
+                                <date ana="TEMP"/>
+                            </persName>
+                            <persName xml:id="Simeon_b_Halafta">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Halafta</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> חלפתא</addName>
+                                <addName type="full" xml:lang="he">שמעון בן חלפתא</addName>
+                                <date ana="TEMP"/>
+                            </persName>
+                            <persName xml:id="Simeon_b_Aqashia">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Simeon</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Aqashia</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">שמעון</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> עקשיא</addName>
+                                <addName type="full" xml:lang="he">שמעון בן עקשיא</addName>
+                                <date ana="TEMP"/>
+                            </persName>
+                            <persName xml:id="Joshua_b_Levi">
+                                <roleName type="honorific" xml:lang="en">Rabbi</roleName>
+                                <forename xml:lang="en">Joshua</forename>
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Levi</addName>
+                                <roleName type="honorific" xml:lang="he">רבי</roleName>
+                                <forename xml:lang="he">יהושע</forename>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> לוי</addName>
+                                <addName type="full" xml:lang="he">יהושע בן לוי</addName>
+                                <date ana="TEMP"/>
+                            </persName>
+                            <persName xml:id="Ben_Bag_Bag">
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> Bag Bag</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> בג בג</addName>
+                                <date ana="TEMP">Late</date>
+                            </persName>
+                            <persName xml:id="Ben_He_He">
+                                <addName type="patronym" xml:lang="en"><nameLink xml:lang="en">
+                                        ben</nameLink> He He</addName>
+                                <addName type="patronym" xml:lang="he"><nameLink xml:lang="he">
+                                        בן</nameLink> הא הא</addName>
+                                <date ana="TEMP">Late</date>
+                            </persName>
+                        </personGrp>
+                    </listPerson>
+                </div>
+                <div type="places">
+                    <listPlace>
+                        <place>
+                            <!-- Use Segal, Hageografya bamishnah, at http://www.shechem.org/torah/geomishna/index.html -->
+                            <placeName>
+                                <!-- primary name in plain text-->
+                                <placeName xml:lang="en"><!-- Anglicized name --></placeName>
+                                <placeName xml:lang="he" type="alt"
+                                    ><!-- alternate spellings,
+                                    separated by commas --></placeName>
+                            </placeName>
+                            <location>
+                                <geo><!-- Use Survey of Israel coordinates --></geo>
+                            </location>
+                        </place>
+                    </listPlace>
+                </div>
+                <div type="lang"/>
+                <div type="bibl">
+                    <biblStruct type="book" xml:id="alb-mav">
+                        <monogr>
+                            <author>Albeck, Hanoch</author>
+                            <title type="he" level="m">מבוא למשנה</title>
+                            <title type="en">Introduction to the Mishnah</title>
+                            <title type="rom">Mavo la-mishnah</title>
+                            <title type="short-en">Introduction</title>
+                            <title type="short-he">מבוא</title>
+                            <title type="short-rom">Mavo</title>
+                            <textLang>Hebrew</textLang>
+                            <imprint>
+                                <pubPlace>Tel Aviv</pubPlace>
+                                <publisher>Mosad Bialik</publisher>
+                                <date>1959</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="ilan">
+                        <monogr>
+                            <author>Ilan, Tal</author>
+                            <title level="m">Lexicon of Jewish Names in Late Antiquity, Part II:
+                                Palestine 330 BCE - 200 CE</title>
+                            <title level="m" type="short">Lexicon</title>
+                            <textLang>English</textLang>
+                            <imprint>
+                                <pubPlace>Tübingen</pubPlace>
+                                <publisher>Mohr Siebeck</publisher>
+                                <date>1992</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title>Texts and Studies in Ancient Judaism</title>
+                            <title type="short">TSAJ</title>
+                            <biblScope type="vol">91</biblScope>
+                        </series>
+                    </biblStruct>
+                    <biblStruct type="website" xml:id="seg">
+                        <monogr>
+                            <author>Segal, Ben Zion<addName xml:lang="he">סגל, בן
+                                ציון</addName></author>
+                            <title type="he">הגיאוגרפיה במשנה: המקומות טיבם וערכם</title>
+                            <title type="rom">Ha-geografya ba-mishnah: Ha-meqomot, tivam,
+                                ve-erkham</title>
+                            <title type="en">Geography in the Mishnah: The Places, Their Nature and
+                                their Significance</title>
+                            <title type="short-rom">Ha-geografya</title>
+                            <title type="short-he">הגיאוגרפיה</title>
+                            <title type="short-en">Geography</title>
+                            <textLang>Hebrew</textLang>
+                            <imprint>
+                                <pubPlace>Shechem</pubPlace>
+                                <publisher>Sha'are Shechem</publisher>
+                                <date>n.d.</date>
+                                <link target="http://www.shechem.org/torah/geomishna/index.html"/>
+                            </imprint>
+                        </monogr>
+                        <note>Previously published in print, Jerusalem: Ha-makhon le-heqer
+                            ha-mishnah, 1979.</note>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="stem-str">
+                        <monogr>
+                            <author>Strack, Hermann</author>
+                            <author>Stemberger, Günter</author>
+                            <title>Introduction to the Talmud and Midrash</title>
+                            <textLang>English</textLang>
+                            <editor>Brockmuehl, Markus</editor>
+                            <edition>2</edition>
+                            <imprint>
+                                <pubPlace>Minneapolis</pubPlace>
+                                <publisher>Fortress Press</publisher>
+                                <date>1996</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </div>
+            </div>
+        </back>
+    </text>
+</TEI>
