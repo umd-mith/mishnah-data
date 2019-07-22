@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Electronic Edition Mishnah Sheqalim, S00631
+                </title>
+                <editor>
+                    <persName corresp="ref.xml#HL">Hayim Lapin</persName>
+                </editor>
+                <respStmt>
+                    <resp>transcriber</resp>
+                     <persName corresp="ref.xml#KJ">Katrin Jansen</persName>
+                     <persName corresp="ref.xml#ML">Matthias Lehmann</persName>
+                     <persName corresp="ref.xml#GN">Gerold Necker</persName>
+                     <persName corresp="ref.xml#GW">Gert Wildensee</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>markup</resp>
+                    <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
+                </respStmt>
+                <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
+                <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
+                    Literature</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digital Mishnah Project</publisher>
+                <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
+                <address>
+                    <addrLine>B0131 McKeldin Library</addrLine>
+                    <addrLine>University of Maryland</addrLine>
+                    <addrLine>College Park, MD</addrLine>
+                </address>
+                <idno type="local">S00631</idno>
+                <availability status="restricted">
+                    <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
+                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licenses/by-nc/3.0//">Creative
+                            Commons Attribution-NonCommercial 3.0 License</ref>.</p>
+                </availability>
+                <pubPlace>College Park, MD USA</pubPlace>
+                <date>2012-06-15</date>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                <p>Mishnah text, extracted from the Ms. Oxford  Opp 726 (Neubauer 370)  Bodleian Library
+                as published in <ref corresp="ref.xml#synopse">Schäfer,
+                et al., <hi>Synopsis</hi>, Vol II/5-12</ref>.</p>
+                <p>Based on a transcription by Katrin Jansen, Matthias Lehmann, Gerold Necker
+                und Gert Wildensee, last revision by Hans-Jürgen Becker. Responsibility by
+                Peter Schäfer, Hans-Jürgen Becker. Converted to TEI by Gottfried Reeg using
+                TUSCRIPT</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier/>
+                    <msContents>
+                        <msItem/>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc/>
+                        <handDesc/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl> </tagsDecl>
+        </encodingDesc>
+        <revisionDesc>
+        <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
+         <change who="ref.xml#KJ ref.xml#ML ref.xml#GN ref.xml#GW" notAfter="2000">Original Transcription for Yerushalmi Synopsis</change>
+         <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
+        </revisionDesc>
+    </teiHeader><text xml:lang="heb" type="edition"><body>
+            <div1 xml:id="S00631.2" type="textpart" subtype="order">
+                <div2 xml:id="S00631.2.4" type="textpart" subtype="tractate">
+<div3 xml:id="S00631.2.4.1" n="Chapter1" type="textpart" subtype="chapter"><pb n="128v" xml:id="S00631.128v"/><lb n="1"/><ab xml:id="S00631.2.4.1.1" type="textpart" subtype="mishnah">‎‏באחד באדר משמיעין על <lb n="2"/>
+<choice><abbr>השקלי<am>׳</am></abbr><expan>השקלים</expan></choice> ועל <choice><abbr>הכלאי<am>׳</am></abbr><expan>הכלאים</expan></choice> <choice><abbr>ובט<am>׳</am>ו<am>׳</am></abbr><expan>ובחמשה עשר</expan></choice> בו <lb n="3"/>
+קורין את המגילה בכרכים <lb n="4"/>
+ומתקנין את הדרכים ואת <lb n="5"/>
+הרחובות ואת מקוואות המים <lb n="6"/>
+ועושין כל צורכי <choice><abbr>הרבי<am>׳</am></abbr><expan>הרבים</expan></choice> ומציינין <lb n="7"/>
+את הקברות <choice><abbr>ויוצאי<am>׳</am></abbr><expan>ויוצאים</expan></choice> אף על <lb n="8"/>
+הכלאים<pc unit="unitEnd">..</pc> ‏‎</ab><gap reason="talmud" extent="999"/>
+<pb n="131r" xml:id="S00631.131r"/><lb n="13"/><ab xml:id="S00631.2.4.1.2" type="textpart" subtype="mishnah">‎‏<choice><abbr>מת<am>׳</am></abbr><expan>מתניתא</expan></choice><pc unit="stop">..</pc> <choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> יהודה בראשונה היו עוקרין ומשליכין <lb n="14"/>
+לפניהם עד שרבו עוברי עבירה היו עוקרין <lb n="15"/>
+<choice><abbr>ומשליכי<am>׳</am></abbr><expan>ומשליכים</expan></choice> על <choice><abbr>הדרכי<am>׳</am></abbr><expan>הדרכים</expan></choice> והתקינו שיהו מפקירין כל <lb n="16"/>
+השדה כולה<pc unit="stop">..</pc> <add type="comm"><choice><abbr>פי<am>׳</am></abbr><expan>פירוש</expan></choice> מזאת המשנה כתוב לעיל עם <choice><abbr>פירו<am>׳</am></abbr><expan>פירוש</expan></choice> המשנה הראשונה<pc unit="stop">..</pc></add> ‏‎</ab><gap reason="talmud" extent="999"/>
+<pb n="132r" xml:id="S00631.132r"/><lb n="7"/><ab xml:id="S00631.2.4.1.3" type="textpart" subtype="mishnah">‎‏<choice><abbr>מת<am>׳</am></abbr><expan>מתניתא</expan></choice><pc unit="stop">..</pc> <lb n="8"/>
+<choice><abbr>בט<am>׳</am>ו<am>׳</am></abbr><expan>בחמשה עשר</expan></choice> בו שולחנות היו יושבין במדינה <lb n="9"/>
+<choice><abbr>בכ<am>׳</am>ה<am>׳</am></abbr><expan>בעשרים וחמשה</expan></choice> במקדש מי <seg>שיַ<add>ש</add>בו</seg> במקדש <surplus>הת</surplus> <lb n="10"/>
+התחילו למשכן את מי ממשכנין לוים <lb n="11"/>
+<choice><abbr>וישר<am>׳</am></abbr><expan>וישראל</expan></choice> גרים ועבדים משוחררים אבל <lb n="12"/>
+נשים <choice><abbr>ועבדי<am>׳</am></abbr><expan>ועבדים</expan></choice> קטנים כל קטן שהתחיל <lb n="13"/>
+אביו לשקול על ידו שוב אינו פוסק <lb n="14"/>
+אין ממשכנין את <choice><abbr>הכהני<am>׳</am></abbr><expan>הכהנים</expan></choice> מפני דרכי <lb n="15"/>
+שלום<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.1.4" type="textpart" subtype="mishnah">‎‏<choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> <choice><abbr>יהוד<am>׳</am></abbr><expan>יהודה</expan></choice> העיד בן כוברין <lb n="16"/>
+ביבנה כל כהן ששוקל אין חוטא <choice><abbr>א<am>׳</am></abbr><expan>אמר</expan></choice> לו <lb n="17"/>
+<choice><abbr>רב<am>׳</am></abbr><expan>רבן</expan></choice> <choice><abbr>יוחנ<am>׳</am></abbr><expan>יוחנן</expan></choice> בן <choice><abbr>זכ<am>׳</am></abbr><expan>זכאי</expan></choice> לא כן <abbr>א<am>׳</am>ל<am>׳</am></abbr><expan/> <choice><abbr>כה<am>׳</am></abbr><expan>כהן</expan></choice> <choice><abbr>ששוק<am>׳</am></abbr><expan>ששוקל</expan></choice> <choice><abbr>חוט<am>׳</am></abbr><expan>חוטא</expan></choice> <lb n="18"/>
+<choice><abbr>אל<am>׳</am></abbr><expan>אלא</expan></choice> <choice><abbr>שהכהני<am>׳</am></abbr><expan>שהכהנים</expan></choice> <choice><abbr>דורשי<am>׳</am></abbr><expan>דורשים</expan></choice> <choice><abbr>מקר<am>׳</am></abbr><expan>מקרא</expan></choice> זה כל מנחת <lb n="19"/>
+כהן כליל תהיה לא <choice><abbr>תאכ<am>׳</am></abbr><expan>תאכל</expan></choice> הואיל ועומר <lb n="20"/>
+ושתי הלחם ולחם הפנים שלנו היאך 
+<pb n="132v" xml:id="S00631.132v"/><lb n="1"/>
+נאכלין‏‎</ab>
+<ab xml:id="S00631.2.4.1.5" type="textpart" subtype="mishnah">‎‏<choice><abbr>א<am>׳</am>ע<am>׳</am>פ<am>׳</am></abbr><expan>אף על פי</expan></choice> שאמרו אין ממשכנין <choice><abbr>נשי<am>׳</am></abbr><expan>נשים</expan></choice> <lb n="2"/>
+<choice><abbr>ועבדי<am>׳</am></abbr><expan>ועבדים</expan></choice> <choice><abbr>וקטני<am>׳</am></abbr><expan>וקטנים</expan></choice> אם שקלו מקבלין מידם<pc unit="stop">.</pc> <lb n="3"/>
+<space/> הנוכרי והכותי ששקלו אין מקבלין <lb n="4"/>
+מהם<pc unit="stop">.</pc> ואין מקבלין מהן קיני זבין וקיני <lb n="5"/>
+<del><choice><abbr>מצורעי<am>׳</am></abbr><expan>מצורעים</expan></choice></del> זבות <choice><abbr>וחטאו<am>׳</am></abbr><expan>וחטאות</expan></choice> <abbr>ומשמו<am>׳</am></abbr><expan/> זה הכלל <lb n="6"/>
+שנידר ונידב מקבלין מידן וכל שאינו <lb n="7"/>
+נידר ונידב אין מקבלין מידן שמפורש <lb n="8"/>
+על ידי עזרא לא לכם ולנו לבנות את <lb n="9"/>
+בית אלהינו<pc unit="unitEnd">..</pc> ‏‎</ab><gap reason="talmud" extent="999"/>
+<pb n="133v" xml:id="S00631.133v"/><lb n="14"/><ab xml:id="S00631.2.4.1.6" type="textpart" subtype="mishnah">‎‏<choice><abbr>מת<am>׳</am></abbr><expan>מתניתא</expan></choice><pc unit="stop">..</pc> <lb n="15"/>
+ואילו שחייבין בקילבון לוים <abbr>וישר<am>׳</am></abbr><expan/> <choice><abbr>עבדי<am>׳</am></abbr><expan>עבדים</expan></choice> <choice><abbr>משוחררי<am>׳</am></abbr><expan>משוחררים</expan></choice> <lb n="16"/>
+אבל לא <choice><abbr>כהני<am>׳</am></abbr><expan>כהנים</expan></choice> ונשים <choice><abbr>וקטני<am>׳</am></abbr><expan>וקטנים</expan></choice> השוקל על ידי <seg><abbr>כה<del hand="1h">ן</del><add hand="1h">נ</add>י<am>׳</am></abbr><expan>כהנים</expan></seg> <lb n="17"/>
+ועל ידי אשה על ידי עבד על ידי קטן <choice><abbr>פטו<am>׳</am></abbr><expan>פטור</expan></choice> ואם <lb n="18"/>
+שקל על ידו ועל יד חבירו חייב שני <choice><abbr>קילבונו<am>׳</am></abbr><expan>קילבונות</expan></choice><pc unit="stop">..</pc> הנותן <lb n="19"/>
+סלע ונותן שקל <choice><abbr>חיי<am>׳</am></abbr><expan>חייב</expan></choice> <choice><abbr>שנ<am>׳</am></abbr><expan>שני</expan></choice> <choice><abbr>קילבונו<am>׳</am></abbr><expan>קילבונות</expan></choice>‏‎</ab>
+<ab xml:id="S00631.2.4.1.7" type="textpart" subtype="mishnah">‎‏<choice><abbr>השוק<am>׳</am></abbr><expan>השוקל</expan></choice> על ידי עני על <lb n="20"/>
+שכינו ועל בן עירו פטור ואם חולין חייב<pc unit="stop">.</pc> האחין <lb n="21"/>
+<choice><abbr>והשותפי<am>׳</am></abbr><expan>והשותפים</expan></choice> <choice><abbr>שחייבי<am>׳</am></abbr><expan>שחייבים</expan></choice> <choice><abbr>בקילבו<am>׳</am></abbr><expan>בקילבון</expan></choice> פטורין ממעשר בהמה 
+<pb n="134r" xml:id="S00631.134r"/><lb n="1"/>
+כשחייבין במעשר בהמה <choice><abbr>פטורי<am>׳</am></abbr><expan>פטורים</expan></choice> מן הקילבון <lb n="2"/>
+וכמה הוא <choice><abbr>קלבו<am>׳</am></abbr><expan>קלבון</expan></choice> מעה כסף דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>מאי<am>׳</am></abbr><expan>מאיר</expan></choice> <choice><abbr>וחכמ<am>׳</am></abbr><expan>וחכמים</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> <lb n="3"/>
+חצי מעה<pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.2" n="Chapter2" type="textpart" subtype="chapter"><pb n="134v" xml:id="S00631.134v"/><lb n="16"/><ab xml:id="S00631.2.4.2.1" type="textpart" subtype="mishnah">‎‏מצרפין שקלים ליטר<damage><unclear reason="damage">כ</unclear></damage>ונות מפני משוי ה<damage><unclear reason="damage">דר</unclear></damage>ך כשם <lb n="17"/>
+שהיו שופרות במקדש כך היו <choice><abbr>שופרו<am>׳</am></abbr><expan>שופרות</expan></choice> <choice><abbr>במדינ<am>׳</am></abbr><expan>במדינה</expan></choice><pc unit="stop">.</pc> בני <lb n="18"/>
+ששקלו <choice><abbr>שקליה<am>׳</am></abbr><expan>שקליהם</expan></choice> ונגנבו או שאבדו אם <choice><abbr>נתרמ<am>׳</am></abbr><expan>נתרמה</expan></choice> <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> <lb n="19"/>
+<choice><abbr>נישבעי<am>׳</am></abbr><expan>נישבעים</expan></choice> לגזברין ואם לאו <choice><abbr>נשבעי<am>׳</am></abbr><expan>נשבעים</expan></choice> לבני העיר נמצאו <lb n="20"/>
+או שהחזירום הגנבים אילו ואילו שוקלין ואין עולין 
+<pb n="135r" xml:id="S00631.135r"/><lb n="1"/>
+להן לשנה הבאה<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.2.2" type="textpart" subtype="mishnah">‎‏הנותן שקלו על חבירו לשקול על ידו <lb n="2"/>
+ושקלו על ידי עצמו אם <choice><abbr>נתרמ<am>׳</am></abbr><expan>נתרמה</expan></choice> <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> מעל השוקל שיקלו <lb n="3"/>
+ממעות הקדש אם נתרמה <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> וקרבה בהמה מעלה <lb n="4"/>
+מדמי מעשר שיני ומדמי שביעית יאכל כנגדן<pc unit="unitEnd">.</pc> ‏‎</ab><gap reason="talmud" extent="999"/>
+<pb n="135v" xml:id="S00631.135v"/><lb n="21"/><ab xml:id="S00631.2.4.2.3" type="textpart" subtype="mishnah">‎‏<choice><abbr>מת<am>׳</am></abbr><expan>מתניתא</expan></choice><pc unit="stop">..</pc> <lb n="22"/>
+המכניס מעות <choice><abbr>וא<am>׳</am></abbr><expan>ואמר</expan></choice> הרי אילו לשקליי <choice><abbr>ב<am>׳</am>ש<am>׳</am></abbr><expan>בית שמאי</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> מותר 
+<pb n="136r" xml:id="S00631.136r"/><lb n="1"/>
+נדבה <choice><abbr>וב<am>׳</am>ה<am>׳</am></abbr><expan>ובית הלל</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> מותר חולין שוין מהן לשקליי שוין שמותר חולין או <lb n="2"/>
+לחטאת <choice><abbr>שוי<am>׳</am></abbr><expan>שוים</expan></choice> <choice><abbr>שמות<am>׳</am></abbr><expan>שמותר</expan></choice> נדבה <choice><abbr>שוי<am>׳</am></abbr><expan>שוים</expan></choice> מהן <abbr>לחטא<am>׳</am></abbr><expan/> ושוין שמותר חולין<pc unit="unitEnd">..</pc> <lb n="3"/>‏‎</ab>
+<ab xml:id="S00631.2.4.2.4" type="textpart" subtype="mishnah">‎‏<choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> <choice><abbr>שמעו<am>׳</am></abbr><expan>שמעון</expan></choice> מה בין <choice><abbr>שקלי<am>׳</am></abbr><expan>שקלים</expan></choice> <choice><abbr>לחטא<am>׳</am></abbr><expan>לחטאת</expan></choice> <choice><abbr>לשקלי<am>׳</am></abbr><expan>לשקלים</expan></choice> יש להן קצבה <choice><abbr>לחטא<am>׳</am></abbr><expan>לחטאת</expan></choice> אין <lb n="4"/>
+להן קצבה<pc unit="stop">.</pc> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהו<am>׳</am></abbr><expan>יהודה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> אף <choice><abbr>לשקלי<am>׳</am></abbr><expan>לשקלים</expan></choice> אין <choice><abbr>לה<am>׳</am></abbr><expan>להם</expan></choice> <choice><abbr>קיצב<am>׳</am></abbr><expan>קיצבה</expan></choice> כשעלו <choice><abbr>ישר<am>׳</am></abbr><expan>ישראל</expan></choice> מן <surplus>?</surplus> <lb n="5"/>
+הגוים היו שוקלים דרכונות חזרו לשקול סלעים חזרו לשקול <lb n="6"/>
+טיבעין חזרו ובקשו <choice><abbr>לשקו<am>׳</am></abbr><expan>לשקול</expan></choice> <choice><abbr>דינרי<am>׳</am></abbr><expan>דינרים</expan></choice> <choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> <choice><abbr>שמעו<am>׳</am></abbr><expan>שמעון</expan></choice> <choice><abbr>א<am>׳</am>ע<am>׳</am>פ<am>׳</am>כ<am>׳</am></abbr><expan>אף על פי כן</expan></choice> יד כולן שיוה <lb n="7"/>
+אבל חטאת זה מביא בסלע זה מביא בשלש וזה מביא <surplus>בש</surplus> <lb n="8"/>
+בשתים<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.2.5" type="textpart" subtype="mishnah">‎‏מותר <choice><abbr>שקלי<am>׳</am></abbr><expan>שקלים</expan></choice> חולין<pc unit="stop">.</pc> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <choice><abbr>עשירי<am>׳</am></abbr><expan>עשירית</expan></choice> האיפה <choice><abbr>חולי<am>׳</am></abbr><expan>חולים</expan></choice> <choice><abbr>מו<am>׳</am></abbr><expan>מותר</expan></choice> <lb n="9"/>
+קיני זבין קיני זבות קיני יולדות <choice><abbr>חטאו<am>׳</am></abbr><expan>חטאות</expan></choice> ואשמות<pc unit="stop">.</pc> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> יהו נדבה<pc unit="stop">.</pc> <lb n="10"/>
+מותר עולה לעולה<pc unit="stop">.</pc> <choice><abbr>מו<am>׳</am></abbr><expan>מותר</expan></choice> מנחה <choice><abbr>למנח<am>׳</am></abbr><expan>למנחה</expan></choice><pc unit="stop">.</pc> <choice><abbr>מו<am>׳</am></abbr><expan>מותר</expan></choice> שלמים <choice><abbr>לשלמי<am>׳</am></abbr><expan>לשלמים</expan></choice> <choice><abbr>מו<am>׳</am></abbr><expan>מותר</expan></choice> נזירים <lb n="11"/>
+<choice><abbr>לנזירי<am>׳</am></abbr><expan>לנזירים</expan></choice> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> נזיר לנדבה <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> עניים לעניים <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> עני לאותו עני <lb n="12"/>
+<choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <abbr>שבויי<am>׳</am>ם</abbr><expan/> לשבויים מותר שבוי לאותו שבוי מותר <choice><abbr>המתי<am>׳</am></abbr><expan>המתים</expan></choice> <choice><abbr>למתי<am>׳</am></abbr><expan>למתים</expan></choice> <lb n="13"/>
+<choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> המת ליורשיו <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> מאיר <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> מותר המת עד שיבא אליהו יהא <lb n="14"/>
+<seg>מ<add hand="1h">ו</add>נח<pc unit="stop">..</pc></seg> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.3" n="Chapter3" type="textpart" subtype="chapter"><pb n="139r" xml:id="S00631.139r"/><lb n="1"/><ab xml:id="S00631.2.4.3.1" type="textpart" subtype="mishnah">‎‏בשלשה פרקים בשנה תורמין את הלישכה בפרוס הפסח <lb n="2"/>
+<choice><abbr>בפרו<am>׳</am></abbr><expan>בפרוס</expan></choice> עצרת <choice><abbr>בפרו<am>׳</am></abbr><expan>בפרוס</expan></choice> החג הן גרונות למעשר בהמה דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקיב<am>׳</am></abbr><expan>עקיבה</expan></choice> <lb n="3"/>
+בן עזאי <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>בעשרי<am>׳</am></abbr><expan>בעשרים</expan></choice> ואחד בסיון <choice><abbr>בעשרי<am>׳</am></abbr><expan>בעשרים</expan></choice> ותשעה באב <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>אלע<am>׳</am></abbr><expan>אלעזר</expan></choice> <lb n="4"/>
+<choice><abbr>ור<am>׳</am></abbr><expan>ורבי</expan></choice> <choice><abbr>שמע<am>׳</am></abbr><expan>שמעון</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> באחד <choice><abbr>בניס<am>׳</am></abbr><expan>בניסן</expan></choice> <choice><abbr>באח<am>׳</am></abbr><expan>באחד</expan></choice> בסיון <choice><abbr>בכ<am>׳</am>ט<am>׳</am></abbr><expan>בעשרים ותשעה</expan></choice> באלול מפני מה אמרו <lb n="5"/>
+<choice><abbr>בעשרי<am>׳</am></abbr><expan>בעשרים</expan></choice> ולא אמרו באחד בתשרי מפני שהוא יום טוב ואי <lb n="6"/>
+איפשר לעשר ביום טוב לפיכך הקדימוהו <choice><abbr>לכ<am>׳</am>ט<am>׳</am></abbr><expan>לעשרים ותשעה</expan></choice> באלול<pc unit="stop">..</pc> <space/> <lb n="7"/>‏‎</ab>
+<ab xml:id="S00631.2.4.3.2" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>בשלשה קופות של שלש סאין <choice><abbr>תורמי<am>׳</am></abbr><expan>תורמים</expan></choice> את <choice><abbr>הלישכ<am>׳</am></abbr><expan>הלישכה</expan></choice> <choice><abbr>וכתו<am>׳</am></abbr><expan>וכתוב</expan></choice> בהן א<am>׳׳</am>לף<am>׳׳</am> <lb n="8"/>
+ב<am>׳׳</am>ית<am>׳׳</am> ג<am>׳׳</am>ימל<am>׳׳</am> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>ישמע<am>׳</am></abbr><expan>ישמעאל</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <seg>יו<add hand="1h">ו</add>נית</seg> <choice><abbr>כתו<am>׳</am></abbr><expan>כתוב</expan></choice> בהן א<am>׳׳</am>לפא<am>׳׳</am> בית<am>׳׳</am>א ג<am>׳׳</am>ומא<am>׳׳</am><pc unit="stop">..</pc> אין <lb n="9"/>
+<seg><add hand="1h">ה</add>תורם</seg> נכנס אלא בפרגוד האפו<damage><unclear reason="damage">ד</unclear></damage> ולא במנעל ולא בסנדל המסומר <lb n="10"/>
+לא בתפילין לא בקמיע שמא יעני ויאמרו בעון <choice><abbr>הלישכ<am>׳</am></abbr><expan>הלישכה</expan></choice> העני <lb n="11"/>
+ושמא יעשיר <choice><abbr>ויאמ<am>׳</am></abbr><expan>ויאמר</expan></choice> בתרומות <choice><abbr>הליש<am>׳</am></abbr><expan>הלישכה</expan></choice> העשיר לפי צריך לצאת <lb n="12"/>
+ידי המקום כדרך שצריך לצאת ידי הבריות <choice><abbr>שנ<am>׳</am></abbr><expan>שנאמר</expan></choice> והייתם נקיים <lb n="13"/>
+מיי׳ <choice><abbr>ומישר<am>׳</am></abbr><expan>ומישראל</expan></choice> <add hand="1h"><choice><abbr>ואו<am>׳</am></abbr><expan>ואומר</expan></choice></add> <seg>ו<add>נ</add>מצא</seg> חן ושכל טוב בעיני אלהים ואדם<pc unit="unitEnd">..</pc>‏‎</ab>
+<ab xml:id="S00631.2.4.3.3" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>של <lb n="14"/>
+בית <choice><abbr>ר<am>׳</am>ג<am>׳</am></abbr><expan>רבן גמליאל</expan></choice> נכנס שקלו בין אצבעותיו וזורקו לפני התורם והתורם <lb n="15"/>
+מתכוין ודחפו לקופה אין התורם תורם <add>עד שיאמר</add> להן אתרום והן <choice><abbr>אומ<am>׳</am></abbr><expan>אומרים</expan></choice> <lb n="16"/>
+לו תרום <choice><abbr>תרו<am>׳</am></abbr><expan>תרום</expan></choice> <choice><abbr>תר<am>׳</am></abbr><expan>תרום</expan></choice> <choice><abbr>שלש<am>׳</am></abbr><expan>שלשה</expan></choice> <choice><abbr>פעמי<am>׳</am></abbr><expan>פעמים</expan></choice>‏‎</ab>
+<ab xml:id="S00631.2.4.3.4" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>תורם את הראשנה ומחפה <lb n="17"/>
+בקטבלאות ושנייה מחפה <choice><abbr>בקטבלא<am>׳</am></abbr><expan>בקטבלאות</expan></choice> שלישית לא היה <lb n="18"/>
+מחפה שמא ישכח ויתרום את דבר התורם תרם את <lb n="19"/>
+הראשנה לשום ארץ <choice><abbr>ישר<am>׳</am></abbr><expan>ישראל</expan></choice> ושנייה לשום כרכין <surplus>המוק</surplus> <lb n="20"/>
+המוקפין לה ושלישית לשום בבל ולשום מדי ולשום <lb n="21"/>
+מדינות הרחוקות<pc unit="stop">..</pc> סליק<pc unit="stop">..</pc> פירקא<pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.4" n="Chapter4" type="textpart" subtype="chapter"><pb n="142r" xml:id="S00631.142r"/><lb n="13"/><ab xml:id="S00631.2.4.4.1" type="textpart" subtype="mishnah">‎‏התרומה מה היו עושין בה לוקחין בה <choice><abbr>תמידי<am>׳</am></abbr><expan>תמידים</expan></choice> ומוספין <lb n="14"/>
+ונסכיהן העומר ושתי הלחם ולחם הפנים <seg>וז<add hand="1h">ב</add>חי</seg> <abbr>שלמיצי<am>׳</am></abbr><expan/> <lb n="15"/>
+ציבור וכל קרבנות <choice><abbr>ציבו<am>׳</am></abbr><expan>ציבור</expan></choice> שומרי ספיחות <choice><abbr>בשביעי<am>׳</am></abbr><expan>בשביעית</expan></choice> נוטלין 
+<pb n="142v" xml:id="S00631.142v"/><lb n="1"/>
+שכרן <choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומת</expan></choice> <choice><abbr>הלשכ<am>׳</am></abbr><expan>הלשכה</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> יוסי <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> רצה מתנדב שומר חינם <lb n="2"/>
+אמרו אתה <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> באין משל ציבור<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.2" type="textpart" subtype="mishnah">‎‏פרה ולשון של זהורית <lb n="3"/>
+<del>שבראש</del> שעיר המשתלח באין <choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומת</expan></choice> <choice><abbr>הלשכ<am>׳</am></abbr><expan>הלשכה</expan></choice> כבש פרה <lb n="4"/>
+וכבש שעיר המשתלח ולשון שבין קרניו ואמת המים <lb n="5"/>
+וחומת העיר ומגדלתיה וכל צרכי העיר באין משירי <choice><abbr>הלשכ<am>׳</am></abbr><expan>הלשכה</expan></choice> <lb n="6"/>
+אבא שאול <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> כבש פרה כהנים אותן משל עצמן<pc unit="stop">.</pc>‏‎</ab>
+<ab xml:id="S00631.2.4.4.3" type="textpart" subtype="mishnah">‎‏מותר <lb n="7"/>
+שירי הלשכה מה היו עושין בהן לוקחין בהן יינות שמנים <lb n="8"/>
+וסלתות והשכר להקדש<pc unit="stop">.</pc> <del><damage><unclear reason="damage">מ</unclear></damage></del> <abbr>ור<am>׳</am></abbr><expan/> ישמע <choice><abbr>ור<am>׳</am></abbr><expan>ורבי</expan></choice> עקיבא <abbr>או<am>׳</am></abbr><expan/> אין <lb n="9"/>
+משתכרין בשל הקדש אף לא בשל עניים<pc unit="stop">.</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.4" type="textpart" subtype="mishnah">‎‏מותר <choice><abbr>התרומ<am>׳</am></abbr><expan>התרומה</expan></choice> <lb n="10"/>
+מה היו <choice><abbr>עושי<am>׳</am></abbr><expan>עושים</expan></choice> בו ריקועים זהב ציפוי לבית קדשי <choice><abbr>הקדשי<am>׳</am></abbr><expan>הקדשים</expan></choice> <lb n="11"/>
+<choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>ישמע<am>׳</am></abbr><expan>ישמעאל</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> מותר פירות לקיץ המזבח <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> לכלי שרת<pc unit="stop">.</pc> <lb n="12"/>
+<choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> חנינא סגן הכהנים <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> לקיץ <choice><abbr>המזב<am>׳</am></abbr><expan>המזבח</expan></choice> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> נסכים <lb n="13"/>
+<choice><abbr>לכל<am>׳</am></abbr><expan>לכלי</expan></choice> <choice><abbr>שר<am>׳</am></abbr><expan>שרת</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקיב<am>׳</am></abbr><expan>עקיבה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <choice><abbr>נסכי<am>׳</am></abbr><expan>נסכים</expan></choice> לקיץ <choice><abbr>המזב<am>׳</am></abbr><expan>המזבח</expan></choice> <choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> <choice><abbr>תרומ<am>׳</am></abbr><expan>תרומה</expan></choice> לכלי <lb n="14"/>
+<choice><abbr>שר<am>׳</am></abbr><expan>שרת</expan></choice> וזה וזה לא היו מודים בפירות<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.5" type="textpart" subtype="mishnah">‎‏<choice><abbr>מות<am>׳</am></abbr><expan>מותר</expan></choice> הקטרת מה <lb n="15"/>
+היו <choice><abbr>עושי<am>׳</am></abbr><expan>עושים</expan></choice> בו מפרישין האומנין ונותנין <choice><abbr>האומני<am>׳</am></abbr><expan>האומנים</expan></choice> ומחללין <lb n="16"/>
+אותה על מעות <choice><abbr>האומני<am>׳</am></abbr><expan>האומנים</expan></choice> ונותנין אותן בשכרן וחוזרין 
+<pb n="143r" xml:id="S00631.143r"/><lb n="1"/>
+ולוקחין אותו <choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומה</expan></choice> חדשה ואם בא חודש <choice><abbr>לוקחי<am>׳</am></abbr><expan>לוקחים</expan></choice> אותה <lb n="2"/>
+<choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומה</expan></choice> <choice><abbr>חדש<am>׳</am></abbr><expan>חדשה</expan></choice> ואם לאו <choice><abbr>לוקחי<am>׳</am></abbr><expan>לוקחים</expan></choice> <choice><abbr>אות<am>׳</am></abbr><expan>אותה</expan></choice> <choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומה</expan></choice> ישנה<pc unit="stop">..</pc> <add type="comm"><choice><abbr>פי<am>׳</am></abbr><expan>פירוש</expan></choice> מזה <choice><abbr>כתו<am>׳</am></abbr><expan>כתוב</expan></choice> <choice><abbr>לקמ<am>׳</am></abbr><expan>לקמן</expan></choice><pc unit="stop">.</pc></add> <gap reason="talmud" extent="999"/>
+<pb n="145r" xml:id="S00631.145r"/><lb n="2"/><choice><abbr>מת<am>׳</am></abbr><expan>מתניתא</expan></choice><pc unit="stop">..</pc> <lb n="3"/>
+אם בא חדש לוקחין אותה <choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומה</expan></choice> <choice><abbr>חדש<am>׳</am></abbr><expan>חדשה</expan></choice> ואם לאו לוקחין <lb n="4"/>
+<choice><abbr>אות<am>׳</am></abbr><expan>אותה</expan></choice> <choice><abbr>מתרו<am>׳</am></abbr><expan>מתרומה</expan></choice> ישנה<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.6" type="textpart" subtype="mishnah">‎‏המקדיש נכסיו והיו בהן <choice><abbr>דברי<am>׳</am></abbr><expan>דברים</expan></choice> הראוין <lb n="5"/>
+קרבנות ציבור ינתנו לאומנין בשכרן דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקיב<am>׳</am></abbr><expan>עקיבה</expan></choice> <choice><abbr>א<am>׳</am></abbr><expan>אמר</expan></choice> לו בן עזאי <lb n="6"/>
+אינה היא המידה <choice><abbr>אל<am>׳</am></abbr><expan>אלא</expan></choice> מפרישין שכר <choice><abbr>האומני<am>׳</am></abbr><expan>האומנים</expan></choice> ומחללין <choice><abbr>אות<am>׳</am></abbr><expan>אותם</expan></choice> על <lb n="7"/>
+<choice><abbr>האומני<am>׳</am></abbr><expan>האומנים</expan></choice> <choice><abbr>נותני<am>׳</am></abbr><expan>נותנים</expan></choice> <choice><abbr>אות<am>׳</am></abbr><expan>אותם</expan></choice> <choice><abbr>לאומני<am>׳</am></abbr><expan>לאומנים</expan></choice> <choice><abbr>בשכר<am>׳</am></abbr><expan>בשכרם</expan></choice> <choice><abbr>וחוזרי<am>׳</am></abbr><expan>וחוזרים</expan></choice> <choice><abbr>ולוקחי<am>׳</am></abbr><expan>ולוקחים</expan></choice> <choice><abbr>אות<am>׳</am></abbr><expan>אותם</expan></choice> מהן <lb n="8"/>
+<choice><abbr>מתרומ<am>׳</am></abbr><expan>מתרומת</expan></choice> <choice><abbr>הלשכ<am>׳</am></abbr><expan>הלשכה</expan></choice><pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.7" type="textpart" subtype="mishnah">‎‏<choice><abbr>המקדי<am>׳</am></abbr><expan>המקדיש</expan></choice> נכסיו והיה בהן בהמה הראויה <lb n="9"/>
+למזבח זכרים ונקבות <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>מאי<am>׳</am></abbr><expan>מאיר</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>זכרי<am>׳</am></abbr><expan>זכרים</expan></choice> ימכרו לצורכי עולות <lb n="10"/>
+<choice><abbr>ונקבו<am>׳</am></abbr><expan>ונקבות</expan></choice> ימכרו לצורכי <choice><abbr>שלמי<am>׳</am></abbr><expan>שלמים</expan></choice> ויביא בדמיהן עולות ושאר נכסים <lb n="11"/>
+יפלו לבדק הבית <choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> <choice><abbr>עקיב<am>׳</am></abbr><expan>עקיבה</expan></choice> רואה אני את דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>אליע<am>׳</am></abbr><expan>אליעזר</expan></choice> מדברי <lb n="12"/>
+<choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהושו<am>׳</am></abbr><expan>יהושוע</expan></choice> <choice><abbr>שר<am>׳</am></abbr><expan>שרבי</expan></choice> <choice><abbr>אליע<am>׳</am></abbr><expan>אליעזר</expan></choice> השוה מידותיו <choice><abbr>ור<am>׳</am></abbr><expan>ורבי</expan></choice> <choice><abbr>יהושו<am>׳</am></abbr><expan>יהושוע</expan></choice> חלק <choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> פפיים <lb n="13"/>
+שמעתי <abbr>כדברי<am>׳</am></abbr><expan/> שניהם המקדיש בפירוש <choice><abbr>כדבר<am>׳</am></abbr><expan>כדברי</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>אליע<am>׳</am></abbr><expan>אליעזר</expan></choice> <choice><abbr>המק<damage><unclear reason="damage">ד</unclear></damage>י<am>׳</am></abbr><expan>המקדיש</expan></choice> <lb n="14"/>
+סתם <choice><abbr>כ<damage><unclear reason="damage">ד</unclear></damage>ב<am>׳</am></abbr><expan>כדברי</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהוש<am>׳</am></abbr><expan>יהושע</expan></choice>‏‎</ab>
+<ab xml:id="S00631.2.4.4.8" type="textpart" subtype="mishnah">‎‏<choice><abbr>המקדי<am>׳</am></abbr><expan>המקדיש</expan></choice> נכסיו והיו בהן <choice><abbr>דברי<am>׳</am></abbr><expan>דברים</expan></choice> <choice><abbr>הראוי<am>׳</am></abbr><expan>הראוים</expan></choice> לגבי <lb n="15"/>
+מזבח כגון יינות <choice><abbr>ושמני<am>׳</am></abbr><expan>ושמנים</expan></choice> ועופות <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>אליע<am>׳</am></abbr><expan>אליעזר</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> ימכרו לצורכי <seg><del cert="50">או<del><damage><unclear reason="damage" extent="2" unit="chars"/></damage></del></del></seg> <lb n="16"/>
+<add>אותו</add> <seg><del hand="1h"><damage><unclear reason="damage" extent="1"/></damage></del><add hand="1h">ה</add>מין</seg> ויביאו <choice><abbr>בדמי<am>׳</am></abbr><expan>בדמיהם</expan></choice> <choice><abbr>עולו<am>׳</am></abbr><expan>עולות</expan></choice> בשר לשום מזבח ועורות לשום כהנים <lb n="17"/>‏‎</ab>
+<ab xml:id="S00631.2.4.4.9" type="textpart" subtype="mishnah">‎‏אחד ושלשים יום משערין את <choice><abbr>הלשכ<am>׳</am></abbr><expan>הלשכה</expan></choice> המקבל עליו לספק <lb n="18"/>
+סלתות מארבע ועמדו משלש משלש מארבע יד הקדש <lb n="19"/>
+על העליונה ואם התליעה התליעה לו ואם החמיץ יין <choice><abbr>החמי<am>׳</am></abbr><expan>החמיץ</expan></choice> <lb n="20"/>
+לו ואין <choice><abbr>מקבלי<am>׳</am></abbr><expan>מקבלים</expan></choice> מעותיו כדי שתהא מזבח מתרצה<pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.5" n="Chapter5" type="textpart" subtype="chapter"><pb n="147r" xml:id="S00631.147r"/><lb n="9"/><ab xml:id="S00631.2.4.5.1" type="textpart" subtype="mishnah">‎‏ואילו הן הממונין <lb n="10"/>
+שהיו במקדש יוחנן בן פינחס על החותמות אחיה על <surplus>?</surplus> <lb n="11"/>
+הסלתות מתיה בן שמואל על הפייסות פתחיה על הקינין<pc unit="stop">.</pc> <lb n="12"/>
+פתחיה זה מרדכי ולמה נקרא פתחיה שפותח בדברים <lb n="13"/>
+ודורשן ויודע בשבעים לשונות<pc unit="stop">..</pc> <space/> <milestone unit="MSMishnah"/>בן אחיה על חולי מעיין <lb n="14"/>
+נחוניא איש חופר שיחין גביני כרוז על המקדש מכריז <lb n="15"/>
+בן גבר על נעילת שערים בן ביבאי על הפקיע בן ארזא <lb n="16"/>
+על הצלצל בן תורוס בן לוי על השיר בית גרמו על מעשה <lb n="17"/>
+לחם הפנים בית אבטינס על <add hand="1h">מעשה</add> הקטרת <choice><abbr>אלע<am>׳</am></abbr><expan>אלעזר</expan></choice> על הפרוכת <lb n="18"/>
+ופנחס על המלבוש<pc unit="stop">.</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.5.2" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>אין פוחתין משלשה <choice><abbr>גזברי<am>׳</am></abbr><expan>גזברים</expan></choice> <abbr>ואר<am>׳</am></abbr><expan/> <lb n="19"/>
+אמרכלין אין עושין שררה על הציבור בממון פחות <lb n="20"/>
+משנים חוץ מאחיה על חולי מעים שאותו קיבלו הציבור <lb n="21"/>
+עליהן<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.5.3" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>ארבעה חותמות היו במקדש עגל גדי 
+<pb n="147v" xml:id="S00631.147v"/><lb n="1"/>
+זכר חוטא בן עזאי <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> ארמית <choice><abbr>כת<am>׳</am></abbr><expan>כתוב</expan></choice> עליהן עגל זכר גדי חוטא דל <seg>וח<add hand="1h">ו</add>טא</seg> <lb n="2"/>
+עשיר של משמש נסכו בקר של גדולים ושל קטנים גדי משמש <lb n="3"/>
+נסכי צאן של <choice><abbr>גדולי<am>׳</am></abbr><expan>גדולים</expan></choice> ושל <choice><abbr>קטנ<am>׳</am></abbr><expan>קטנים</expan></choice> של <choice><abbr>זכרי<am>׳</am></abbr><expan>זכרים</expan></choice> ושל <choice><abbr>נקב<am>׳</am></abbr><expan>נקבות</expan></choice> חוץ משל אלים זכר <lb n="4"/>
+משמש נסכי אלים בלבד חוטא משמש שלש בהמות של מצורע <lb n="5"/>‏‎</ab>
+<ab xml:id="S00631.2.4.5.4" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>כל מי שמבקש נסכים הולך אצל <choice><abbr>יוחנ<am>׳</am></abbr><expan>יוחנן</expan></choice> בן פנחס שממונה על החותמות <lb n="6"/>
+נותן לו מעות ומקבל ממנו חתימות והולך אצל אחיה הממונה <lb n="7"/>
+על הסלתות נותן לו <choice><abbr>חותמו<am>׳</am></abbr><expan>חותמות</expan></choice> ומקבל ממנו <choice><abbr>נסכי<am>׳</am></abbr><expan>נסכים</expan></choice> לערב באין זה אצל <lb n="8"/>
+זה אחייה מוציא חותמות ומקבל כנגדן מעות אם הותירו הותירו <lb n="9"/>
+להקדיש ואם פיחתו ישלם <choice><abbr>יוח<am>׳</am></abbr><expan>יוחנן</expan></choice> מביתו שיר הקדש על העליונה <lb n="10"/>‏‎</ab>
+<ab xml:id="S00631.2.4.5.5" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>כל מי שאבד חותמו ממתינין לו עד הערב אם נמצא לו כדי <lb n="11"/>
+חותמו ינתן לו ואם לאו יתן לו שכל היום <choice><abbr>כתו<am>׳</am></abbr><expan>כתוב</expan></choice> עליו מפני הרמאין<pc unit="stop">.</pc> <lb n="12"/>
+<space/>‏‎</ab>
+<ab xml:id="S00631.2.4.5.6" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>שתי חצירות היו במקדש אחת לשכת החשאות <choice><abbr>ואח<am>׳</am></abbr><expan>ואחת</expan></choice> <lb n="13"/>
+לישכת הכלים יריאי חט משליכין לתוכה בחשאי ועניים בני <lb n="14"/>
+טובים מתפרנסין מתוכה מחשאי לישכת הכלים כל מי שמתנדב <lb n="15"/>
+זורקו לתוכה ואחד <choice><abbr>לשלשי<am>׳</am></abbr><expan>לשלשים</expan></choice> יום <choice><abbr>הגזברי<am>׳</am></abbr><expan>הגזברים</expan></choice> <choice><abbr>פותחי<am>׳</am></abbr><expan>פותחים</expan></choice> אותה כל כלי <lb n="16"/>
+שמצאו בו צריך לבדק הבית מניחין אותן <seg>והשא<add hand="1h">ר</add></seg> ימכרו ויפלו <lb n="17"/>
+דמיהן לבדק הבית<pc unit="stop">..</pc> סליק<pc unit="stop">..</pc> פירקא<pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.6" n="Chapter6" type="textpart" subtype="chapter"><pb n="150v" xml:id="S00631.150v"/><lb n="13"/><ab xml:id="S00631.2.4.6.1" type="textpart" subtype="mishnah">‎‏שלש עשרה שופרות ושלש <lb n="14"/>
+עשרה שולחנות <choice><abbr>ושל<am>׳</am></abbr><expan>ושלש</expan></choice> <choice><abbr>עש<am>׳</am></abbr><expan>עשרה</expan></choice> השתחוואות היו במקדש של <choice><abbr>בי<am>׳</am></abbr><expan>בית</expan></choice> <choice><abbr>ר<am>׳</am>ג<am>׳</am></abbr><expan>רבן גמליאל</expan></choice> ושל <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>חנינ<am>׳</am></abbr><expan>חנינה</expan></choice> <lb n="15"/>
+סגן <choice><abbr>הכהני<am>׳</am></abbr><expan>הכהנים</expan></choice> היו משתחוין ארבע <choice><abbr>עשר<am>׳</am></abbr><expan>עשרה</expan></choice> והיכן היתה כנגד <choice><abbr>לישכ<am>׳</am></abbr><expan>לישכת</expan></choice> <damage><unclear reason="damage">ד</unclear></damage>יר הע<damage><unclear reason="damage">צ</unclear></damage>ים <lb n="16"/>
+שכן מסורת בידם מאבותיהן ששם ארון גנוז‏‎</ab>
+<ab xml:id="S00631.2.4.6.2" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>ומעשה בכהן אחד שהיה <lb n="17"/>
+מתעסק וראה רצפה משונה מחברותיה ובא <choice><abbr>לומ<am>׳</am></abbr><expan>לומר</expan></choice> לחבירו ולא הספיק לגמור <lb n="18"/>
+הדבר עד שיצתה נשמתו וידעו בייחוד ששם ארון נגנז<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.6.3" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>היכן היו אילן <lb n="19"/>
+השתחואות ארבע בצפון וארבע בדרום שלש במזרח שתים במערב כנגד <lb n="20"/>
+<abbr>שלש<am>׳</am></abbr><expan/> <milestone unit="MSMishnah"/><choice><abbr>שערי<am>׳</am></abbr><expan>שערים</expan></choice> דרומין הסמוכין למערב שער העליון שער הדלק <choice><abbr>שע<am>׳</am></abbr><expan>שער</expan></choice> הביבורות <lb n="21"/>
+שער המים ולמה נקרא שמו שער <choice><abbr>המי<am>׳</am></abbr><expan>המים</expan></choice> שבו היו מכניסין צלוחית של <lb n="22"/>
+מים של ניסוך בחג <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקיב<am>׳</am></abbr><expan>עקיבה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <damage><unclear reason="damage">ב</unclear></damage>ו מים מפנין עתידין להיות יוצאות <lb n="23"/>
+מפתח מפתן הבית <milestone unit="MSMishnah"/>לעומתן בצפון הסמוכין למערב שער יכניה שער <lb n="24"/>
+הקרבן שער הנשים שער השיר ולמה <choice><abbr>נקר<am>׳</am></abbr><expan>נקרא</expan></choice> שמו <choice><abbr>שע<am>׳</am></abbr><expan>שער</expan></choice> <choice><abbr>יכני<am>׳</am></abbr><expan>יכניה</expan></choice> שבו יצא יכניה <lb n="25"/>
+בגלותו<pc unit="stop">..</pc> <space/> שבמזרח <choice><abbr>שע<am>׳</am></abbr><expan>שער</expan></choice> ניקנות ושני פשפשין היו לו אחד בימינו <lb n="26"/>
+ואחד משמאלו ושנים במערב שלא היה שם להן<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.6.4" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>שלש עשרה <lb n="27"/>
+<choice><abbr>שולחנו<am>׳</am></abbr><expan>שולחנות</expan></choice> היו במקדש שמנה של שייש בבית המטבחיים שעליהן מדיחין <lb n="28"/>
+את הקרביים ושנים במערבו של כבש אחד של שייש ואחד של כסף 
+<pb n="151r" xml:id="S00631.151r"/><lb n="1"/>
+של שייש נותנין <choice><abbr>עלי<am>׳</am></abbr><expan>עליו</expan></choice> את האיברים ועל של כסף <choice><abbr>נותני<am>׳</am></abbr><expan>נותנים</expan></choice> <choice><abbr>עלי<am>׳</am></abbr><expan>עליו</expan></choice> את כלי שרת ושנים <lb n="2"/>
+באולם מבפנים פתח הבית אחת <seg><del hand="1h">כ</del><add hand="1h">ש</add>ל</seg> <choice><abbr>כס<am>׳</am></abbr><expan>כסף</expan></choice> <choice><abbr>ואח<am>׳</am></abbr><expan>ואחד</expan></choice> של זהב שעל <choice><abbr>הכס<am>׳</am></abbr><expan>הכסף</expan></choice> <choice><abbr>נותני<am>׳</am></abbr><expan>נותנים</expan></choice> <choice><abbr>עלי<am>׳</am></abbr><expan>עליו</expan></choice> לחם <lb n="3"/>
+הפנים בכניסתו ועל של <choice><abbr>זה<am>׳</am></abbr><expan>זהב</expan></choice> ביצאתו שמעלין בקודש ולא מורידין <choice><abbr>אח<am>׳</am></abbr><expan>אחד</expan></choice> של זהב <lb n="4"/>
+מבפנים שעליו לחם <choice><abbr>הפני<am>׳</am></abbr><expan>הפנים</expan></choice> תמיד<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.6.5" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>שלשה עשר <choice><abbr>שופרו<am>׳</am></abbr><expan>שופרות</expan></choice> היו <choice><abbr>במקד<am>׳</am></abbr><expan>במקדש</expan></choice> <choice><abbr>וכתו<am>׳</am></abbr><expan>וכתוב</expan></choice> עליהן <lb n="5"/>
+תקלין חדתין ותקלין עתיקין קינין <seg><add hand="1h">ו</add>גוזלין</seg> ועולה ועצים ולבונה וזהב לכפורת <lb n="6"/>
+וששה לנדבה<pc unit="stop">..</pc> <space/> תקלין חדתין שבכל שנה ושנה <choice><abbr>תקלי<am>׳</am></abbr><expan>תקלין</expan></choice> <choice><abbr>עתיקי<am>׳</am></abbr><expan>עתיקין</expan></choice> מי שלא שקל <lb n="7"/>
+אשתקד שוקל שנה<pc unit="unitEnd">.</pc> <milestone unit="MSMishnah"/>קינין הן תורין וגוזלי ועולה הן בני יונה וכולן עולות דברי <lb n="8"/>
+<choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהוד<am>׳</am></abbr><expan>יהודה</expan></choice> <choice><abbr>וחכמ<am>׳</am></abbr><expan>וחכמים</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> אחד לחטאת ואחד לעולה <choice><abbr>וגוזלי<am>׳</am></abbr><expan>וגוזלים</expan></choice> ועולה כולן <choice><abbr>עולו<am>׳</am></abbr><expan>עולות</expan></choice>‏‎</ab>
+<ab xml:id="S00631.2.4.6.6" type="textpart" subtype="mishnah">‎‏<choice><abbr>האו<am>׳</am></abbr><expan>האומר</expan></choice> עלי <lb n="9"/>
+עצים לא יפחות משני גיזירין לבונה לא <choice><abbr>יפחו<am>׳</am></abbr><expan>יפחות</expan></choice> מקומץ לבונה זהב לא יפחות <lb n="10"/>
+מדינר זהב חמשה לנדבה נדבה מה היו עושין בה ילקחו בהן עולות בשר <lb n="11"/>
+לשם <del hand="1h">ועולות</del> <add hand="1h"><damage><unclear reason="damage" extent="1"/></damage>עורות</add> לכהנים זה מדרש דרש יהוידע הכהן אשם הוא אשם אשם <lb n="12"/>
+ליי׳ כל שבא מחמת חטאות בשר לשם <choice><abbr>ועורו<am>׳</am></abbr><expan>ועורות</expan></choice> <choice><abbr>לכהני<am>׳</am></abbr><expan>לכהנים</expan></choice> וכן <abbr>מחמ<am>׳</am></abbr><expan/> אשמות<pc unit="stop">.</pc> <lb n="13"/>
+נמצאו שני <choice><abbr>כתובי<am>׳</am></abbr><expan>כתובים</expan></choice> קיימין אשם ליי׳ אשם לכהן <choice><abbr>ואו<am>׳</am></abbr><expan>ואומר</expan></choice> כסף אשם <choice><abbr>וכס<am>׳</am></abbr><expan>וכסף</expan></choice> חטאת <lb n="14"/>
+לא יובא בית יי׳ <choice><abbr>לכהני<am>׳</am></abbr><expan>לכהנים</expan></choice> <seg>יה<add hand="1h">י</add>ו<pc unit="stop">..</pc></seg> סליק<pc unit="stop">..</pc> פירקא<pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.7" n="Chapter7" type="textpart" subtype="chapter"><pb n="154v" xml:id="S00631.154v"/><lb n="10"/><ab xml:id="S00631.2.4.7.1" type="textpart" subtype="mishnah">‎‏מעות שנמצאו בין <choice><abbr>שקלי<am>׳</am></abbr><expan>שקלים</expan></choice> לנדבה קרוב <choice><abbr>לשקלי<am>׳</am></abbr><expan>לשקלים</expan></choice> <choice><abbr>שקלי<am>׳</am></abbr><expan>שקלים</expan></choice> קרוב <choice><abbr>לנדב<am>׳</am></abbr><expan>לנדבה</expan></choice> נדבה <lb n="11"/>
+מחצה על מחצה לנדבה בין קינין לגוזלי יעלה גוזלי <choice><abbr>מחצ<am>׳</am></abbr><expan>מחצה</expan></choice> על <choice><abbr>מחצ<am>׳</am></abbr><expan>מחצה</expan></choice> <lb n="12"/>
+לגוזלי יעלה בין עצים ללבונה קרוב לעצים <choice><abbr>עצי<am>׳</am></abbr><expan>עצים</expan></choice> <choice><abbr>קרו<am>׳</am></abbr><expan>קרוב</expan></choice> <choice><abbr>ללבונ<am>׳</am></abbr><expan>ללבונה</expan></choice> <choice><abbr>לבונ<am>׳</am></abbr><expan>לבונה</expan></choice> <choice><abbr>מח<am>׳</am></abbr><expan>מחצה</expan></choice> <lb n="13"/>
+על <choice><abbr>מח<am>׳</am></abbr><expan>מחצה</expan></choice> ללבונה בין חולין למעשר קרוב <choice><abbr>לחולי<am>׳</am></abbr><expan>לחולים</expan></choice> <choice><abbr>חולי<am>׳</am></abbr><expan>חולים</expan></choice> קרוב <choice><abbr>למעש<am>׳</am></abbr><expan>למעשר</expan></choice> מעשר <lb n="14"/>
+<choice><abbr>מח<am>׳</am></abbr><expan>מחצה</expan></choice> על <choice><abbr>מח<am>׳</am></abbr><expan>מחצה</expan></choice> <choice><abbr>למעש<am>׳</am></abbr><expan>למעשר</expan></choice> זה הכלל הולכין אחר הקרוב <choice><abbr>מחצ<am>׳</am></abbr><expan>מחצה</expan></choice> על מחצה <lb n="15"/>
+להחמיר<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.7.2" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>מעות שנמצאו לפני סוחרי בהמה לעולם מעשר <lb n="16"/>
+בהר הבית <choice><abbr>חולי<am>׳</am></abbr><expan>חולים</expan></choice> <choice><abbr>בירושל<am>׳</am></abbr><expan>בירושלים</expan></choice> בשאר ימות השנה <choice><abbr>חולי<am>׳</am></abbr><expan>חולים</expan></choice> בשעת הרגל <lb n="17"/>
+כולו מעשר<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.7.3" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>בשר <choice><abbr>שנמצ<am>׳</am></abbr><expan>שנמצא</expan></choice> בעזרה <choice><abbr>איברי<am>׳</am></abbr><expan>איברים</expan></choice> עולות וחתיכות <lb n="18"/>
+חטאות <choice><abbr>בירושל<am>׳</am></abbr><expan>בירושלים</expan></choice> זבחי הנה וזה תעובר צורתן ויצאו לבית השריפה <lb n="19"/>
+<milestone unit="MSMishnah"/>נמצא בגבולין איברים נבילות חתיכות מותרות ובשעת הרגל <surplus>?</surplus> <lb n="20"/>
+שהבשר מרובה אף <choice><abbr>איברי<am>׳</am></abbr><expan>איברים</expan></choice> <choice><abbr>מותרי<am>׳</am></abbr><expan>מותרים</expan></choice><pc unit="stop">.</pc>‏‎</ab>
+<ab xml:id="S00631.2.4.7.4" type="textpart" subtype="mishnah">‎‏<choice><abbr>בהמ<am>׳</am></abbr><expan>בהמה</expan></choice> <choice><abbr>שנמצ<am>׳</am></abbr><expan>שנמצאת</expan></choice> <choice><abbr>לירושל<am>׳</am></abbr><expan>לירושלים</expan></choice> ועד <lb n="21"/>
+מגדל עדר וכמידותיה לכל רוח <choice><abbr>זכרי<am>׳</am></abbr><expan>זכרים</expan></choice> עולות ופרות זבחי <choice><abbr>שלמי<am>׳</am></abbr><expan>שלמים</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהוד<am>׳</am></abbr><expan>יהודה</expan></choice> <lb n="22"/>
+<choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> הראוין לפסח פסח קודם לרגל <choice><abbr>שלשי<am>׳</am></abbr><expan>שלשים</expan></choice> יום‏‎</ab>
+<ab xml:id="S00631.2.4.7.5" type="textpart" subtype="mishnah">‎‏בראשונה היו ממשכנין 
+<pb n="155r" xml:id="S00631.155r"/><lb n="1"/>
+אף מוציאה עד שמביא נסכיה משהיו ממהרין אותה ובורחין <surplus>הת</surplus> <lb n="2"/>
+התקינו <choice><abbr>ב<am>׳</am>ד<am>׳</am></abbr><expan>בית דין</expan></choice> שיהו נסכים קרב משל ציבור<pc unit="unitEnd">.</pc>‏‎</ab>
+<ab xml:id="S00631.2.4.7.6" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/><choice><abbr>א<am>׳</am>ר<am>׳</am></abbr><expan>אמר רבי</expan></choice> <choice><abbr>שמע<am>׳</am></abbr><expan>שמעון</expan></choice> <choice><abbr>שבע<am>׳</am></abbr><expan>שבעה</expan></choice> <choice><abbr>דברי<am>׳</am></abbr><expan>דברים</expan></choice> התקינו <lb n="3"/>
+<choice><abbr>ב<am>׳</am>ד<am>׳</am></abbr><expan>בית דין</expan></choice> וזה אחד מהן גוי שעלה עולתו ממדינת הים ושלח עמה נסכים <surplus>ק</surplus> <lb n="4"/>
+קריבין משלו ואם לאו <choice><abbr>קריבי<am>׳</am></abbr><expan>קריבים</expan></choice> משל ציבור וכן גר שמת והניח <choice><abbr>זבחי<am>׳</am></abbr><expan>זבחים</expan></choice> יש <choice><abbr>נסכי<am>׳</am></abbr><expan>נסכים</expan></choice> <lb n="5"/>
+<choice><abbr>קרי<am>׳</am></abbr><expan>קריבים</expan></choice> משלו ואם לאו <choice><abbr>קרי<am>׳</am></abbr><expan>קריבים</expan></choice> משל ציבור תנאי <choice><abbr>ב<am>׳</am>ד<am>׳</am></abbr><expan>בית דין</expan></choice> הוא כהן גדול שמת ולא בא <lb n="6"/>
+כהן אחר תחתיו שתהא מנחתו קריבה משל ציבור <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>יהוד<am>׳</am></abbr><expan>יהודה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> משל יורשין <lb n="7"/>
+ושלימה <choice><abbr>הית<am>׳</am></abbr><expan>היתה</expan></choice> <choice><abbr>קריב<am>׳</am></abbr><expan>קריבה</expan></choice>‏‎</ab>
+<ab xml:id="S00631.2.4.7.7" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>על העצים ועל המלח שיהו <choice><abbr>כהני<am>׳</am></abbr><expan>כהנים</expan></choice> ניאותין שלא יהו <lb n="8"/>
+מעלין בא פרה של פרה ועל קינין הפסולת שיהו קריבין משל ציבור <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> יוסי <lb n="9"/>
+<choice><abbr>א<am>׳</am></abbr><expan>אמר</expan></choice> כל המפסיק את הקינין הוא מפסיק את הפסולת<pc unit="stop">..</pc> <abbr>ס<am>׳</am>פ<am>׳</am></abbr><expan/><pc unit="unitEnd">..</pc> ‏‎</ab>
+</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S00631.2.4.8" n="Chapter8" type="textpart" subtype="chapter"><pb n="156v" xml:id="S00631.156v"/><lb n="17"/><ab xml:id="S00631.2.4.8.1" type="textpart" subtype="mishnah">‎‏כל הרוקין שנמצאו בירושלים <add hand="1h"><choice><abbr>טהורי<am>׳</am></abbr><expan>טהורים</expan></choice></add> <lb n="18"/>
+חוץ משל שוק העליון דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>מאי<am>׳</am></abbr><expan>מאיר</expan></choice> <choice><abbr>וחכמי<am>׳</am></abbr><expan>וחכמים</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> בשאר ימות השנה שבאמצע <lb n="19"/>
+טמאין ושבצדדין <choice><abbr>טהורי<am>׳</am></abbr><expan>טהורים</expan></choice> ובשעת הרגל שבאמצע טהורין ושבצדדין <lb n="20"/>
+<choice><abbr>טמאי<am>׳</am></abbr><expan>טמאים</expan></choice> מפני <seg>שה<del>ן</del></seg> <choice><abbr>מועטי<am>׳</am></abbr><expan>מועטים</expan></choice> <choice><abbr>מסלקי<am>׳</am></abbr><expan>מסלקים</expan></choice> <choice><abbr>לצדדי<am>׳</am></abbr><expan>לצדדים</expan></choice><pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.8.2" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>כל הכלים הנמצאין <choice><abbr>בירוש<am>׳</am></abbr><expan>בירושלים</expan></choice> <lb n="21"/>
+<choice><abbr>הנמצאי<am>׳</am></abbr><expan>הנמצאים</expan></choice> <choice><abbr>בירוש<am>׳</am></abbr><expan>בירושלים</expan></choice> דרך ירידה לבית הטבילה טמאין ודרך עלייה <choice><abbr>טהורי<am>׳</am></abbr><expan>טהורים</expan></choice> ושלא <lb n="22"/>
+כדרך עלייתן <choice><abbr>טמאי<am>׳</am></abbr><expan>טמאים</expan></choice> דברי <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>מאי<am>׳</am></abbr><expan>מאיר</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> יוסי <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> כולן <choice><abbr>טהורי<am>׳</am></abbr><expan>טהורים</expan></choice> חוץ מ<damage><unclear reason="damage">ן</unclear></damage> הסל והמגריפה <lb n="23"/>
+והמרחיצה והמיוחדין לקברות‏‎</ab>
+<ab xml:id="S00631.2.4.8.3" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>סכין שנמצאת <choice><abbr>בארבע<am>׳</am></abbr><expan>בארבעה</expan></choice> עשר בשלשה <lb n="24"/>
+<choice><abbr>עש<am>׳</am></abbr><expan>עשר</expan></choice> שינא ומטביל וקפיץ בין זה ובין זה שינא ומטביל חל ארבעה עשר <lb n="25"/>
+להיות בשבת שוחט בה מיד בחמשה עשר שוחט בה מיד נמצאת <lb n="26"/>
+קשורה לסכין הרי זו כסכין<pc unit="unitEnd">..</pc>‏‎</ab>
+<ab xml:id="S00631.2.4.8.4" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>פרכת <choice><abbr>שניטמ<am>׳</am></abbr><expan>שניטמאת</expan></choice> <seg>בוו<del hand="1h">ד</del><add hand="1h">ל</add>ד</seg> <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> מטבילין אותה <lb n="27"/>
+בפנים ומכניסין אותה מיד זאת <choice><abbr>שניטמא<am>׳</am></abbr><expan>שניטמאת</expan></choice> באב <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> מטבילין <choice><abbr>אות<am>׳</am></abbr><expan>אותה</expan></choice> 
+<pb n="157r" xml:id="S00631.157r"/><lb n="1"/>
+בחוץ ושוחטין אותה בחול מפני שצריכה הערב שמש ואם היתה <lb n="2"/>
+חדשה שוחטין אותה על גב האיצטבה כדי שיראו העם מלאכת שהיא <lb n="3"/>
+נאוה‏‎</ab>
+<ab xml:id="S00631.2.4.8.5" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/><choice><abbr>ר<am>׳</am>ש<am>׳</am>ב<am>׳</am>ג<am>׳</am></abbr><expan>רבן שמעון בן גמליאל</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>משו<am>׳</am></abbr><expan>משום</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>שמעו<am>׳</am></abbr><expan>שמעון</expan></choice> בן הסגן פרכת עוביה טפח ושל שבעים <lb n="4"/>
+ושתים נארגת וכל נימא <choice><abbr>ונימ<am>׳</am></abbr><expan>ונימא</expan></choice> <choice><abbr>עשרי<am>׳</am></abbr><expan>עשרים</expan></choice> חוטין%ב וארבע%א ארוכה <choice><abbr>ארבעי<am>׳</am></abbr><expan>ארבעים</expan></choice> אמה <lb n="5"/>
+ורחבה <choice><abbr>עשרי<am>׳</am></abbr><expan>עשרים</expan></choice> <choice><abbr>אמ<am>׳</am></abbr><expan>אמה</expan></choice> <choice><abbr>ומשמוני<am>׳</am></abbr><expan>ומשמונים</expan></choice> ושתים נירין <seg>ריבו<del hand="1h"><damage><unclear reason="damage" extent="1"/></damage></del><add hand="1h">א</add></seg> היתה נעשת ושתים עושין <lb n="6"/>
+בכל שנה ושלש מאות כהנים מטבילין אותה<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.8.6" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>בשר קדשי הקדשים <lb n="7"/>
+<abbr>שניטמא<am>׳</am></abbr><expan/> בין באב <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> בין בוולד <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> בין בפנים בין בחוץ <choice><abbr>בי<am>׳</am></abbr><expan>בית</expan></choice> שמי <lb n="8"/>
+<choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> ישרף בפנים חוץ <choice><abbr>משניטמ<am>׳</am></abbr><expan>משניטמא</expan></choice> באב <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> בחוץ <choice><abbr>וב<am>׳</am>ה<am>׳</am></abbr><expan>ובית הלל</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומרים</expan></choice> הכל ישרף בחוץ <lb n="9"/>
+חוץ <choice><abbr>משניטמ<am>׳</am></abbr><expan>משניטמא</expan></choice> בולד <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> בפנים‏‎</ab>
+<ab xml:id="S00631.2.4.8.7" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/><choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>אליע<am>׳</am></abbr><expan>אליעזר</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> את <choice><abbr>שניטמ<am>׳</am></abbr><expan>שניטמא</expan></choice> באב <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> בין <lb n="10"/>
+<choice><abbr>בפני<am>׳</am></abbr><expan>בפנים</expan></choice> בין בחוץ <choice><abbr>ישר<am>׳</am></abbr><expan>ישרף</expan></choice> <choice><abbr>בחו<am>׳</am></abbr><expan>בחוץ</expan></choice> ואת <choice><abbr>שניטמ<am>׳</am></abbr><expan>שניטמא</expan></choice> בולד <choice><abbr>הטומ<am>׳</am></abbr><expan>הטומאה</expan></choice> <choice><abbr>בי<am>׳</am></abbr><expan>בין</expan></choice> <choice><abbr>בחו<am>׳</am></abbr><expan>בחוץ</expan></choice> <choice><abbr>בי<am>׳</am></abbr><expan>בין</expan></choice> <choice><abbr>בפני<am>׳</am></abbr><expan>בפנים</expan></choice> ישרף <lb n="11"/>
+<choice><abbr>בפני<am>׳</am></abbr><expan>בפנים</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקי<am>׳</am></abbr><expan>עקיבה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <choice><abbr>מקו<am>׳</am></abbr><expan>מקום</expan></choice> טומאתו שם שריפתו<pc unit="stop">..</pc> <space/>‏‎</ab>
+<ab xml:id="S00631.2.4.8.8" type="textpart" subtype="mishnah">‎‏<milestone unit="MSMishnah"/>אימורי תמיד ניתנין מחצי <lb n="12"/>
+כבש ולמטה במזרח ושל <choice><abbr>מוספי<am>׳</am></abbr><expan>מוספים</expan></choice> ניתנין מחצי כבש ולמטה במערב ושל <lb n="13"/>
+ראשי <choice><abbr>חדשי<am>׳</am></abbr><expan>חדשים</expan></choice> מתחת כרכוב המזבח ולמטה <choice><abbr>השקלי<am>׳</am></abbr><expan>השקלים</expan></choice> <choice><abbr>והביכורי<am>׳</am></abbr><expan>והביכורים</expan></choice> <choice><abbr>אי<am>׳</am></abbr><expan>אינם</expan></choice> נוהגין <lb n="14"/>
+<choice><abbr>אל<am>׳</am></abbr><expan>אלא</expan></choice> בפני הבית אבל מעשר דגן ומעשר בכורות נוהגין בין בפני הבית בין <lb n="15"/>
+שלא בפני הבית המקדש שקלים <choice><abbr>וביכורי<am>׳</am></abbr><expan>וביכורים</expan></choice> הרי זה קודש <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>שמע<am>׳</am></abbr><expan>שמעון</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> <lb n="16"/>
+<choice><abbr>האו<am>׳</am></abbr><expan>האומר</expan></choice> <choice><abbr>ביכורי<am>׳</am></abbr><expan>ביכורים</expan></choice> קודש <choice><abbr>שקלי<am>׳</am></abbr><expan>שקלים</expan></choice> אינן קודש<pc unit="stop">..</pc> <abbr>ס<am>׳</am>פ<am>׳</am></abbr><expan/><pc unit="unitEnd">..</pc> ‏‎</ab>
+
+          </div3>
+          </div2>
+          </div1>
+         </body></text></TEI>

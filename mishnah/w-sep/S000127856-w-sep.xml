@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Electronic Edition Mishnah Sheqalim, S000127856
+                </title>
+                <editor>
+                    <persName corresp="ref.xml#HL">Hayim Lapin</persName>
+                </editor>
+                <respStmt>
+                    <resp>transcriber</resp>
+                     <persName corresp="ref.xml#KJ">Katrin Jansen</persName>
+                     <persName corresp="ref.xml#ML">Matthias Lehmann</persName>
+                     <persName corresp="ref.xml#GN">Gerold Necker</persName>
+                     <persName corresp="ref.xml#GW">Gert Wildensee</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>markup</resp>
+                    <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
+                </respStmt>
+                <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
+                <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
+                    Literature</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digital Mishnah Project</publisher>
+                <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
+                <address>
+                    <addrLine>B0131 McKeldin Library</addrLine>
+                    <addrLine>University of Maryland</addrLine>
+                    <addrLine>College Park, MD</addrLine>
+                </address>
+                <idno type="local">S000127856</idno>
+                <availability status="restricted">
+                    <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
+                        Center for Jewish Studies and licensed under a .</p>
+                </availability>
+                <pubPlace>College Park, MD USA</pubPlace>
+                <date>2012-06-15</date>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                <p>Mishnah text, extracted from the Ms. Munich Cod. hebr. 205 Bayerische Staatsbibliothek
+                as published in .</p>
+                    <p>This manuscript is a manuscript of Midrash Hashkem/Midrash Ve-Hizhir. 
+                    In the absence of a catalog number in the Sussmann Catalog, we use the system number in NLI.</p>
+                    
+                <p>Based on a transcription by Katrin Jansen, Matthias Lehmann, Gerold Necker
+                und Gert Wildensee, last revision by Hans-Jürgen Becker. Responsibility by
+                Peter Schäfer, Hans-Jürgen Becker. Converted to TEI by Gottfried Reeg using
+                TUSCRIPT</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier/>
+                    <msContents>
+                        <msItem>
+                            <title>Midrash Hashkem</title>
+                            <note type="nli-ref">http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000127856&amp;local_base=NNL01</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc/>
+                        <handDesc/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl> </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+         <listTranspose/>
+      </profileDesc>
+      <revisionDesc>
+        <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
+         <change who="ref.xml#KJ ref.xml#ML ref.xml#GN ref.xml#GW" notAfter="2000">Original Transcription for Yerushalmi Synopsis</change>
+         <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
+        </revisionDesc>
+    </teiHeader>
+   <text xml:lang="heb" type="edition">
+      <body>
+            <div1 type="order" subtype="order" xml:id="S000127856.2">
+                <div2 type="tractate" subtype="tractate" xml:id="S000127856.2.4">
+               <div3 n="Chapter1"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.1">
+                  <pb xml:id="S000127856.077r" n="77r"/>
+                  <lb xml:id="S000127856.077r.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.1.6">
+                     <w xml:id="S000127856.2.4.1.6.00100">‎‏ואלו</w>
+                     <w xml:id="S000127856.2.4.1.6.00200">חייבין</w>
+                     <lb xml:id="S000127856.077r.02" n="2"/>
+                     <w xml:id="S000127856.2.4.1.6.00300">בקלבון</w>
+                     <w xml:id="S000127856.2.4.1.6.00400">לוים</w>
+                     <w xml:id="S000127856.2.4.1.6.00500">
+                        <abbr>ויש<am>׳</am>
+                        </abbr>
+                        <expan/>
+                     </w>
+                     <w xml:id="S000127856.2.4.1.6.00600">גרים</w>
+                     <w xml:id="S000127856.2.4.1.6.00700">ועבדים</w>
+                     <w xml:id="S000127856.2.4.1.6.00800">משוחררים</w>
+                     <w xml:id="S000127856.2.4.1.6.00900">אבל</w>
+                     <w xml:id="S000127856.2.4.1.6.01000">לא</w>
+                     <w xml:id="S000127856.2.4.1.6.01100">עבדים</w>
+                     <lb xml:id="S000127856.077r.03" n="3"/>
+                     <w xml:id="S000127856.2.4.1.6.01200">ולא</w>
+                     <w xml:id="S000127856.2.4.1.6.01300">קטנים</w>
+                     <w xml:id="S000127856.2.4.1.6.01400">השוקל</w>
+                     <w xml:id="S000127856.2.4.1.6.01500">על</w>
+                     <w xml:id="S000127856.2.4.1.6.01600">יד</w>
+                     <w xml:id="S000127856.2.4.1.6.01700">העם</w>
+                     <w xml:id="S000127856.2.4.1.6.01800">על</w>
+                     <w xml:id="S000127856.2.4.1.6.01900">יד</w>
+                     <w xml:id="S000127856.2.4.1.6.02000">האשה</w>
+                     <w xml:id="S000127856.2.4.1.6.02100">על</w>
+                     <w xml:id="S000127856.2.4.1.6.02200">יד</w>
+                     <w xml:id="S000127856.2.4.1.6.02300">הכהן</w>
+                     <lb xml:id="S000127856.077r.04" n="4"/>
+                     <w xml:id="S000127856.2.4.1.6.02400">על</w>
+                     <w xml:id="S000127856.2.4.1.6.02500">יד</w>
+                     <w xml:id="S000127856.2.4.1.6.02600">הקטן</w>
+                     <w xml:id="S000127856.2.4.1.6.02700">אסור</w>
+                     <w xml:id="S000127856.2.4.1.6.02800">על</w>
+                     <w xml:id="S000127856.2.4.1.6.02900">ידו</w>
+                     <w xml:id="S000127856.2.4.1.6.03000">ועל</w>
+                     <w xml:id="S000127856.2.4.1.6.03100">יד</w>
+                     <w xml:id="S000127856.2.4.1.6.03200">חברו</w>
+                     <w xml:id="S000127856.2.4.1.6.03300">חייב</w>
+                     <w xml:id="S000127856.2.4.1.6.03400">קלבון</w>
+                     <w xml:id="S000127856.2.4.1.6.03500">אחד</w>
+                     <w xml:id="S000127856.2.4.1.6.03600">
+                        <choice>
+                           <abbr>ר<am>׳</am>
+                           </abbr>
+                           <expan>רבי</expan>
+                        </choice>
+                     </w>
+                     <lb xml:id="S000127856.077r.05" n="5"/>
+                     <w xml:id="S000127856.2.4.1.6.03700">מאיר</w>
+                     <w xml:id="S000127856.2.4.1.6.03800">
+                        <choice>
+                           <abbr>א<am>׳</am>
+                           </abbr>
+                           <expan>אמר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.1.6.03900">שני</w>
+                     <w xml:id="S000127856.2.4.1.6.04000">קלבונות</w>
+                     <pc unit="unitEnd">.</pc>
+                     <lb xml:id="S000127856.077r.06" n="6"/>
+                     <w xml:id="S000127856.2.4.1.6.04100">‏‎</w>
+                  </ab>
+               </div3> 
+               <gap xml:id="S000127856.077r.06.d6e320" reason="talmud" extent="999"/>
+               <div3 n="Chapter2"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.2">
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.2.1">
+                     <w xml:id="S000127856.2.4.2.1.00100">‎‏בני</w>
+                     <w xml:id="S000127856.2.4.2.1.00200">העיר</w>
+                     <w xml:id="S000127856.2.4.2.1.00300">ששלחו</w>
+                     <lb xml:id="S000127856.077r.07" n="7"/>
+                     <w xml:id="S000127856.2.4.2.1.00400">את</w>
+                     <w xml:id="S000127856.2.4.2.1.00500">שקליהן</w>
+                     <w xml:id="S000127856.2.4.2.1.00600">ונגנבו</w>
+                     <w xml:id="S000127856.2.4.2.1.00700">או</w>
+                     <w xml:id="S000127856.2.4.2.1.00800">שאבדו</w>
+                     <w xml:id="S000127856.2.4.2.1.00900">אם</w>
+                     <w xml:id="S000127856.2.4.2.1.01000">נתרמה</w>
+                     <w xml:id="S000127856.2.4.2.1.01100">התרומה</w>
+                     <w xml:id="S000127856.2.4.2.1.01200">נשבעין</w>
+                     <lb xml:id="S000127856.077r.08" n="8"/>
+                     <w xml:id="S000127856.2.4.2.1.01300">לגזברין</w>
+                     <w xml:id="S000127856.2.4.2.1.01400">ואם</w>
+                     <w xml:id="S000127856.2.4.2.1.01500">לאו</w>
+                     <w xml:id="S000127856.2.4.2.1.01600">נשבעין</w>
+                     <w xml:id="S000127856.2.4.2.1.01700">לבני</w>
+                     <w xml:id="S000127856.2.4.2.1.01800">העיר</w>
+                     <w xml:id="S000127856.2.4.2.1.01900">ובני</w>
+                     <w xml:id="S000127856.2.4.2.1.02000">העיר</w>
+                     <w xml:id="S000127856.2.4.2.1.02100">שוקלין</w>
+                     <w xml:id="S000127856.2.4.2.1.02200">תחתיהן</w>
+                     <lb xml:id="S000127856.077r.09" n="9"/>
+                     <gap xml:id="S000127856.077r.09.d6e398" reason="talmud" extent="999"/>
+                     <w xml:id="S000127856.2.4.2.1.02300">נמצאו</w>
+                     <w xml:id="S000127856.2.4.2.1.02400">או</w>
+                     <lb xml:id="S000127856.077r.10" n="10"/>
+                     <w xml:id="S000127856.2.4.2.1.02500">שהחזירום</w>
+                     <w xml:id="S000127856.2.4.2.1.02600">הגנבים</w>
+                     <w xml:id="S000127856.2.4.2.1.02700">אלו</w>
+                     <w xml:id="S000127856.2.4.2.1.02800">ואלו</w>
+                     <w xml:id="S000127856.2.4.2.1.02900">שקלים</w>
+                     <w xml:id="S000127856.2.4.2.1.03000">ואין</w>
+                     <w xml:id="S000127856.2.4.2.1.03100">עולין</w>
+                     <w xml:id="S000127856.2.4.2.1.03200">להם</w>
+                     <w xml:id="S000127856.2.4.2.1.03300">לשנה</w>
+                     <w xml:id="S000127856.2.4.2.1.03400">הבא</w>
+                     <w xml:id="S000127856.2.4.2.1.03500">‏‎</w>
+                  </ab>
+               </div3> 
+               <gap xml:id="S000127856.077r.10.d6e445" reason="talmud" extent="999"/>
+               <div3 n="Chapter3"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.3">
+                  <pb xml:id="S000127856.077v" n="77v"/>
+                  <lb xml:id="S000127856.077v.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.3.1">
+                     <w xml:id="S000127856.2.4.3.1.00100">‎‏בשלשה</w>
+                     <w xml:id="S000127856.2.4.3.1.00200">פרקים</w>
+                     <w xml:id="S000127856.2.4.3.1.00300">בשנה</w>
+                     <w xml:id="S000127856.2.4.3.1.00400">תורמין</w>
+                     <w xml:id="S000127856.2.4.3.1.00500">את</w>
+                     <lb xml:id="S000127856.077v.02" n="2"/>
+                     <w xml:id="S000127856.2.4.3.1.00600">הלשכה</w>
+                     <w xml:id="S000127856.2.4.3.1.00700">בפרס</w>
+                     <w xml:id="S000127856.2.4.3.1.00800">הפסח</w>
+                     <w xml:id="S000127856.2.4.3.1.00900">
+                        <choice>
+                           <abbr>בפ<am>׳</am>
+                           </abbr>
+                           <expan>בפרס</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.1.01000">העצרת</w>
+                     <w xml:id="S000127856.2.4.3.1.01100">בפרס</w>
+                     <w xml:id="S000127856.2.4.3.1.01200">החג</w>
+                     <w xml:id="S000127856.2.4.3.1.01300">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.077v.02.d6e498" reason="talmud" extent="999"/>
+                  <pb xml:id="S000127856.078r" n="78r"/>
+                  <lb xml:id="S000127856.078r.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.3.2">
+                     <w xml:id="S000127856.2.4.3.2.00100">‎‏בשלש</w>
+                     <w xml:id="S000127856.2.4.3.2.00200">קופות</w>
+                     <lb xml:id="S000127856.078r.02" n="2"/>
+                     <w xml:id="S000127856.2.4.3.2.00300">של</w>
+                     <w xml:id="S000127856.2.4.3.2.00400">שלש</w>
+                     <w xml:id="S000127856.2.4.3.2.00500">שלש</w>
+                     <w xml:id="S000127856.2.4.3.2.00600">סאים</w>
+                     <w xml:id="S000127856.2.4.3.2.00700">תורמין</w>
+                     <w xml:id="S000127856.2.4.3.2.00800">את</w>
+                     <w xml:id="S000127856.2.4.3.2.00900">הלשכה</w>
+                     <w xml:id="S000127856.2.4.3.2.01000">
+                        <choice>
+                           <abbr>וכת<am>׳</am>
+                           </abbr>
+                           <expan>וכתוב</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.01100">בהו</w>
+                     <w xml:id="S000127856.2.4.3.2.01200">אלף</w>
+                     <w xml:id="S000127856.2.4.3.2.01300">בית</w>
+                     <lb xml:id="S000127856.078r.03" n="3"/>
+                     <w xml:id="S000127856.2.4.3.2.01400">גימל</w>
+                     <w xml:id="S000127856.2.4.3.2.01500">
+                        <choice>
+                           <abbr>ר<am>׳</am>
+                           </abbr>
+                           <expan>רבי</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.01600">ישמעאל</w>
+                     <w xml:id="S000127856.2.4.3.2.01700">
+                        <choice>
+                           <abbr>או<am>׳</am>
+                           </abbr>
+                           <expan>אומר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.01800">בלשון</w>
+                     <w xml:id="S000127856.2.4.3.2.01900">יונית</w>
+                     <w xml:id="S000127856.2.4.3.2.02000">
+                        <choice>
+                           <abbr>כת<am>׳</am>
+                           </abbr>
+                           <expan>כתוב</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.02100">עליהן</w>
+                     <w xml:id="S000127856.2.4.3.2.02200">אלפא</w>
+                     <w xml:id="S000127856.2.4.3.2.02300">בטא</w>
+                     <w xml:id="S000127856.2.4.3.2.02400">גמא</w>
+                     <lb xml:id="S000127856.078r.04" n="4"/>
+                     <gap xml:id="S000127856.078r.04.d6e608" reason="talmud" extent="999"/>
+                     <w xml:id="S000127856.2.4.3.2.02500">תני</w>
+                     <w xml:id="S000127856.2.4.3.2.02600">אין</w>
+                     <w xml:id="S000127856.2.4.3.2.02700">התורם</w>
+                     <w xml:id="S000127856.2.4.3.2.02800">נכנס</w>
+                     <w xml:id="S000127856.2.4.3.2.02900">לא</w>
+                     <w xml:id="S000127856.2.4.3.2.03000">בפרגו<damageSpan type="damage" spanTo="#S000127856.078r.04.d5d3e286"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.078r.04.d5d3e287"
+                                    subtype="damage"/>ד<anchor type="unclear" xml:id="S000127856.078r.04.d5d3e287"/>
+                        <anchor type="damage" xml:id="S000127856.078r.04.d5d3e286"/>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.03100">חפות</w>
+                     <w xml:id="S000127856.2.4.3.2.03200">ולא</w>
+                     <surplus xml:id="S000127856.078r.04.surplus.d6e642">?</surplus>
+                     <lb xml:id="S000127856.078r.05" n="5"/>
+                     <w xml:id="S000127856.2.4.3.2.03300">במנעל</w>
+                     <w xml:id="S000127856.2.4.3.2.03400">ולא</w>
+                     <w xml:id="S000127856.2.4.3.2.03500">בסנדל</w>
+                     <w xml:id="S000127856.2.4.3.2.03600">ולא</w>
+                     <w xml:id="S000127856.2.4.3.2.03700">בתפלה</w>
+                     <w xml:id="S000127856.2.4.3.2.03800">ולא</w>
+                     <w xml:id="S000127856.2.4.3.2.03900">בקמיע</w>
+                     <w xml:id="S000127856.2.4.3.2.04000">שמא</w>
+                     <w xml:id="S000127856.2.4.3.2.04100">יעני</w>
+                     <w xml:id="S000127856.2.4.3.2.04200">ויאמרו</w>
+                     <lb xml:id="S000127856.078r.06" n="6"/>
+                     <w xml:id="S000127856.2.4.3.2.04300">מעון</w>
+                     <w xml:id="S000127856.2.4.3.2.04400">תרומת</w>
+                     <w xml:id="S000127856.2.4.3.2.04500">הלשכה</w>
+                     <w xml:id="S000127856.2.4.3.2.04600">העני</w>
+                     <w xml:id="S000127856.2.4.3.2.04700">ושמא</w>
+                     <w xml:id="S000127856.2.4.3.2.04800">יעשיר</w>
+                     <w xml:id="S000127856.2.4.3.2.04900">ויאמרו</w>
+                     <w xml:id="S000127856.2.4.3.2.05000">מתרומת</w>
+                     <lb xml:id="S000127856.078r.07" n="7"/>
+                     <w xml:id="S000127856.2.4.3.2.05100">הלשכה</w>
+                     <w xml:id="S000127856.2.4.3.2.05200">העשיר</w>
+                     <w xml:id="S000127856.2.4.3.2.05300">שצריך</w>
+                     <w xml:id="S000127856.2.4.3.2.05400">אדם</w>
+                     <w xml:id="S000127856.2.4.3.2.05500">לצאת</w>
+                     <w xml:id="S000127856.2.4.3.2.05600">ידי</w>
+                     <w xml:id="S000127856.2.4.3.2.05700">הבריות</w>
+                     <w xml:id="S000127856.2.4.3.2.05800">כשם</w>
+                     <w xml:id="S000127856.2.4.3.2.05900">שהוא</w>
+                     <lb xml:id="S000127856.078r.08" n="8"/>
+                     <w xml:id="S000127856.2.4.3.2.06000">צריך</w>
+                     <w xml:id="S000127856.2.4.3.2.06100">לצאת</w>
+                     <w xml:id="S000127856.2.4.3.2.06200">ידי</w>
+                     <w xml:id="S000127856.2.4.3.2.06300">המקום</w>
+                     <w xml:id="S000127856.2.4.3.2.06400">
+                        <choice>
+                           <abbr>שנ<am>׳</am>
+                           </abbr>
+                           <expan>שנאמר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.06500">והייתם</w>
+                     <w xml:id="S000127856.2.4.3.2.06600">נקים</w>
+                     <w xml:id="S000127856.2.4.3.2.06700">מיי׳</w>
+                     <w xml:id="S000127856.2.4.3.2.06800">
+                        <choice>
+                           <abbr>ומיש<am>׳</am>
+                           </abbr>
+                           <expan>ומישראל</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.06900">
+                        <choice>
+                           <abbr>ואו<am>׳</am>
+                           </abbr>
+                           <expan>ואומר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.07000">ומצא</w>
+                     <lb xml:id="S000127856.078r.09" n="9"/>
+                     <w xml:id="S000127856.2.4.3.2.07100">חן</w>
+                     <w xml:id="S000127856.2.4.3.2.07200">ושכל</w>
+                     <w xml:id="S000127856.2.4.3.2.07300">טוב</w>
+                     <w xml:id="S000127856.2.4.3.2.07400">
+                        <choice>
+                           <abbr>בע<am>׳</am>
+                           </abbr>
+                           <expan>בעיני</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.07500">
+                        <choice>
+                           <abbr>א<am>׳</am>ים</abbr>
+                           <expan>אלהים</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.2.07600">ואדם</w>
+                     <pc unit="unitEnd">.</pc>
+                     <lb xml:id="S000127856.078r.10" n="10"/>
+                     <w xml:id="S000127856.2.4.3.2.07700">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.078r.10.d6e832" reason="talmud" extent="999"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.3.3">
+                     <w xml:id="S000127856.2.4.3.3.00100">‎‏של</w>
+                     <w xml:id="S000127856.2.4.3.3.00200">בית</w>
+                     <w xml:id="S000127856.2.4.3.3.00300">רבן</w>
+                     <w xml:id="S000127856.2.4.3.3.00400">
+                        <choice>
+                           <abbr>גמל<am>׳</am>
+                           </abbr>
+                           <expan>גמליאל</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.3.00500">היה</w>
+                     <w xml:id="S000127856.2.4.3.3.00600">מכניס</w>
+                     <w xml:id="S000127856.2.4.3.3.00700">שקלו</w>
+                     <w xml:id="S000127856.2.4.3.3.00800">בין</w>
+                     <w xml:id="S000127856.2.4.3.3.00900">אצבעותיו</w>
+                     <w xml:id="S000127856.2.4.3.3.01000">וזורקו</w>
+                     <w xml:id="S000127856.2.4.3.3.01100">לפני</w>
+                     <lb xml:id="S000127856.078r.11" n="11"/>
+                     <w xml:id="S000127856.2.4.3.3.01200">התורם</w>
+                     <w xml:id="S000127856.2.4.3.3.01300">והתורם</w>
+                     <w xml:id="S000127856.2.4.3.3.01400">דוחפו</w>
+                     <w xml:id="S000127856.2.4.3.3.01500">לקופה</w>
+                     <w xml:id="S000127856.2.4.3.3.01600">^$3.4/005 אין</w>
+                     <w xml:id="S000127856.2.4.3.3.01700">התורם</w>
+                     <w xml:id="S000127856.2.4.3.3.01800">תורם</w>
+                     <w xml:id="S000127856.2.4.3.3.01900">עד</w>
+                     <w xml:id="S000127856.2.4.3.3.02000">שהוא</w>
+                     <w xml:id="S000127856.2.4.3.3.02100">
+                        <choice>
+                           <abbr>או<am>׳</am>
+                           </abbr>
+                           <expan>אומר</expan>
+                        </choice>
+                     </w>
+                     <pb xml:id="S000127856.078v" n="78v"/>
+                     <lb xml:id="S000127856.078v.01" n="1"/>
+                     <w xml:id="S000127856.2.4.3.3.02200">אתרום</w>
+                     <w xml:id="S000127856.2.4.3.3.02300">והן</w>
+                     <w xml:id="S000127856.2.4.3.3.02400">
+                        <choice>
+                           <abbr>אומ<am>׳</am>
+                           </abbr>
+                           <expan>אומרים</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.3.02500">לו</w>
+                     <w xml:id="S000127856.2.4.3.3.02600">תרום</w>
+                     <w xml:id="S000127856.2.4.3.3.02700">תרום</w>
+                     <w xml:id="S000127856.2.4.3.3.02800">שלשה</w>
+                     <w xml:id="S000127856.2.4.3.3.02900">פעמים‏‎</w>
+                  </ab>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.3.4">
+                     <w xml:id="S000127856.2.4.3.4.00100">‎‏תרם</w>
+                     <w xml:id="S000127856.2.4.3.4.00200">את</w>
+                     <lb xml:id="S000127856.078v.02" n="2"/>
+                     <w xml:id="S000127856.2.4.3.4.00300">הראשונה</w>
+                     <w xml:id="S000127856.2.4.3.4.00400">וחיפה</w>
+                     <w xml:id="S000127856.2.4.3.4.00500">בקטבלאות</w>
+                     <w xml:id="S000127856.2.4.3.4.00600">ושניה</w>
+                     <w xml:id="S000127856.2.4.3.4.00700">חיפה</w>
+                     <w xml:id="S000127856.2.4.3.4.00800">בקטבלאות</w>
+                     <lb xml:id="S000127856.078v.03" n="3"/>
+                     <w xml:id="S000127856.2.4.3.4.00900">השלישית</w>
+                     <w xml:id="S000127856.2.4.3.4.01000">לא</w>
+                     <w xml:id="S000127856.2.4.3.4.01100">היה</w>
+                     <w xml:id="S000127856.2.4.3.4.01200">מחפה</w>
+                     <w xml:id="S000127856.2.4.3.4.01300">ולא</w>
+                     <w xml:id="S000127856.2.4.3.4.01400">לא</w>
+                     <w xml:id="S000127856.2.4.3.4.01500">היה</w>
+                     <w xml:id="S000127856.2.4.3.4.01600">מחפה</w>
+                     <w xml:id="S000127856.2.4.3.4.01700">שמא</w>
+                     <w xml:id="S000127856.2.4.3.4.01800">ישכח</w>
+                     <lb xml:id="S000127856.078v.04" n="4"/>
+                     <w xml:id="S000127856.2.4.3.4.01900">ויתרום</w>
+                     <w xml:id="S000127856.2.4.3.4.02000">מן</w>
+                     <w xml:id="S000127856.2.4.3.4.02100">הדבר</w>
+                     <w xml:id="S000127856.2.4.3.4.02200">התרום</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.3.4.02300">תרם</w>
+                     <w xml:id="S000127856.2.4.3.4.02400">את</w>
+                     <w xml:id="S000127856.2.4.3.4.02500">הראשונה</w>
+                     <w xml:id="S000127856.2.4.3.4.02600">לשם</w>
+                     <w xml:id="S000127856.2.4.3.4.02700">ארץ</w>
+                     <lb xml:id="S000127856.078v.05" n="5"/>
+                     <w xml:id="S000127856.2.4.3.4.02800">
+                        <choice>
+                           <abbr>יש<am>׳</am>
+                           </abbr>
+                           <expan>ישראל</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.3.4.02900">
+                        <choice>
+                           <abbr>וכול<am>׳</am>
+                           </abbr>
+                           <expan>וכוליה</expan>
+                        </choice>
+                     </w>
+                     <pc unit="unitEnd">.</pc>
+                     <lb xml:id="S000127856.078v.06" n="6"/>
+                     <w xml:id="S000127856.2.4.3.4.03000">‏‎</w>
+                  </ab>
+               </div3> 
+               <gap xml:id="S000127856.078v.06.d6e1074" reason="talmud" extent="999"/>
+               <div3 n="Chapter4"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.4">
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.4.1">
+                     <w xml:id="S000127856.2.4.4.1.00100">‎‏התרומה</w>
+                     <w xml:id="S000127856.2.4.4.1.00200">מה</w>
+                     <w xml:id="S000127856.2.4.4.1.00300">היו</w>
+                     <w xml:id="S000127856.2.4.4.1.00400">עושין</w>
+                     <w xml:id="S000127856.2.4.4.1.00500">בה</w>
+                     <w xml:id="S000127856.2.4.4.1.00600">לוקחין</w>
+                     <w xml:id="S000127856.2.4.4.1.00700">בה</w>
+                     <w xml:id="S000127856.2.4.4.1.00800">תמידין</w>
+                     <w xml:id="S000127856.2.4.4.1.00900">ומוספין</w>
+                     <surplus xml:id="S000127856.078v.06.surplus.d6e1105">?</surplus>
+                     <lb xml:id="S000127856.078v.07" n="7"/>
+                     <w xml:id="S000127856.2.4.4.1.01000">ונשכיהם</w>
+                     <w xml:id="S000127856.2.4.4.1.01100">והעומר</w>
+                     <w xml:id="S000127856.2.4.4.1.01200">ושתו</w>
+                     <w xml:id="S000127856.2.4.4.1.01300">הלחם</w>
+                     <w xml:id="S000127856.2.4.4.1.01400">ולחם</w>
+                     <w xml:id="S000127856.2.4.4.1.01500">הפנים</w>
+                     <w xml:id="S000127856.2.4.4.1.01600">וכל</w>
+                     <w xml:id="S000127856.2.4.4.1.01700">קרבנות</w>
+                     <lb xml:id="S000127856.078v.08" n="8"/>
+                     <w xml:id="S000127856.2.4.4.1.01800">הציבור</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.4.1.01900">שומרי</w>
+                     <w xml:id="S000127856.2.4.4.1.02000">ספחים</w>
+                     <w xml:id="S000127856.2.4.4.1.02100">בשביעית</w>
+                     <w xml:id="S000127856.2.4.4.1.02200">נוטלין</w>
+                     <w xml:id="S000127856.2.4.4.1.02300">שכרן</w>
+                     <w xml:id="S000127856.2.4.4.1.02400">מתרומת</w>
+                     <lb xml:id="S000127856.078v.09" n="9"/>
+                     <w xml:id="S000127856.2.4.4.1.02500">הלשכה</w>
+                     <lb xml:id="S000127856.078v.10" n="10"/>
+                     <w xml:id="S000127856.2.4.4.1.02600">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.078v.10.d6e1171" reason="talmud" extent="999"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.4.2">
+                     <w xml:id="S000127856.2.4.4.2.00100">‎‏פרה</w>
+                     <w xml:id="S000127856.2.4.4.2.00200">ושעיר</w>
+                     <w xml:id="S000127856.2.4.4.2.00300">המשתלח</w>
+                     <lb xml:id="S000127856.078v.11" n="11"/>
+                     <w xml:id="S000127856.2.4.4.2.00400">באין</w>
+                     <w xml:id="S000127856.2.4.4.2.00500">
+                        <choice>
+                           <abbr>מת<am>׳</am>
+                           </abbr>
+                           <expan>מתרומת</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.2.00600">
+                        <choice>
+                           <abbr>הל<am>׳</am>
+                           </abbr>
+                           <expan>הלשכה</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.2.00700">כבש</w>
+                     <w xml:id="S000127856.2.4.4.2.00800">פרה</w>
+                     <w xml:id="S000127856.2.4.4.2.00900">וכבש</w>
+                     <w xml:id="S000127856.2.4.4.2.01000">שעיר</w>
+                     <w xml:id="S000127856.2.4.4.2.01100">המשתלח</w>
+                     <w xml:id="S000127856.2.4.4.2.01200">ולשון</w>
+                     <w xml:id="S000127856.2.4.4.2.01300">שבין</w>
+                     <w xml:id="S000127856.2.4.4.2.01400">קרניו</w>
+                     <pb xml:id="S000127856.079r" n="79r"/>
+                     <lb xml:id="S000127856.079r.01" n="1"/>
+                     <w xml:id="S000127856.2.4.4.2.01500">ואמת</w>
+                     <w xml:id="S000127856.2.4.4.2.01600">המים</w>
+                     <w xml:id="S000127856.2.4.4.2.01700">וחומת</w>
+                     <w xml:id="S000127856.2.4.4.2.01800">העיר</w>
+                     <w xml:id="S000127856.2.4.4.2.01900">ומגדלותיה</w>
+                     <w xml:id="S000127856.2.4.4.2.02000">וכל</w>
+                     <w xml:id="S000127856.2.4.4.2.02100">צורכי</w>
+                     <w xml:id="S000127856.2.4.4.2.02200">העיר</w>
+                     <w xml:id="S000127856.2.4.4.2.02300">באין</w>
+                     <lb xml:id="S000127856.079r.02" n="2"/>
+                     <w xml:id="S000127856.2.4.4.2.02400">מתרומת</w>
+                     <w xml:id="S000127856.2.4.4.2.02500">הלשכה</w>
+                     <w xml:id="S000127856.2.4.4.2.02600">אבא</w>
+                     <w xml:id="S000127856.2.4.4.2.02700">שאול</w>
+                     <w xml:id="S000127856.2.4.4.2.02800">
+                        <choice>
+                           <abbr>או<am>׳</am>
+                           </abbr>
+                           <expan>אומר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.2.02900">כבש</w>
+                     <w xml:id="S000127856.2.4.4.2.03000">פרה</w>
+                     <w xml:id="S000127856.2.4.4.2.03100">כהנים</w>
+                     <w xml:id="S000127856.2.4.4.2.03200">גדולים</w>
+                     <lb xml:id="S000127856.079r.03" n="3"/>
+                     <w xml:id="S000127856.2.4.4.2.03300">עושין</w>
+                     <w xml:id="S000127856.2.4.4.2.03400">אותה</w>
+                     <w xml:id="S000127856.2.4.4.2.03500">משל</w>
+                     <w xml:id="S000127856.2.4.4.2.03600">עצמן</w>
+                     <lb xml:id="S000127856.079r.04" n="4"/>
+                     <w xml:id="S000127856.2.4.4.2.03700">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.079r.04.d6e1319" reason="talmud" extent="999"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.4.3">
+                     <w xml:id="S000127856.2.4.4.3.00100">‎‏מותר</w>
+                     <w xml:id="S000127856.2.4.4.3.00200">שיירי</w>
+                     <w xml:id="S000127856.2.4.4.3.00300">הלשכות</w>
+                     <w xml:id="S000127856.2.4.4.3.00400">מה</w>
+                     <w xml:id="S000127856.2.4.4.3.00500">היו</w>
+                     <w xml:id="S000127856.2.4.4.3.00600">עושין</w>
+                     <w xml:id="S000127856.2.4.4.3.00700">בהן</w>
+                     <lb xml:id="S000127856.079r.05" n="5"/>
+                     <w xml:id="S000127856.2.4.4.3.00800">לוקחין</w>
+                     <w xml:id="S000127856.2.4.4.3.00900">בהן</w>
+                     <w xml:id="S000127856.2.4.4.3.01000">יינות</w>
+                     <w xml:id="S000127856.2.4.4.3.01100">שמנים</w>
+                     <w xml:id="S000127856.2.4.4.3.01200">וסלתות</w>
+                     <w xml:id="S000127856.2.4.4.3.01300">והשכר</w>
+                     <w xml:id="S000127856.2.4.4.3.01400">להקדש</w>
+                     <w xml:id="S000127856.2.4.4.3.01500">
+                        <choice>
+                           <abbr>דב<am>׳</am>
+                           </abbr>
+                           <expan>דברי</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.3.01600">
+                        <choice>
+                           <abbr>ר<am>׳</am>
+                           </abbr>
+                           <expan>רבי</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.3.01700">
+                        <choice>
+                           <abbr>ישמעא<am>׳</am>
+                           </abbr>
+                           <expan>ישמעאל</expan>
+                        </choice>
+                     </w>
+                     <lb xml:id="S000127856.079r.06" n="6"/>
+                     <w xml:id="S000127856.2.4.4.3.01800">
+                        <choice>
+                           <abbr>ר<am>׳</am>
+                           </abbr>
+                           <expan>רבי</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.3.01900">
+                        <choice>
+                           <abbr>עקי<am>׳</am>
+                           </abbr>
+                           <expan>עקיבה</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.3.02000">
+                        <choice>
+                           <abbr>או<am>׳</am>
+                           </abbr>
+                           <expan>אומר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.4.3.02100">אין</w>
+                     <w xml:id="S000127856.2.4.4.3.02200">משתכרי<damageSpan type="damage" spanTo="#S000127856.079r.06.d5d3e538"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.079r.06.d5d3e539"
+                                    subtype="damage"/>י<anchor type="unclear" xml:id="S000127856.079r.06.d5d3e539"/>
+                        <anchor type="damage" xml:id="S000127856.079r.06.d5d3e538"/>ן</w>
+                     <w xml:id="S000127856.2.4.4.3.02300">בשל</w>
+                     <w xml:id="S000127856.2.4.4.3.02400">הקדש</w>
+                     <w xml:id="S000127856.2.4.4.3.02500">אף</w>
+                     <w xml:id="S000127856.2.4.4.3.02600">לא</w>
+                     <w xml:id="S000127856.2.4.4.3.02700">בשל</w>
+                     <w xml:id="S000127856.2.4.4.3.02800">עניים</w>
+                     <pc unit="unitEnd">.</pc>
+                     <lb xml:id="S000127856.079r.07" n="7"/>
+                     <w xml:id="S000127856.2.4.4.3.02900">‏‎</w>
+                  </ab>
+               </div3> 
+               <gap xml:id="S000127856.079r.07.d6e1465" reason="talmud" extent="999"/>
+               <div3 n="Chapter5"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.5">
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.5.1">
+                     <w xml:id="S000127856.2.4.5.1.00100">‎‏ואלו</w>
+                     <w xml:id="S000127856.2.4.5.1.00200">הן</w>
+                     <w xml:id="S000127856.2.4.5.1.00300">הממונים</w>
+                     <lb xml:id="S000127856.079r.08" n="8"/>
+                     <w xml:id="S000127856.2.4.5.1.00400">שהיו</w>
+                     <w xml:id="S000127856.2.4.5.1.00500">במקדש</w>
+                     <w xml:id="S000127856.2.4.5.1.00600">יוחנן</w>
+                     <w xml:id="S000127856.2.4.5.1.00700">בן</w>
+                     <w xml:id="S000127856.2.4.5.1.00800">פינחס</w>
+                     <w xml:id="S000127856.2.4.5.1.00900">על</w>
+                     <w xml:id="S000127856.2.4.5.1.01000">החותמות</w>
+                     <w xml:id="S000127856.2.4.5.1.01100">אחיה</w>
+                     <w xml:id="S000127856.2.4.5.1.01200">על</w>
+                     <w xml:id="S000127856.2.4.5.1.01300">הסלתות</w>
+                     <lb xml:id="S000127856.079r.09" n="9"/>
+                     <milestone unit="seg" spanTo="#S000127856.079r.09.d5d3e558"/>
+                     <w xml:id="S000127856.2.4.5.1.01400">מ</w>
+                     <delSpan spanTo="#S000127856.079r.09.d5d3e560" hand="#h2"/>
+                     <damageSpan type="damage" spanTo="#S000127856.079r.09.d5d3e561"/>
+                     <damageSpan type="unclear"
+                                 spanTo="#S000127856.079r.09.d5d3e562"
+                                 subtype="damage"/>
+                     <w xml:id="S000127856.2.4.5.1.01500">מ</w>
+                     <anchor type="unclear" xml:id="S000127856.079r.09.d5d3e562"/>
+                     <anchor type="damage" xml:id="S000127856.079r.09.d5d3e561"/>
+                     <anchor xml:id="S000127856.079r.09.d5d3e560" type="del"/>
+                     <w xml:id="S000127856.2.4.5.1.01600">
+                        <addSpan spanTo="#S000127856.079r.09.d5d3e564" hand="#h2"/>ת<anchor xml:id="S000127856.079r.09.d5d3e564" type="add"/>תיה</w>
+                     <anchor xml:id="S000127856.079r.09.d5d3e558" type="seg"/>
+                     <w xml:id="S000127856.2.4.5.1.01700">בר</w>
+                     <w xml:id="S000127856.2.4.5.1.01800">שמואל</w>
+                     <w xml:id="S000127856.2.4.5.1.01900">על</w>
+                     <w xml:id="S000127856.2.4.5.1.02000">הפייסות</w>
+                     <w xml:id="S000127856.2.4.5.1.02100">פתחיה</w>
+                     <w xml:id="S000127856.2.4.5.1.02200">על</w>
+                     <w xml:id="S000127856.2.4.5.1.02300">הקינים</w>
+                     <w xml:id="S000127856.2.4.5.1.02400">ולמה</w>
+                     <w xml:id="S000127856.2.4.5.1.02500">נקרא</w>
+                     <lb xml:id="S000127856.079r.10" n="10"/>
+                     <delSpan spanTo="#S000127856.079r.10.d5d3e570" cert="50" hand="#h2"/>
+                     <w xml:id="S000127856.2.4.5.1.02600">שמו</w>
+                     <anchor xml:id="S000127856.079r.10.d5d3e570" type="del"/>
+                     <w xml:id="S000127856.2.4.5.1.02700">פתחיה</w>
+                     <w xml:id="S000127856.2.4.5.1.02800">שהיה</w>
+                     <w xml:id="S000127856.2.4.5.1.02900">פותח</w>
+                     <w xml:id="S000127856.2.4.5.1.03000">דברים</w>
+                     <w xml:id="S000127856.2.4.5.1.03100">ודורשן</w>
+                     <w xml:id="S000127856.2.4.5.1.03200">ויודע</w>
+                     <w xml:id="S000127856.2.4.5.1.03300">שבעים</w>
+                     <w xml:id="S000127856.2.4.5.1.03400">לשון</w>
+                     <w xml:id="S000127856.2.4.5.1.03500">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.079r.10.d6e1605" reason="talmud" extent="999"/>
+                  <pb xml:id="S000127856.082r" n="82r"/>
+                  <lb xml:id="S000127856.082r.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.5.2">
+                     <w xml:id="S000127856.2.4.5.2.00100">‎‏אין</w>
+                     <w xml:id="S000127856.2.4.5.2.00200">פוחתין</w>
+                     <lb xml:id="S000127856.082r.02" n="2"/>
+                     <w xml:id="S000127856.2.4.5.2.00300">משלשה</w>
+                     <w xml:id="S000127856.2.4.5.2.00400">גיזברין</w>
+                     <w xml:id="S000127856.2.4.5.2.00500">ולא</w>
+                     <w xml:id="S000127856.2.4.5.2.00600">משבעה</w>
+                     <w xml:id="S000127856.2.4.5.2.00700">אמרכלין</w>
+                     <w xml:id="S000127856.2.4.5.2.00800">ואין</w>
+                     <w xml:id="S000127856.2.4.5.2.00900">עושין</w>
+                     <w xml:id="S000127856.2.4.5.2.01000">סררה</w>
+                     <w xml:id="S000127856.2.4.5.2.01100">על</w>
+                     <lb xml:id="S000127856.082r.03" n="3"/>
+                     <w xml:id="S000127856.2.4.5.2.01200">הציבור</w>
+                     <w xml:id="S000127856.2.4.5.2.01300">בממון</w>
+                     <w xml:id="S000127856.2.4.5.2.01400">פחות</w>
+                     <w xml:id="S000127856.2.4.5.2.01500">משנים</w>
+                     <w xml:id="S000127856.2.4.5.2.01600">חוץ</w>
+                     <w xml:id="S000127856.2.4.5.2.01700">מבן</w>
+                     <w xml:id="S000127856.2.4.5.2.01800">אחיה</w>
+                     <w xml:id="S000127856.2.4.5.2.01900">שעל</w>
+                     <w xml:id="S000127856.2.4.5.2.02000">חולי</w>
+                     <w xml:id="S000127856.2.4.5.2.02100">מעים</w>
+                     <lb xml:id="S000127856.082r.04" n="4"/>
+                     <w xml:id="S000127856.2.4.5.2.02200">ואלעזר</w>
+                     <w xml:id="S000127856.2.4.5.2.02300">שעל</w>
+                     <w xml:id="S000127856.2.4.5.2.02400">הפרכות</w>
+                     <w xml:id="S000127856.2.4.5.2.02500">שאותן</w>
+                     <w xml:id="S000127856.2.4.5.2.02600">קיבלו</w>
+                     <w xml:id="S000127856.2.4.5.2.02700">הציבור</w>
+                     <w xml:id="S000127856.2.4.5.2.02800">עליהן</w>
+                     <pc unit="unitEnd">.</pc>
+                     <lb xml:id="S000127856.082r.05" n="5"/>
+                     <w xml:id="S000127856.2.4.5.2.02900">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.082r.05.d6e1710" reason="talmud" extent="999"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.5.3">
+                     <w xml:id="S000127856.2.4.5.3.00100">‎‏ארבעה</w>
+                     <w xml:id="S000127856.2.4.5.3.00200">חותמות</w>
+                     <w xml:id="S000127856.2.4.5.3.00300">היו</w>
+                     <w xml:id="S000127856.2.4.5.3.00400">בירושלם</w>
+                     <w xml:id="S000127856.2.4.5.3.00500">
+                        <choice>
+                           <abbr>וכת<am>׳</am>
+                           </abbr>
+                           <expan>וכתוב</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.5.3.00600">עליהן</w>
+                     <w xml:id="S000127856.2.4.5.3.00700">עגל</w>
+                     <lb xml:id="S000127856.082r.06" n="6"/>
+                     <w xml:id="S000127856.2.4.5.3.00800">ד<damageSpan type="damage" spanTo="#S000127856.082r.06.d5d3e604"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.082r.06.d5d3e605"
+                                    subtype="damage"/>כ<anchor type="unclear" xml:id="S000127856.082r.06.d5d3e605"/>
+                        <anchor type="damage" xml:id="S000127856.082r.06.d5d3e604"/>ר</w>
+                     <w xml:id="S000127856.2.4.5.3.00900">גדי</w>
+                     <w xml:id="S000127856.2.4.5.3.01000">וחוטא</w>
+                     <w xml:id="S000127856.2.4.5.3.01100">בן</w>
+                     <w xml:id="S000127856.2.4.5.3.01200">עזאי</w>
+                     <w xml:id="S000127856.2.4.5.3.01300">
+                        <choice>
+                           <abbr>או<am>׳</am>
+                           </abbr>
+                           <expan>אומר</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.5.3.01400">חמשה</w>
+                     <w xml:id="S000127856.2.4.5.3.01500">הם</w>
+                     <w xml:id="S000127856.2.4.5.3.01600">וארמית</w>
+                     <w xml:id="S000127856.2.4.5.3.01700">
+                        <choice>
+                           <abbr>כת<am>׳</am>
+                           </abbr>
+                           <expan>כתוב</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.5.3.01800">עליהן</w>
+                     <w xml:id="S000127856.2.4.5.3.01900">עגל</w>
+                     <lb xml:id="S000127856.082r.07" n="7"/>
+                     <w xml:id="S000127856.2.4.5.3.02000">דכר</w>
+                     <w xml:id="S000127856.2.4.5.3.02100">גדי</w>
+                     <w xml:id="S000127856.2.4.5.3.02200">חוטא</w>
+                     <w xml:id="S000127856.2.4.5.3.02300">דל</w>
+                     <w xml:id="S000127856.2.4.5.3.02400">וחוטא</w>
+                     <w xml:id="S000127856.2.4.5.3.02500">עשיר</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.5.3.02600">עגל</w>
+                     <w xml:id="S000127856.2.4.5.3.02700">משמש</w>
+                     <w xml:id="S000127856.2.4.5.3.02800">נסכי</w>
+                     <w xml:id="S000127856.2.4.5.3.02900">בקר</w>
+                     <w xml:id="S000127856.2.4.5.3.03000">גדולים</w>
+                     <lb xml:id="S000127856.082r.08" n="8"/>
+                     <w xml:id="S000127856.2.4.5.3.03100">וקטנים</w>
+                     <w xml:id="S000127856.2.4.5.3.03200">זכרים</w>
+                     <w xml:id="S000127856.2.4.5.3.03300">ונקבות</w>
+                     <w xml:id="S000127856.2.4.5.3.03400">חוץ</w>
+                     <w xml:id="S000127856.2.4.5.3.03500">משל</w>
+                     <w xml:id="S000127856.2.4.5.3.03600">אילים</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.5.3.03700">איל</w>
+                     <w xml:id="S000127856.2.4.5.3.03800">משמש</w>
+                     <w xml:id="S000127856.2.4.5.3.03900">נסכי</w>
+                     <w xml:id="S000127856.2.4.5.3.04000">אילים</w>
+                     <lb xml:id="S000127856.082r.09" n="9"/>
+                     <w xml:id="S000127856.2.4.5.3.04100">בלבד</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.5.3.04200">חוטא</w>
+                     <w xml:id="S000127856.2.4.5.3.04300">משמש</w>
+                     <w xml:id="S000127856.2.4.5.3.04400">שלש</w>
+                     <w xml:id="S000127856.2.4.5.3.04500">בהמות</w>
+                     <w xml:id="S000127856.2.4.5.3.04600">של</w>
+                     <w xml:id="S000127856.2.4.5.3.04700">מצורע</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.5.3.04800">‏‎</w>
+                  </ab>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.5.4">
+                     <w xml:id="S000127856.2.4.5.4.00100">‎‏מי</w>
+                     <w xml:id="S000127856.2.4.5.4.00200">שהוא</w>
+                     <w xml:id="S000127856.2.4.5.4.00300">מבקש</w>
+                     <lb xml:id="S000127856.082r.10" n="10"/>
+                     <w xml:id="S000127856.2.4.5.4.00400">נסכים</w>
+                     <w xml:id="S000127856.2.4.5.4.00500">בא</w>
+                     <w xml:id="S000127856.2.4.5.4.00600">לו</w>
+                     <w xml:id="S000127856.2.4.5.4.00700">אצל</w>
+                     <w xml:id="S000127856.2.4.5.4.00800">יוחנן</w>
+                     <w xml:id="S000127856.2.4.5.4.00900">שהוא</w>
+                     <w xml:id="S000127856.2.4.5.4.01000">ממונה</w>
+                     <w xml:id="S000127856.2.4.5.4.01100">על</w>
+                     <w xml:id="S000127856.2.4.5.4.01200">החותמות</w>
+                     <w xml:id="S000127856.2.4.5.4.01300">נותן</w>
+                     <w xml:id="S000127856.2.4.5.4.01400">לו</w>
+                     <w xml:id="S000127856.2.4.5.4.01500">מצות</w>
+                     <lb xml:id="S000127856.082r.11" n="11"/>
+                     <w xml:id="S000127856.2.4.5.4.01600">ונוטל</w>
+                     <w xml:id="S000127856.2.4.5.4.01700">ממנו</w>
+                     <w xml:id="S000127856.2.4.5.4.01800">חותם</w>
+                     <w xml:id="S000127856.2.4.5.4.01900">בא</w>
+                     <w xml:id="S000127856.2.4.5.4.02000">לו</w>
+                     <w xml:id="S000127856.2.4.5.4.02100">אצל</w>
+                     <w xml:id="S000127856.2.4.5.4.02200">אחיה</w>
+                     <w xml:id="S000127856.2.4.5.4.02300">שהוא</w>
+                     <w xml:id="S000127856.2.4.5.4.02400">ממונה</w>
+                     <w xml:id="S000127856.2.4.5.4.02500">על</w>
+                     <w xml:id="S000127856.2.4.5.4.02600">הנסכים</w>
+                     <lb xml:id="S000127856.082r.12" n="12"/>
+                     <w xml:id="S000127856.2.4.5.4.02700">נותן</w>
+                     <w xml:id="S000127856.2.4.5.4.02800">לו</w>
+                     <w xml:id="S000127856.2.4.5.4.02900">חותם</w>
+                     <w xml:id="S000127856.2.4.5.4.03000">ומקבל</w>
+                     <w xml:id="S000127856.2.4.5.4.03100">ממנו</w>
+                     <w xml:id="S000127856.2.4.5.4.03200">נסכים</w>
+                     <w xml:id="S000127856.2.4.5.4.03300">ולערב</w>
+                     <w xml:id="S000127856.2.4.5.4.03400">בא</w>
+                     <w xml:id="S000127856.2.4.5.4.03500">להם</w>
+                     <w xml:id="S000127856.2.4.5.4.03600">זה</w>
+                     <w xml:id="S000127856.2.4.5.4.03700">אצל</w>
+                     <w xml:id="S000127856.2.4.5.4.03800">זה</w>
+                     <w xml:id="S000127856.2.4.5.4.03900">אחיה</w>
+                     <lb xml:id="S000127856.082r.13" n="13"/>
+                     <w xml:id="S000127856.2.4.5.4.04000">מוציא</w>
+                     <w xml:id="S000127856.2.4.5.4.04100">את</w>
+                     <w xml:id="S000127856.2.4.5.4.04200">החותמות</w>
+                     <w xml:id="S000127856.2.4.5.4.04300">ומקבל</w>
+                     <w xml:id="S000127856.2.4.5.4.04400">כנגדן</w>
+                     <w xml:id="S000127856.2.4.5.4.04500">מעות</w>
+                     <w xml:id="S000127856.2.4.5.4.04600">אם</w>
+                     <w xml:id="S000127856.2.4.5.4.04700">הותירו</w>
+                     <w xml:id="S000127856.2.4.5.4.04800">הותירו</w>
+                     <w xml:id="S000127856.2.4.5.4.04900">ואם</w>
+                     <lb xml:id="S000127856.082r.14" n="14"/>
+                     <w xml:id="S000127856.2.4.5.4.05000">פחתו</w>
+                     <w xml:id="S000127856.2.4.5.4.05100">משלם</w>
+                     <w xml:id="S000127856.2.4.5.4.05200">יוחנן</w>
+                     <w xml:id="S000127856.2.4.5.4.05300">מביתו</w>
+                     <w xml:id="S000127856.2.4.5.4.05400">יד</w>
+                     <w xml:id="S000127856.2.4.5.4.05500">של</w>
+                     <w xml:id="S000127856.2.4.5.4.05600">הקדש</w>
+                     <w xml:id="S000127856.2.4.5.4.05700">על</w>
+                     <w xml:id="S000127856.2.4.5.4.05800">העליונה</w>
+                     <w xml:id="S000127856.2.4.5.4.05900">‏‎</w>
+                  </ab>
+                  <gap xml:id="S000127856.082r.14.d6e2104" reason="talmud" extent="999"/>
+                  <pb xml:id="S000127856.082v" n="82v"/>
+                  <lb xml:id="S000127856.082v.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.5.5">
+                     <w xml:id="S000127856.2.4.5.5.00100">‎‏שתי</w>
+                     <lb xml:id="S000127856.082v.02" n="2"/>
+                     <w xml:id="S000127856.2.4.5.5.00200">לשכות</w>
+                     <w xml:id="S000127856.2.4.5.5.00300">היו</w>
+                     <w xml:id="S000127856.2.4.5.5.00400">במקדש</w>
+                     <w xml:id="S000127856.2.4.5.5.00500">אחת</w>
+                     <w xml:id="S000127856.2.4.5.5.00600">לשכת</w>
+                     <w xml:id="S000127856.2.4.5.5.00700">חשאים</w>
+                     <w xml:id="S000127856.2.4.5.5.00800">ואחת</w>
+                     <w xml:id="S000127856.2.4.5.5.00900">לשכת</w>
+                     <w xml:id="S000127856.2.4.5.5.01000">הכלים</w>
+                     <lb xml:id="S000127856.082v.03" n="3"/>
+                     <w xml:id="S000127856.2.4.5.5.01100">לשכת</w>
+                     <w xml:id="S000127856.2.4.5.5.01200">חשיים</w>
+                     <w xml:id="S000127856.2.4.5.5.01300">יראי</w>
+                     <w xml:id="S000127856.2.4.5.5.01400">חטא</w>
+                     <w xml:id="S000127856.2.4.5.5.01500">נותין</w>
+                     <w xml:id="S000127856.2.4.5.5.01600">לתוכן</w>
+                     <w xml:id="S000127856.2.4.5.5.01700">בחשאי</w>
+                     <w xml:id="S000127856.2.4.5.5.01800">ועניים</w>
+                     <w xml:id="S000127856.2.4.5.5.01900">בני</w>
+                     <w xml:id="S000127856.2.4.5.5.02000">טוב<damageSpan type="damage" spanTo="#S000127856.082v.03.d5d3e668"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.082v.03.d5d3e669"
+                                    subtype="damage"/>י<anchor type="unclear" xml:id="S000127856.082v.03.d5d3e669"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.082v.03.d5d3e671"
+                                    subtype="damage"
+                                    extent="1"/>
+                        <anchor type="damage" xml:id="S000127856.082v.03.d5d3e668"/>
+                     </w>
+                     <anchor type="unclear" xml:id="S000127856.082v.03.d5d3e671"/>
+                     <lb xml:id="S000127856.082v.04" n="4"/>
+                     <w xml:id="S000127856.2.4.5.5.02100">מת<damageSpan type="damage" spanTo="#S000127856.082v.04.d5d3e675"/>
+                        <damageSpan type="unclear"
+                                    spanTo="#S000127856.082v.04.d5d3e676"
+                                    subtype="damage"/>פ<anchor type="unclear" xml:id="S000127856.082v.04.d5d3e676"/>
+                        <anchor type="damage" xml:id="S000127856.082v.04.d5d3e675"/>רנסין</w>
+                     <w xml:id="S000127856.2.4.5.5.02200">מתוכה</w>
+                     <w xml:id="S000127856.2.4.5.5.02300">‏‎</w>
+                  </ab>
+               </div3> 
+               <gap xml:id="S000127856.082v.04.d6e2203" reason="talmud" extent="999"/>
+               <div3 n="Chapter6"
+                     type="chapter"
+                     subtype="chapter"
+                     xml:id="S000127856.2.4.6">
+                  <pb xml:id="S000127856.083v" n="83v"/>
+                  <lb xml:id="S000127856.083v.01" n="1"/>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.6.1">
+                     <w xml:id="S000127856.2.4.6.1.00100">‎‏שלש</w>
+                     <w xml:id="S000127856.2.4.6.1.00200">עשרה</w>
+                     <lb xml:id="S000127856.083v.02" n="2"/>
+                     <w xml:id="S000127856.2.4.6.1.00300">שופרות</w>
+                     <w xml:id="S000127856.2.4.6.1.00400">שלש</w>
+                     <w xml:id="S000127856.2.4.6.1.00500">עשרה</w>
+                     <w xml:id="S000127856.2.4.6.1.00600">שלחנות</w>
+                     <w xml:id="S000127856.2.4.6.1.00700">שלש</w>
+                     <w xml:id="S000127856.2.4.6.1.00800">עשרה</w>
+                     <w xml:id="S000127856.2.4.6.1.00900">השתחויות</w>
+                     <w xml:id="S000127856.2.4.6.1.01000">היו</w>
+                     <w xml:id="S000127856.2.4.6.1.01100">במקדש</w>
+                     <lb xml:id="S000127856.083v.03" n="3"/>
+                     <w xml:id="S000127856.2.4.6.1.01200">של</w>
+                     <w xml:id="S000127856.2.4.6.1.01300">בית</w>
+                     <w xml:id="S000127856.2.4.6.1.01400">רבן</w>
+                     <w xml:id="S000127856.2.4.6.1.01500">
+                        <choice>
+                           <abbr>גמל<am>׳</am>
+                           </abbr>
+                           <expan>גמליאל</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.6.1.01600">ושל</w>
+                     <w xml:id="S000127856.2.4.6.1.01700">
+                        <choice>
+                           <abbr>ר<am>׳</am>
+                           </abbr>
+                           <expan>רבי</expan>
+                        </choice>
+                     </w>
+                     <w xml:id="S000127856.2.4.6.1.01800">חנניה</w>
+                     <w xml:id="S000127856.2.4.6.1.01900">סגן</w>
+                     <w xml:id="S000127856.2.4.6.1.02000">הכהנים</w>
+                     <w xml:id="S000127856.2.4.6.1.02100">היו</w>
+                     <w xml:id="S000127856.2.4.6.1.02200">משתחוים</w>
+                     <w xml:id="S000127856.2.4.6.1.02300">בארבע</w>
+                     <lb xml:id="S000127856.083v.04" n="4"/>
+                     <w xml:id="S000127856.2.4.6.1.02400">עשרה</w>
+                     <w xml:id="S000127856.2.4.6.1.02500">והיכן</w>
+                     <w xml:id="S000127856.2.4.6.1.02600">היתה</w>
+                     <w xml:id="S000127856.2.4.6.1.02700">יתירה</w>
+                     <w xml:id="S000127856.2.4.6.1.02800">כנגד</w>
+                     <w xml:id="S000127856.2.4.6.1.02900">דיר</w>
+                     <w xml:id="S000127856.2.4.6.1.03000">העצים</w>
+                     <w xml:id="S000127856.2.4.6.1.03100">מפני</w>
+                     <w xml:id="S000127856.2.4.6.1.03200">שהוא</w>
+                     <w xml:id="S000127856.2.4.6.1.03300">מסורת</w>
+                     <lb xml:id="S000127856.083v.05" n="5"/>
+                     <w xml:id="S000127856.2.4.6.1.03400">בידן</w>
+                     <w xml:id="S000127856.2.4.6.1.03500">מאבותיהן</w>
+                     <w xml:id="S000127856.2.4.6.1.03600">ששם</w>
+                     <w xml:id="S000127856.2.4.6.1.03700">הארון</w>
+                     <w xml:id="S000127856.2.4.6.1.03800">גנוז</w>
+                     <pc unit="stop">.</pc>
+                     <w xml:id="S000127856.2.4.6.1.03900">‏‎</w>
+                  </ab>
+                  <ab type="textpart" subtype="mishnah" xml:id="S000127856.2.4.6.2">
+                     <w xml:id="S000127856.2.4.6.2.00100">‎‏ומעשה</w>
+                     <w xml:id="S000127856.2.4.6.2.00200">בכהן</w>
+                     <w xml:id="S000127856.2.4.6.2.00300">אחד</w>
+                     <w xml:id="S000127856.2.4.6.2.00400">שהיה</w>
+                     <lb xml:id="S000127856.083v.06" n="6"/>
+                     <w xml:id="S000127856.2.4.6.2.00500">מתעסק</w>
+                     <w xml:id="S000127856.2.4.6.2.00600">וראה</w>
+                     <w xml:id="S000127856.2.4.6.2.00700">רצפה</w>
+                     <w xml:id="S000127856.2.4.6.2.00800">אחת</w>
+                     <w xml:id="S000127856.2.4.6.2.00900">שהיא</w>
+                     <w xml:id="S000127856.2.4.6.2.01000">משונה</w>
+                     <w xml:id="S000127856.2.4.6.2.01100">מחברותיה</w>
+                     <w xml:id="S000127856.2.4.6.2.01200">בא</w>
+                     <w xml:id="S000127856.2.4.6.2.01300">ואמר</w>
+                     <lb xml:id="S000127856.083v.07" n="7"/>
+                     <w xml:id="S000127856.2.4.6.2.01400">לחבירו</w>
+                     <w xml:id="S000127856.2.4.6.2.01500">לא</w>
+                     <w xml:id="S000127856.2.4.6.2.01600">הספיק</w>
+                     <w xml:id="S000127856.2.4.6.2.01700">לגמור</w>
+                     <w xml:id="S000127856.2.4.6.2.01800">את</w>
+                     <w xml:id="S000127856.2.4.6.2.01900">הדבר</w>
+                     <w xml:id="S000127856.2.4.6.2.02000">עד</w>
+                     <w xml:id="S000127856.2.4.6.2.02100">שיצתה</w>
+                     <w xml:id="S000127856.2.4.6.2.02200">נשמתו</w>
+                     <w xml:id="S000127856.2.4.6.2.02300">וידעו</w>
+                     <lb xml:id="S000127856.083v.08" n="8"/>
+                     <w xml:id="S000127856.2.4.6.2.02400">בייחוד</w>
+                     <w xml:id="S000127856.2.4.6.2.02500">ששם</w>
+                     <w xml:id="S000127856.2.4.6.2.02600">הארון</w>
+                     <w xml:id="S000127856.2.4.6.2.02700">גנוז</w>
+                     <pc unit="unitEnd">.</pc>
+                     <w xml:id="S000127856.2.4.6.2.02800">‏‎</w>
+                  </ab>
+
+               </div3>
+            </div2>
+          </div1>
+         </body>
+   </text>
+</TEI>
