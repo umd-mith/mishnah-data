@@ -1,0 +1,746 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edited Collation of Mishnah 3.2.4.2</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab xml:id="app.3.2.4.2">
+                <app xml:id="app.3.2.4.2.1">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00100"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00100"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.2">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00200"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00200"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.3">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00300"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00300"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.4">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00400"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00400"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00400"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00400"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00400"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00400"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00400"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.5">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00500"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00500"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00500"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00500"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00500"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00500"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00500"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.6">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00600"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00600"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00600"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00600"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00600"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00600"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00600"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.7">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00700"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00700"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00700"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00700"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00700"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00700"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00700"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.8">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00800"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00800"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.9">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.00900"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.00900"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.01000-h10">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01000-h2"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01000"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01000"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01000"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01000"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01000"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01000"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.01100-h11">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01100-h2"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01100"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01100"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01100"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01100"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01100"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01100"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.12">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01200"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01200"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01200"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01200"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01200"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01200"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01200"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.13">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01300"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="empty">
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.14">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01300"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01400"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.15">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01500"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01500"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01500"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01400"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01500"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="3">
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01500"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.16">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01600"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01600"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01600"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01600"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01500"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01500"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01600"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.17">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01700"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01700"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01600"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01700"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="3">
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01700"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="4">
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01700"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01600"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.18">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01800"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01800"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01800"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01800"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01700"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01700"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01800"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.19">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.01900"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.01900"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01800"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.01900"/>
+                            <ptr target="#S01520.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.01900"/>
+                            <ptr target="#P179204.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.01800"/>
+                            <ptr target="#P000308265.3.2.4.2.01900"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.01900"/>
+                            <ptr target="#S07204.3.2.4.2.02000"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.20">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.01900"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02100"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.21">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02200"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02200"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02200"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="empty">
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.22">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02200"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="empty">
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.23">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02300"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02200"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02300"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.02000"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02300"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="2">
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02300"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.24">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02300"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.02100"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02200"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02400"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.25">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02500"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02500"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02500"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.02200"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02300"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02500"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.26">
+                    <rdgGrp n="2">
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02500"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02600"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="empty">
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.27">
+                    <rdgGrp n="1">
+                        <rdg wit="S07326">
+                            <ptr target="#S07326.3.2.4.2.02600"/>
+                        </rdg>
+                        <rdg wit="S00483">
+                            <ptr target="#S00483.3.2.4.2.02600"/>
+                        </rdg>
+                        <rdg wit="S01520">
+                            <ptr target="#S01520.3.2.4.2.02700"/>
+                        </rdg>
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02600"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.02300"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02600"/>
+                        </rdg>
+                    </rdgGrp>
+                </app>
+                <app xml:id="app.3.2.4.2.28">
+                    <rdgGrp n="2">
+                        <rdg wit="P179204">
+                            <ptr target="#P179204.3.2.4.2.02700"/>
+                        </rdg>
+                        <rdg wit="S07319">
+                            <ptr target="#S07319.3.2.4.2.02400"/>
+                        </rdg>
+                        <rdg wit="P000308265">
+                            <ptr target="#P000308265.3.2.4.2.02500"/>
+                        </rdg>
+                        <rdg wit="S07204">
+                            <ptr target="#S07204.3.2.4.2.02700"/>
+                        </rdg>
+                    </rdgGrp>
+                    <rdgGrp n="empty">
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                        <rdg wit=""/>
+                    </rdgGrp>
+                </app>
+            </ab>
+        </body>
+    </text>
+</TEI>

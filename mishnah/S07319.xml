@@ -24451,8 +24451,7 @@
                      </choice> משום <choice>
                         <abbr>ר<am rend="overdot">׳</am></abbr>
                         <expan>רבי</expan>
-                     </choice> שמעון בן <seg>ה<del hand="1h">כ</del>
-                        <add hand="1h">ס</add>גן</seg> מעלין לכהונה על פי עד אחד<pc unit="unitEnd"
+                     </choice> שמעון בן <seg>ה<del hand="1h">כ</del><add hand="1h">ס</add>גן</seg> מעלין לכהונה על פי עד אחד<pc unit="unitEnd"
                         rend="˙">.</pc></ab>
                   <ab xml:id="S07319.3.2.2.9" type="textpart" subtype="mishnah"><milestone
                         unit="MSMishnah" n="10"/><label>י<am rend="overdot">׳</am></label>
@@ -24489,7 +24488,7 @@
                      <lb n="29"/> כתב ידו שלא<damage><unclear reason="damage">ב</unclear></damage>א
                      וזה כתב ידו <choice>
                         <abbr>של
-                           <add> </add>ר<am rend="overdot">׳</am></abbr>
+                           <add type="add" subtype="w-sep"></add>ר<am rend="overdot">׳</am></abbr>
                         <expan>של
                            <add> </add>רבי</expan>
                      </choice> וזה כתב ידו שלאח<damage><unclear reason="damage"
