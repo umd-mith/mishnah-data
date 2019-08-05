@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.2.12"
-      n="Hagigah">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.2.12" n="Hagigah">
   <div3 xml:id="S00040.2.12.1">
       <ab xml:id="S00040.2.12.1.1">
          <w xml:id="S00040.2.12.1.1.1">הטמא</w>
@@ -317,10 +313,7 @@
          <w xml:id="S00040.2.12.1.4.54">בשתיהן</w>
          <w xml:id="S00040.2.12.1.4.55">חגיגה</w>
          <w xml:id="S00040.2.12.1.4.56">נוה<delSpan spanTo="#S00400.tt15681" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt15682"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt15682" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.12.1.4.57">
             <anchor xml:id="wit.tt15682" type="gap"/>
@@ -991,10 +984,7 @@
          <w xml:id="S00040.2.12.2.3.55">הכתו'</w>
          <w xml:id="S00040.2.12.2.3.56">אומ'</w>
          <delSpan spanTo="#S00400.tt15707" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt15708"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt15708" type="gap" extent="CHECKME" unit="chars"/>
          <w xml:id="S00040.2.12.2.3.57">
             <anchor xml:id="wit.tt15708" type="gap"/>
             <anchor xml:id="wit.tt15707" type="del"/>
@@ -1887,10 +1877,7 @@
          <w xml:id="S00040.2.12.2.13.30">שמת</w>
          <w xml:id="S00040.2.12.2.13.31">אלכסא</w>
          <w xml:id="S00040.2.12.2.13.32">בלו<delSpan spanTo="#S00400.tt15714" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt15715"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt15715" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.12.2.13.33">
             <anchor xml:id="wit.tt15715" type="gap"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S08010">
    <teiHeader>
       <fileDesc>
@@ -175,11 +173,7 @@
                      <pc unit="stop">.</pc>
                      <w xml:id="S08010.4.1.2.3.01500">הכלב</w>
                      <w xml:id="S08010.4.1.2.3.01600">ש<damageSpan type="damage" spanTo="#d35e147"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e148"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e148" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e148" type="unclear"/>
                         <anchor xml:id="d35e147" type="damage"/>
                      </w>
@@ -279,11 +273,7 @@
                      <w xml:id="S08010.4.1.2.4.03400">
                         <damageSpan type="damage" spanTo="#d35e199"/>
                         <damageSpan type="unclear" spanTo="#d35e200" subtype="damage"/>הת<anchor xml:id="d35e200" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e202"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e202" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e202" type="unclear"/>
                         <anchor xml:id="d35e199" type="damage"/>ק<damageSpan type="damage" spanTo="#d35e204"/>
                         <damageSpan type="unclear" spanTo="#d35e205" subtype="damage" extent="1"/>
@@ -291,11 +281,7 @@
                         <damageSpan type="unclear" spanTo="#d35e206" subtype="damage"/>ת<anchor xml:id="d35e206" type="unclear"/>
                         <anchor xml:id="d35e204" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e208"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e209"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e209" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e209" type="gap"/>
                         <anchor xml:id="d35e208" type="damage"/>
                      </w>
@@ -306,11 +292,7 @@
                   <ab xml:id="S08010.4.1.2.6">
                      <w xml:id="S08010.4.1.2.6.00100">
                         <damageSpan type="damage" spanTo="#d35e215"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e216"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e216" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e216" type="gap"/>
                         <anchor xml:id="d35e215" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e217"/>
@@ -339,11 +321,7 @@
                   <ab xml:id="S08010.4.1.3.1">
                      <w xml:id="S08010.4.1.3.1.00100">
                         <damageSpan type="damage" spanTo="#d35e228"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e229"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e229" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e229" type="gap"/>
                         <anchor xml:id="d35e228" type="damage"/>ניח</w>
                      <w xml:id="S08010.4.1.3.1.00200">
@@ -352,28 +330,16 @@
                         <anchor xml:id="d35e231" type="damage"/>
                      </w>
                      <w xml:id="S08010.4.1.3.1.00300">ה<damageSpan type="damage" spanTo="#d35e235"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e236"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e236" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e236" type="unclear"/>
                         <anchor xml:id="d35e235" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e237"/>
                         <damageSpan type="unclear" spanTo="#d35e238" subtype="damage"/>ב<anchor xml:id="d35e238" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e240"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e240" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e240" type="unclear"/>
                         <anchor xml:id="d35e237" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e241"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e242"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e242" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e242" type="gap"/>
                         <anchor xml:id="d35e241" type="damage"/>
                      </w>
@@ -398,11 +364,7 @@
                         <damageSpan type="unclear" spanTo="#d35e261" subtype="damage"/>ה<anchor xml:id="d35e261" type="unclear"/>
                         <anchor xml:id="d35e259" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e263"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e264"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e264" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e264" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e265" subtype="damage"/>ה<anchor xml:id="d35e265" type="unclear"/>
                         <anchor xml:id="d35e263" type="damage"/>
@@ -1432,11 +1394,7 @@
                      <w xml:id="S08010.4.1.4.2.01900">למין</w>
                      <surplus xml:id="S08010.d34e3816">
                         <damageSpan type="damage" spanTo="#d35e821"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e822"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e822" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e822" type="unclear"/>
                         <anchor xml:id="d35e821" type="damage"/>
                      </surplus>
@@ -3107,11 +3065,7 @@
                      <w xml:id="S08010.4.1.7.2.00100">
                         <damageSpan type="damage" spanTo="#d35e1600"/>
                         <damageSpan type="unclear" spanTo="#d35e1601" subtype="damage"/>ג<anchor xml:id="d35e1601" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1603"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1603" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1603" type="unclear"/>
                         <anchor xml:id="d35e1600" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1604"/>
@@ -3120,20 +3074,12 @@
                         <anchor xml:id="d35e1607" type="unclear"/>
                         <anchor xml:id="d35e1604" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1608"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e1609"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e1609" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e1609" type="gap"/>
                         <anchor xml:id="d35e1608" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1610"/>
                         <damageSpan type="unclear" spanTo="#d35e1611" subtype="damage"/>ש<anchor xml:id="d35e1611" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1613"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1613" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1613" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1614" subtype="damage"/>ם<anchor xml:id="d35e1614" type="unclear"/>
                         <anchor xml:id="d35e1610" type="damage"/>
@@ -3254,22 +3200,14 @@
                         <damageSpan type="unclear" spanTo="#d35e1665" subtype="damage"/>ל<anchor xml:id="d35e1665" type="unclear"/>
                         <anchor xml:id="d35e1664" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1667"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1668"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1668" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1668" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1669" subtype="damage"/>ה<anchor xml:id="d35e1669" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1671" subtype="damage" extent="1"/>
                         <anchor xml:id="d35e1671" type="unclear"/>
                         <anchor xml:id="d35e1667" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1672"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e1673"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e1673" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e1673" type="gap"/>
                         <anchor xml:id="d35e1672" type="damage"/>
                      </w>
@@ -3346,11 +3284,7 @@
                      <w xml:id="S08010.4.1.7.4.00100">
                         <damageSpan type="damage" spanTo="#d35e1703"/>
                         <damageSpan type="unclear" spanTo="#d35e1704" subtype="damage"/>ג<anchor xml:id="d35e1704" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1706"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1706" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1706" type="unclear"/>
                         <anchor xml:id="d35e1703" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1707"/>
@@ -3365,11 +3299,7 @@
                         <damageSpan type="unclear" spanTo="#d35e1715" subtype="damage"/>שנים<anchor xml:id="d35e1715" type="unclear"/>
                         <anchor xml:id="d35e1714" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1717"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1718"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1718" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e1718" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1719" subtype="damage"/>ח<anchor xml:id="d35e1719" type="unclear"/>
                         <anchor xml:id="d35e1717" type="damage"/>
@@ -3476,11 +3406,7 @@
                   <cb n="26rA" type="1-col"/>
                   <ab xml:id="S08010.4.1.7.5">
                      <damageSpan type="damage" spanTo="#d35e1787"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1788"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1788" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1788" type="gap"/>
                      <anchor xml:id="d35e1787" type="damage"/>
                      <lb n="1"/>
@@ -3543,19 +3469,11 @@
                      <pb n="26v" xml:id="S08010.26v" type="2-col"/>
                      <cb n="26vA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1809"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1810"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1810" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1810" type="gap"/>
                      <anchor xml:id="d35e1809" type="damage"/>
                      <damageSpan type="damage" spanTo="#d35e1811"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1812"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1812" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1812" type="gap"/>
                      <anchor xml:id="d35e1811" type="damage"/>
                      <lb n="1"/>
@@ -3564,11 +3482,7 @@
                         <damageSpan type="unclear" spanTo="#d35e1815" subtype="damage"/>או<anchor xml:id="d35e1815" type="unclear"/>
                         <anchor xml:id="d35e1814" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1817"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1818"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1818" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1818" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1819" subtype="damage"/>וא<anchor xml:id="d35e1819" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1821" subtype="damage" extent="1"/>
@@ -3578,20 +3492,12 @@
                         <damageSpan type="unclear" spanTo="#d35e1824" subtype="damage"/>או<anchor xml:id="d35e1824" type="unclear"/>
                         <anchor xml:id="d35e1823" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1826"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1827"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1827" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e1827" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1828" subtype="damage"/>שא<anchor xml:id="d35e1828" type="unclear"/>
                         <anchor xml:id="d35e1826" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1830"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e1831"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e1831" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e1831" type="gap"/>
                         <anchor xml:id="d35e1830" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1832"/>
@@ -3600,18 +3506,10 @@
                         <damageSpan type="unclear" spanTo="#d35e1834" subtype="damage"/>ו<anchor xml:id="d35e1834" type="unclear"/>
                         <anchor xml:id="d35e1832" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e1836"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1837"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1837" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1837" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e1838" subtype="damage"/>ו<anchor xml:id="d35e1838" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e1840"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e1840" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e1840" type="unclear"/>
                         <anchor xml:id="d35e1836" type="damage"/>
                      </w>
@@ -3635,11 +3533,7 @@
                      <lb n="2"/>
                      <cb n="26vB" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1851"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1852"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1852" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1852" type="gap"/>
                      <anchor xml:id="d35e1851" type="damage"/>
                      <lb n="1"/>
@@ -3656,11 +3550,7 @@
                      <pb n="27v" xml:id="S08010.27v" type="2-col"/>
                      <cb n="27vA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1860"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1861"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1861" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1861" type="gap"/>
                      <anchor xml:id="d35e1860" type="damage"/>
                      <lb n="1"/>
@@ -3688,11 +3578,7 @@
                      <pb n="28r" xml:id="S08010.28r" type="1-col"/>
                      <cb n="28rA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1882"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1883"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1883" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1883" type="gap"/>
                      <anchor xml:id="d35e1882" type="damage"/>
                      <lb n="1"/>
@@ -3767,11 +3653,7 @@
                      <pb n="29v" xml:id="S08010.29v" type="2-col"/>
                      <cb n="29vA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1914"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1915"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1915" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1915" type="gap"/>
                      <anchor xml:id="d35e1914" type="damage"/>
                      <lb n="1"/>
@@ -3783,11 +3665,7 @@
                      <pb n="30r" xml:id="S08010.30r" type="1-col"/>
                      <cb n="30rA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1927"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1928"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1928" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1928" type="gap"/>
                      <anchor xml:id="d35e1927" type="damage"/>
                      <lb n="1"/>
@@ -3815,11 +3693,7 @@
                      <pb n="30v" xml:id="S08010.30v" type="1-col"/>
                      <cb n="30vA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e1942"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e1943"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e1943" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e1943" type="gap"/>
                      <anchor xml:id="d35e1942" type="damage"/>
                      <lb n="1"/>
@@ -3945,11 +3819,7 @@
                      <pb n="31v" xml:id="S08010.31v" type="2-col"/>
                      <cb n="31vA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e2009"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2010"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2010" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2010" type="gap"/>
                      <anchor xml:id="d35e2009" type="damage"/>
                      <lb n="1"/>
@@ -4005,11 +3875,7 @@
                      <lb n="4"/>
                      <cb n="31vB" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e2042"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2043"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2043" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2043" type="gap"/>
                      <anchor xml:id="d35e2042" type="damage"/>
                      <lb n="1"/>
@@ -4051,11 +3917,7 @@
                      <pb n="32r" xml:id="S08010.32r" type="2-col"/>
                      <cb n="32rA" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e2083"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2084"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2084" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2084" type="gap"/>
                      <anchor xml:id="d35e2083" type="damage"/>
                      <lb n="1"/>
@@ -4199,11 +4061,7 @@
                      <lb n="5"/>
                      <cb n="32rB" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e2183"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2184"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2184" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2184" type="gap"/>
                      <anchor xml:id="d35e2183" type="damage"/>
                      <lb n="1"/>
@@ -4212,11 +4070,7 @@
                   <cb n="32vA" type="1-col"/>
                   <ab xml:id="S08010.4.1.8.7">
                      <damageSpan type="damage" spanTo="#d35e2190"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2191"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2191" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2191" type="gap"/>
                      <anchor xml:id="d35e2190" type="damage"/>
                      <lb n="1"/>
@@ -4358,11 +4212,7 @@
                      <lb n="1"/>
                      <cb n="33rB" type="1-col"/>
                      <damageSpan type="damage" spanTo="#d35e2266"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2267"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2267" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2267" type="gap"/>
                      <anchor xml:id="d35e2266" type="damage"/>
                      <lb n="1"/>
@@ -4379,11 +4229,7 @@
                      <w xml:id="S08010.4.1.9.1.01200">רחל</w>
                      <w xml:id="S08010.4.1.9.1.01300">ונטענה</w>
                      <damageSpan type="damage" spanTo="#d35e2270"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d35e2271"
-                                 subtype="damage"
-                                 extent="999"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d35e2271" subtype="damage" extent="999" unit="chars"/>
                      <anchor xml:id="d35e2271" type="gap"/>
                      <anchor xml:id="d35e2270" type="damage"/>
                      <lb n="2"/>
@@ -4910,18 +4756,10 @@
                         <damageSpan type="unclear" spanTo="#d35e2564" subtype="damage" extent="1"/>
                         <anchor xml:id="d35e2564" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e2565" subtype="damage"/>ש<anchor xml:id="d35e2565" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e2567"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e2567" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e2567" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e2568" subtype="damage"/>ע<anchor xml:id="d35e2568" type="unclear"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e2570"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e2570" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e2570" type="gap"/>
                         <anchor xml:id="d35e2563" type="damage"/>
                      </w>
@@ -4966,11 +4804,7 @@
                   <ab xml:id="S08010.4.1.9.9">
                      <w xml:id="S08010.4.1.9.9.00100">
                         <damageSpan type="damage" spanTo="#d35e2598"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e2599"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e2599" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e2599" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d35e2600" subtype="damage"/>נש<anchor xml:id="d35e2600" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d35e2602" subtype="damage" extent="1"/>
@@ -4978,11 +4812,7 @@
                         <damageSpan type="unclear" spanTo="#d35e2603" subtype="damage"/>ע<anchor xml:id="d35e2603" type="unclear"/>
                         <anchor xml:id="d35e2598" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2605"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e2606"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e2606" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e2606" type="gap"/>
                         <anchor xml:id="d35e2605" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2607"/>
@@ -4993,11 +4823,7 @@
                         <anchor xml:id="d35e2607" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2613"/>
                         <damageSpan type="unclear" spanTo="#d35e2614" subtype="damage"/>ה<anchor xml:id="d35e2614" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e2616"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e2616" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e2616" type="unclear"/>
                         <anchor xml:id="d35e2613" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2617"/>
@@ -5007,11 +4833,7 @@
                         <anchor xml:id="d35e2617" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2621"/>
                         <damageSpan type="unclear" spanTo="#d35e2622" subtype="damage"/>מ<anchor xml:id="d35e2622" type="unclear"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e2624"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e2624" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d35e2624" type="unclear"/>
                         <anchor xml:id="d35e2621" type="damage"/>
                      </w>
@@ -5028,11 +4850,7 @@
                      <w xml:id="S08010.4.1.9.9.01200">לו</w>
                      <addSpan spanTo="#d35e2626"/>
                      <damageSpan type="damage" spanTo="#d35e2627"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#d35e2628"
-                                 subtype="damage"
-                                 extent="3"
-                                 unit="chars"/>
+                     <damageSpan type="unclear" spanTo="#d35e2628" subtype="damage" extent="3" unit="chars"/>
                      <anchor xml:id="d35e2628" type="unclear"/>
                      <anchor xml:id="d35e2627" type="damage"/>
                      <anchor xml:id="d35e2626" type="add"/>
@@ -5530,11 +5348,7 @@
                         <anchor xml:id="d35e2874" type="damage"/>
                      </w>
                      <w xml:id="S08010.4.1.10.5.01000">ה<damageSpan type="damage" spanTo="#d35e2878"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e2879"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e2879" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e2879" type="unclear"/>
                         <anchor xml:id="d35e2878" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e2880"/>
@@ -5936,11 +5750,7 @@
                   <ab xml:id="S08010.4.2.1.2">
                      <w xml:id="S08010.4.2.1.2.00100">
                         <damageSpan type="damage" spanTo="#d35e3085"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3086"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3086" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3086" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d35e3087" subtype="damage"/>לי<anchor xml:id="d35e3087" type="unclear"/>
                         <anchor xml:id="d35e3085" type="damage"/>
@@ -5951,19 +5761,11 @@
                         <anchor xml:id="d35e3089" type="damage"/>ה</w>
                      <w xml:id="S08010.4.2.1.2.00200">
                         <damageSpan type="damage" spanTo="#d35e3094"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3095"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3095" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3095" type="gap"/>
                         <anchor xml:id="d35e3094" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3096"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3097"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3097" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3097" type="gap"/>
                         <anchor xml:id="d35e3096" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3098"/>
@@ -6051,11 +5853,7 @@
                         <damageSpan type="unclear" spanTo="#d35e3161" subtype="damage"/>י<anchor xml:id="d35e3161" type="unclear"/>
                         <anchor xml:id="d35e3160" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3163"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e3164"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e3164" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e3164" type="unclear"/>
                         <anchor xml:id="d35e3163" type="damage"/>ל<damageSpan type="damage" spanTo="#d35e3166"/>
                         <damageSpan type="unclear" spanTo="#d35e3167" subtype="damage"/>ה<anchor xml:id="d35e3167" type="unclear"/>
@@ -6063,11 +5861,7 @@
                      </w>
                      <w xml:id="S08010.4.2.1.3.01300">ואמ</w>
                      <w xml:id="S08010.4.2.1.3.01400">א<damageSpan type="damage" spanTo="#d35e3170"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d35e3171"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d35e3171" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d35e3171" type="unclear"/>
                         <anchor xml:id="d35e3170" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3173"/>
@@ -6077,19 +5871,11 @@
                         <anchor xml:id="d35e3173" type="damage"/>תי</w>
                      <w xml:id="S08010.4.2.1.3.01500">
                         <damageSpan type="damage" spanTo="#d35e3178"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3179"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3179" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3179" type="gap"/>
                         <anchor xml:id="d35e3178" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3180"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3181"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3181" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3181" type="gap"/>
                         <anchor xml:id="d35e3180" type="damage"/>
                         <damageSpan type="damage" spanTo="#d35e3182"/>
@@ -6137,11 +5923,7 @@
                   <ab xml:id="S08010.4.2.1.4">
                      <w xml:id="S08010.4.2.1.4.00100">
                         <damageSpan type="damage" spanTo="#d35e3222"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d35e3223"
-                                    subtype="damage"
-                                    extent="999"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d35e3223" subtype="damage" extent="999" unit="chars"/>
                         <anchor xml:id="d35e3223" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d35e3224" subtype="damage"/>ה<anchor xml:id="d35e3224" type="unclear"/>
                         <anchor xml:id="d35e3222" type="damage"/>

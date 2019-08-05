@@ -651,7 +651,9 @@
                      </w>
                      <w xml:id="S07204.4.1.2.2.27">
                         <choice>
-                           <abbr>פטו<damageSpan type="damage" spanTo="#d26e569"/><am rend="overmark">׳</am><anchor xml:id="d26e569" type="damage"/>
+                           <abbr>פטו<damageSpan type="damage" spanTo="#d26e569"/>
+                                        <am rend="overmark">׳</am>
+                                        <anchor xml:id="d26e569" type="damage"/>
                            </abbr>
                            <expan>פטור</expan>
                         </choice>
@@ -683,7 +685,9 @@
                      <w xml:id="S07204.4.1.2.2.43">מצדי</w>
                      <w xml:id="S07204.4.1.2.2.44">
                         <choice>
-                           <abbr>הרחב<damageSpan type="damage" spanTo="#d26e599"/><am rend="overmark">׳</am><anchor xml:id="d26e599" type="damage"/>
+                           <abbr>הרחב<damageSpan type="damage" spanTo="#d26e599"/>
+                                        <am rend="overmark">׳</am>
+                                        <anchor xml:id="d26e599" type="damage"/>
                            </abbr>
                            <expan>הרחבה</expan>
                         </choice>
@@ -698,7 +702,9 @@
                      <w xml:id="S07204.4.1.2.2.50">
                         <choice>
                            <abbr>משל<c rend="altform">מ</c>
-                              <damageSpan type="damage" spanTo="#d26e614"/><am rend="none">׳</am><anchor xml:id="d26e614" type="damage"/>
+                              <damageSpan type="damage" spanTo="#d26e614"/>
+                                        <am rend="none">׳</am>
+                                        <anchor xml:id="d26e614" type="damage"/>
                            </abbr>
                            <expan>משלמת</expan>
                         </choice>
@@ -875,7 +881,9 @@
                      <addSpan spanTo="#d26e764" place="above line" hand="#h2"/>
                      <w xml:id="S07204.4.1.2.4.30">מ<anchor xml:id="d26e764" type="add"/>שמשים</w>
                      <w xml:id="S07204.4.1.2.4.31">בו</w>
-                     <damageSpan type="damage" spanTo="#d26e768"/><pc type="stop" rend="raisedDot">.</pc><anchor xml:id="d26e768" type="damage"/>
+                     <damageSpan type="damage" spanTo="#d26e768"/>
+                            <pc type="stop" rend="raisedDot">.</pc>
+                            <anchor xml:id="d26e768" type="damage"/>
                     
                   </ab>
                   <ab xml:id="S07204.4.1.2.5">
@@ -948,7 +956,9 @@
                      <w xml:id="S07204.4.1.2.5.22">ח<c rend="wide">צ</c>י</w>
                      <lb n="26"/>
                      <w xml:id="S07204.4.1.2.5.23">נזק</w>
-                     <damageSpan type="damage" spanTo="#d26e839"/><pc type="stop" rend="gershayyim">.</pc><anchor xml:id="d26e839" type="damage"/>
+                     <damageSpan type="damage" spanTo="#d26e839"/>
+                            <pc type="stop" rend="gershayyim">.</pc>
+                            <anchor xml:id="d26e839" type="damage"/>
                      <pb xml:id="S07204.275r" n="275r"/>
                      <lb n="1"/>
                      <w xml:id="S07204.4.1.2.5.24">
@@ -19871,7 +19881,10 @@
                      <w xml:id="S07204.4.2.5.7.11">
                         <choice>
                            <abbr>לקוצרי
-                                 <damageSpan type="damage" spanTo="#d26e18585"/><am rend="overmark">׳</am><anchor xml:id="d26e18585" type="damage"/></abbr>
+                                 <damageSpan type="damage" spanTo="#d26e18585"/>
+                                        <am rend="overmark">׳</am>
+                                        <anchor xml:id="d26e18585" type="damage"/>
+                                    </abbr>
                            <expan>לקוצרים</expan>
                         </choice>
                      </w>
@@ -25368,7 +25381,9 @@
                      </w>
                      <w xml:id="S07204.4.2.8.4.38">
                         <choice>
-                           <abbr>לק<damageSpan type="damage" spanTo="#d26e24117"/><am rend="overmark">׳</am><anchor xml:id="d26e24117" type="damage"/>
+                           <abbr>לק<damageSpan type="damage" spanTo="#d26e24117"/>
+                                        <am rend="overmark">׳</am>
+                                        <anchor xml:id="d26e24117" type="damage"/>
                            </abbr>
                            <expan>לקחתי</expan>
                         </choice>
@@ -26010,7 +26025,9 @@
                      <w xml:id="S07204.4.2.8.6.38">
                         <choice>
                            <abbr>נחתו<c rend="altform">מ</c>
-                              <damageSpan type="damage" spanTo="#d26e24782"/><am>׳</am><anchor xml:id="d26e24782" type="damage"/>
+                              <damageSpan type="damage" spanTo="#d26e24782"/>
+                                        <am>׳</am>
+                                        <anchor xml:id="d26e24782" type="damage"/>
                            </abbr>
                            <expan>נחתומים</expan>
                         </choice>
@@ -28282,7 +28299,8 @@
                      <lb n="27"/>
                      <w xml:id="S07204.4.2.9.12.36">
                         <choice>
-                           <abbr>ואצ<damageSpan type="damage" spanTo="#d26e27072"/><am rend="overmark">׳</am>
+                           <abbr>ואצ<damageSpan type="damage" spanTo="#d26e27072"/>
+                                        <am rend="overmark">׳</am>
                               <anchor xml:id="d26e27072" type="damage"/>
                            </abbr>
                            <expan>ואצל</expan>
@@ -30764,7 +30782,8 @@
                      <lb n="12"/>
                      <w xml:id="S07204.4.3.1.1.38">
                         <choice>
-                           <abbr>טפחיי<damageSpan type="damage" spanTo="#d26e29604"/><am rend="overmark">׳</am>
+                           <abbr>טפחיי<damageSpan type="damage" spanTo="#d26e29604"/>
+                                        <am rend="overmark">׳</am>
                               <anchor xml:id="d26e29604" type="damage"/>
                            </abbr>
                            <expan>טפחיים</expan>

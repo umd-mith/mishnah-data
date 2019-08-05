@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S00651">
    <teiHeader>
       <fileDesc>
@@ -120,9 +118,7 @@
                <gap reason="Maimonides" extent="1" unit="lines"/>
                <gap reason="Maimonides" extent="6" unit="chars"/>
                <div3 xml:id="S00651.4.1.8">
-                  <head xml:id="S00651.4.1.8.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.1.8.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.1.8.H.00100">פרק</w>
                      <w xml:id="S00651.4.1.8.H.00200">שמיני</w>
                   </head>
@@ -799,9 +795,7 @@
                   </ab>
                </div3>
                <div3 xml:id="S00651.4.1.9">
-                  <head xml:id="S00651.4.1.9.H"
-                        rend="size(large) align(center) pad(lb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.1.9.H" rend="size(large) align(center) pad(lb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.1.9.H.00100">פרק</w>
                      <w xml:id="S00651.4.1.9.H.00200">תשיעי</w>
                   </head>
@@ -1601,9 +1595,7 @@
                   <trailer xml:id="S00651.4.1.9.T"/>
                </div3>
                <div3 xml:id="S00651.4.1.10">
-                  <head xml:id="S00651.4.1.10.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.1.10.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.1.10.H.00100">פרק</w>
                      <w xml:id="S00651.4.1.10.H.00200">עשירי</w>
                   </head>
@@ -2207,9 +2199,7 @@
                <lb n="6"/>
             </div2>
             <div2 xml:id="S00651.4.2">
-               <head xml:id="S00651.4.2.H"
-                     rend="size(large) align(center) pad(rlb)"
-                     rendition="ref.xml#ornamented">
+               <head xml:id="S00651.4.2.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                   <w xml:id="S00651.4.2.H.00100">בבא</w>
                   <w xml:id="S00651.4.2.H.00200">מציעאה</w>
                </head>
@@ -2695,9 +2685,7 @@
                   <trailer xml:id="S00651.4.2.1.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.2">
-                  <head xml:id="S00651.4.2.2.H"
-                        rend="size(large) align(center) pad(rl)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.2.H" rend="size(large) align(center) pad(rl)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.2.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.2.H.00200">שני</w>
                   </head>
@@ -3612,9 +3600,7 @@
                   <trailer xml:id="S00651.4.2.2.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.3">
-                  <head xml:id="S00651.4.2.3.H"
-                        rend="size(large) align(center) pad(rl)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.3.H" rend="size(large) align(center) pad(rl)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.3.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.3.H.00200">שלישי</w>
                   </head>
@@ -4293,29 +4279,17 @@
                      <w xml:id="S00651.4.2.3.11.03600">אם</w>
                      <w xml:id="S00651.4.2.3.11.03700">אב<damageSpan type="damage" spanTo="#d5e1992"/>
                         <damageSpan type="unclear" spanTo="#d5e1993"/>ד<anchor xml:id="d5e1993" type="unclear"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d5e1995"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d5e1995" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d5e1995" type="gap"/>
                         <anchor xml:id="d5e1992" type="damage"/>
                      </w>
                      <w xml:id="S00651.4.2.3.11.03800">אינו</w>
                      <w xml:id="S00651.4.2.3.11.03900">חייב</w>
                      <w xml:id="S00651.4.2.3.11.04000">באחריו<damageSpan type="damage" spanTo="#d5e1997"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d5e1998"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>?<anchor xml:id="d5e1998" type="unclear"/>
+                        <damageSpan type="unclear" spanTo="#d5e1998" subtype="damage" extent="1" unit="chars"/>?<anchor xml:id="d5e1998" type="unclear"/>
                         <damageSpan type="unclear" spanTo="#d5e2000" extent="1" unit="chars"/>
                         <anchor xml:id="d5e2000" type="unclear"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d5e2001"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d5e2001" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d5e2001" type="gap"/>
                         <anchor xml:id="d5e1997" type="damage"/>
                      </w>
@@ -4431,9 +4405,7 @@
                   <trailer xml:id="S00651.4.2.3.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.4">
-                  <head xml:id="S00651.4.2.4.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.4.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.4.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.4.H.00200">רביעי</w>
                   </head>
@@ -5345,9 +5317,7 @@
                   <trailer xml:id="S00651.4.2.4.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.5">
-                  <head xml:id="S00651.4.2.5.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.5.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.5.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.5.H.00200">חמישי</w>
                   </head>
@@ -6178,9 +6148,7 @@
                   <trailer xml:id="S00651.4.2.5.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.6">
-                  <head xml:id="S00651.4.2.6.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.6.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.6.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.6.H.00200">ששי</w>
                   </head>
@@ -6605,9 +6573,7 @@
                   <trailer xml:id="S00651.4.2.6.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.7">
-                  <head xml:id="S00651.4.2.7.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.7.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.7.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.7.H.00200">שביעי</w>
                   </head>
@@ -7298,9 +7264,7 @@
                   <trailer xml:id="S00651.4.2.7.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.8">
-                  <head xml:id="S00651.4.2.8.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.8.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.8.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.8.H.00200">שמיני</w>
                   </head>
@@ -7924,9 +7888,7 @@
                   <trailer xml:id="S00651.4.2.8.T"/>
                </div3>
                <div3 xml:id="S00651.4.2.9">
-                  <head xml:id="S00651.4.2.9.H"
-                        rend="size(large) align(right) pad(rl)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.9.H" rend="size(large) align(right) pad(rl)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.9.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.9.H.00200">תשיעי</w>
                   </head>
@@ -8729,9 +8691,7 @@
                   </ab>
                </div3>
                <div3 xml:id="S00651.4.2.10">
-                  <head xml:id="S00651.4.2.10.H"
-                        rend="size(large) align(right) pad(lb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.2.10.H" rend="size(large) align(right) pad(lb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.2.10.H.00100">פרק</w>
                      <w xml:id="S00651.4.2.10.H.00200">עשירי</w>
                   </head>
@@ -9267,9 +9227,7 @@
                <lb n="20"/>
             </div2>
             <div2 xml:id="S00651.4.3">
-               <head xml:id="S00651.4.3.H"
-                     rend="size(large) align(center) pad(rlb)"
-                     rendition="ref.xml#ornamented">
+               <head xml:id="S00651.4.3.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                   <w xml:id="S00651.4.3.H.00100">בבא</w>
                   <w xml:id="S00651.4.3.H.00200">בתרא</w>
                </head>
@@ -9780,9 +9738,7 @@
                   <trailer xml:id="S00651.4.3.1.T"/>
                </div3>
                <div3 xml:id="S00651.4.3.2">
-                  <head xml:id="S00651.4.3.2.H"
-                        rend="size(large) align(right) pad(lb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.3.2.H" rend="size(large) align(right) pad(lb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.3.2.H.00100">פרק</w>
                      <w xml:id="S00651.4.3.2.H.00200">שני</w>
                   </head>
@@ -10309,11 +10265,7 @@
                      <w xml:id="S00651.4.3.2.8.02500">מנטיעו<damageSpan type="damage" spanTo="#d5e4894"/>
                         <damageSpan type="unclear" spanTo="#d5e4895" extent="1" unit="chars"/>
                         <anchor xml:id="d5e4895" type="unclear"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d5e4896"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d5e4896" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d5e4896" type="gap"/>
                         <anchor xml:id="d5e4894" type="damage"/>
                      </w>
@@ -10661,9 +10613,7 @@
                   <trailer xml:id="S00651.4.3.2.T"/>
                </div3>
                <div3 xml:id="S00651.4.3.3">
-                  <head xml:id="S00651.4.3.3.H"
-                        rend="size(large) align(center) pad(rlb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.3.3.H" rend="size(large) align(center) pad(rlb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.3.3.H.00100">פרק</w>
                      <w xml:id="S00651.4.3.3.H.00200">שלישי</w>
                   </head>
@@ -11345,9 +11295,7 @@
                   <trailer xml:id="S00651.4.3.3.T"/>
                </div3>
                <div3 xml:id="S00651.4.3.4">
-                  <head xml:id="S00651.4.3.4.H"
-                        rend="size(large) align(right) pad(l)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.4.3.4.H" rend="size(large) align(right) pad(l)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.4.3.4.H.00100">פרק</w>
                      <w xml:id="S00651.4.3.4.H.00200">רביעי</w>
                   </head>
@@ -12080,9 +12028,7 @@
                   <trailer xml:id="S00651.4.3.4.T"/>
                </div3>
                <div3 xml:id="S00651.4.3.5">
-                  <head xml:id="S00651.5.3.5.H"
-                        rend="size(large) align(r) pad(lb)"
-                        rendition="ref.xml#ornamented">
+                  <head xml:id="S00651.5.3.5.H" rend="size(large) align(r) pad(lb)" rendition="ref.xml#ornamented">
                      <w xml:id="S00651.5.3.5.H.00100">פרק</w>
                      <w xml:id="S00651.5.3.5.H.00200">חמישי</w>
                   </head>
@@ -12216,11 +12162,7 @@
                      <w xml:id="S00651.4.3.5.2.00800">נחום</w>
                      <lb n="9"/>
                      <w xml:id="S00651.4.3.5.2.00900">המדי</w>
-                     <w xml:id="S00651.4.3.5.2.01000">או<damageSpan type="damage" spanTo="#d5e5850"/>מ<damageSpan type="gap"
-                                    spanTo="#d5e5852"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                     <w xml:id="S00651.4.3.5.2.01000">או<damageSpan type="damage" spanTo="#d5e5850"/>מ<damageSpan type="gap" spanTo="#d5e5852" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d5e5852" type="gap"/>ר<anchor xml:id="d5e5850" type="damage"/>
                      </w>
                      <w xml:id="S00651.4.3.5.2.01100">את</w>

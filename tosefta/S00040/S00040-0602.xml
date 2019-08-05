@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.6.2"
-      n="Kelim_Metsia">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.6.2" n="Kelim_Metsia">
   <div3 xml:id="S00040.6.2.1">
       <ab xml:id="S00040.6.2.1.1">
          <w xml:id="S00040.6.2.1.1.1">רבן</w>
@@ -5096,10 +5092,7 @@
          <w xml:id="S00040.6.2.9.5.26">והרצועות</w>
          <w xml:id="S00040.6.2.9.5.27">שבמ<delSpan spanTo="#S00400.tt36721" hand="#h2"/>שיח<anchor xml:id="wit.tt36721" type="del"/>
             <addSpan spanTo="#S00400.tt36701" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt36702"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt36702" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.6.2.9.5.28">
             <anchor xml:id="wit.tt36702" type="gap"/>

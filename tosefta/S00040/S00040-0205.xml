@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.2.5"
-      n="Kippurim">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.2.5" n="Kippurim">
   <div3 xml:id="S00040.2.5.1">
       <ab xml:id="S00040.2.5.1.1">
          <w xml:id="S00040.2.5.1.1.1">למה</w>
@@ -2014,10 +2010,7 @@
          <w xml:id="S00040.2.5.2.7.93">היו</w>
          <w xml:id="S00040.2.5.2.7.94">מוסרין</w>
          <w xml:id="S00040.2.5.2.7.95">מגלו<delSpan spanTo="#S00400.tt11973" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt11974"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt11974" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.5.2.7.96">
             <anchor xml:id="wit.tt11974" type="gap"/>

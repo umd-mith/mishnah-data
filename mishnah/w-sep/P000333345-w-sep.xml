@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- Tractates Sheqalim and Horayot from the first printed edition of the Bavli -->
+    
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,10 +78,7 @@
       <body>
             <div1 type="order" subtype="order" xml:id="P0003333345.2">
                 <div2 type="tractate" subtype="tractate" xml:id="P0003333345.2.4">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.1">
                   <pb xml:id="P0003333345.2.4_002r" n="2.4_2r"/> 
                   <cb xml:id="P0003333345.002A" n="2rA"/>
                   <lb xml:id="P0003333345.002A.01" n="1"/>
@@ -568,10 +564,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.002A.33.d6e1298" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.2">
                   <pb xml:id="P0003333345.2.4_003r" n="2.4_3r"/> 
                   <cb xml:id="P0003333345.003B" n="3rB"/>
                   <lb xml:id="P0003333345.003B.01" n="1"/>
@@ -1152,10 +1145,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.003A.24.d6e2466" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.3">
                   <pb xml:id="P0003333345.2.4_004v" n="2.4_4v"/> 
                   <cb xml:id="P0003333345.004B" n="4vB"/>
                   <lb xml:id="P0003333345.004B.01" n="1"/>
@@ -1593,10 +1583,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.005A.10.d6e3377" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.4">
                   <pb xml:id="P0003333345.2.4_006r" n="2.4_6r"/> 
                   <cb xml:id="P0003333345.006A" n="6rA"/>
                   <lb xml:id="P0003333345.006A.01" n="1"/>
@@ -2370,10 +2357,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.006A.46.d6e5062" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.5">
                   <pb xml:id="P0003333345.2.4_007v" n="2.4_7v"/> 
                   <cb xml:id="P0003333345.007A" n="7vA"/>
                   <lb xml:id="P0003333345.007A.01" n="1"/>
@@ -2820,10 +2804,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.007A.35.d6e6198" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.6">
                   <pb xml:id="P0003333345.2.4_009r" n="2.4_9r"/> 
                   <cb xml:id="P0003333345.009A" n="9rA"/>
                   <lb xml:id="P0003333345.009A.01" n="1"/>
@@ -3357,10 +3338,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.009B.36.d6e7564" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.7">
                   <pb xml:id="P0003333345.2.4_010v" n="2.4_10v"/> 
                   <cb xml:id="P0003333345.010B" n="10vB"/>
                   <lb xml:id="P0003333345.010B.01" n="1"/>
@@ -3802,10 +3780,7 @@
                   </trailer> 
                </div3> 
                <gap xml:id="P0003333345.011A.26.d6e8578" reason="talmud" extent="999"/>
-               <div3 n="Chapter8"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.2.4.8">
+               <div3 n="Chapter8" type="chapter" subtype="chapter" xml:id="P0003333345.2.4.8">
                   <pb xml:id="P0003333345.2.4_011v" n="2.4_11v"/> 
                   <cb xml:id="P0003333345.011B" n="11vB"/>
                   <lb xml:id="P0003333345.011B.01" n="1"/>
@@ -4361,10 +4336,7 @@
       <body>
             <div1 type="order" subtype="order" xml:id="P0003333345.4">
                 <div2 type="tractate" subtype="tractate" xml:id="P0003333345.4.10">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.4.10.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="P0003333345.4.10.1">
                   <pb xml:id="P0003333345.4.10_016r" n="4.10_16r"/> 
                   <cb xml:id="P0003333345.016B" n="16rB"/>
                   <lb xml:id="P0003333345.016B.01" n="1"/>
@@ -4482,10 +4454,7 @@
                   </ab>
                </div3> 
                <gap xml:id="P0003333345.016B.04.d6e10093" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.4.10.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="P0003333345.4.10.2">
                   <pb xml:id="P0003333345.4.10_017r" n="4.10_17r"/> 
                   <cb xml:id="P0003333345.017A" n="17rA"/>
                   <lb xml:id="P0003333345.017A.01" n="1"/>
@@ -4521,10 +4490,7 @@
                   </ab>
                </div3> 
                <gap xml:id="P0003333345.017A.02.d6e10176" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="P0003333345.4.10.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="P0003333345.4.10.3">
                   <cb xml:id="P0003333345.017B" n="17rB"/>
                   <lb xml:id="P0003333345.017B.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="P0003333345.4.10.3.1">

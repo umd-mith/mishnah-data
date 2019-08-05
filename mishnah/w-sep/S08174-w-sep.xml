@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S08174">
    <teiHeader>
       <fileDesc>
@@ -118,9 +116,7 @@
          <div1 xml:id="S08174.4">
             <div2 xml:id="S08174.4.1">
                <pb xml:id="S08174.242v" n="242v" type="2-col"/>
-               <fw type="head"
-                   place="top-center"
-                   rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+               <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                <cb xml:id="S08174.242vA" n="242vA" type="1-col"/>
                <head xml:id="S08174.4.1.H" rend="size(large) align(center) pad(tb)">
                   <w xml:id="S08174.4.1.H.00100">מסכת</w>
@@ -258,9 +254,7 @@
                      <lb n="6"/>
                      <gap extent="41" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.243r" n="243r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.243rA" n="243rA" type="1-col"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -573,9 +567,7 @@
                      <lb n="19"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.243v" n="243v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.243vA" n="243vA" type="1-col"/>
                      <gap extent="7" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -1018,9 +1010,7 @@
                      <lb n="10"/>
                      <gap extent="11" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.244r" n="244r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.244rA" n="244rA" type="1-col"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -1561,15 +1551,12 @@
                      <lb n="28"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.244v" n="244v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.244vA" n="244vA" type="1-col"/>
                      <gap extent="21" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.1.3.10">
-                     <label xml:id="S08174.4.1.3.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S08174.4.1.3.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S08174.4.1.3.10.00100">י<c rend="long">ש</c>
                      </w>
@@ -1657,8 +1644,7 @@
                      <gap extent="7" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.1.3.11">
-                     <label xml:id="S08174.4.1.3.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.1.3.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <choice/>
                      <w xml:id="S08174.4.1.3.11.00100">שור</w>
                      <w xml:id="S08174.4.1.3.11.00200">שהיה</w>
@@ -2119,9 +2105,7 @@
                      <lb n="29"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.245r" n="245r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.245rA" n="245rA" type="1-col"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -2646,9 +2630,7 @@
                      <lb n="28"/>
                      <gap extent="8" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.245v" n="245v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.245vA" n="245vA" type="1-col"/>
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -3122,9 +3104,7 @@
                      </label>
                      <lb n="22"/>
                      <pb xml:id="S08174.246r" n="246r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.246rA" n="246rA" type="1-col"/>
                      <w xml:id="S08174.4.1.5.7.00100">אחד</w>
                      <w xml:id="S08174.4.1.5.7.00200">השור</w>
@@ -3554,9 +3534,7 @@
                      <lb n="23"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.246v" n="246v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.246vA" n="246vA" type="1-col"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -4294,9 +4272,7 @@
                      <lb n="25"/>
                      <gap extent="7" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.247r" n="247r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.247rA" n="247rA" type="1-col"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                      <milestone unit="MSMishnah"/>
@@ -4789,9 +4765,7 @@
                      <lb n="28"/>
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.247v" n="247v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.247vA" n="247vA" type="1-col"/>
                      <gap extent="29" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="2"/>
@@ -5241,9 +5215,7 @@
                      <lb n="30"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.248r" n="248r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.248rA" n="248rA" type="1-col"/>
                      <gap extent="10" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -5805,9 +5777,7 @@
                      <w xml:id="S08174.4.1.9.6.06500">אחריו</w>
                      <pc rend=":" type="unitEnd">:</pc>
                      <pb xml:id="S08174.248v" n="248v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.248vA" n="248vA" type="1-col"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="6"/>
@@ -5998,8 +5968,7 @@
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.1.9.10">
-                     <label xml:id="S08174.4.1.9.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.1.9.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <lb n="1"/>
                      <w xml:id="S08174.4.1.9.10.00100">האומר</w>
                      <w xml:id="S08174.4.1.9.10.00200">לבנו</w>
@@ -6128,8 +6097,7 @@
                      <lb n="13"/>
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="4"/>
-                     <label xml:id="S08174.4.1.9.12_lbl_1_is_12"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ד</label>
+                     <label xml:id="S08174.4.1.9.12_lbl_1_is_12" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ד</label>
                      <lb n="14"/>
                      <space extent="4" unit="chars"/>
                      <w xml:id="S08174.4.1.9.12.01900">נתן</w>
@@ -6192,9 +6160,7 @@
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                      <lb n="22"/>
                      <pb xml:id="S08174.249r" n="249r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא קמא</fw>
                      <cb xml:id="S08174.249rA" n="249rA" type="1-col"/>
                      <gap extent="28" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -6498,9 +6464,7 @@
                      <w xml:id="S08174.4.1.10.4.03400">חייב</w>
                      <lb n="22"/>
                      <pb xml:id="S08174.249v" n="249v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.249vA" n="249vA" type="1-col"/>
                      <w xml:id="S08174.4.1.10.4.03500">ליתן</w>
                      <w xml:id="S08174.4.1.10.4.03600">לו</w>
@@ -6760,8 +6724,7 @@
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.1.10.10">
-                     <label xml:id="S08174.4.1.10.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S08174.4.1.10.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S08174.4.1.10.10.00100">מוכים</w>
                      <w xml:id="S08174.4.1.10.10.00200">ש<lb n="8"/> הכובס</w>
@@ -6848,8 +6811,7 @@
                      <gap extent="7" unit="lines" reason="Maimonides"/>
                   </ab>
                </div3>
-               <trailer xml:id="S08174.4.1.T"
-                        rend="size(smaller) align(center) pad(rltb) ornamented(y)">
+               <trailer xml:id="S08174.4.1.T" rend="size(smaller) align(center) pad(rltb) ornamented(y)">
                   <w xml:id="S08174.4.1.T.00100">סליק</w>
                   <w xml:id="S08174.4.1.T.00200">פירקא</w>
                   <pc rend="&#34;" type="stop">.</pc>
@@ -6880,16 +6842,13 @@
             <lb n="21"/>
             <div2 xml:id="S08174.4.2">
                <lb n="22"/>
-               <head xml:id="S08174.4.2.H"
-                     rend="size(large) align(center) pad(tb) ornamented(y)">
+               <head xml:id="S08174.4.2.H" rend="size(large) align(center) pad(tb) ornamented(y)">
                   <w xml:id="S08174.4.2.H.00100">בבא</w>
                   <w xml:id="S08174.4.2.H.00200">מציעאה</w>
                </head>
                <lb n="23"/>
                <pb xml:id="S08174.250r" n="250r" type="2-col"/>
-               <fw type="head"
-                   place="top-center"
-                   rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+               <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                <cb xml:id="S08174.250rA" n="250rA" type="1-col"/>
                <div3 xml:id="S08174.4.2.1">
                   <ab xml:id="S08174.4.2.1.1">
@@ -7432,9 +7391,7 @@
                      <lb n="20"/>
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.250v" n="250v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.250vA" n="250vA" type="1-col"/>
                      <gap extent="13" unit="chars" reason="Maimonides"/>
                   </ab>
@@ -7849,9 +7806,7 @@
                      <pc rend=":" type="unitEnd">:</pc>
                      <lb n="26"/>
                      <pb xml:id="S08174.251r" n="251r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.251rA" n="251rA" type="1-col"/>
                      <gap extent="10" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="6"/>
@@ -8378,15 +8333,12 @@
                      <gap extent="5" unit="lines" reason="Maimonides"/>
                      <lb n="27"/>
                      <pb xml:id="S08174.251v" n="251v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.251vA" n="251vA" type="1-col"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.2.10">
-                     <label xml:id="S08174.4.2.2.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S08174.4.2.2.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
                      </label>
                      <lb n="1"/>
                      <w xml:id="S08174.4.2.2.10.00100">מצאה</w>
@@ -8576,8 +8528,7 @@
                      <gap extent="14" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.2.11">
-                     <label xml:id="S08174.4.2.2.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.2.2.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <w xml:id="S08174.4.2.2.11.00100">אבידתו</w>
                      <lb n="14"/>
                      <w xml:id="S08174.4.2.2.11.00200">ואבידת</w>
@@ -8932,9 +8883,7 @@
                      <w xml:id="S08174.4.2.3.4.03400">הפסיד</w>
                      <lb n="25"/>
                      <pb xml:id="S08174.252r" n="252r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.252rA" n="252rA" type="1-col"/>
                      <w xml:id="S08174.4.2.3.4.03500">הרמאי</w>
                      <w xml:id="S08174.4.2.3.4.03600">אלא</w>
@@ -9392,15 +9341,12 @@
                      <lb n="20"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.252v" n="252v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.252vA" n="252vA" type="1-col"/>
                      <gap extent="16" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.3.11">
-                     <label xml:id="S08174.4.2.3.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.2.3.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <w xml:id="S08174.4.2.3.11.00100">המפקיד</w>
                      <w xml:id="S08174.4.2.3.11.00200">מעות</w>
                      <lb n="1"/>
@@ -9478,8 +9424,7 @@
                      <gap reason="Maimonides" unit="chars" extent="7"/>
                   </ab>
                   <ab xml:id="S08174.4.2.3.12">
-                     <label xml:id="S08174.4.2.3.12_lbl_1_is_12"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
+                     <label xml:id="S08174.4.2.3.12_lbl_1_is_12" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
                      <lb n="8"/>
                      <space extent="7" unit="chars"/>
                      <w xml:id="S08174.4.2.3.12.00100">השולח</w>
@@ -9757,9 +9702,7 @@
                      <lb n="16"/>
                      <gap extent="8" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.253r" n="253r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.253rA" n="253rA" type="1-col"/>
                      <gap extent="24" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -10154,9 +10097,7 @@
                      </w>
                      <lb n="25"/>
                      <pb xml:id="S08174.253v" n="253v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.253vA" n="253vA" type="1-col"/>
                      <w xml:id="S08174.4.2.4.8.02900">חומש</w>
                      <pc rend=":" type="unitEnd">:</pc>
@@ -10263,8 +10204,7 @@
                      <gap extent="8" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.4.10">
-                     <label xml:id="S08174.4.2.4.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S08174.4.2.4.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
                      </label>
                      <lb n="11"/>
                      <w xml:id="S08174.4.2.4.10.00100">כשם</w>
@@ -10423,8 +10363,7 @@
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.4.12">
-                     <label xml:id="S08174.4.2.4.12_lbl_1_is_12"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
+                     <label xml:id="S08174.4.2.4.12_lbl_1_is_12" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
                      <w xml:id="S08174.4.2.4.12.00100">התג<c rend="long">ר</c>
                      </w>
                      <lb n="3"/>
@@ -10644,9 +10583,7 @@
                      <lb n="22"/>
                      <gap extent="13" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.254r" n="254r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.254rA" n="254rA" type="1-col"/>
                      <gap extent="19" unit="chars" reason="Maimonides"/>
                   </ab>
@@ -11138,9 +11075,7 @@
                      <w xml:id="S08174.4.2.5.7.06800">שלא</w>
                      <lb n="22"/>
                      <pb xml:id="S08174.254v" n="254v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.254vA" n="254vA" type="1-col"/>
                      <w xml:id="S08174.4.2.5.7.06900">פסק</w>
                      <w xml:id="S08174.4.2.5.7.07000">עמו</w>
@@ -11363,8 +11298,7 @@
                      <lb n="22"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S08174.4.2.5.10_lbl_2_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.2.5.10_lbl_2_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <w xml:id="S08174.4.2.5.10.04000">רבן</w>
                      <w xml:id="S08174.4.2.5.10.04100">גמלי<c rend="lig">אל</c>
                      </w>
@@ -11469,8 +11403,7 @@
                   </ab>
                   <ab xml:id="S08174.4.2.5.11">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S08174.4.2.5.11_lbl_1_is_12"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
+                     <label xml:id="S08174.4.2.5.11_lbl_1_is_12" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ב</label>
                      <lb n="3"/>
                      <space unit="chars" extent="10"/>
                      <w xml:id="S08174.4.2.5.11.00100">אלו</w>
@@ -11638,9 +11571,7 @@
                      <lb n="19"/>
                      <gap extent="12" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.255r" n="255r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.255rA" n="255rA" type="1-col"/>
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -11670,10 +11601,7 @@
                      <w xml:id="S08174.4.2.6.3.01300">עשרת</w>
                      <lb n="3"/>
                      <span type="seg" to="#d35e7784"/>
-                     <addSpan spanTo="#d35e7785"
-                              hand="2h"
-                              place="margin-right"
-                              rend="insertion-point"/>
+                     <addSpan spanTo="#d35e7785" hand="2h" place="margin-right" rend="insertion-point"/>
                      <w xml:id="S08174.4.2.6.3.01400">מלין</w>
                      <anchor xml:id="d35e7785" type="add"/>
                      <anchor xml:id="d35e7784" type="seg"/>
@@ -12041,9 +11969,7 @@
                      <lb n="20"/>
                      <gap extent="4" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.255v" n="255v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.255vA" n="255vA" type="1-col"/>
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -12590,9 +12516,7 @@
                      <w xml:id="S08174.4.2.7.8.01300">שומר</w>
                      <lb n="27"/>
                      <pb xml:id="S08174.256r" n="256r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.256rA" n="256rA" type="1-col"/>
                      <w xml:id="S08174.4.2.7.8.01400">חנם</w>
                      <w xml:id="S08174.4.2.7.8.01500">והשואל</w>
@@ -12800,8 +12724,7 @@
                      <gap extent="9" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.7.11">
-                     <label xml:id="S08174.4.2.7.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.2.7.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <lb n="23"/>
                      <w xml:id="S08174.4.2.7.11.00100">כל</w>
                      <w xml:id="S08174.4.2.7.11.00200">המתנה</w>
@@ -13044,9 +12967,7 @@
                      <lb n="21"/>
                      <gap extent="7" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.256v" n="256v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.256vA" n="256vA" type="1-col"/>
                      <gap extent="25" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -13479,9 +13400,7 @@
                      <pc rend=":" type="unitEnd">:</pc>
                      <lb n="23"/>
                      <pb xml:id="S08174.257r" n="257r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.257rA" n="257rA" type="1-col"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -13893,9 +13812,7 @@
                      <w xml:id="S08174.4.2.9.6.01200">מנקה</w>
                      <lb n="17"/>
                      <pb xml:id="S08174.257v" n="257v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.257vA" n="257vA" type="1-col"/>
                      <w xml:id="S08174.4.2.9.6.01300">לו</w>
                      <w xml:id="S08174.4.2.9.6.01400">מחכורו</w>
@@ -14102,8 +14019,7 @@
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.9.11">
-                     <label xml:id="S08174.4.2.9.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.2.9.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <w xml:id="S08174.4.2.9.11.00100">שכיר</w>
                      <w xml:id="S08174.4.2.9.11.00200">יו<c rend="long">ם</c>
                      </w>
@@ -14245,8 +14161,7 @@
                      <gap extent="5" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.2.9.13">
-                     <label xml:id="S08174.4.2.9.13_lbl_1_is_13"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ג</label>
+                     <label xml:id="S08174.4.2.9.13_lbl_1_is_13" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>ג</label>
                      <w xml:id="S08174.4.2.9.13.00100">המלוה</w>
                      <lb n="11"/>
                      <w xml:id="S08174.4.2.9.13.00200">את</w>
@@ -14451,9 +14366,7 @@
                      <lb n="30"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.258r" n="258r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא מציעא</fw>
                      <cb xml:id="S08174.258rA" n="258rA" type="1-col"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -15052,9 +14965,7 @@
             <div2 xml:id="S08174.4.3">
                <lb n="24"/>
                <pb xml:id="S08174.258v" n="258v" type="2-col"/>
-               <fw type="head"
-                   place="top-center"
-                   rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+               <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                <cb xml:id="S08174.258vA" n="258vA" type="1-col"/>
                <head xml:id="S08174.4.3.H" rend="size(large) align(center) pad(tb)">
                   <w xml:id="S08174.4.3.H.00100">בבא</w>
@@ -15355,9 +15266,7 @@
                      <lb n="12"/>
                      <gap extent="15" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.259r" n="259r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.259rA" n="259rA" type="1-col"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -15738,9 +15647,7 @@
                      <lb n="12"/>
                      <gap extent="20" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.259v" n="259v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.259vA" n="259vA" type="1-col"/>
                      <gap extent="13" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -16054,9 +15961,7 @@
                      <lb n="13"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.260r" n="260r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.260rA" n="260rA" type="1-col"/>
                      <gap extent="5" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -16277,8 +16182,7 @@
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                   </ab>
                   <ab xml:id="S08174.4.3.2.10">
-                     <label xml:id="S08174.4.3.2.10_lbl_1_is_10"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S08174.4.3.2.10_lbl_1_is_10" rend="size() align(center) pad(rl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S08174.4.3.2.10.00100">מרחיקין</w>
                      <w xml:id="S08174.4.3.2.10.00200">את</w>
@@ -16444,9 +16348,7 @@
                      <lb n="18"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.260v" n="260v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.260vA" n="260vA" type="1-col"/>
                      <gap extent="11" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -16743,9 +16645,7 @@
                      <lb n="7"/>
                      <gap extent="41" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.261r" n="261r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.261rA" n="261rA" type="1-col"/>
                   </ab>
                   <ab xml:id="S08174.4.3.3.2">
@@ -16949,9 +16849,7 @@
                      <cb xml:id="S08174.261rB" n="261rB" type="1-col"/>
                      <gap extent="48" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.261v" n="261v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.261vA" n="261vA" type="1-col"/>
                      <gap extent="19" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -17188,9 +17086,7 @@
                      <gap extent="43" unit="lines" reason="Maimonides"/>
                      <lb n="6"/>
                      <pb xml:id="S08174.262r" n="262r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.262rA" n="262rA" type="1-col"/>
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -17802,9 +17698,7 @@
                      <gap extent="1" unit="lines" reason="Maimonides"/>
                      <lb n="29"/>
                      <pb xml:id="S08174.262v" n="262v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.262vA" n="262vA" type="1-col"/>
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -18435,9 +18329,7 @@
                      <lb n="30"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.263r" n="263r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.263rA" n="263rA" type="1-col"/>
                      <gap extent="17" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -18846,9 +18738,7 @@
                      <lb n="26"/>
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.263v" n="263v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.263vA" n="263vA" type="1-col"/>
                   </ab>
                   <ab xml:id="S08174.4.3.5.7">
@@ -19116,16 +19006,13 @@
                      <pc rend=":" type="unitEnd">:</pc>
                      <lb n="23"/>
                      <pb xml:id="S08174.264r" n="264r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.264rA" n="264rA" type="1-col"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="13"/>
                   </ab>
                   <ab xml:id="S08174.4.3.5.11">
-                     <label xml:id="S08174.4.3.5.11_lbl_1_is_11"
-                            rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
+                     <label xml:id="S08174.4.3.5.11_lbl_1_is_11" rend="size() align(center) pad(rl)">י<am rend="overdot2">״</am>א</label>
                      <lb n="1"/>
                      <space extent="13" unit="chars"/>
                      <w xml:id="S08174.4.3.5.11.00100">
@@ -19556,9 +19443,7 @@
                      <w xml:id="S08174.4.3.6.6.00700">שלחבירו</w>
                      <lb n="26"/>
                      <pb xml:id="S08174.264v" n="264v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.264vA" n="264vA" type="1-col"/>
                      <w xml:id="S08174.4.3.6.6.00800">נכנס</w>
                      <span type="seg" to="#d35e13399"/>
@@ -20083,9 +19968,7 @@
                      <lb n="20"/>
                      <gap extent="19" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.265r" n="265r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.265rA" n="265rA" type="1-col"/>
                      <gap extent="3" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -20355,9 +20238,7 @@
                      <lb n="19"/>
                      <gap extent="22" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.265v" n="265v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.265vA" n="265vA" type="1-col"/>
                      <gap extent="26" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="3"/>
@@ -20731,9 +20612,7 @@
                      <lb n="25"/>
                      <gap extent="10" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.266r" n="266r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.266rA" n="266rA" type="1-col"/>
                      <gap extent="13" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -21212,9 +21091,7 @@
                      <lb n="28"/>
                      <gap extent="6" unit="lines" reason="Maimonides"/>
                      <pb xml:id="S08174.266v" n="266v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.266vA" n="266vA" type="1-col"/>
                      <gap extent="5" unit="lines" reason="Maimonides"/>
                      <gap reason="Maimonides" unit="chars" extent="3"/>
@@ -21451,9 +21328,7 @@
                      <gap extent="26" unit="lines" reason="Maimonides"/>
                      <lb n="14"/>
                      <pb xml:id="S08174.267r" n="267r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.267rA" n="267rA" type="1-col"/>
                      <gap extent="2" unit="lines" reason="Maimonides"/>
                   </ab>
@@ -21973,9 +21848,7 @@
                      </label>
                      <lb n="14"/>
                      <pb xml:id="S08174.267v" n="267v" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">סדר ישועות</fw>
                      <cb xml:id="S08174.267vA" n="267vA" type="1-col"/>
                      <w xml:id="S08174.4.3.10.2.00100">גט</w>
                      <w xml:id="S08174.4.3.10.2.00200">פשוט</w>
@@ -22518,9 +22391,7 @@
                      </w>
                      <lb n="21"/>
                      <pb xml:id="S08174.268r" n="268r" type="2-col"/>
-                     <fw type="head"
-                         place="top-center"
-                         rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
+                     <fw type="head" place="top-center" rend="size(small) align(center) pad() ornamented(y)">בבא בתרא</fw>
                      <cb xml:id="S08174.268rA" n="268rA" type="1-col"/>
                      <w xml:id="S08174.4.3.10.7.02400">לך</w>
                      <w xml:id="S08174.4.3.10.7.02500">עבדים</w>
@@ -22933,8 +22804,7 @@
                      <gap extent="10" unit="lines" reason="Maimonides"/>
                   </ab>
                </div3>
-               <trailer xml:id="S08174.4.3.T"
-                        rend="size(smaller) align(center) pad(rltb) ornamented(y)">
+               <trailer xml:id="S08174.4.3.T" rend="size(smaller) align(center) pad(rltb) ornamented(y)">
                   <span type="seg" rend="alignCol1" to="#d35e15784"/>
                   <w xml:id="S08174.4.3.T.00100">סליק</w>
                   <w xml:id="S08174.4.3.T.00200">פירקא</w>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S07393">
    <teiHeader>
       <fileDesc>
@@ -944,11 +942,7 @@
                         </choice>
                      </w>
                      <w xml:id="S07393.4.2.2.1.00700">להכריז</w>
-                     <w xml:id="S07393.4.2.2.1.00800">איל<damageSpan type="unclear"
-                                    spanTo="#d30e832"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                     <w xml:id="S07393.4.2.2.1.00800">איל<damageSpan type="unclear" spanTo="#d30e832" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d30e832" type="unclear"/>
                      </w>
                      <w xml:id="S07393.4.2.2.1.00900">
@@ -1149,11 +1143,7 @@
                      <delSpan spanTo="#d30e982" hand="h1" rend="deletion mark"/>
                      <w xml:id="S07393.4.2.2.2.02300">מטע</w>
                      <anchor xml:id="d30e982" type="del"/>
-                     <surplus xml:id="S07393.d29e2901" reason="fill">מטב<damageSpan type="unclear"
-                                    spanTo="#d30e986"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                     <surplus xml:id="S07393.d29e2901" reason="fill">מטב<damageSpan type="unclear" spanTo="#d30e986" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d30e986" type="unclear"/>
                      </surplus>
                      <lb n="8"/>

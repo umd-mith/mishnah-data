@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.5.1"
-      n="Zevahim">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.5.1" n="Zevahim">
   <div3 xml:id="S00040.5.1.1">
       <ab xml:id="S00040.5.1.1.1">
          <w xml:id="S00040.5.1.1.1.1">ר'</w>
@@ -2791,10 +2787,7 @@
          <w xml:id="S00040.5.1.4.1.72">או'</w>
          <w xml:id="S00040.5.1.4.1.73">לא</w>
          <delSpan spanTo="#S00400.tt32562" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt32563"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt32563" type="gap" extent="CHECKME" unit="chars"/>
          <w xml:id="S00040.5.1.4.1.74">
             <anchor xml:id="wit.tt32563" type="gap"/>
             <anchor xml:id="wit.tt32562" type="del"/>
@@ -10566,10 +10559,7 @@
          <w xml:id="S00040.5.1.13.20.23">ואו'</w>
          <w xml:id="S00040.5.1.13.20.24">העיט</w>
          <delSpan spanTo="#S00400.tt32740" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt32741"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt32741" type="gap" extent="CHECKME" unit="chars"/>
          <anchor xml:id="wit.tt32741" type="gap"/>
          <anchor xml:id="wit.tt32740" type="del"/>
          <w xml:id="S00040.5.1.13.20.25">צבוע</w>

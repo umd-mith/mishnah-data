@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S07106">
    <teiHeader>
       <fileDesc>
@@ -148,8 +146,6 @@
                      <w xml:id="S07106.4.1.1.1.01300">ולא</w>
                      <addSpan spanTo="#d25e156" hand="#S07106.h2" place="above"/>
                      <w xml:id="S07106.4.1.1.1.01400">הרי<anchor xml:id="d25e156" type="add"/>
-                        <note>Insertion based on Lieberman Institute
-                                transcription.</note>
                      </w>
                      <w xml:id="S07106.4.1.1.1.01500">המבעה</w>
                      <lb n="1"/>
@@ -4896,7 +4892,7 @@
                            <expan>אומר</expan>
                         </choice>
                      </w>
-                     <span type="seg" xml:id="S07106.4.1.9.2.tr1" to="#d25e2524"/>
+                     <span type="seg" xml:id="S07106.4.1.9.2.tr1" spanTo="#d25e2524"/>
                      <w xml:id="S07106.4.1.9.2.01200">
                         <choice>
                            <abbr>אומ<am rend="overdot">׳</am>
@@ -6257,7 +6253,7 @@
                <div3 xml:id="S07106.4.2.1">
                   <lb n="16"/>
                   <ab xml:id="S07106.4.2.1.1">
-                     <span type="seg" rend="wide tall" to="#d25e3280"/>
+                     <span type="seg" rend="wide tall" spanTo="#d25e3280"/>
                      <w xml:id="S07106.4.2.1.1.00100">שנים</w>
                      <w xml:id="S07106.4.2.1.1.00200">אוחזין</w>
                      <w xml:id="S07106.4.2.1.1.00300">בטלית</w>
@@ -7080,7 +7076,7 @@
                      <lb n="11"/>
                      <w xml:id="S07106.4.2.2.4.00600">בין</w>
                      <w xml:id="S07106.4.2.2.4.00700">התיבה</w>
-                     <span type="seg" to="#d25e3811"/>
+                     <span type="seg" spanTo="#d25e3811"/>
                      <addSpan spanTo="#d25e3812"/>
                      <w xml:id="S07106.4.2.2.4.00800">ו</w>
                      <anchor xml:id="d25e3812" type="add"/>
@@ -7093,7 +7089,7 @@
                      <w xml:id="S07106.4.2.2.4.01400">הרי</w>
                      <w xml:id="S07106.4.2.2.4.01500">
                         <c rend="lig">אל</c>ו</w>
-                     <span type="seg" to="#d25e3818"/>
+                     <span type="seg" spanTo="#d25e3818"/>
                      <addSpan spanTo="#d25e3819"/>
                      <w xml:id="S07106.4.2.2.4.01600">שלו</w>
                      <anchor xml:id="d25e3819" type="add"/>
@@ -7700,7 +7696,7 @@
                      <w xml:id="S07106.4.2.2.11.00400">שלו</w>
                      <w xml:id="S07106.4.2.2.11.00500">קודמת</w>
                      <w xml:id="S07106.4.2.2.11.00600">אבדת</w>
-                     <span type="seg" to="#d25e4126"/>
+                     <span type="seg" spanTo="#d25e4126"/>
                      <addSpan spanTo="#d25e4127"/>
                      <w xml:id="S07106.4.2.2.11.00700">ו</w>
                      <anchor xml:id="d25e4127" type="add"/>
@@ -7710,7 +7706,7 @@
                      <w xml:id="S07106.4.2.2.11.01000">שלו</w>
                      <w xml:id="S07106.4.2.2.11.01100">קודמת</w>
                      <w xml:id="S07106.4.2.2.11.01200">אבדת</w>
-                     <span type="seg" to="#d25e4130"/>
+                     <span type="seg" spanTo="#d25e4130"/>
                      <delSpan spanTo="#d25e4131" extent="5"/>
                      <anchor xml:id="d25e4131" type="del"/>
                      <addSpan spanTo="#d25e4132"/>
@@ -7751,7 +7747,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                      <space extent="4" unit="chars"/>
                      <lb n="23"/>
-                     <span type="scribCorr" to="#d25e4144"/>
+                     <span type="scribCorr" spanTo="#d25e4144"/>
                      <addSpan spanTo="#d25e4145" place="margin-right" rend="caret"/>
                      <w xml:id="S07106.4.2.2.11.04300">
                         <note>An a
@@ -7939,7 +7935,7 @@
                   </ab>
                   <ab xml:id="S07106.4.2.3.4">
                      <w xml:id="S07106.4.2.3.4.00100">שנים</w>
-                     <span type="seg" to="#d25e4209"/>
+                     <span type="seg" spanTo="#d25e4209"/>
                      <w xml:id="S07106.4.2.3.4.00200">שהפק<addSpan spanTo="#d25e4211" hand="#S07106.h2" place="inline"/>ידו</w>
                      <anchor xml:id="d25e4211" type="add"/>
                      <anchor xml:id="d25e4209" type="seg"/>
@@ -8167,7 +8163,7 @@
                      <w xml:id="S07106.4.2.3.7.04000">להן</w>
                      <w xml:id="S07106.4.2.3.7.04100">לעכברין</w>
                      <w xml:id="S07106.4.2.3.7.04200">אוכלין</w>
-                     <span type="seg" to="#d25e4326"/>
+                     <span type="seg" spanTo="#d25e4326"/>
                      <w xml:id="S07106.4.2.3.7.04300">מן<addSpan spanTo="#d25e4328" hand="#S07106.h2" place="inline"/>בין</w>
                      <anchor xml:id="d25e4328" type="add"/>
                      <anchor xml:id="d25e4326" type="seg"/>
@@ -8516,7 +8512,7 @@
                      <w xml:id="S07106.4.2.3.12.03300">שישלח</w>
                      <w xml:id="S07106.4.2.3.12.03400">בה</w>
                      <w xml:id="S07106.4.2.3.12.03500">יד</w>
-                     <span type="seg" to="#d25e4500"/>
+                     <span type="seg" spanTo="#d25e4500"/>
                      <delSpan spanTo="#d25e4501" rend="strikethrough"/>
                      <w xml:id="S07106.4.2.3.12.03600">כיצד</w>
                      <anchor xml:id="d25e4501" type="del"/>
@@ -8893,7 +8889,7 @@
                      </w>
                      <w xml:id="S07106.4.2.4.5.01900">ארבעה</w>
                      <lb n="6"/>
-                     <span type="seg" to="#d25e4691"/>
+                     <span type="seg" spanTo="#d25e4691"/>
                      <w xml:id="S07106.4.2.4.5.02000">פונדיונות<addSpan spanTo="#d25e4693" hand="#S07106.h2" place="inline"/>פונדיון</w>
                      <w xml:id="S07106.4.2.4.5.02100">לדינר</w>
                      <w xml:id="S07106.4.2.4.5.02200">
@@ -9033,7 +9029,7 @@
                      <w xml:id="S07106.4.2.4.8.00200">חומשין</w>
                      <w xml:id="S07106.4.2.4.8.00300">הן</w>
                      <w xml:id="S07106.4.2.4.8.00400">האוכל</w>
-                     <span type="seg" to="#d25e4759"/>
+                     <span type="seg" spanTo="#d25e4759"/>
                      <w xml:id="S07106.4.2.4.8.00500">תרומה<addSpan spanTo="#d25e4761" hand="#S07106.h2" place="inline"/>ותרומת</w>
                      <w xml:id="S07106.4.2.4.8.00600">מעשר</w>
                      <anchor xml:id="d25e4761" type="add"/>
@@ -9155,7 +9151,7 @@
                      </w>
                      <w xml:id="S07106.4.2.4.9.04400">אף</w>
                      <w xml:id="S07106.4.2.4.9.04500">המוכר</w>
-                     <span type="seg" to="#d25e4815"/>
+                     <span type="seg" spanTo="#d25e4815"/>
                      <w xml:id="S07106.4.2.4.9.04600">ספר<addSpan spanTo="#d25e4817" hand="#S07106.h2" place="inline"/>תורה</w>
                      <anchor xml:id="d25e4817" type="add"/>
                      <anchor xml:id="d25e4815" type="seg"/>
@@ -9810,7 +9806,7 @@
                      <lb n="7"/>
                      <w xml:id="S07106.4.2.5.6.00900">אבל</w>
                      <w xml:id="S07106.4.2.5.6.01000">מקבלין</w>
-                     <span type="seg" to="#d25e5094"/>
+                     <span type="seg" spanTo="#d25e5094"/>
                      <w xml:id="S07106.4.2.5.6.01100">צאן<addSpan spanTo="#d25e5096" hand="#S07106.h2" place="inline"/>ברזל</w>
                      <anchor xml:id="d25e5096" type="add"/>
                      <anchor xml:id="d25e5094" type="seg"/>
@@ -9901,7 +9897,7 @@
                      <w xml:id="S07106.4.2.5.7.04300">פוסק</w>
                      <w xml:id="S07106.4.2.5.7.04400">עמו</w>
                      <w xml:id="S07106.4.2.5.7.04500">על</w>
-                     <span type="seg" to="#d25e5132"/>
+                     <span type="seg" spanTo="#d25e5132"/>
                      <w xml:id="S07106.4.2.5.7.04600">הזבל<addSpan spanTo="#d25e5134" hand="#S07106.h2" place="inline"/>עד</w>
                      <w xml:id="S07106.4.2.5.7.04700">שיהא</w>
                      <w xml:id="S07106.4.2.5.7.04800">לוזבל</w>
@@ -10465,7 +10461,7 @@
                      <w xml:id="S07106.4.2.6.4.00100">השוכר</w>
                      <w xml:id="S07106.4.2.6.4.00200">את</w>
                      <w xml:id="S07106.4.2.6.4.00300">הפרה</w>
-                     <span type="seg" to="#d25e5395"/>
+                     <span type="seg" spanTo="#d25e5395"/>
                      <delSpan spanTo="#d25e5396" rend="raised-overdot" hand="#S07106.h2"/>
                      <w xml:id="S07106.4.2.6.4.00400">לח</w>
                      <anchor xml:id="d25e5396" type="del"/>
@@ -10498,7 +10494,7 @@
                      <w xml:id="S07106.4.2.6.4.02800">חייב</w>
                      <w xml:id="S07106.4.2.6.4.02900">מפני</w>
                      <w xml:id="S07106.4.2.6.4.03000">שהקטנית</w>
-                     <span type="seg" to="#d25e5402"/>
+                     <span type="seg" spanTo="#d25e5402"/>
                      <delSpan spanTo="#d25e5403" rend="raised-overdot" hand="#S07106.h2"/>
                      <w xml:id="S07106.4.2.6.4.03100">מח</w>
                      <anchor xml:id="d25e5403" type="del"/>
@@ -10530,10 +10526,7 @@
                      <w xml:id="S07106.4.2.6.5.01800">להביא</w>
                      <w xml:id="S07106.4.2.6.5.01900">והביא</w>
                      <w xml:id="S07106.4.2.6.5.02000">לתך</w>
-                     <addSpan spanTo="#d25e5414"
-                              place="margin-left"
-                              rend="tri-dot"
-                              hand="#S07106.h2"/>
+                     <addSpan spanTo="#d25e5414" place="margin-left" rend="tri-dot" hand="#S07106.h2"/>
                      <note>An a caret marks the insertion point.</note>
                      <w xml:id="S07106.4.2.6.5.02200">
                         <choice>
@@ -10670,7 +10663,7 @@
                      <w xml:id="S07106.4.2.6.7.01300">עני</w>
                      <w xml:id="S07106.4.2.6.7.01400">להיות</w>
                      <w xml:id="S07106.4.2.6.7.01500">פוסק</w>
-                     <span type="seg" to="#d25e5494"/>
+                     <span type="seg" spanTo="#d25e5494"/>
                      <delSpan spanTo="#d25e5495" rend="raised-overdot" hand="#S07106.h2"/>
                      <w xml:id="S07106.4.2.6.7.01600">ו</w>
                      <anchor xml:id="d25e5495" type="del"/>
@@ -10697,7 +10690,7 @@
                      <w xml:id="S07106.4.2.6.8.00900">ובין</w>
                      <lb n="21"/>
                      <w xml:id="S07106.4.2.6.8.01000">שומר</w>
-                     <span type="seg" to="#d25e5508"/>
+                     <span type="seg" spanTo="#d25e5508"/>
                      <w xml:id="S07106.4.2.6.8.01100">ישבע<addSpan spanTo="#d25e5510" hand="#S07106.h2" place="inline"/>שכר</w>
                      <anchor xml:id="d25e5510" type="add"/>
                      <anchor xml:id="d25e5508" type="seg"/>
@@ -11108,7 +11101,7 @@
                      <w xml:id="S07106.4.2.7.6.01300">עבדו</w>
                      <w xml:id="S07106.4.2.7.6.01400">ושפחתו</w>
                      <w xml:id="S07106.4.2.7.6.01500">ה</w>
-                     <span type="seg" to="#d25e5726"/>
+                     <span type="seg" spanTo="#d25e5726"/>
                      <w xml:id="S07106.4.2.7.6.01600">עברים<addSpan spanTo="#d25e5728" hand="#S07106.h2" place="inline"/>גדולים</w>
                      <anchor xml:id="d25e5728" type="add"/>
                      <anchor xml:id="d25e5726" type="seg"/>
@@ -11132,7 +11125,7 @@
                      <w xml:id="S07106.4.2.7.6.03300">עבדו</w>
                      <w xml:id="S07106.4.2.7.6.03400">ושפחתו</w>
                      <w xml:id="S07106.4.2.7.6.03500">ה</w>
-                     <span type="seg" to="#d25e5733"/>
+                     <span type="seg" spanTo="#d25e5733"/>
                      <w xml:id="S07106.4.2.7.6.03600">כנענים<addSpan spanTo="#d25e5735" hand="#S07106.h2" place="inline"/>קטנים</w>
                      <anchor xml:id="d25e5735" type="add"/>
                      <anchor xml:id="d25e5733" type="seg"/>
@@ -11306,7 +11299,7 @@
                      <w xml:id="S07106.4.2.7.9.03900">והדוב</w>
                      <w xml:id="S07106.4.2.7.9.04000">והנמר</w>
                      <w xml:id="S07106.4.2.7.9.04100">והברד</w>
-                     <span type="seg" to="#d25e5820"/>
+                     <span type="seg" spanTo="#d25e5820"/>
                      <addSpan spanTo="#d25e5821" hand="#S07106.h2" place="inline"/>
                      <w xml:id="S07106.4.2.7.9.04200">לח</w>
                      <anchor xml:id="d25e5821" type="add"/>
@@ -11378,7 +11371,7 @@
                      <w xml:id="S07106.4.2.7.10.03700">פטורין</w>
                      <w xml:id="S07106.4.2.7.10.03800">משבועה</w>
                      <w xml:id="S07106.4.2.7.10.03900">ומ</w>
-                     <span type="seg" to="#d25e5845"/>
+                     <span type="seg" spanTo="#d25e5845"/>
                      <addSpan spanTo="#d25e5846" hand="#S07106.h2" place="inline"/>
                      <w xml:id="S07106.4.2.7.10.04000">ל</w>
                      <anchor xml:id="d25e5846" type="add"/>
@@ -11405,10 +11398,7 @@
                      <w xml:id="S07106.4.2.7.11.01400">תנאו</w>
                      <w xml:id="S07106.4.2.7.11.01500">בטל</w>
                      <lb n="22"/>
-                     <w xml:id="S07106.4.2.7.11.01600">וכל<addSpan spanTo="#d25e5858"
-                                 place="margin-right"
-                                 rend="tri-dot"
-                                 hand="#S07106.h2"/>
+                     <w xml:id="S07106.4.2.7.11.01600">וכל<addSpan spanTo="#d25e5858" place="margin-right" rend="tri-dot" hand="#S07106.h2"/>
                      </w>
                      <w xml:id="S07106.4.2.7.11.01700">
                         <choice>
@@ -11568,7 +11558,7 @@
                      <w xml:id="S07106.4.2.8.2.04000">שהיתה</w>
                      <w xml:id="S07106.4.2.8.2.04100">שכורה</w>
                      <w xml:id="S07106.4.2.8.2.04200">מתה</w>
-                     <span type="seg" to="#d25e5931"/>
+                     <span type="seg" spanTo="#d25e5931"/>
                      <addSpan spanTo="#d25e5932" hand="#S07106.h2" place="inline"/>
                      <w xml:id="S07106.4.2.8.2.04300">בשעה</w>
                      <w xml:id="S07106.4.2.8.2.04400">שהיתה</w>
@@ -13018,7 +13008,7 @@
                      <w xml:id="S07106.4.2.10.3.03500">של</w>
                      <w xml:id="S07106.4.2.10.3.03600">חברו</w>
                      <w xml:id="S07106.4.2.10.3.03700">וצריך</w>
-                     <span type="seg" to="#d25e6612"/>
+                     <span type="seg" spanTo="#d25e6612"/>
                      <addSpan spanTo="#d25e6613"/>
                      <w xml:id="S07106.4.2.10.3.03800">להעלות</w>
                      <anchor xml:id="d25e6613" type="add"/>
@@ -13301,7 +13291,7 @@
                   <ab xml:id="S07106.4.2.10.6">
                      <w xml:id="S07106.4.2.10.6.00100">שתי</w>
                      <w xml:id="S07106.4.2.10.6.00200">גינות</w>
-                     <span type="seg" to="#d25e6757"/>
+                     <span type="seg" spanTo="#d25e6757"/>
                      <addSpan spanTo="#d25e6758"/>
                      <w xml:id="S07106.4.2.10.6.00300">זו</w>
                      <anchor xml:id="d25e6758" type="add"/>

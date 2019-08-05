@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.6.5"
-      n="Negaim">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.6.5" n="Negaim">
   <div3 xml:id="S00040.6.5.1">
       <ab xml:id="S00040.6.5.1.1">
          <w xml:id="S00040.6.5.1.1.1">אמ'</w>
@@ -6376,10 +6372,7 @@
          <w xml:id="S00040.6.5.9.9.114">וחטאת</w>
          <w xml:id="S00040.6.5.9.9.115">העוף</w>
          <delSpan spanTo="#S00400.tt37812" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt37813"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt37813" type="gap" extent="CHECKME" unit="chars"/>
          <anchor xml:id="wit.tt37813" type="gap"/>
          <anchor xml:id="wit.tt37812" type="del"/>
          <w xml:id="S00040.6.5.9.9.116">אין</w>

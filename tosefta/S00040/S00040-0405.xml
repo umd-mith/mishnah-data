@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.4.5"
-      n="Makkot">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.4.5" n="Makkot">
   <div3 xml:id="S00040.4.5.1">
       <ab xml:id="S00040.4.5.1.1"/>
       <ab xml:id="S00040.4.5.1.2"/>
@@ -1898,10 +1894,7 @@
          <w xml:id="S00040.4.5.4.17.83">אחת</w>
          <w xml:id="S00040.4.5.4.17.84">עומ'</w>
          <w xml:id="S00040.4.5.4.17.85">א<delSpan spanTo="#S00400.tt29529" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt29530"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt29530" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.4.5.4.17.86">
             <anchor xml:id="wit.tt29530" type="gap"/>

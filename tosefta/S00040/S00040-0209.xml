@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.2.9"
-      n="Taaniyot">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.2.9" n="Taaniyot">
   <div3 xml:id="S00040.2.9.1">
       <ab xml:id="S00040.2.9.1.1">
          <w xml:id="S00040.2.9.1.1.1">שואלין</w>
@@ -255,10 +251,7 @@
          <w xml:id="S00040.2.9.1.5.3">שאמרו</w>
          <w xml:id="S00040.2.9.1.5.4">אוכלין</w>
          <delSpan spanTo="#S00400.tt14279" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt14280"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt14280" type="gap" extent="CHECKME" unit="chars"/>
          <w xml:id="S00040.2.9.1.5.5">
             <anchor xml:id="wit.tt14280" type="gap"/>
             <anchor xml:id="wit.tt14279" type="del"/>
@@ -529,10 +522,7 @@
          <w xml:id="S00040.2.9.1.8.50">למה</w>
          <w xml:id="S00040.2.9.1.8.51">צמנו</w>
          <w xml:id="S00040.2.9.1.8.52">ול<delSpan spanTo="#S00400.tt14286" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt14287"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt14287" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.9.1.8.53">
             <anchor xml:id="wit.tt14287" type="gap"/>
@@ -579,10 +569,7 @@
          <w xml:id="S00040.2.9.1.8.91">אפי'</w>
          <w xml:id="S00040.2.9.1.8.92">טובל</w>
          <w xml:id="S00040.2.9.1.8.93">בש<delSpan spanTo="#S00400.tt14290" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt14291"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt14291" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.9.1.8.94">
             <anchor xml:id="wit.tt14291" type="gap"/>
@@ -1756,10 +1743,7 @@
       <ab xml:id="S00040.2.9.2.12">
          <w xml:id="S00040.2.9.2.12.1">עיר</w>
          <w xml:id="S00040.2.9.2.12.2">שהק<delSpan spanTo="#S00400.tt14307" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt14308"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt14308" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.9.2.12.3">
             <anchor xml:id="wit.tt14308" type="gap"/>

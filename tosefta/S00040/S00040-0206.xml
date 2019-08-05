@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.2.6"
-      n="Sukkah">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.2.6" n="Sukkah">
   <div3 xml:id="S00040.2.6.1">
       <ab xml:id="S00040.2.6.1.1">
          <w xml:id="S00040.2.6.1.1.1">סוכה</w>
@@ -3201,10 +3197,7 @@
          <w xml:id="S00040.2.6.4.28.48">נכנס</w>
          <w xml:id="S00040.2.6.4.28.49">ישבאב</w>
          <w xml:id="S00040.2.6.4.28.50">וש<delSpan spanTo="#S00400.tt12713" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt12714"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt12714" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.2.6.4.28.51">
             <anchor xml:id="wit.tt12714" type="gap"/>

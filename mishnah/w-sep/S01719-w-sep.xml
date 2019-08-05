@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S01719">
    <teiHeader>
       <fileDesc>
@@ -60,10 +58,8 @@
                   <msItem>
                      <locusGrp>
                         <locus/>
-                        <locus n="1r"
-                               facs="http://www.lib.cam.ac.uk/cgi-bin/GOLD/zoomer?image=T-S_E1.103%2Cr&amp;search=handlist"/>
-                        <locus n="1v"
-                               facs="http://www.lib.cam.ac.uk/cgi-bin/GOLD/zoomer?image=T-S_E1.103%2Cv&amp;search=handlist"/>
+                        <locus n="1r" facs="http://www.lib.cam.ac.uk/cgi-bin/GOLD/zoomer?image=T-S_E1.103%2Cr&amp;search=handlist"/>
+                        <locus n="1v" facs="http://www.lib.cam.ac.uk/cgi-bin/GOLD/zoomer?image=T-S_E1.103%2Cv&amp;search=handlist"/>
                      </locusGrp>
                      <title>Mishnah</title>
                      <note type="nli-ref"/>
@@ -247,8 +243,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01719.4.2.8.3_lbl_1_is_4"
-                            rend="align() size() pad() location(margin-right)">ד<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.3_lbl_1_is_4" rend="align() size() pad() location(margin-right)">ד<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.3.00100">השואל</w>
                      <w xml:id="S01719.4.2.8.3.00200">את</w>
@@ -366,8 +361,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01719.4.2.8.4_lbl_1_is_5"
-                            rend="align() size() pad() location(margin-right)">ה<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.4_lbl_1_is_5" rend="align() size() pad() location(margin-right)">ה<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.4.00100">המחליף</w>
                      <lb n="9"/>
@@ -541,8 +535,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.8.5">
-                     <label xml:id="S01719.4.2.8.5_lbl_1_is_5"
-                            rend="align() size() pad()                            location(margin-right)">ו<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.5_lbl_1_is_5" rend="align() size() pad()                            location(margin-right)">ו<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.5.00100">
                         <milestone unit="MSMishnah" n="6"/>המוכר</w>
@@ -595,8 +588,7 @@
                      <w xml:id="S01719.4.2.8.5.02400">יחלוקו</w>
                      <pc type="unitEnd" rend="˙">:</pc>
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01719.4.2.8.5_lbl_2_is_7"
-                            rend="align() size() pad() location(margin-right)">ז<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.5_lbl_2_is_7" rend="align() size() pad() location(margin-right)">ז<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.5.02500">שטף</w>
                      <w xml:id="S01719.4.2.8.5.02600">הנהר</w>
@@ -633,8 +625,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01719.4.2.8.6_lbl_1_is_8"
-                            rend="align() size() pad() location(margin-right)">ח<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.6_lbl_1_is_8" rend="align() size() pad() location(margin-right)">ח<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.6.00100">המשכיר</w>
                      <lb n="13"/>
@@ -727,8 +718,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01719.4.2.8.7_lbl_1_is_9"
-                            rend="align() size() pad() location(margin-right)">ט<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.7_lbl_1_is_9" rend="align() size() pad() location(margin-right)">ט<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.7.00100">המשכיר</w>
                      <w xml:id="S01719.4.2.8.7.00200">בית</w>
@@ -781,8 +771,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.8">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01719.4.2.8.8_lbl_1_is_10"
-                            rend="align() size() pad() location(margin-right)">י<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.8_lbl_1_is_10" rend="align() size() pad() location(margin-right)">י<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.8.00100">המשכיר</w>
                      <w xml:id="S01719.4.2.8.8.00200">בית</w>
@@ -860,8 +849,7 @@
                   </ab>
                   <ab xml:id="S01719.4.2.8.9">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01719.4.2.8.9_lbl_1_is_11"
-                            rend="align() size() pad() location(margin-right)">יא<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.8.9_lbl_1_is_11" rend="align() size() pad() location(margin-right)">יא<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.8.9.00100">המשכיר</w>
                      <lb n="8"/>
@@ -923,8 +911,7 @@
                      </w>
                   </head>
                   <ab xml:id="S01719.4.2.9.1">
-                     <label xml:id="S01719.4.2.9.1_lbl_1_is_1"
-                            rend="align() size() pad() location(margin-right)">א<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.1_lbl_1_is_1" rend="align() size() pad() location(margin-right)">א<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.1.00100">המקבל</w>
                      <lb n="16"/>
@@ -990,8 +977,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.9.2">
-                     <label xml:id="S01719.4.2.9.2_lbl_1_is_2"
-                            rend="align() size() pad() location(margin-right)">ב<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.2_lbl_1_is_2" rend="align() size() pad() location(margin-right)">ב<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.2.00100">המקבל</w>
                      <lb n="9"/>
@@ -1051,8 +1037,7 @@
                   <pb xml:id="S01719.1rR" n="1rR" type="2-col"/>
                   <cb xml:id="S01719.1rRA" n="1rRA" type="1-col"/>
                   <ab xml:id="S01719.4.2.9.3">
-                     <label xml:id="S01719.4.2.9.3_lbl_1_is_3"
-                            rend="align() size() pad(left) location(margin-right)">ג<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.3_lbl_1_is_3" rend="align() size() pad(left) location(margin-right)">ג<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.3.00100">המקבל</w>
                      <w xml:id="S01719.4.2.9.3.00200">שדה</w>
@@ -1087,8 +1072,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.9.4">
-                     <label xml:id="S01719.4.2.9.4_lbl_1_is_4"
-                            rend="align() size() pad() location(margin-right)">ד<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.4_lbl_1_is_4" rend="align() size() pad() location(margin-right)">ד<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.4.00100">המקבל</w>
                      <w xml:id="S01719.4.2.9.4.00200">שדה</w>
@@ -1138,8 +1122,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.9.5">
-                     <label xml:id="S01719.4.2.9.5_lbl_1_is_5"
-                            rend="align() size() pad() location(margin-right)">ה<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.5_lbl_1_is_5" rend="align() size() pad() location(margin-right)">ה<am rend="overdot">'</am>
                      </label>
                      <space extent="3"/>
                      <w xml:id="S01719.4.2.9.5.00100">המקבל</w>
@@ -1212,8 +1195,7 @@
                      <lb n="16"/>
                   </ab>
                   <ab xml:id="S01719.4.2.9.6">
-                     <label xml:id="S01719.4.2.9.6_lbl_1_is_6"
-                            rend="align() size() pad() location(margin-right)">ו<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.6_lbl_1_is_6" rend="align() size() pad() location(margin-right)">ו<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.6.00100">המקבל</w>
                      <w xml:id="S01719.4.2.9.6.00200">
@@ -1287,8 +1269,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.9.7">
-                     <label xml:id="S01719.4.2.9.7_lbl_1_is_7"
-                            rend="align() size() pad() location(margin-right)">ז<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.7_lbl_1_is_7" rend="align() size() pad() location(margin-right)">ז<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.7.00100">המקבל</w>
                      <w xml:id="S01719.4.2.9.7.00200">שד<damageSpan type="damage" spanTo="#d10e1155"/>ה</w>
@@ -1336,8 +1317,7 @@
                      <pc type="unitEnd" rend="˙">:</pc>
                   </ab>
                   <ab xml:id="S01719.4.2.9.8">
-                     <label xml:id="S01719.4.2.9.8_lbl_1_is_8"
-                            rend="align() size() pad() location(margin-right)">ח<am rend="overdot">'</am>
+                     <label xml:id="S01719.4.2.9.8_lbl_1_is_8" rend="align() size() pad() location(margin-right)">ח<am rend="overdot">'</am>
                      </label>
                      <w xml:id="S01719.4.2.9.8.00100">ה<damageSpan type="damage" spanTo="#d10e1201"/>
                         <damageSpan type="unclear" spanTo="#d10e1202"/>מקב<anchor xml:id="d10e1202" type="unclear"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S01724">
    <teiHeader>
       <fileDesc>
@@ -181,11 +179,7 @@
                      <w xml:id="S01724.4.4.10.3.04100">אמרו</w>
                      <w xml:id="S01724.4.4.10.3.04200">לו</w>
                      <w xml:id="S01724.4.4.10.3.04300">בעד<damageSpan type="damage" spanTo="#d12e179"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e180"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e180" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d12e180" type="gap"/>
                         <anchor xml:id="d12e179" type="damage"/>
                      </w>
@@ -348,11 +342,7 @@
                      <w xml:id="S01724.4.4.10.3.12100">מה</w>
                      <w xml:id="S01724.4.4.10.3.12200">היום</w>
                      <w xml:id="S01724.4.4.10.3.12300">
-                        <damageSpan type="damage" spanTo="#d12e312"/>הול<damageSpan type="gap"
-                                    spanTo="#d12e314"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e312"/>הול<damageSpan type="gap" spanTo="#d12e314" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d12e314" type="gap"/>
                         <anchor xml:id="d12e312" type="damage"/>
                      </w>
@@ -383,11 +373,7 @@
                         </choice>
                      </w>
                      <w xml:id="S01724.4.4.10.3.13700">
-                        <damageSpan type="damage" spanTo="#d12e333"/>מ<damageSpan type="gap"
-                                    spanTo="#d12e335"
-                                    subtype="damage"
-                                    extent="5"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e333"/>מ<damageSpan type="gap" spanTo="#d12e335" subtype="damage" extent="5" unit="chars"/>
                         <anchor xml:id="d12e335" type="gap"/>
                         <anchor xml:id="d12e333" type="damage"/>
                      </w>
@@ -400,11 +386,7 @@
                      <w xml:id="S01724.4.4.10.3.14300">אפילה</w>
                      <w xml:id="S01724.4.4.10.3.14400">להן</w>
                      <w xml:id="S01724.4.4.10.3.14500">עתיד<damageSpan type="damage" spanTo="#d12e338"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e339"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e339" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d12e339" type="gap"/>
                      </w>
                      <w xml:id="S01724.4.4.10.3.14600">לאו<anchor xml:id="d12e338" type="damage"/>ר</w>
@@ -420,11 +402,7 @@
                      <w xml:id="S01724.4.4.10.4.00100">אנשי</w>
                      <w xml:id="S01724.4.4.10.4.00200">עיר</w>
                      <damageSpan type="damage" spanTo="#d12e353"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e354"
-                                 subtype="damage"
-                                 extent="5"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e354" subtype="damage" extent="5" unit="chars"/>
                      <anchor xml:id="d12e354" type="gap"/>
                      <anchor xml:id="d12e353" type="damage"/>
                      <lb n="11"/>
@@ -438,11 +416,7 @@
                      <anchor xml:id="d12e356" type="damage"/>
                      <w xml:id="S01724.4.4.10.4.00400">יצאו</w>
                      <w xml:id="S01724.4.4.10.4.00500">אנשי<damageSpan type="damage" spanTo="#d12e366"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e367"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e367" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d12e367" type="gap"/>
                         <anchor xml:id="d12e366" type="damage"/>י</w>
                      <w xml:id="S01724.4.4.10.4.00600">בליעל</w>
@@ -450,21 +424,13 @@
                      <w xml:id="S01724.4.4.10.4.00800">וידיחו</w>
                      <w xml:id="S01724.4.4.10.4.00900">א<damageSpan type="damage" spanTo="#d12e369"/>ת</w>
                      <w xml:id="S01724.4.4.10.4.01000">
-                        <damageSpan type="gap"
-                                    spanTo="#d12e371"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e371" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e371" type="gap"/>שבי</w>
                      <w xml:id="S01724.4.4.10.4.01100">ע<anchor xml:id="d12e369" type="damage"/>רם</w>
                      <w xml:id="S01724.4.4.10.4.01200">לאמר</w>
                      <w xml:id="S01724.4.4.10.4.01300">הא</w>
                      <w xml:id="S01724.4.4.10.4.01400">אי<damageSpan type="damage" spanTo="#d12e374"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e375"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e375" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e375" type="gap"/>
                         <anchor xml:id="d12e374" type="damage"/>
                      </w>
@@ -478,19 +444,11 @@
                      <w xml:id="S01724.4.4.10.4.02000">העיר</w>
                      <w xml:id="S01724.4.4.10.4.02100">
                         <damageSpan type="damage" spanTo="#d12e382"/>ו<anchor xml:id="d12e382" type="damage"/>מא<damageSpan type="damage" spanTo="#d12e385"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e386"
-                                    subtype="damage"
-                                    extent="8"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e386" subtype="damage" extent="8" unit="chars"/>
                         <anchor xml:id="d12e386" type="gap"/>עד</w>
                      <w xml:id="S01724.4.4.10.4.02200">שי<anchor xml:id="d12e385" type="damage"/>ודח</w>
                      <w xml:id="S01724.4.4.10.4.02300">רוב<damageSpan type="damage" spanTo="#d12e389"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e390"
-                                    subtype="damage"
-                                    extent="4"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e390" subtype="damage" extent="4" unit="chars"/>
                         <anchor xml:id="d12e390" type="gap"/>
                         <anchor xml:id="d12e389" type="damage"/>
                      </w>
@@ -503,17 +461,9 @@
                      <w xml:id="S01724.4.4.10.4.02900">ק<damageSpan type="damage" spanTo="#d12e394"/>ט<anchor xml:id="d12e394" type="damage"/>נים</w>
                      <w xml:id="S01724.4.4.10.4.03000">
                         <damageSpan type="damage" spanTo="#d12e397"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e398"
-                                    subtype="damage"
-                                    extent="9"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e398" subtype="damage" extent="9" unit="chars"/>
                         <anchor xml:id="d12e398" type="gap"/>דח</w>
-                     <w xml:id="S01724.4.4.10.4.03100">מיעו<damageSpan type="gap"
-                                    spanTo="#d12e400"
-                                    subtype="damage"
-                                    extent="4"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.4.03100">מיעו<damageSpan type="gap" spanTo="#d12e400" subtype="damage" extent="4" unit="chars"/>
                         <anchor xml:id="d12e400" type="gap"/>
                         <anchor xml:id="d12e397" type="damage"/>
                      </w>
@@ -527,17 +477,9 @@
                      <w xml:id="S01724.4.4.10.4.03700">כיחידין</w>
                      <w xml:id="S01724.4.4.10.4.03800">צ<damageSpan type="damage" spanTo="#d12e406"/>ריכין</w>
                      <w xml:id="S01724.4.4.10.4.03900">
-                        <damageSpan type="gap"
-                                    spanTo="#d12e408"
-                                    subtype="damage"
-                                    extent="5"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e408" subtype="damage" extent="5" unit="chars"/>
                         <anchor xml:id="d12e408" type="gap"/>ים</w>
-                     <w xml:id="S01724.4.4.10.4.04000">והתר<damageSpan type="gap"
-                                    spanTo="#d12e410"
-                                    subtype="damage"
-                                    extent="8"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.4.04000">והתר<damageSpan type="gap" spanTo="#d12e410" subtype="damage" extent="8" unit="chars"/>
                         <anchor xml:id="d12e410" type="gap"/>
                         <anchor xml:id="d12e406" type="damage"/>
                      </w>
@@ -548,18 +490,10 @@
                      <w xml:id="S01724.4.4.10.4.04400">ב<damageSpan type="damage" spanTo="#d12e413"/>י<anchor xml:id="d12e413" type="damage"/>חידין</w>
                      <w xml:id="S01724.4.4.10.4.04500">מבימרובין</w>
                      <w xml:id="S01724.4.4.10.4.04600">שהיחיד<damageSpan type="damage" spanTo="#d12e417"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e418"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e418" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e418" type="gap"/>
                      </w>
-                     <w xml:id="S01724.4.4.10.4.04700">ב<damageSpan type="gap"
-                                    spanTo="#d12e420"
-                                    subtype="damage"
-                                    extent="18"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.4.04700">ב<damageSpan type="gap" spanTo="#d12e420" subtype="damage" extent="18" unit="chars"/>
                         <anchor xml:id="d12e420" type="gap"/>
                         <anchor xml:id="d12e417" type="damage"/>
                      </w>
@@ -575,11 +509,7 @@
                      <label xml:id="S01724.4.4.10.5_lbl_1_is_5">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01724.4.4.10.5.00100">ה<damageSpan type="damage" spanTo="#d12e431"/>כה</w>
-                     <w xml:id="S01724.4.4.10.5.00200">ת<damageSpan type="gap"
-                                    spanTo="#d12e433"
-                                    subtype="damage"
-                                    extent="17"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.5.00200">ת<damageSpan type="gap" spanTo="#d12e433" subtype="damage" extent="17" unit="chars"/>
                         <anchor xml:id="d12e433" type="gap"/>
                         <anchor xml:id="d12e431" type="damage"/>
                      </w>
@@ -591,11 +521,7 @@
                      <w xml:id="S01724.4.4.10.5.00700">העוברת</w>
                      <w xml:id="S01724.4.4.10.5.00800">ממקום</w>
                      <w xml:id="S01724.4.4.10.5.00900">למ<damageSpan type="damage" spanTo="#d12e436"/>קום</w>
-                     <w xml:id="S01724.4.4.10.5.01000">ה<damageSpan type="gap"
-                                    spanTo="#d12e438"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.5.01000">ה<damageSpan type="gap" spanTo="#d12e438" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e438" type="gap"/>
                         <anchor xml:id="d12e436" type="damage"/>
                      </w>
@@ -610,11 +536,7 @@
                      <w xml:id="S01724.4.4.10.5.01800">לפי</w>
                      <w xml:id="S01724.4.4.10.5.01900">ח<damageSpan type="damage" spanTo="#d12e441"/>
                         <damageSpan type="unclear" spanTo="#d12e442" subtype="damage"/>ר<anchor xml:id="d12e442" type="unclear"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e444"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e444" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e444" type="gap"/>
                         <anchor xml:id="d12e441" type="damage"/>
                      </w>
@@ -626,11 +548,7 @@
                      <w xml:id="S01724.4.4.10.5.02300">לה</w>
                      <w xml:id="S01724.4.4.10.5.02400">פלטין</w>
                      <w xml:id="S01724.4.4.10.5.02500">שלר<damageSpan type="damage" spanTo="#d12e451"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e452"
-                                    subtype="damage"
-                                    extent="20"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e452" subtype="damage" extent="20" unit="chars"/>
                         <anchor xml:id="d12e452" type="gap"/>
                         <anchor xml:id="d12e451" type="damage"/>
                      </w>
@@ -648,11 +566,7 @@
                      <w xml:id="S01724.4.4.10.6.00400">תקבוץ</w>
                      <w xml:id="S01724.4.4.10.6.00500">אל</w>
                      <w xml:id="S01724.4.4.10.6.00600">
-                        <damageSpan type="damage" spanTo="#d12e463"/>ת<damageSpan type="gap"
-                                    spanTo="#d12e465"
-                                    subtype="damage"
-                                    extent="23"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e463"/>ת<damageSpan type="gap" spanTo="#d12e465" subtype="damage" extent="23" unit="chars"/>
                         <anchor xml:id="d12e465" type="gap"/>
                         <anchor xml:id="d12e463" type="damage"/>
                      </w>
@@ -667,11 +581,7 @@
                      <w xml:id="S01724.4.4.10.6.01300">כונסין</w>
                      <w xml:id="S01724.4.4.10.6.01400">אותו</w>
                      <w xml:id="S01724.4.4.10.6.01500">ל<damageSpan type="damage" spanTo="#d12e471"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e472"
-                                    subtype="damage"
-                                    extent="24"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e472" subtype="damage" extent="24" unit="chars"/>
                         <anchor xml:id="d12e472" type="gap"/>
                         <anchor xml:id="d12e471" type="damage"/>
                      </w>
@@ -686,11 +596,7 @@
                      <w xml:id="S01724.4.4.10.6.02300">שללה</w>
                      <w xml:id="S01724.4.4.10.6.02400">לא</w>
                      <damageSpan type="damage" spanTo="#d12e475"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e476"
-                                 subtype="damage"
-                                 extent="23"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e476" subtype="damage" extent="23" unit="chars"/>
                      <anchor xml:id="d12e476" type="gap"/>
                      <anchor xml:id="d12e475" type="damage"/>
                      <lb n="23"/>
@@ -702,11 +608,7 @@
                      <w xml:id="S01724.4.4.10.6.02900">מעשר</w>
                      <w xml:id="S01724.4.4.10.6.03000">שני</w>
                      <damageSpan type="damage" spanTo="#d12e483"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e484"
-                                 subtype="damage"
-                                 extent="18"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e484" subtype="damage" extent="18" unit="chars"/>
                      <anchor xml:id="d12e484" type="gap"/>
                      <anchor xml:id="d12e483" type="damage"/>
                      <lb n="24"/>
@@ -742,11 +644,7 @@
                      <w xml:id="S01724.4.4.10.6.03700">עושה</w>
                      <w xml:id="S01724.4.4.10.6.03800">אתה</w>
                      <w xml:id="S01724.4.4.10.6.03900">דין</w>
-                     <w xml:id="S01724.4.4.10.6.04000">ב<damageSpan type="damage" spanTo="#d12e520"/>ע<damageSpan type="gap"
-                                    spanTo="#d12e522"
-                                    subtype="damage"
-                                    extent="23"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.10.6.04000">ב<damageSpan type="damage" spanTo="#d12e520"/>ע<damageSpan type="gap" spanTo="#d12e522" subtype="damage" extent="23" unit="chars"/>
                         <anchor xml:id="d12e522" type="gap"/>
                         <anchor xml:id="d12e520" type="damage"/>
                      </w>
@@ -760,11 +658,7 @@
                      <w xml:id="S01724.4.4.10.6.04700">תל</w>
                      <w xml:id="S01724.4.4.10.6.04800">עולם</w>
                      <damageSpan type="damage" spanTo="#d12e525"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e526"
-                                 subtype="damage"
-                                 extent="25"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e526" subtype="damage" extent="25" unit="chars"/>
                      <anchor xml:id="d12e526" type="gap"/>
                      <anchor xml:id="d12e525" type="damage"/>
                      <lb n="26"/>
@@ -796,11 +690,7 @@
                         </choice>
                      </w>
                      <damageSpan type="damage" spanTo="#d12e555"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e556"
-                                 subtype="damage"
-                                 extent="20"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e556" subtype="damage" extent="20" unit="chars"/>
                      <anchor xml:id="d12e556" type="gap"/>
                      <anchor xml:id="d12e555" type="damage"/>
                      <lb n="27"/>
@@ -812,11 +702,7 @@
                      <w xml:id="S01724.4.4.10.6.06200">גנות</w>
                      <w xml:id="S01724.4.4.10.6.06300">ופרדיסין</w>
                      <damageSpan type="damage" spanTo="#d12e559"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e560"
-                                 subtype="damage"
-                                 extent="18"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e560" subtype="damage" extent="18" unit="chars"/>
                      <anchor xml:id="d12e560" type="gap"/>
                      <anchor xml:id="d12e559" type="damage"/>
                      <lb n="28"/>
@@ -834,11 +720,7 @@
                      <w xml:id="S01724.4.4.10.6.07000">כל</w>
                      <w xml:id="S01724.4.4.10.6.07100">זמן</w>
                      <w xml:id="S01724.4.4.10.6.07200">שה<damageSpan type="damage" spanTo="#d12e572"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e573"
-                                    subtype="damage"
-                                    extent="21"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e573" subtype="damage" extent="21" unit="chars"/>
                         <anchor xml:id="d12e573" type="gap"/>
                         <anchor xml:id="d12e572" type="damage"/>
                      </w>
@@ -851,19 +733,11 @@
                      <w xml:id="S01724.4.4.10.6.07800">חרון</w>
                      <w xml:id="S01724.4.4.10.6.07900">אף</w>
                      <w xml:id="S01724.4.4.10.6.08000">
-                        <damageSpan type="damage" spanTo="#d12e577"/>מ<damageSpan type="gap"
-                                    spanTo="#d12e579"
-                                    subtype="damage"
-                                    extent="7"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e577"/>מ<damageSpan type="gap" spanTo="#d12e579" subtype="damage" extent="7" unit="chars"/>
                         <anchor xml:id="d12e579" type="gap"/>
                         <anchor xml:id="d12e577" type="damage"/>
                         <damageSpan type="damage" spanTo="#d12e580"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e581"
-                                    subtype="damage"
-                                    extent="7"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e581" subtype="damage" extent="7" unit="chars"/>
                         <anchor xml:id="d12e581" type="gap"/>
                         <anchor xml:id="d12e580" type="damage"/>
                      </w>
@@ -872,11 +746,7 @@
                <div3 xml:id="S01724.4.4.11">
                   <head xml:id="S01724.4.4.11.H">
                      <damageSpan type="damage" spanTo="#d12e584"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e585"
-                                 subtype="damage"
-                                 extent="3"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e585" subtype="damage" extent="3" unit="chars"/>
                      <anchor xml:id="d12e585" type="gap"/>
                      <anchor xml:id="d12e584" type="damage"/>
                      <lb n="30"/>
@@ -891,11 +761,7 @@
                      <w xml:id="S01724.4.4.11.1.00500">אביו</w>
                      <w xml:id="S01724.4.4.11.1.00600">ואמו</w>
                      <w xml:id="S01724.4.4.11.1.00700">וה<damageSpan type="damage" spanTo="#d12e595"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e596"
-                                    subtype="damage"
-                                    extent="22"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e596" subtype="damage" extent="22" unit="chars"/>
                         <anchor xml:id="d12e596" type="gap"/>
                         <anchor xml:id="d12e595" type="damage"/>
                      </w>
@@ -909,11 +775,7 @@
                      <w xml:id="S01724.4.4.11.1.01400">והמתנבא</w>
                      <w xml:id="S01724.4.4.11.1.01500">בשם</w>
                      <damageSpan type="damage" spanTo="#d12e599"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e600"
-                                 subtype="damage"
-                                 extent="17"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e600" subtype="damage" extent="17" unit="chars"/>
                      <anchor xml:id="d12e600" type="gap"/>
                      <anchor xml:id="d12e599" type="damage"/>
                      <lb n="32"/>
@@ -927,11 +789,7 @@
                      </label>
                      <w xml:id="S01724.4.4.11.1.02100">המכה</w>
                      <w xml:id="S01724.4.4.11.1.02200">א<damageSpan type="damage" spanTo="#d12e610"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e611"
-                                    subtype="damage"
-                                    extent="22"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e611" subtype="damage" extent="22" unit="chars"/>
                         <anchor xml:id="d12e611" type="gap"/>
                         <anchor xml:id="d12e610" type="damage"/>
                      </w>
@@ -944,16 +802,8 @@
                      <w xml:id="S01724.4.4.11.1.02700">במקלל</w>
                      <w xml:id="S01724.4.4.11.1.02800">מיבמכה</w>
                      <w xml:id="S01724.4.4.11.1.02900">
-                        <damageSpan type="damage" spanTo="#d12e617"/>ש<damageSpan type="gap"
-                                    spanTo="#d12e619"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
-                        <anchor xml:id="d12e619" type="gap"/>מ<damageSpan type="gap"
-                                    spanTo="#d12e621"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e617"/>ש<damageSpan type="gap" spanTo="#d12e619" subtype="damage" extent="1" unit="chars"/>
+                        <anchor xml:id="d12e619" type="gap"/>מ<damageSpan type="gap" spanTo="#d12e621" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e621" type="gap"/>
                         <anchor xml:id="d12e617" type="damage"/>
                      </w>
@@ -1122,11 +972,7 @@
                      <w xml:id="S01724.4.4.11.2.07500">למדתי</w>
                      <lb n="9"/>
                      <damageSpan type="damage" spanTo="#d12e708"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e709"
-                                 subtype="damage"
-                                 extent="3"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e709" subtype="damage" extent="3" unit="chars"/>
                      <anchor xml:id="d12e709" type="gap"/>
                      <anchor xml:id="d12e708" type="damage"/>
                      <w xml:id="S01724.4.4.11.2.07600">למדו</w>
@@ -1145,11 +991,7 @@
                      <lb n="10"/>
                      <w xml:id="S01724.4.4.11.2.08900">
                         <damageSpan type="damage" spanTo="#d12e712"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e713"
-                                    subtype="damage"
-                                    extent="4"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e713" subtype="damage" extent="4" unit="chars"/>
                         <anchor xml:id="d12e713" type="gap"/>ל<anchor xml:id="d12e712" type="damage"/>
                      </w>
                      <w xml:id="S01724.4.4.11.2.09000">שבלשכת</w>
@@ -1170,11 +1012,7 @@
                      <lb n="11"/>
                      <w xml:id="S01724.4.4.11.2.10000">
                         <damageSpan type="damage" spanTo="#d12e727"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e728"
-                                    subtype="damage"
-                                    extent="3"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e728" subtype="damage" extent="3" unit="chars"/>
                         <anchor xml:id="d12e728" type="gap"/>
                         <anchor xml:id="d12e727" type="damage"/>א</w>
                      <w xml:id="S01724.4.4.11.2.10100">אשר</w>
@@ -1192,11 +1030,7 @@
                      <w xml:id="S01724.4.4.11.2.10500">לעירו</w>
                      <w xml:id="S01724.4.4.11.2.10600">שנה</w>
                      <w xml:id="S01724.4.4.11.2.10700">ולימד</w>
-                     <w xml:id="S01724.4.4.11.2.10800">כ<damageSpan type="damage" spanTo="#d12e745"/>ד<damageSpan type="gap"
-                                    spanTo="#d12e747"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.11.2.10800">כ<damageSpan type="damage" spanTo="#d12e745"/>ד<damageSpan type="gap" spanTo="#d12e747" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e747" type="gap"/>
                         <anchor xml:id="d12e745" type="damage"/>
                      </w>
@@ -1204,28 +1038,16 @@
                      <w xml:id="S01724.4.4.11.2.11000">פטור</w>
                      <lb n="12"/>
                      <damageSpan type="damage" spanTo="#d12e751"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e752"
-                                 subtype="damage"
-                                 extent="3"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e752" subtype="damage" extent="3" unit="chars"/>
                      <anchor xml:id="d12e752" type="gap"/>
                      <anchor xml:id="d12e751" type="damage"/>
                      <w xml:id="S01724.4.4.11.2.11100">הורה</w>
                      <w xml:id="S01724.4.4.11.2.11200">לעשות</w>
                      <w xml:id="S01724.4.4.11.2.11300">חיי<damageSpan type="damage" spanTo="#d12e754"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e755"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e755" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d12e755" type="gap"/>
                      </w>
-                     <w xml:id="S01724.4.4.11.2.11400">ש<damageSpan type="gap"
-                                    spanTo="#d12e757"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.4.11.2.11400">ש<damageSpan type="gap" spanTo="#d12e757" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e757" type="gap"/>
                         <anchor xml:id="d12e754" type="damage"/>
                      </w>
@@ -1240,20 +1062,12 @@
                      <lb n="13"/>
                      <w xml:id="S01724.4.4.11.2.12200">
                         <damageSpan type="damage" spanTo="#d12e765"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e766"
-                                    subtype="damage"
-                                    extent="8"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e766" subtype="damage" extent="8" unit="chars"/>
                         <anchor xml:id="d12e766" type="gap"/>ד<anchor xml:id="d12e765" type="damage"/>
                      </w>
                      <w xml:id="S01724.4.4.11.2.12300">לשרת</w>
                      <w xml:id="S01724.4.4.11.2.12400">
-                        <damageSpan type="damage" spanTo="#d12e770"/>ש<damageSpan type="gap"
-                                    spanTo="#d12e772"
-                                    subtype="damage"
-                                    extent="4"
-                                    unit="chars"/>
+                        <damageSpan type="damage" spanTo="#d12e770"/>ש<damageSpan type="gap" spanTo="#d12e772" subtype="damage" extent="4" unit="chars"/>
                         <anchor xml:id="d12e772" type="gap"/>
                      </w>
                      <w xml:id="S01724.4.4.11.2.12500">א<anchor xml:id="d12e770" type="damage"/>ינו</w>
@@ -1266,20 +1080,12 @@
                      <lb n="14"/>
                      <w xml:id="S01724.4.4.11.2.13200">
                         <damageSpan type="damage" spanTo="#d12e776"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e777"
-                                    subtype="damage"
-                                    extent="9"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e777" subtype="damage" extent="9" unit="chars"/>
                         <anchor xml:id="d12e777" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d12e778" subtype="damage"/>נ<anchor xml:id="d12e778" type="unclear"/>מ<anchor xml:id="d12e776" type="damage"/>צא</w>
                      <w xml:id="S01724.4.4.11.2.13300">
                         <damageSpan type="damage" spanTo="#d12e782"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e783"
-                                    subtype="damage"
-                                    extent="4"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e783" subtype="damage" extent="4" unit="chars"/>
                         <anchor xml:id="d12e783" type="gap"/>ו<anchor xml:id="d12e782" type="damage"/>
                      </w>
                      <w xml:id="S01724.4.4.11.2.13400">קולו</w>
@@ -1296,11 +1102,7 @@
                      <lb n="15"/>
                      <w xml:id="S01724.4.4.11.3.00600">
                         <damageSpan type="damage" spanTo="#d12e795"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e796"
-                                    subtype="damage"
-                                    extent="17"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e796" subtype="damage" extent="17" unit="chars"/>
                         <anchor xml:id="d12e796" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d12e797" subtype="damage"/>ו<anchor xml:id="d12e797" type="unclear"/>
                         <anchor xml:id="d12e795" type="damage"/>ר</w>
@@ -1315,11 +1117,7 @@
                      </w>
                      <lb n="16"/>
                      <damageSpan type="damage" spanTo="#d12e803"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e804"
-                                 subtype="damage"
-                                 extent="15"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e804" subtype="damage" extent="15" unit="chars"/>
                      <anchor xml:id="d12e804" type="gap"/>
                      <anchor xml:id="d12e803" type="damage"/>
                   </ab>
@@ -1337,11 +1135,7 @@
                      <lb n="17"/>
                      <w xml:id="S01724.4.4.11.4.00900">
                         <damageSpan type="damage" spanTo="#d12e812"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e813"
-                                    subtype="damage"
-                                    extent="17"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e813" subtype="damage" extent="17" unit="chars"/>
                         <anchor xml:id="d12e813" type="gap"/>
                         <anchor xml:id="d12e812" type="damage"/>עלין</w>
                      <w xml:id="S01724.4.4.11.4.01000">אותו</w>
@@ -1353,17 +1147,9 @@
                      <lb n="18"/>
                      <w xml:id="S01724.4.4.11.4.01600">
                         <damageSpan type="damage" spanTo="#d12e816"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e817"
-                                    subtype="damage"
-                                    extent="17"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e817" subtype="damage" extent="17" unit="chars"/>
                         <anchor xml:id="d12e817" type="gap"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d12e818"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d12e818" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d12e818" type="unclear"/>ו<anchor xml:id="d12e816" type="damage"/>תו</w>
                      <w xml:id="S01724.4.4.11.4.01700">ברגל</w>
                      <w xml:id="S01724.4.4.11.4.01800">
@@ -1380,11 +1166,7 @@
                      <lb n="19"/>
                      <w xml:id="S01724.4.4.11.4.02400">
                         <damageSpan type="damage" spanTo="#d12e832"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e833"
-                                    subtype="damage"
-                                    extent="20"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e833" subtype="damage" extent="20" unit="chars"/>
                         <anchor xml:id="d12e833" type="gap"/>א<anchor xml:id="d12e832" type="damage"/>ין</w>
                      <w xml:id="S01724.4.4.11.4.02500">מענים</w>
                      <w xml:id="S01724.4.4.11.4.02600">דינו</w>
@@ -1396,11 +1178,7 @@
                      <lb n="20"/>
                      <w xml:id="S01724.4.4.11.4.03200">
                         <damageSpan type="damage" spanTo="#d12e837"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e838"
-                                    subtype="damage"
-                                    extent="21"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e838" subtype="damage" extent="21" unit="chars"/>
                         <anchor xml:id="d12e838" type="gap"/>
                         <anchor xml:id="d12e837" type="damage"/>מות</w>
                      <w xml:id="S01724.4.4.11.4.03300">איש</w>
@@ -1412,22 +1190,14 @@
                      <w xml:id="S01724.4.4.11.4.03900">מיתה</w>
                      <lb n="21"/>
                      <damageSpan type="damage" spanTo="#d12e841"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e842"
-                                 subtype="damage"
-                                 extent="8"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e842" subtype="damage" extent="8" unit="chars"/>
                      <anchor xml:id="d12e842" type="gap"/>
                      <anchor xml:id="d12e841" type="damage"/>
                   </ab>
                   <ab xml:id="S01724.4.4.11.5">
                      <w xml:id="S01724.4.4.11.5.00100">
                         <damageSpan type="damage" spanTo="#d12e844"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e845"
-                                    subtype="damage"
-                                    extent="7"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e845" subtype="damage" extent="7" unit="chars"/>
                         <anchor xml:id="d12e845" type="gap"/>ש<anchor xml:id="d12e844" type="damage"/>קר</w>
                      <w xml:id="S01724.4.4.11.5.00200">המתנבא</w>
                      <w xml:id="S01724.4.4.11.5.00300">מה</w>
@@ -1439,11 +1209,7 @@
                      <lb n="22"/>
                      <w xml:id="S01724.4.4.11.5.00900">
                         <damageSpan type="damage" spanTo="#d12e849"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e850"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e850" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e850" type="gap"/>
                         <anchor xml:id="d12e849" type="damage"/>המוותר</w>
                      <w xml:id="S01724.4.4.11.5.01000">על</w>
@@ -1455,11 +1221,7 @@
                      <w xml:id="S01724.4.4.11.5.01600">דברי</w>
                      <lb n="23"/>
                      <damageSpan type="damage" spanTo="#d12e853"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e854"
-                                 subtype="damage"
-                                 extent="19"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e854" subtype="damage" extent="19" unit="chars"/>
                      <anchor xml:id="d12e854" type="gap"/>
                      <anchor xml:id="d12e853" type="damage"/>
                      <w xml:id="S01724.4.4.11.5.01700">
@@ -1480,11 +1242,7 @@
                      <lb n="24"/>
                      <w xml:id="S01724.4.4.11.6.00300">
                         <damageSpan type="damage" spanTo="#d12e868"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e869"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e869" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e869" type="gap"/>ע<anchor xml:id="d12e868" type="damage"/>בודה</w>
                      <w xml:id="S01724.4.4.11.6.00400">זרה</w>
                      <w xml:id="S01724.4.4.11.6.00500">אפילו</w>
@@ -1495,11 +1253,7 @@
                      <w xml:id="S01724.4.4.11.6.01000">את</w>
                      <lb n="25"/>
                      <damageSpan type="damage" spanTo="#d12e873"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e874"
-                                 subtype="damage"
-                                 extent="21"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e874" subtype="damage" extent="21" unit="chars"/>
                      <anchor xml:id="d12e874" type="gap"/>
                      <anchor xml:id="d12e873" type="damage"/>
                      <w xml:id="S01724.4.4.11.6.01100">על</w>
@@ -1513,11 +1267,7 @@
                      <lb n="26"/>
                      <w xml:id="S01724.4.4.11.6.01800">
                         <damageSpan type="damage" spanTo="#d12e879"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e880"
-                                    subtype="damage"
-                                    extent="21"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e880" subtype="damage" extent="21" unit="chars"/>
                         <anchor xml:id="d12e880" type="gap"/>ה<anchor xml:id="d12e879" type="damage"/>
                      </w>
                      <w xml:id="S01724.4.4.11.6.01900">ובא</w>
@@ -1531,11 +1281,7 @@
                      <lb n="27"/>
                      <w xml:id="S01724.4.4.11.6.02700">
                         <damageSpan type="damage" spanTo="#d12e885"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e886"
-                                    subtype="damage"
-                                    extent="21"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e886" subtype="damage" extent="21" unit="chars"/>
                         <anchor xml:id="d12e886" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d12e887"/>מ<anchor xml:id="d12e887" type="unclear"/>
                         <anchor xml:id="d12e885" type="damage"/>ין</w>
@@ -1548,22 +1294,14 @@
                      <surplus xml:id="S01724.d12e3511">??</surplus>
                      <lb n="28"/>
                      <damageSpan type="damage" spanTo="#d12e893"/>
-                     <damageSpan type="gap"
-                                 spanTo="#d12e894"
-                                 subtype="damage"
-                                 extent="7"
-                                 unit="chars"/>
+                     <damageSpan type="gap" spanTo="#d12e894" subtype="damage" extent="7" unit="chars"/>
                      <anchor xml:id="d12e894" type="gap"/>
                      <anchor xml:id="d12e893" type="damage"/>
                   </ab>
                   <trailer xml:id="S01724.4.4.11.T">
                      <w xml:id="S01724.4.4.11.T.00100">
                         <damageSpan type="damage" spanTo="#d12e896"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e897"
-                                    subtype="damage"
-                                    extent="8"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e897" subtype="damage" extent="8" unit="chars"/>
                         <anchor xml:id="d12e897" type="gap"/>
                         <damageSpan type="unclear" spanTo="#d12e898" subtype="damage"/>ו<anchor xml:id="d12e898" type="unclear"/>
                         <anchor xml:id="d12e896" type="damage"/>ת</w>
@@ -1585,11 +1323,7 @@
                      <lb n="29"/>
                      <w xml:id="S01724.4.5.1.1.00500">
                         <damageSpan type="damage" spanTo="#d12e912"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e913"
-                                    subtype="damage"
-                                    extent="20"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e913" subtype="damage" extent="20" unit="chars"/>
                         <anchor xml:id="d12e913" type="gap"/>ה<anchor xml:id="d12e912" type="damage"/>וא</w>
                      <w xml:id="S01724.4.5.1.1.00600">בן</w>
                      <w xml:id="S01724.4.5.1.1.00700">גרושה</w>
@@ -1602,11 +1336,7 @@
                      <lb n="30"/>
                      <w xml:id="S01724.4.5.1.1.01300">
                         <damageSpan type="damage" spanTo="#d12e919"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e920"
-                                    subtype="damage"
-                                    extent="18"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e920" subtype="damage" extent="18" unit="chars"/>
                         <anchor xml:id="d12e920" type="gap"/>
                         <anchor xml:id="d12e919" type="damage"/>צה</w>
                      <w xml:id="S01724.4.5.1.1.01400">תחתיו</w>
@@ -1618,11 +1348,7 @@
                      <lb n="31"/>
                      <w xml:id="S01724.4.5.1.1.02000">
                         <damageSpan type="damage" spanTo="#d12e923"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e924"
-                                    subtype="damage"
-                                    extent="19"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e924" subtype="damage" extent="19" unit="chars"/>
                         <anchor xml:id="d12e924" type="gap"/>
                         <anchor xml:id="d12e923" type="damage"/>גלות</w>
                      <w xml:id="S01724.4.5.1.1.02100">אין</w>
@@ -1636,11 +1362,7 @@
                      <lb n="32"/>
                      <w xml:id="S01724.4.5.1.1.02800">
                         <damageSpan type="damage" spanTo="#d12e930"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e931"
-                                    subtype="damage"
-                                    extent="16"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e931" subtype="damage" extent="16" unit="chars"/>
                         <anchor xml:id="d12e931" type="gap"/>א<anchor xml:id="d12e930" type="damage"/>יש</w>
                      <w xml:id="S01724.4.5.1.1.02900">פלוני</w>
                      <w xml:id="S01724.4.5.1.1.03000">את</w>
@@ -1652,17 +1374,9 @@
                      <lb n="33"/>
                      <w xml:id="S01724.4.5.1.1.03500">
                         <damageSpan type="damage" spanTo="#d12e938"/>
-                        <damageSpan type="gap"
-                                    spanTo="#d12e939"
-                                    subtype="damage"
-                                    extent="14"
-                                    unit="chars"/>
+                        <damageSpan type="gap" spanTo="#d12e939" subtype="damage" extent="14" unit="chars"/>
                         <anchor xml:id="d12e939" type="gap"/>ן</w>
-                     <w xml:id="S01724.4.5.1.1.03600">ל<damageSpan type="gap"
-                                    spanTo="#d12e941"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                     <w xml:id="S01724.4.5.1.1.03600">ל<damageSpan type="gap" spanTo="#d12e941" subtype="damage" extent="2" unit="chars"/>
                         <anchor xml:id="d12e941" type="gap"/>ר<anchor xml:id="d12e938" type="damage"/>
                      </w>
                      <w xml:id="S01724.4.5.1.1.03700">סופו</w>

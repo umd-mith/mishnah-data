@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S07396">
    <teiHeader>
       <fileDesc>
@@ -1400,11 +1398,7 @@
                      <lb n="19"/>
                      <w xml:id="S07396.4.1.3.5.04300">פטור</w>
                      <delSpan spanTo="#d33e1021" hand="h2" rend="rubbing"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#d33e1022"
-                                 subtype="damage"
-                                 unit="chars"
-                                 extent="7"/>
+                     <damageSpan type="unclear" spanTo="#d33e1022" subtype="damage" unit="chars" extent="7"/>
                      <anchor xml:id="d33e1022" type="unclear"/>
                      <w xml:id="S07396.4.1.3.5.04400">חייב<anchor xml:id="d33e1021" type="del"/>
                         <addSpan spanTo="#d33e1024" place="above line" hand="#h2"/>היה</w>
@@ -2216,9 +2210,7 @@
                      <lb n="2"/>
                      <space extent="12" unit="chars"/>
                      <w xml:id="S07396.4.1.4.1.00600">זה</w>
-                     <delSpan spanTo="#d33e1641"
-                              hand="h1"
-                              rend="deletion                      mark"/>
+                     <delSpan spanTo="#d33e1641" hand="h1" rend="deletion                      mark"/>
                      <w xml:id="S07396.4.1.4.1.00700">את</w>
                      <w xml:id="S07396.4.1.4.1.00800">זה</w>
                      <anchor xml:id="d33e1641" type="del"/>
@@ -3528,11 +3520,7 @@
                      <w xml:id="S07396.4.1.5.6.07500">בת</w>
                      <w xml:id="S07396.4.1.5.6.07600">עבד</w>
                      <delSpan spanTo="#d33e2508" hand="other" rend="other"/>
-                     <w xml:id="S07396.4.1.5.6.07700">אמ<damageSpan type="unclear"
-                                    spanTo="#d33e2510"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                     <w xml:id="S07396.4.1.5.6.07700">אמ<damageSpan type="unclear" spanTo="#d33e2510" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d33e2510" type="unclear"/>
                         <note type="EdRevReqd" resp="#NE">comm:נ ראה לי כי המילה כאן נכתבה בטעות ושהכוונה של הסופר שהיא
                      מחוקה</note>
@@ -3767,11 +3755,7 @@
                      <w xml:id="S07396.4.1.6.3.01700">גדיש</w>
                      <w xml:id="S07396.4.1.6.3.01800">חייב</w>
                      <w xml:id="S07396.4.1.6.3.01900">הגדיש</w>
-                     <w xml:id="S07396.4.1.6.3.02000">ב<damageSpan type="unclear"
-                                    spanTo="#d33e2650"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                     <w xml:id="S07396.4.1.6.3.02000">ב<damageSpan type="unclear" spanTo="#d33e2650" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d33e2650" type="unclear"/>שות</w>
                      <w xml:id="S07396.4.1.6.3.02100">בעל</w>
                      <w xml:id="S07396.4.1.6.3.02200">שד<c rend="tall">ה</c>
@@ -4364,8 +4348,7 @@
                      <surplus xml:id="S07396.d32e12049" reason="fill">וט׳</surplus>
                      <lb n="10"/>
                      <w xml:id="S07396.4.1.7.2.02200">
-                        <fw type="catchw-gathering-next"
-                            rend="size() ornamented(n)                      place(inline)">וט׳</fw>
+                        <fw type="catchw-gathering-next" rend="size() ornamented(n)                      place(inline)">וט׳</fw>
                         <space extent="5" unit="chars"/>
                      </w>
                      <w xml:id="S07396.4.1.7.2.02300">וטבח</w>
@@ -4549,11 +4532,7 @@
                      <w xml:id="S07396.4.1.7.3.04400">
                         <damageSpan type="damage" spanTo="#d33e3243"/>כפל</w>
                      <w xml:id="S07396.4.1.7.3.04500">
-                        <damageSpan type="unclear"
-                                    spanTo="#d33e3245"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="2"/>
+                        <damageSpan type="unclear" spanTo="#d33e3245" subtype="damage" unit="chars" extent="2"/>
                         <anchor xml:id="d33e3245" type="unclear"/>ן<anchor xml:id="d33e3243" type="damage"/>
                         <anchor xml:id="d33e3242" type="add"/>
                      </w>
@@ -5132,11 +5111,7 @@
                      <w xml:id="S07396.4.1.8.1.11000">הכל</w>
                      <lb n="7"/>
                      <w xml:id="S07396.4.1.8.1.11100">
-                        <damageSpan type="unclear"
-                                    spanTo="#d33e3681"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#d33e3681" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d33e3681" type="unclear"/>לפי</w>
                      <w xml:id="S07396.4.1.8.1.11200">המבייש</w>
                      <w xml:id="S07396.4.1.8.1.11300">והמתבייש</w>
@@ -5989,11 +5964,7 @@
                      <cb xml:id="S07396.52vB" n="52vB" type="1-col"/>
                      <lb n="1"/>
                      <w xml:id="S07396.4.1.9.3.01100">לתקן</w>
-                     <damageSpan type="unclear"
-                                 spanTo="#d33e4307"
-                                 subtype="damage"
-                                 unit="chars"
-                                 extent="5"/>
+                     <damageSpan type="unclear" spanTo="#d33e4307" subtype="damage" unit="chars" extent="5"/>
                      <anchor xml:id="d33e4307" type="unclear"/>
                      <w xml:id="S07396.4.1.9.3.01200">חייב</w>
                      <w xml:id="S07396.4.1.9.3.01300">לשלם</w>

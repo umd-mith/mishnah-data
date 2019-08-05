@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.3.2"
-      n="Ketubot">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.3.2" n="Ketubot">
   <div3 xml:id="S00040.3.2.1">
       <ab xml:id="S00040.3.2.1.1">
          <w xml:id="S00040.3.2.1.1.1">מפני</w>
@@ -1165,7 +1161,8 @@
          <w xml:id="S00040.3.2.2.3.136">לה</w>
       </ab>
   </div3>
-  <div3 xml:id="S00040.3.2.3"><head xml:id="S00040.3.2.3.H">
+  <div3 xml:id="S00040.3.2.3">
+        <head xml:id="S00040.3.2.3.H">
          <w xml:id="S00040.3.2.3.H.1">פרק</w>
          <w xml:id="S00040.3.2.3.H.2">ג'</w>
       </head>
@@ -1656,7 +1653,8 @@
          <w xml:id="S00040.3.2.3.8.45">קנס</w>
       </ab>
   </div3>
-  <div3 xml:id="S00040.3.2.4"><head xml:id="S00040.3.2.4.H">
+  <div3 xml:id="S00040.3.2.4">
+        <head xml:id="S00040.3.2.4.H">
          <w xml:id="S00040.3.2.4.H.1">פרק</w>
          <w xml:id="S00040.3.2.4.H.2">ד'</w>
       </head>
@@ -5253,10 +5251,7 @@
          <w xml:id="S00040.3.2.9.6.47">הגט</w>
          <w xml:id="S00040.3.2.9.6.48">אינה</w>
          <w xml:id="S00040.3.2.9.6.49">ג<delSpan spanTo="#S00400.tt17496" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt17497"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt17497" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.3.2.9.6.50">
             <anchor xml:id="wit.tt17497" type="gap"/>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.3.4"
-      n="Nazir">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.3.4" n="Nazir">
   <div3 xml:id="S00040.3.4.1">
       <ab xml:id="S00040.3.4.1.1">
          <w xml:id="S00040.3.4.1.1.1">בית</w>
@@ -2945,10 +2941,7 @@
          <w xml:id="S00040.3.4.6.4.30">אבל</w>
          <w xml:id="S00040.3.4.6.4.31">כופן</w>
          <w xml:id="S00040.3.4.6.4.32">לשתו<delSpan spanTo="#S00400.tt18902" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt18903"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt18903" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.3.4.6.4.33">
             <anchor xml:id="wit.tt18903" type="gap"/>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>An Electronic Edition Mishnah Sheqalim, S000127856
@@ -58,8 +59,7 @@
                     <msContents>
                         <msItem>
                             <title>Midrash Hashkem</title>
-                            <note type="nli-ref"
-                                >http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000127856&amp;local_base=NNL01</note>
+                            <note type="nli-ref">http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000127856&amp;local_base=NNL01</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -77,80 +77,267 @@
          <change who="ref.xml#KJ ref.xml#ML ref.xml#GN ref.xml#GW" notAfter="2000">Original Transcription for Yerushalmi Synopsis</change>
          <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
         </revisionDesc>
-    </teiHeader><text xml:lang="heb" type="edition"><body>
+    </teiHeader>
+    <text xml:lang="heb" type="edition">
+        <body>
             <div1 xml:id="S000127856.2" type="textpart" subtype="order">
                 <div2 xml:id="S000127856.2.4" type="textpart" subtype="tractate">
-<div3 xml:id="S000127856.2.4.1" n="Chapter1" type="textpart" subtype="chapter"><pb n="77r" xml:id="S000127856.77r"/><lb n="2"/><ab xml:id="S000127856.2.4.1.6" type="textpart" subtype="mishnah">ואלו חייבין <lb n="3"/>
-בקלבון לוים <abbr>ויש<am>׳</am></abbr><expan/> גרים ועבדים משוחררים אבל לא עבדים <lb n="4"/>
+<div3 xml:id="S000127856.2.4.1" n="Chapter1" type="textpart" subtype="chapter">
+                        <pb n="77r" xml:id="S000127856.77r"/>
+                        <lb n="2"/>
+                        <ab xml:id="S000127856.2.4.1.6" type="textpart" subtype="mishnah">ואלו חייבין <lb n="3"/>
+בקלבון לוים <abbr>ויש<am>׳</am>
+                            </abbr>
+                            <expan/> גרים ועבדים משוחררים אבל לא עבדים <lb n="4"/>
 ולא קטנים השוקל על יד העם על יד האשה על יד הכהן <lb n="5"/>
-על יד הקטן אסור על ידו ועל יד חברו חייב קלבון אחד <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <lb n="6"/>
-מאיר <choice><abbr>א<am>׳</am></abbr><expan>אמר</expan></choice> שני קלבונות<pc unit="unitEnd">.</pc> <lb n="11"/></ab>
-</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S000127856.2.4.2" n="Chapter2" type="textpart" subtype="chapter"><ab xml:id="S000127856.2.4.2.1" type="textpart" subtype="mishnah">בני העיר ששלחו <lb n="12"/>
+על יד הקטן אסור על ידו ועל יד חברו חייב קלבון אחד <choice>
+                                <abbr>ר<am>׳</am>
+                                </abbr>
+                                <expan>רבי</expan>
+                            </choice> <lb n="6"/>
+מאיר <choice>
+                                <abbr>א<am>׳</am>
+                                </abbr>
+                                <expan>אמר</expan>
+                            </choice> שני קלבונות<pc unit="unitEnd">.</pc> <lb n="11"/>
+                        </ab>
+</div3> <gap reason="talmud" extent="999"/>
+                    <div3 xml:id="S000127856.2.4.2" n="Chapter2" type="textpart" subtype="chapter">
+                        <ab xml:id="S000127856.2.4.2.1" type="textpart" subtype="mishnah">בני העיר ששלחו <lb n="12"/>
 את שקליהן ונגנבו או שאבדו אם נתרמה התרומה נשבעין <lb n="13"/>
-לגזברין ואם לאו נשבעין לבני העיר ובני העיר שוקלין תחתיהן <lb n="22"/><gap reason="talmud" extent="999"/>
+לגזברין ואם לאו נשבעין לבני העיר ובני העיר שוקלין תחתיהן <lb n="22"/>
+                            <gap reason="talmud" extent="999"/>
 נמצאו או <lb n="23"/>
 שהחזירום הגנבים אלו ואלו שקלים ואין עולין להם לשנה הבא </ab>
-</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S000127856.2.4.3" n="Chapter3" type="textpart" subtype="chapter"><pb n="77v" xml:id="S000127856.77v"/><lb n="22"/><ab xml:id="S000127856.2.4.3.1" type="textpart" subtype="mishnah">בשלשה פרקים בשנה תורמין את <lb n="23"/>
-הלשכה בפרס הפסח <choice><abbr>בפ<am>׳</am></abbr><expan>בפרס</expan></choice> העצרת בפרס החג </ab><gap reason="talmud" extent="999"/>
-<pb n="78r" xml:id="S000127856.78r"/><lb n="4"/><ab xml:id="S000127856.2.4.3.2" type="textpart" subtype="mishnah">בשלש קופות <lb n="5"/>
-של שלש שלש סאים תורמין את הלשכה <choice><abbr>וכת<am>׳</am></abbr><expan>וכתוב</expan></choice> בהו אלף בית <lb n="6"/>
-גימל <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> ישמעאל <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> בלשון יונית <choice><abbr>כת<am>׳</am></abbr><expan>כתוב</expan></choice> עליהן אלפא בטא גמא <lb n="12"/><gap reason="talmud" extent="999"/>
-תני אין התורם נכנס לא בפרגו<damage><unclear reason="damage">ד</unclear></damage> חפות ולא <surplus>?</surplus> <lb n="13"/>
+</div3> <gap reason="talmud" extent="999"/>
+                    <div3 xml:id="S000127856.2.4.3" n="Chapter3" type="textpart" subtype="chapter">
+                        <pb n="77v" xml:id="S000127856.77v"/>
+                        <lb n="22"/>
+                        <ab xml:id="S000127856.2.4.3.1" type="textpart" subtype="mishnah">בשלשה פרקים בשנה תורמין את <lb n="23"/>
+הלשכה בפרס הפסח <choice>
+                                <abbr>בפ<am>׳</am>
+                                </abbr>
+                                <expan>בפרס</expan>
+                            </choice> העצרת בפרס החג </ab>
+                        <gap reason="talmud" extent="999"/>
+<pb n="78r" xml:id="S000127856.78r"/>
+                        <lb n="4"/>
+                        <ab xml:id="S000127856.2.4.3.2" type="textpart" subtype="mishnah">בשלש קופות <lb n="5"/>
+של שלש שלש סאים תורמין את הלשכה <choice>
+                                <abbr>וכת<am>׳</am>
+                                </abbr>
+                                <expan>וכתוב</expan>
+                            </choice> בהו אלף בית <lb n="6"/>
+גימל <choice>
+                                <abbr>ר<am>׳</am>
+                                </abbr>
+                                <expan>רבי</expan>
+                            </choice> ישמעאל <choice>
+                                <abbr>או<am>׳</am>
+                                </abbr>
+                                <expan>אומר</expan>
+                            </choice> בלשון יונית <choice>
+                                <abbr>כת<am>׳</am>
+                                </abbr>
+                                <expan>כתוב</expan>
+                            </choice> עליהן אלפא בטא גמא <lb n="12"/>
+                            <gap reason="talmud" extent="999"/>
+תני אין התורם נכנס לא בפרגו<damage>
+                                <unclear reason="damage">ד</unclear>
+                            </damage> חפות ולא <surplus>?</surplus> <lb n="13"/>
 במנעל ולא בסנדל ולא בתפלה ולא בקמיע שמא יעני ויאמרו <lb n="14"/>
 מעון תרומת הלשכה העני ושמא יעשיר ויאמרו מתרומת <lb n="15"/>
 הלשכה העשיר שצריך אדם לצאת ידי הבריות כשם שהוא <lb n="16"/>
-צריך לצאת ידי המקום <choice><abbr>שנ<am>׳</am></abbr><expan>שנאמר</expan></choice> והייתם נקים מיי׳ <choice><abbr>ומיש<am>׳</am></abbr><expan>ומישראל</expan></choice> <choice><abbr>ואו<am>׳</am></abbr><expan>ואומר</expan></choice> ומצא <lb n="17"/>
-חן ושכל טוב <choice><abbr>בע<am>׳</am></abbr><expan>בעיני</expan></choice> <choice><abbr>א<am>׳</am>ים</abbr><expan>אלהים</expan></choice> ואדם<pc unit="unitEnd">.</pc> <lb n="22"/></ab><gap reason="talmud" extent="999"/>
-<ab xml:id="S000127856.2.4.3.3" type="textpart" subtype="mishnah">של בית רבן <choice><abbr>גמל<am>׳</am></abbr><expan>גמליאל</expan></choice> היה מכניס שקלו בין אצבעותיו וזורקו לפני <lb n="23"/>
-התורם והתורם דוחפו לקופה ^$3.4/005 אין התורם תורם עד שהוא <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> 
-<pb n="78v" xml:id="S000127856.78v"/><lb n="1"/>
-אתרום והן <choice><abbr>אומ<am>׳</am></abbr><expan>אומרים</expan></choice> לו תרום תרום שלשה פעמים</ab>
+צריך לצאת ידי המקום <choice>
+                                <abbr>שנ<am>׳</am>
+                                </abbr>
+                                <expan>שנאמר</expan>
+                            </choice> והייתם נקים מיי׳ <choice>
+                                <abbr>ומיש<am>׳</am>
+                                </abbr>
+                                <expan>ומישראל</expan>
+                            </choice> <choice>
+                                <abbr>ואו<am>׳</am>
+                                </abbr>
+                                <expan>ואומר</expan>
+                            </choice> ומצא <lb n="17"/>
+חן ושכל טוב <choice>
+                                <abbr>בע<am>׳</am>
+                                </abbr>
+                                <expan>בעיני</expan>
+                            </choice> <choice>
+                                <abbr>א<am>׳</am>ים</abbr>
+                                <expan>אלהים</expan>
+                            </choice> ואדם<pc unit="unitEnd">.</pc> <lb n="22"/>
+                        </ab>
+                        <gap reason="talmud" extent="999"/>
+<ab xml:id="S000127856.2.4.3.3" type="textpart" subtype="mishnah">של בית רבן <choice>
+                                <abbr>גמל<am>׳</am>
+                                </abbr>
+                                <expan>גמליאל</expan>
+                            </choice> היה מכניס שקלו בין אצבעותיו וזורקו לפני <lb n="23"/>
+התורם והתורם דוחפו לקופה ^$3.4/005 אין התורם תורם עד שהוא <choice>
+                                <abbr>או<am>׳</am>
+                                </abbr>
+                                <expan>אומר</expan>
+                            </choice> 
+<pb n="78v" xml:id="S000127856.78v"/>
+                            <lb n="1"/>
+אתרום והן <choice>
+                                <abbr>אומ<am>׳</am>
+                                </abbr>
+                                <expan>אומרים</expan>
+                            </choice> לו תרום תרום שלשה פעמים</ab>
 <ab xml:id="S000127856.2.4.3.4" type="textpart" subtype="mishnah">תרם את <lb n="2"/>
 הראשונה וחיפה בקטבלאות ושניה חיפה בקטבלאות <lb n="3"/>
 השלישית לא היה מחפה ולא לא היה מחפה שמא ישכח <lb n="4"/>
 ויתרום מן הדבר התרום<pc unit="stop">.</pc> תרם את הראשונה לשם ארץ <lb n="5"/>
-<choice><abbr>יש<am>׳</am></abbr><expan>ישראל</expan></choice> <choice><abbr>וכול<am>׳</am></abbr><expan>וכוליה</expan></choice><pc unit="unitEnd">.</pc> <lb n="13"/></ab>
-</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S000127856.2.4.4" n="Chapter4" type="textpart" subtype="chapter"><ab xml:id="S000127856.2.4.4.1" type="textpart" subtype="mishnah">התרומה מה היו עושין בה לוקחין בה תמידין ומוספין <surplus>?</surplus> <lb n="14"/>
+<choice>
+                                <abbr>יש<am>׳</am>
+                                </abbr>
+                                <expan>ישראל</expan>
+                            </choice> <choice>
+                                <abbr>וכול<am>׳</am>
+                                </abbr>
+                                <expan>וכוליה</expan>
+                            </choice>
+                            <pc unit="unitEnd">.</pc> <lb n="13"/>
+                        </ab>
+</div3> <gap reason="talmud" extent="999"/>
+                    <div3 xml:id="S000127856.2.4.4" n="Chapter4" type="textpart" subtype="chapter">
+                        <ab xml:id="S000127856.2.4.4.1" type="textpart" subtype="mishnah">התרומה מה היו עושין בה לוקחין בה תמידין ומוספין <surplus>?</surplus> <lb n="14"/>
 ונשכיהם והעומר ושתו הלחם ולחם הפנים וכל קרבנות <lb n="15"/>
 הציבור<pc unit="stop">.</pc> שומרי ספחים בשביעית נוטלין שכרן מתרומת <lb n="16"/>
-הלשכה <lb n="23"/></ab><gap reason="talmud" extent="999"/>
+הלשכה <lb n="23"/>
+                        </ab>
+                        <gap reason="talmud" extent="999"/>
 <ab xml:id="S000127856.2.4.4.2" type="textpart" subtype="mishnah">פרה ושעיר המשתלח <lb n="24"/>
-באין <choice><abbr>מת<am>׳</am></abbr><expan>מתרומת</expan></choice> <choice><abbr>הל<am>׳</am></abbr><expan>הלשכה</expan></choice> כבש פרה וכבש שעיר המשתלח ולשון שבין קרניו 
-<pb n="79r" xml:id="S000127856.79r"/><lb n="1"/>
+באין <choice>
+                                <abbr>מת<am>׳</am>
+                                </abbr>
+                                <expan>מתרומת</expan>
+                            </choice> <choice>
+                                <abbr>הל<am>׳</am>
+                                </abbr>
+                                <expan>הלשכה</expan>
+                            </choice> כבש פרה וכבש שעיר המשתלח ולשון שבין קרניו 
+<pb n="79r" xml:id="S000127856.79r"/>
+                            <lb n="1"/>
 ואמת המים וחומת העיר ומגדלותיה וכל צורכי העיר באין <lb n="2"/>
-מתרומת הלשכה אבא שאול <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> כבש פרה כהנים גדולים <lb n="3"/>
-עושין אותה משל עצמן <lb n="13"/></ab><gap reason="talmud" extent="999"/>
+מתרומת הלשכה אבא שאול <choice>
+                                <abbr>או<am>׳</am>
+                                </abbr>
+                                <expan>אומר</expan>
+                            </choice> כבש פרה כהנים גדולים <lb n="3"/>
+עושין אותה משל עצמן <lb n="13"/>
+                        </ab>
+                        <gap reason="talmud" extent="999"/>
 <ab xml:id="S000127856.2.4.4.3" type="textpart" subtype="mishnah">מותר שיירי הלשכות מה היו עושין בהן <lb n="14"/>
-לוקחין בהן יינות שמנים וסלתות והשכר להקדש <choice><abbr>דב<am>׳</am></abbr><expan>דברי</expan></choice> <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>ישמעא<am>׳</am></abbr><expan>ישמעאל</expan></choice> <lb n="15"/>
-<choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> <choice><abbr>עקי<am>׳</am></abbr><expan>עקיבה</expan></choice> <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> אין משתכרי<damage><unclear reason="damage">י</unclear></damage>ן בשל הקדש אף לא בשל עניים<pc unit="unitEnd">.</pc> <lb n="19"/></ab>
-</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S000127856.2.4.5" n="Chapter5" type="textpart" subtype="chapter"><ab xml:id="S000127856.2.4.5.1" type="textpart" subtype="mishnah">ואלו הן הממונים <lb n="20"/>
+לוקחין בהן יינות שמנים וסלתות והשכר להקדש <choice>
+                                <abbr>דב<am>׳</am>
+                                </abbr>
+                                <expan>דברי</expan>
+                            </choice> <choice>
+                                <abbr>ר<am>׳</am>
+                                </abbr>
+                                <expan>רבי</expan>
+                            </choice> <choice>
+                                <abbr>ישמעא<am>׳</am>
+                                </abbr>
+                                <expan>ישמעאל</expan>
+                            </choice> <lb n="15"/>
+<choice>
+                                <abbr>ר<am>׳</am>
+                                </abbr>
+                                <expan>רבי</expan>
+                            </choice> <choice>
+                                <abbr>עקי<am>׳</am>
+                                </abbr>
+                                <expan>עקיבה</expan>
+                            </choice> <choice>
+                                <abbr>או<am>׳</am>
+                                </abbr>
+                                <expan>אומר</expan>
+                            </choice> אין משתכרי<damage>
+                                <unclear reason="damage">י</unclear>
+                            </damage>ן בשל הקדש אף לא בשל עניים<pc unit="unitEnd">.</pc> <lb n="19"/>
+                        </ab>
+</div3> <gap reason="talmud" extent="999"/>
+                    <div3 xml:id="S000127856.2.4.5" n="Chapter5" type="textpart" subtype="chapter">
+                        <ab xml:id="S000127856.2.4.5.1" type="textpart" subtype="mishnah">ואלו הן הממונים <lb n="20"/>
 שהיו במקדש יוחנן בן פינחס על החותמות אחיה על הסלתות <lb n="21"/>
-<seg>מ<del><damage><unclear reason="damage">מ</unclear></damage></del><add>ת</add>תיה</seg> בר שמואל על הפייסות פתחיה על הקינים ולמה נקרא <lb n="22"/>
-<del cert="50">שמו</del> פתחיה שהיה פותח דברים ודורשן ויודע שבעים לשון </ab><gap reason="talmud" extent="999"/>
-<pb n="82r" xml:id="S000127856.82r"/><lb n="2"/><ab xml:id="S000127856.2.4.5.2" type="textpart" subtype="mishnah">אין פוחתין <lb n="3"/>
+<seg>מ<del>
+                                    <damage>
+                                        <unclear reason="damage">מ</unclear>
+                                    </damage>
+                                </del>
+                                <add>ת</add>תיה</seg> בר שמואל על הפייסות פתחיה על הקינים ולמה נקרא <lb n="22"/>
+<del cert="50">שמו</del> פתחיה שהיה פותח דברים ודורשן ויודע שבעים לשון </ab>
+                        <gap reason="talmud" extent="999"/>
+<pb n="82r" xml:id="S000127856.82r"/>
+                        <lb n="2"/>
+                        <ab xml:id="S000127856.2.4.5.2" type="textpart" subtype="mishnah">אין פוחתין <lb n="3"/>
 משלשה גיזברין ולא משבעה אמרכלין ואין עושין סררה על <lb n="4"/>
 הציבור בממון פחות משנים חוץ מבן אחיה שעל חולי מעים <lb n="5"/>
-ואלעזר שעל הפרכות שאותן קיבלו הציבור עליהן<pc unit="unitEnd">.</pc> <lb n="10"/></ab><gap reason="talmud" extent="999"/>
-<ab xml:id="S000127856.2.4.5.3" type="textpart" subtype="mishnah">ארבעה חותמות היו בירושלם <choice><abbr>וכת<am>׳</am></abbr><expan>וכתוב</expan></choice> עליהן עגל <lb n="11"/>
-ד<damage><unclear reason="damage">כ</unclear></damage>ר גדי וחוטא בן עזאי <choice><abbr>או<am>׳</am></abbr><expan>אומר</expan></choice> חמשה הם וארמית <choice><abbr>כת<am>׳</am></abbr><expan>כתוב</expan></choice> עליהן עגל <lb n="12"/>
+ואלעזר שעל הפרכות שאותן קיבלו הציבור עליהן<pc unit="unitEnd">.</pc> <lb n="10"/>
+                        </ab>
+                        <gap reason="talmud" extent="999"/>
+<ab xml:id="S000127856.2.4.5.3" type="textpart" subtype="mishnah">ארבעה חותמות היו בירושלם <choice>
+                                <abbr>וכת<am>׳</am>
+                                </abbr>
+                                <expan>וכתוב</expan>
+                            </choice> עליהן עגל <lb n="11"/>
+ד<damage>
+                                <unclear reason="damage">כ</unclear>
+                            </damage>ר גדי וחוטא בן עזאי <choice>
+                                <abbr>או<am>׳</am>
+                                </abbr>
+                                <expan>אומר</expan>
+                            </choice> חמשה הם וארמית <choice>
+                                <abbr>כת<am>׳</am>
+                                </abbr>
+                                <expan>כתוב</expan>
+                            </choice> עליהן עגל <lb n="12"/>
 דכר גדי חוטא דל וחוטא עשיר<pc unit="stop">.</pc> עגל משמש נסכי בקר גדולים <lb n="13"/>
 וקטנים זכרים ונקבות חוץ משל אילים<pc unit="stop">.</pc> איל משמש נסכי אילים <lb n="14"/>
-בלבד<pc unit="stop">.</pc> חוטא משמש שלש בהמות של מצורע<pc unit="stop">.</pc></ab>
+בלבד<pc unit="stop">.</pc> חוטא משמש שלש בהמות של מצורע<pc unit="stop">.</pc>
+                        </ab>
 <ab xml:id="S000127856.2.4.5.4" type="textpart" subtype="mishnah">מי שהוא מבקש <lb n="15"/>
 נסכים בא לו אצל יוחנן שהוא ממונה על החותמות נותן לו מצות <lb n="16"/>
 ונוטל ממנו חותם בא לו אצל אחיה שהוא ממונה על הנסכים <lb n="17"/>
 נותן לו חותם ומקבל ממנו נסכים ולערב בא להם זה אצל זה אחיה <lb n="18"/>
 מוציא את החותמות ומקבל כנגדן מעות אם הותירו הותירו ואם <lb n="19"/>
-פחתו משלם יוחנן מביתו יד של הקדש על העליונה </ab><gap reason="talmud" extent="999"/>
-<pb n="82v" xml:id="S000127856.82v"/><lb n="12"/><ab xml:id="S000127856.2.4.5.5" type="textpart" subtype="mishnah">שתי <lb n="13"/>
+פחתו משלם יוחנן מביתו יד של הקדש על העליונה </ab>
+                        <gap reason="talmud" extent="999"/>
+<pb n="82v" xml:id="S000127856.82v"/>
+                        <lb n="12"/>
+                        <ab xml:id="S000127856.2.4.5.5" type="textpart" subtype="mishnah">שתי <lb n="13"/>
 לשכות היו במקדש אחת לשכת חשאים ואחת לשכת הכלים <lb n="14"/>
-לשכת חשיים יראי חטא נותין לתוכן בחשאי ועניים בני טוב<damage><unclear reason="damage">י</unclear><unclear reason="damage" extent="1"/></damage> <lb n="15"/>
-מת<damage><unclear reason="damage">פ</unclear></damage>רנסין מתוכה </ab>
-</div3> <gap reason="talmud" extent="999"/><div3 xml:id="S000127856.2.4.6" n="Chapter6" type="textpart" subtype="chapter"><pb n="83v" xml:id="S000127856.83v"/><lb n="2"/><ab xml:id="S000127856.2.4.6.1" type="textpart" subtype="mishnah">שלש עשרה <lb n="3"/>
+לשכת חשיים יראי חטא נותין לתוכן בחשאי ועניים בני טוב<damage>
+                                <unclear reason="damage">י</unclear>
+                                <unclear reason="damage" extent="1"/>
+                            </damage> <lb n="15"/>
+מת<damage>
+                                <unclear reason="damage">פ</unclear>
+                            </damage>רנסין מתוכה </ab>
+</div3> <gap reason="talmud" extent="999"/>
+                    <div3 xml:id="S000127856.2.4.6" n="Chapter6" type="textpart" subtype="chapter">
+                        <pb n="83v" xml:id="S000127856.83v"/>
+                        <lb n="2"/>
+                        <ab xml:id="S000127856.2.4.6.1" type="textpart" subtype="mishnah">שלש עשרה <lb n="3"/>
 שופרות שלש עשרה שלחנות שלש עשרה השתחויות היו במקדש <lb n="4"/>
-של בית רבן <choice><abbr>גמל<am>׳</am></abbr><expan>גמליאל</expan></choice> ושל <choice><abbr>ר<am>׳</am></abbr><expan>רבי</expan></choice> חנניה סגן הכהנים היו משתחוים בארבע <lb n="5"/>
+של בית רבן <choice>
+                                <abbr>גמל<am>׳</am>
+                                </abbr>
+                                <expan>גמליאל</expan>
+                            </choice> ושל <choice>
+                                <abbr>ר<am>׳</am>
+                                </abbr>
+                                <expan>רבי</expan>
+                            </choice> חנניה סגן הכהנים היו משתחוים בארבע <lb n="5"/>
 עשרה והיכן היתה יתירה כנגד דיר העצים מפני שהוא מסורת <lb n="6"/>
-בידן מאבותיהן ששם הארון גנוז<pc unit="stop">.</pc></ab>
+בידן מאבותיהן ששם הארון גנוז<pc unit="stop">.</pc>
+                        </ab>
 <ab xml:id="S000127856.2.4.6.2" type="textpart" subtype="mishnah">ומעשה בכהן אחד שהיה <lb n="7"/>
 מתעסק וראה רצפה אחת שהיא משונה מחברותיה בא ואמר <lb n="8"/>
 לחבירו לא הספיק לגמור את הדבר עד שיצתה נשמתו וידעו <lb n="9"/>
@@ -159,4 +346,6 @@
           </div3>
           </div2>
           </div1>
-         </body></text></TEI>
+         </body>
+    </text>
+</TEI>

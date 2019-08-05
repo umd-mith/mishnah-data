@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
         <fileDesc>
@@ -71,8 +70,7 @@
       </profileDesc>
       <revisionDesc>
         <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
-         <change who="ref.xml#AE ref.xml#KI ref.xml#UL ref.xml#MU ref.xml#GW"
-                 notAfter="1991">Original Transcription for Yerushalmi Synopsis</change>
+         <change who="ref.xml#AE ref.xml#KI ref.xml#UL ref.xml#MU ref.xml#GW" notAfter="1991">Original Transcription for Yerushalmi Synopsis</change>
          <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
         </revisionDesc>
     </teiHeader>
@@ -80,10 +78,7 @@
       <body>
             <div1 type="order" subtype="order" xml:id="S08221.1">
                 <div2 type="tractate" subtype="tractate" xml:id="S08221.1.1">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="S08221.1.1.1">
                   <pb xml:id="S08221.002r" n="2r"/>
                   <lb xml:id="S08221.002r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.1.1">
@@ -373,10 +368,7 @@
                   <lb xml:id="S08221.007v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.1.3">
                      <damageSpan type="damage" spanTo="#S08221.007v.01.d5d3e406"/>
-                     <gap xml:id="S08221.007v.01.d7e786"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.007v.01.d7e786" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.007v.01.d5d3e406"/>
                      <w xml:id="S08221.1.1.1.3.00100">
                         <choice>
@@ -405,10 +397,7 @@
                      </w>
                      <damageSpan type="damage" spanTo="#S08221.007v.01.d5d3e437"/>
                      <w xml:id="S08221.1.1.1.3.00400">
-                        <gap xml:id="S08221.007v.01.d7e832"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>ם</w>
+                        <gap xml:id="S08221.007v.01.d7e832" reason="damage" extent="999" unit="chars"/>ם</w>
                      <w xml:id="S08221.1.1.1.3.00500">יטו</w>
                      <w xml:id="S08221.1.1.1.3.00600">ויקראו</w>
                      <w xml:id="S08221.1.1.1.3.00700">ובב<damageSpan type="damage" spanTo="#S08221.007v.01.d5d3e441"/>
@@ -423,11 +412,7 @@
                         </choice>
                      </w>
                      <w xml:id="S08221.1.1.1.3.01000">וב<damageSpan type="damage" spanTo="#S08221.007v.01.d5d3e453"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.007v.01.d5d3e454"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#S08221.007v.01.d5d3e454" subtype="damage" extent="2" unit="chars"/>
                         <anchor type="unclear" xml:id="S08221.007v.01.d5d3e454"/>
                         <anchor type="damage" xml:id="S08221.007v.01.d5d3e453"/>בך</w>
                      <w xml:id="S08221.1.1.1.3.01100">ובקומך</w>
@@ -449,16 +434,10 @@
                      <lb xml:id="S08221.007v.02" n="2"/>
                      <damageSpan type="damage" spanTo="#S08221.007v.02.d5d3e478"/>
                      <w xml:id="S08221.1.1.1.3.01500">
-                        <gap xml:id="S08221.007v.02.d7e905"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>לכתך</w>
+                        <gap xml:id="S08221.007v.02.d7e905" reason="damage" extent="999" unit="chars"/>לכתך</w>
                      <w xml:id="S08221.1.1.1.3.01600">בדרך</w>
                      <w xml:id="S08221.1.1.1.3.01700">א<damageSpan type="damage" spanTo="#S08221.007v.02.d5d3e481"/>
-                        <gap xml:id="S08221.007v.02.d7e915"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
+                        <gap xml:id="S08221.007v.02.d7e915" reason="damage" extent="999" unit="chars"/>
                         <damageSpan type="unclear" spanTo="#S08221.007v.02.d5d3e483" subtype="damage"/>ו<anchor type="unclear" xml:id="S08221.007v.02.d5d3e483"/>
                         <anchor type="damage" xml:id="S08221.007v.02.d5d3e481"/>מ<damageSpan type="damage" spanTo="#S08221.007v.02.d5d3e486"/>
                         <damageSpan type="unclear" spanTo="#S08221.007v.02.d5d3e487" subtype="damage"/>ך<anchor type="unclear" xml:id="S08221.007v.02.d5d3e487"/>
@@ -468,16 +447,10 @@
                      <w xml:id="S08221.1.1.1.3.01900">שבני</w>
                      <lb xml:id="S08221.007v.03" n="3"/>
                      <damageSpan type="damage" spanTo="#S08221.007v.03.d5d3e492"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.007v.03.d5d3e494"
-                                 subtype="damage"
-                                 extent="1"/>
+                     <damageSpan type="unclear" spanTo="#S08221.007v.03.d5d3e494" subtype="damage" extent="1"/>
                      <damageSpan type="unclear" spanTo="#S08221.007v.03.d5d3e495" subtype="damage"/>
                      <w xml:id="S08221.1.1.1.3.02000">
-                        <gap xml:id="S08221.007v.03.d7e941"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>ן</w>
+                        <gap xml:id="S08221.007v.03.d7e941" reason="damage" extent="999" unit="chars"/>ן</w>
                      <anchor type="unclear" xml:id="S08221.007v.03.d5d3e495"/>
                      <anchor type="damage" xml:id="S08221.007v.03.d5d3e492"/>
                      <pc unit="unitEnd">..</pc>
@@ -674,14 +647,8 @@
                      <w xml:id="S08221.1.1.1.5.03100">מארץ</w>
                      <lb xml:id="S08221.011v.05" n="5"/>
                      <w xml:id="S08221.1.1.1.5.03200">מ<damageSpan type="damage" spanTo="#S08221.011v.05.d5d3e666"/>
-                        <gap xml:id="S08221.011v.05.d7e1392"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.011v.05.d5d3e668"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <gap xml:id="S08221.011v.05.d7e1392" reason="damage" extent="999" unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#S08221.011v.05.d5d3e668" subtype="damage" extent="1"/>
                         <anchor type="unclear" xml:id="S08221.011v.05.d5d3e668"/>
                         <anchor type="damage" xml:id="S08221.011v.05.d5d3e666"/>י</w>
                      <w xml:id="S08221.1.1.1.5.03300">חייך</w>
@@ -691,15 +658,9 @@
                      <w xml:id="S08221.1.1.1.5.03700">כל</w>
                      <lb xml:id="S08221.011v.06" n="6"/>
                      <damageSpan type="damage" spanTo="#S08221.011v.06.d5d3e672"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.011v.06.d5d3e674"
-                                 subtype="damage"
-                                 extent="1"/>
+                     <damageSpan type="unclear" spanTo="#S08221.011v.06.d5d3e674" subtype="damage" extent="1"/>
                      <w xml:id="S08221.1.1.1.5.03800">
-                        <gap xml:id="S08221.011v.06.d7e1420"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>ת</w>
+                        <gap xml:id="S08221.011v.06.d7e1420" reason="damage" extent="999" unit="chars"/>ת</w>
                      <w xml:id="S08221.1.1.1.5.03900">
                         <choice>
                            <abbr>וחכמי<am>׳</am>
@@ -717,15 +678,9 @@
                      <w xml:id="S08221.1.1.1.5.04100">ימי</w>
                      <w xml:id="S08221.1.1.1.5.04200">חייך</w>
                      <lb xml:id="S08221.011v.07" n="7"/>
-                     <gap xml:id="S08221.011v.07.d7e1455"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.011v.07.d7e1455" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.011v.07.d5d3e695"/>
-                     <gap xml:id="S08221.011v.07.d7e1462"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.011v.07.d7e1462" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.011v.07.d5d3e698"/>
                      <w xml:id="S08221.1.1.1.5.04300">להביא</w>
                      <w xml:id="S08221.1.1.1.5.04400">לימות</w>
@@ -736,10 +691,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.012r.01.d7e1483" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="S08221.1.1.2">
                   <pb xml:id="S08221.012v" n="12v"/>
                   <lb xml:id="S08221.012v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.2.1">
@@ -782,11 +734,7 @@
                      <w xml:id="S08221.1.1.2.1.02300">היראה</w>
                      <w xml:id="S08221.1.1.2.1.02400">ומשיב</w>
                      <w xml:id="S08221.1.1.2.1.02500">דב<damageSpan type="damage" spanTo="#S08221.012v.04.d5d3e740"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.012v.04.d5d3e741"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#S08221.012v.04.d5d3e741" subtype="damage" extent="2" unit="chars"/>
                      </w>
                      <anchor type="unclear" xml:id="S08221.012v.04.d5d3e741"/>
                      <anchor type="damage" xml:id="S08221.012v.04.d5d3e740"/>
@@ -816,10 +764,7 @@
                      </w>
                      <w xml:id="S08221.1.1.2.1.03100">ב<damageSpan type="damage" spanTo="#S08221.012v.04.d5d3e771"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.04.d5d3e772" subtype="damage"/>א<anchor type="unclear" xml:id="S08221.012v.04.d5d3e772"/>
-                        <gap xml:id="S08221.012v.04.d7e1637"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
+                        <gap xml:id="S08221.012v.04.d7e1637" reason="damage" extent="999" unit="chars"/>
                         <anchor type="damage" xml:id="S08221.012v.04.d5d3e771"/>
                      </w>
                      <w xml:id="S08221.1.1.2.1.03200">שואל</w>
@@ -828,10 +773,7 @@
                      <w xml:id="S08221.1.1.2.1.03500">ומשיב</w>
                      <w xml:id="S08221.1.1.2.1.03600">מפני</w>
                      <lb xml:id="S08221.012v.05" n="5"/>
-                     <gap xml:id="S08221.012v.05.d7e1662"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.012v.05.d7e1662" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.012v.05.d5d3e778"/>
                      <w xml:id="S08221.1.1.2.1.03700">שוא<damageSpan type="damage" spanTo="#S08221.012v.05.d5d3e781"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.05.d5d3e782" subtype="damage"/>ל<anchor type="unclear" xml:id="S08221.012v.05.d5d3e782"/>
@@ -840,11 +782,7 @@
                      <w xml:id="S08221.1.1.2.1.03800">
                         <damageSpan type="damage" spanTo="#S08221.012v.05.d5d3e785"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.05.d5d3e786" subtype="damage"/>מ<anchor type="unclear" xml:id="S08221.012v.05.d5d3e786"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.012v.05.d5d3e788"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#S08221.012v.05.d5d3e788" subtype="damage" extent="2" unit="chars"/>
                         <anchor type="unclear" xml:id="S08221.012v.05.d5d3e788"/>
                         <anchor type="damage" xml:id="S08221.012v.05.d5d3e785"/>י</w>
                      <w xml:id="S08221.1.1.2.1.03900">הכבוד</w>
@@ -853,10 +791,7 @@
                         <anchor type="damage" xml:id="S08221.012v.05.d5d3e791"/>
                      </w>
                      <damageSpan type="damage" spanTo="#S08221.012v.05.d5d3e795"/>
-                     <gap xml:id="S08221.012v.05.d7e1701"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.012v.05.d7e1701" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.012v.05.d5d3e795"/>
                   </ab>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.2.2">
@@ -867,28 +802,18 @@
                      <w xml:id="S08221.1.1.2.2.00500">בין</w>
                      <surplus xml:id="S08221.012v.05.surplus.d7e1720">?</surplus>
                      <lb xml:id="S08221.012v.06" n="6"/>
-                     <gap xml:id="S08221.012v.06.d7e1728"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.012v.06.d7e1728" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.012v.06.d5d3e805"/>
                      <w xml:id="S08221.1.1.2.2.00600">
                         <damageSpan type="damage" spanTo="#S08221.012v.06.d5d3e808"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.06.d5d3e809" subtype="damage"/>ל<anchor type="unclear" xml:id="S08221.012v.06.d5d3e809"/>
                         <anchor type="damage" xml:id="S08221.012v.06.d5d3e808"/>שנייה</w>
                      <damageSpan type="damage" spanTo="#S08221.012v.06.d5d3e812"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.012v.06.d5d3e813"
-                                 subtype="damage"
-                                 extent="2"
-                                 unit="chars"/>
+                     <damageSpan type="unclear" spanTo="#S08221.012v.06.d5d3e813" subtype="damage" extent="2" unit="chars"/>
                      <w xml:id="S08221.1.1.2.2.00700">ן</w>
                      <w xml:id="S08221.1.1.2.2.00800">שנייה</w>
                      <w xml:id="S08221.1.1.2.2.00900">לשמע</w>
-                     <gap xml:id="S08221.012v.06.d7e1758"
-                          reason="damage"
-                          extent="999"
-                          unit="chars"/>
+                     <gap xml:id="S08221.012v.06.d7e1758" reason="damage" extent="999" unit="chars"/>
                      <anchor type="damage" xml:id="S08221.012v.06.d5d3e816"/>
                      <w xml:id="S08221.1.1.2.2.01000">שמוע</w>
                      <w xml:id="S08221.1.1.2.2.01100">בין</w>
@@ -898,17 +823,11 @@
                      <lb xml:id="S08221.012v.07" n="7"/>
                      <w xml:id="S08221.1.1.2.2.01500">
                         <damageSpan type="damage" spanTo="#S08221.012v.07.d5d3e821"/>
-                        <gap xml:id="S08221.012v.07.d7e1784"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
+                        <gap xml:id="S08221.012v.07.d7e1784" reason="damage" extent="999" unit="chars"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.07.d5d3e823" subtype="damage"/>מ<anchor type="unclear" xml:id="S08221.012v.07.d5d3e823"/>
                         <anchor type="damage" xml:id="S08221.012v.07.d5d3e821"/>ר</w>
                      <w xml:id="S08221.1.1.2.2.01600">ל<damageSpan type="damage" spanTo="#S08221.012v.07.d5d3e826"/>
-                        <gap xml:id="S08221.012v.07.d7e1794"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
+                        <gap xml:id="S08221.012v.07.d7e1794" reason="damage" extent="999" unit="chars"/>
                         <anchor type="damage" xml:id="S08221.012v.07.d5d3e826"/>ת</w>
                      <w xml:id="S08221.1.1.2.2.01700">ויציב</w>
                      <w xml:id="S08221.1.1.2.2.01800">
@@ -919,16 +838,10 @@
                         </choice>
                      </w>
                      <w xml:id="S08221.1.1.2.2.01900">יה<damageSpan type="damage" spanTo="#S08221.012v.07.d5d3e837"/>
-                        <gap xml:id="S08221.012v.07.d7e1814"
-                             reason="damage"
-                             extent="999"
-                             unit="chars"/>
+                        <gap xml:id="S08221.012v.07.d7e1814" reason="damage" extent="999" unit="chars"/>
                         <damageSpan type="unclear" spanTo="#S08221.012v.07.d5d3e839" subtype="damage"/>י<anchor type="unclear" xml:id="S08221.012v.07.d5d3e839"/>
                         <anchor type="damage" xml:id="S08221.012v.07.d5d3e837"/>צי<damageSpan type="damage" spanTo="#S08221.012v.07.d5d3e843"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.012v.07.d5d3e844"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.012v.07.d5d3e844" subtype="damage" extent="1"/>
                      </w>
                      <anchor type="unclear" xml:id="S08221.012v.07.d5d3e844"/>
                      <anchor type="damage" xml:id="S08221.012v.07.d5d3e843"/>
@@ -1389,10 +1302,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.022r.04.d7e2799" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="S08221.1.1.3">
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.3.1">
                      <w xml:id="S08221.1.1.3.1.00100">מי</w>
                      <w xml:id="S08221.1.1.3.1.00200">שמתו</w>
@@ -1646,10 +1556,7 @@
                      </w>
                      <w xml:id="S08221.1.1.3.5.01400">לטבול</w>
                      <w xml:id="S08221.1.1.3.5.01500">א<damageSpan type="damage" spanTo="#S08221.027v.02.d5d3e1479"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.027v.02.d5d3e1480"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.027v.02.d5d3e1480" subtype="damage" extent="1"/>
                      </w>
                      <anchor type="unclear" xml:id="S08221.027v.02.d5d3e1480"/>
                      <anchor type="damage" xml:id="S08221.027v.02.d5d3e1479"/>
@@ -1773,10 +1680,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.029r.02.d7e3620" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="S08221.1.1.4">
                   <pb xml:id="S08221.029v" n="29v"/>
                   <lb xml:id="S08221.029v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.4.1">
@@ -2269,10 +2173,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.037r.05.d7e4607" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="S08221.1.1.5">
                   <pb xml:id="S08221.037v" n="37v"/>
                   <lb xml:id="S08221.037v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.5.1">
@@ -2294,10 +2195,7 @@
                      <w xml:id="S08221.1.1.5.1.01100">שוהין</w>
                      <w xml:id="S08221.1.1.5.1.01200">שעה</w>
                      <w xml:id="S08221.1.1.5.1.01300">אח<damageSpan type="damage" spanTo="#S08221.037v.02.d5d3e2026"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.037v.02.d5d3e2027"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.037v.02.d5d3e2027" subtype="damage" extent="1"/>
                      </w>
                      <anchor type="unclear" xml:id="S08221.037v.02.d5d3e2027"/>
                      <anchor type="damage" xml:id="S08221.037v.02.d5d3e2026"/>
@@ -2616,10 +2514,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.043r.13.d7e5379" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="S08221.1.1.6">
                   <pb xml:id="S08221.044r" n="44r"/>
                   <lb xml:id="S08221.044r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.6.1">
@@ -3179,10 +3074,7 @@
                         <damageSpan type="damage" spanTo="#S08221.050r.05.d5d3e2725"/>
                         <damageSpan type="unclear" spanTo="#S08221.050r.05.d5d3e2726" subtype="damage"/>ה<anchor type="unclear" xml:id="S08221.050r.05.d5d3e2726"/>
                         <anchor type="damage" xml:id="S08221.050r.05.d5d3e2725"/>ש<damageSpan type="damage" spanTo="#S08221.050r.05.d5d3e2729"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.050r.05.d5d3e2730"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.050r.05.d5d3e2730" subtype="damage" extent="1"/>
                         <anchor type="unclear" xml:id="S08221.050r.05.d5d3e2730"/>
                         <anchor type="damage" xml:id="S08221.050r.05.d5d3e2729"/>תה</w>
                      <w xml:id="S08221.1.1.6.8.03200">מים</w>
@@ -3197,16 +3089,10 @@
                      <w xml:id="S08221.1.1.6.8.03500">שהכל</w>
                      <w xml:id="S08221.1.1.6.8.03600">נהיה</w>
                      <w xml:id="S08221.1.1.6.8.03700">ב<damageSpan type="damage" spanTo="#S08221.050r.05.d5d3e2740"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.050r.05.d5d3e2741"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.050r.05.d5d3e2741" subtype="damage" extent="1"/>
                         <anchor type="unclear" xml:id="S08221.050r.05.d5d3e2741"/>
                         <damageSpan type="unclear" spanTo="#S08221.050r.05.d5d3e2742" subtype="damage"/>בר<anchor type="unclear" xml:id="S08221.050r.05.d5d3e2742"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.050r.05.d5d3e2744"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.050r.05.d5d3e2744" subtype="damage" extent="1"/>
                         <anchor type="damage" xml:id="S08221.050r.05.d5d3e2740"/>
                      </w>
                      <anchor type="unclear" xml:id="S08221.050r.05.d5d3e2744"/>
@@ -3231,10 +3117,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.050r.05.d7e6674" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="S08221.1.1.7">
                   <pb xml:id="S08221.050v" n="50v"/>
                   <lb xml:id="S08221.050v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.7.1">
@@ -3675,11 +3558,7 @@
                      </w>
                      <w xml:id="S08221.1.1.7.5.03500">אליעזר</w>
                      <damageSpan type="damage" spanTo="#S08221.054v.05.d5d3e3128"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.054v.05.d5d3e3129"
-                                 subtype="damage"
-                                 extent="2"
-                                 unit="chars"/>
+                     <damageSpan type="unclear" spanTo="#S08221.054v.05.d5d3e3129" subtype="damage" extent="2" unit="chars"/>
                      <w xml:id="S08221.1.1.7.5.03600">כמים</w>
                      <w xml:id="S08221.1.1.7.5.03700">
                         <choice>
@@ -3689,21 +3568,14 @@
                         </choice>
                      </w>
                      <damageSpan type="damage" spanTo="#S08221.054v.05.d5d3e3140"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.054v.05.d5d3e3141"
-                                 subtype="damage"
-                                 extent="3"
-                                 unit="chars"/>
+                     <damageSpan type="unclear" spanTo="#S08221.054v.05.d5d3e3141" subtype="damage" extent="3" unit="chars"/>
                      <anchor type="unclear" xml:id="S08221.054v.05.d5d3e3141"/>
                      <anchor type="damage" xml:id="S08221.054v.05.d5d3e3140"/>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
                </div3> 
                <gap xml:id="S08221.054v.05.d7e7675" reason="talmud" extent="999"/>
-               <div3 n="Chapter8"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.8">
+               <div3 n="Chapter8" type="chapter" subtype="chapter" xml:id="S08221.1.1.8">
                   <pb xml:id="S08221.055v" n="55v"/>
                   <lb xml:id="S08221.055v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.8.1">
@@ -4078,18 +3950,12 @@
                         <damageSpan type="unclear" spanTo="#S08221.060r.01.d5d3e3588" subtype="damage"/>נ<anchor type="unclear" xml:id="S08221.060r.01.d5d3e3588"/>
                         <anchor type="damage" xml:id="S08221.060r.01.d5d3e3587"/>ר</w>
                      <w xml:id="S08221.1.1.8.6.00600">ו<damageSpan type="damage" spanTo="#S08221.060r.01.d5d3e3591"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.060r.01.d5d3e3592"
-                                    subtype="damage"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#S08221.060r.01.d5d3e3592" subtype="damage" extent="1"/>
                         <anchor type="unclear" xml:id="S08221.060r.01.d5d3e3592"/>
                         <anchor type="damage" xml:id="S08221.060r.01.d5d3e3591"/>ל</w>
                      <lb xml:id="S08221.060r.02" n="2"/>
                      <damageSpan type="damage" spanTo="#S08221.060r.02.d5d3e3596"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S08221.060r.02.d5d3e3597"
-                                 subtype="damage"
-                                 extent="1"/>
+                     <damageSpan type="unclear" spanTo="#S08221.060r.02.d5d3e3597" subtype="damage" extent="1"/>
                      <w xml:id="S08221.1.1.8.6.00700">בשמים</w>
                      <w xml:id="S08221.1.1.8.6.00800">של</w>
                      <w xml:id="S08221.1.1.8.6.00900">גוים</w>
@@ -4227,11 +4093,7 @@
                      <w xml:id="S08221.1.1.8.8.00700">שם</w>
                      <w xml:id="S08221.1.1.8.8.00800">אלא</w>
                      <w xml:id="S08221.1.1.8.8.00900">א<damageSpan type="damage" spanTo="#S08221.061r.03.d5d3e3731"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#S08221.061r.03.d5d3e3732"
-                                    subtype="damage"
-                                    extent="2"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#S08221.061r.03.d5d3e3732" subtype="damage" extent="2" unit="chars"/>
                         <anchor type="unclear" xml:id="S08221.061r.03.d5d3e3732"/>
                         <anchor type="damage" xml:id="S08221.061r.03.d5d3e3731"/>ו</w>
                      <pb xml:id="S08221.061v" n="61v"/>
@@ -4313,10 +4175,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.061v.05.d7e8849" reason="talmud" extent="999"/>
-               <div3 n="Chapter9"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.1.9">
+               <div3 n="Chapter9" type="chapter" subtype="chapter" xml:id="S08221.1.1.9">
                   <pb xml:id="S08221.062r" n="62r"/>
                   <lb xml:id="S08221.062r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.1.9.1">
@@ -4946,10 +4805,7 @@
             </div2>
           
                 <div2 type="tractate" subtype="tractate" xml:id="S08221.1.2">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="S08221.1.2.1">
                   <pb xml:id="S08221.070r" n="70r"/>
                   <lb xml:id="S08221.070r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.1.1">
@@ -5306,10 +5162,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.081v.10.d7e11121" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="S08221.1.2.2">
                   <pb xml:id="S08221.083r" n="83r"/>
                   <lb xml:id="S08221.083r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.2.1">
@@ -5803,10 +5656,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.088v.08.d7e12276" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="S08221.1.2.3">
                   <pb xml:id="S08221.089v" n="89v"/>
                   <lb xml:id="S08221.089v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.3.1">
@@ -6502,10 +6352,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.093v.12.d7e13737" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="S08221.1.2.4">
                   <pb xml:id="S08221.095v" n="95v"/>
                   <lb xml:id="S08221.095v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.4.1">
@@ -7211,10 +7058,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.100r.11.d7e15220" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="S08221.1.2.5">
                   <pb xml:id="S08221.101r" n="101r"/>
                   <lb xml:id="S08221.101r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.5.1">
@@ -7722,10 +7566,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.105v.12.d7e16480" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="S08221.1.2.6">
                   <pb xml:id="S08221.106v" n="106v"/>
                   <lb xml:id="S08221.106v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.6.1">
@@ -8492,10 +8333,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.113r.06.d7e18213" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="S08221.1.2.7">
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.7.1">
                      <w xml:id="S08221.1.2.7.1.00100">כל</w>
                      <w xml:id="S08221.1.2.7.1.00200">זית</w>
@@ -9170,10 +9008,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.119v.12.d7e19718" reason="talmud" extent="999"/>
-               <div3 n="Chapter8"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.2.8">
+               <div3 n="Chapter8" type="chapter" subtype="chapter" xml:id="S08221.1.2.8">
                   <pb xml:id="S08221.120v" n="120v"/>
                   <lb xml:id="S08221.120v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.2.8.1">
@@ -9858,10 +9693,7 @@
             </div2>
           
                 <div2 type="tractate" subtype="tractate" xml:id="S08221.1.3">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="S08221.1.3.1">
                   <pb xml:id="S08221.125v" n="125v"/>
                   <lb xml:id="S08221.125v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.1.1">
@@ -10190,10 +10022,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.133r.07.d7e22149" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="S08221.1.3.2">
                   <pb xml:id="S08221.134v" n="134v"/>
                   <lb xml:id="S08221.134v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.2.1">
@@ -10549,10 +10378,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.141r.05.d7e22971" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="S08221.1.3.3">
                   <pb xml:id="S08221.141v" n="141v"/>
                   <lb xml:id="S08221.141v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.3.1">
@@ -10946,10 +10772,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.148r.12.d7e23925" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="S08221.1.3.4">
                   <pb xml:id="S08221.148v" n="148v"/>
                   <lb xml:id="S08221.148v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.4.1">
@@ -11455,10 +11278,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.153v.04.d7e25043" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="S08221.1.3.5">
                   <pb xml:id="S08221.154r" n="154r"/>
                   <lb xml:id="S08221.154r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.5.1">
@@ -12197,10 +12017,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.160v.06.d7e26689" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="S08221.1.3.6">
                   <pb xml:id="S08221.161r" n="161r"/>
                   <lb xml:id="S08221.161r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.6.1">
@@ -12944,10 +12761,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.170v.05.d7e28336" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.3.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="S08221.1.3.7">
                   <pb xml:id="S08221.171v" n="171v"/>
                   <lb xml:id="S08221.171v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.3.7.1">
@@ -13561,10 +13375,7 @@
             </div2>
           
                 <div2 type="tractate" subtype="tractate" xml:id="S08221.1.4">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="S08221.1.4.1">
                   <pb xml:id="S08221.183r" n="183r"/>
                   <lb xml:id="S08221.183r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.1.1">
@@ -14085,10 +13896,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.190r.04.d7e31047" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="S08221.1.4.2">
                   <pb xml:id="S08221.191v" n="191v"/>
                   <lb xml:id="S08221.191v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.2.1">
@@ -15102,10 +14910,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.205r.06.d7e33257" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="S08221.1.4.3">
                   <pb xml:id="S08221.205v" n="205v"/>
                   <lb xml:id="S08221.205v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.3.1">
@@ -15886,10 +15691,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.216v.07.d7e34995" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="S08221.1.4.4">
                   <pb xml:id="S08221.217v" n="217v"/>
                   <lb xml:id="S08221.217v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.4.1">
@@ -16602,10 +16404,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.225r.11.d7e36687" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="S08221.1.4.5">
                   <pb xml:id="S08221.226r" n="226r"/>
                   <lb xml:id="S08221.226r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.5.1">
@@ -17169,10 +16968,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.234r.08.d7e37963" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="S08221.1.4.6">
                   <pb xml:id="S08221.235r" n="235r"/>
                   <lb xml:id="S08221.235r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.6.1">
@@ -17833,10 +17629,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.242r.07.d7e39579" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="S08221.1.4.7">
                   <pb xml:id="S08221.242v" n="242v"/>
                   <lb xml:id="S08221.242v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.7.1">
@@ -18331,10 +18124,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.247r.05.d7e40733" reason="talmud" extent="999"/>
-               <div3 n="Chapter8"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.8">
+               <div3 n="Chapter8" type="chapter" subtype="chapter" xml:id="S08221.1.4.8">
                   <pb xml:id="S08221.248v" n="248v"/>
                   <lb xml:id="S08221.248v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.8.1">
@@ -18732,10 +18522,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S08221.255v.01.d7e41663" reason="talmud" extent="999"/>
-               <div3 n="Chapter9"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S08221.1.4.9">
+               <div3 n="Chapter9" type="chapter" subtype="chapter" xml:id="S08221.1.4.9">
                   <pb xml:id="S08221.257r" n="257r"/>
                   <lb xml:id="S08221.257r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S08221.1.4.9.1">

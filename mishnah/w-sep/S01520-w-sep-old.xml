@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S01520">
    <teiHeader>
       <fileDesc>
@@ -1067,11 +1065,7 @@
                      <addSpan spanTo="#d8e614" hand="2h" place="bottom"/>
                      <w xml:id="S01520.4.1.3.5.02100">אבגדהוזחטיכךנעסנןםעפף<damageSpan type="unclear" spanTo="#d8e616" subtype="writing"/>צץ<anchor xml:id="d8e616" type="unclear"/>
                         <damageSpan type="damage" spanTo="#d8e618"/>
-                        <damageSpan type="unclear"
-                                    spanTo="#d8e619"
-                                    subtype="damage"
-                                    extent="1"
-                                    unit="chars"/>
+                        <damageSpan type="unclear" spanTo="#d8e619" subtype="damage" extent="1" unit="chars"/>
                         <anchor xml:id="d8e619" type="unclear"/>
                         <anchor xml:id="d8e618" type="damage"/>
                      </w>
@@ -1428,8 +1422,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.3.10">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.1.3.10_lbl_1_is_13"
-                            rend="size(large) align() pad(brl)">יג<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.3.10_lbl_1_is_13" rend="size(large) align() pad(brl)">יג<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.3.10.00100">יש</w>
                      <w xml:id="S01520.4.1.3.10.00200">חייב</w>
@@ -1509,8 +1502,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.3.11">
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.1.3.11_lbl_1_is_14"
-                            rend="size(large) align() pad(brl)">יד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.3.11_lbl_1_is_14" rend="size(large) align() pad(brl)">יד<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.3.11.00100">שור</w>
                      <w xml:id="S01520.4.1.3.11.00200">שהיה</w>
@@ -1544,8 +1536,7 @@
                      <w xml:id="S01520.4.1.3.11.02200">הראייה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="15"/>
-                     <label xml:id="S01520.4.1.3.11_lbl_2_is_15"
-                            rend="size(large) align() pad(brl)">טו<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.3.11_lbl_2_is_15" rend="size(large) align() pad(brl)">טו<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.3.11.02300">היו</w>
                      <w xml:id="S01520.4.1.3.11.02400">שנים</w>
@@ -1589,8 +1580,7 @@
                      <w xml:id="S01520.4.1.3.11.04600">חייבין</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="16"/>
-                     <label xml:id="S01520.4.1.3.11_lbl_3_is_16"
-                            rend="size(large) align() pad(brl)">יו<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.3.11_lbl_3_is_16" rend="size(large) align() pad(brl)">יו<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.3.11.04700">היה</w>
                      <w xml:id="S01520.4.1.3.11.04800">אחד</w>
@@ -1639,8 +1629,7 @@
                      <w xml:id="S01520.4.1.3.11.08100">הראייה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="17"/>
-                     <label xml:id="S01520.4.1.3.11_lbl_4_is_17"
-                            rend="size(large) align() pad(brl)">יז <am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.3.11_lbl_4_is_17" rend="size(large) align() pad(brl)">יז <am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.3.11.08200">היו</w>
                      <w xml:id="S01520.4.1.3.11.08300">הניזקין</w>
@@ -2008,8 +1997,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.4.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.1.4.4_lbl_1_is_5"
-                            rend="size(large) align(right) pad(bl)">ה<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.4.4_lbl_1_is_5" rend="size(large) align(right) pad(bl)">ה<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.4.4.00100">שור</w>
                      <w xml:id="S01520.4.1.4.4.00200">של</w>
@@ -2871,8 +2859,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.5.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.1.5.7_lbl_1_is_9"
-                            rend="size(large) align(right) pad(bl)">ט<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.5.7_lbl_1_is_9" rend="size(large) align(right) pad(bl)">ט<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.5.7.00100">אחד</w>
                      <w xml:id="S01520.4.1.5.7.00200">השור</w>
@@ -3083,8 +3070,7 @@
                      <lb n="12"/>
                   </ab>
                   <ab xml:id="S01520.4.1.6.4">
-                     <label xml:id="S01520.4.1.6.4_lbl_1_is_4"
-                            rend="size(large) align(right) pad(bl)">ד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.6.4_lbl_1_is_4" rend="size(large) align(right) pad(bl)">ד<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.6.4.00100">השולח</w>
                      <w xml:id="S01520.4.1.6.4.00200">את</w>
@@ -3393,8 +3379,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.6.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.1.6.6_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.6.6_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.6.6.00100">גץ</w>
                      <w xml:id="S01520.4.1.6.6.00200">שיצא</w>
@@ -3556,8 +3541,7 @@
                      <lb n="4"/>
                   </ab>
                   <ab xml:id="S01520.4.1.7.2">
-                     <label xml:id="S01520.4.1.7.2_lbl_1_is_2"
-                            rend="size(large) align(right) pad(bl)">ב<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.7.2_lbl_1_is_2" rend="size(large) align(right) pad(bl)">ב<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.7.2.00100">גנב</w>
                      <w xml:id="S01520.4.1.7.2.00200">על</w>
@@ -3719,8 +3703,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.1.7.4">
-                     <label xml:id="S01520.4.1.7.4_lbl_1_is_4"
-                            rend="size(large) align(left) pad(brl)">ד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.7.4_lbl_1_is_4" rend="size(large) align(left) pad(brl)">ד<am rend="geresh">׳</am>
                      </label>
                      <lb n="14"/>
                      <w xml:id="S01520.4.1.7.4.00100">גנב</w>
@@ -3897,8 +3880,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.7.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.1.7.6_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.7.6_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.7.6.00100">היה</w>
                      <w xml:id="S01520.4.1.7.6.00200">מושכו</w>
@@ -3919,8 +3901,7 @@
                      <w xml:id="S01520.4.1.7.6.01500">חייב</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.1.7.6_lbl_2_is_9"
-                            rend="size(large) align(right) pad(bl)">ט<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.7.6_lbl_2_is_9" rend="size(large) align(right) pad(bl)">ט<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.7.6.01600">נתנו</w>
                      <w xml:id="S01520.4.1.7.6.01700">לבכורות</w>
@@ -4785,8 +4766,7 @@
                      <lb n="11"/>
                   </ab>
                   <ab xml:id="S01520.4.1.9.2">
-                     <label xml:id="S01520.4.1.9.2_lbl_1_is_2"
-                            rend="size(large) align(right) pad(bl)">ב<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.9.2_lbl_1_is_2" rend="size(large) align(right) pad(bl)">ב<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.9.2.00100">גזל</w>
                      <w xml:id="S01520.4.1.9.2.00200">בהמה</w>
@@ -5250,8 +5230,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.9.9">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.1.9.9_lbl_1_is_13"
-                            rend="size(large) align(right) pad(bl)">יג<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.9.9_lbl_1_is_13" rend="size(large) align(right) pad(bl)">יג<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.9.9.00100">הגוזל</w>
                      <w xml:id="S01520.4.1.9.9.00200">את</w>
@@ -5283,8 +5262,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.9.10">
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.1.9.10_lbl_1_is_14"
-                            rend="size(large) align() pad(brl)">יד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.9.10_lbl_1_is_14" rend="size(large) align() pad(brl)">יד<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.9.10.00100">האומר</w>
                      <w xml:id="S01520.4.1.9.10.00200">לבנו</w>
@@ -5321,8 +5299,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.9.11">
                      <milestone unit="MSMishnah" n="15"/>
-                     <label xml:id="S01520.4.1.9.11_lbl_1_is_15"
-                            rend="size(large) align() pad(brl)">טו<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.9.11_lbl_1_is_15" rend="size(large) align() pad(brl)">טו<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.9.11.00100">הגוזל</w>
                      <w xml:id="S01520.4.1.9.11.00200">את</w>
@@ -5411,8 +5388,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="13"/>
                      <milestone unit="MSMishnah" n="16"/>
-                     <label xml:id="S01520.4.1.9.12_lbl_1_is_16"
-                            rend="size(large) align(right) pad(bl)">יו<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.9.12_lbl_1_is_16" rend="size(large) align(right) pad(bl)">יו<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.9.12.01900">נתן</w>
                      <w xml:id="S01520.4.1.9.12.02000">את</w>
@@ -5667,8 +5643,7 @@
                      <lb n="26"/>
                   </ab>
                   <ab xml:id="S01520.4.1.10.3">
-                     <label xml:id="S01520.4.1.10.3_lbl_1_is_3"
-                            rend="size(large) align(right) pad(bl)">ג<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.3_lbl_1_is_3" rend="size(large) align(right) pad(bl)">ג<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.10.3.00100">המכיר</w>
                      <w xml:id="S01520.4.1.10.3.00200">את</w>
@@ -5709,8 +5684,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.1.10.4">
-                     <label xml:id="S01520.4.1.10.4_lbl_1_is_4"
-                            rend="size(large) align(left) pad(br)">ד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.4_lbl_1_is_4" rend="size(large) align(left) pad(br)">ד<am rend="geresh">׳</am>
                      </label>
                      <lb n="28"/>
                      <w xml:id="S01520.4.1.10.4.00100">זה</w>
@@ -5918,8 +5892,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.10.8">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.1.10.8_lbl_1_is_9"
-                            rend="size(large) align(left) pad(br)">ט<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.8_lbl_1_is_9" rend="size(large) align(left) pad(br)">ט<am rend="geresh">׳</am>
                      </label>
                      <lb n="9"/>
                      <w xml:id="S01520.4.1.10.8.00100">הגונב</w>
@@ -5954,8 +5927,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.10.9">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.1.10.9_lbl_1_is_10"
-                            rend="size(large) align(left) pad(br)">י<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.9_lbl_1_is_10" rend="size(large) align(left) pad(br)">י<am rend="geresh">׳</am>
                      </label>
                      <lb n="11"/>
                      <w xml:id="S01520.4.1.10.9.00100">אין</w>
@@ -5996,8 +5968,7 @@
                   </ab>
                   <ab xml:id="S01520.4.1.10.10">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.1.10.10_lbl_1_is_11"
-                            rend="size(large) align() pad(brl)">יא<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.10_lbl_1_is_11" rend="size(large) align() pad(brl)">יא<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.1.10.10.00100">מוכים</w>
                      <w xml:id="S01520.4.1.10.10.00200">שהכובס</w>
@@ -6043,8 +6014,7 @@
                      <w xml:id="S01520.4.1.10.10.03800">שלו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.1.10.10_lbl_2_is_12"
-                            rend="size(large) align(left) pad(br)">יב<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.1.10.10_lbl_2_is_12" rend="size(large) align(left) pad(br)">יב<am rend="geresh">׳</am>
                      </label>
                      <lb n="16"/>
                      <w xml:id="S01520.4.1.10.10.03900">החייט</w>
@@ -6195,8 +6165,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.2">
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.2.1.2_lbl_1_is_3"
-                            rend="size (large) align () pad(brl)">ג<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.2_lbl_1_is_3" rend="size (large) align () pad(brl)">ג<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.2.00100">היו</w>
                      <w xml:id="S01520.4.2.1.2.00200">שני<c rend="long">ם</c>
@@ -6254,8 +6223,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.2.1.3_lbl_1_is_4"
-                            rend="size (large) align () pad (brl)">ד<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.3_lbl_1_is_4" rend="size (large) align () pad (brl)">ד<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.3.00100">היה</w>
                      <w xml:id="S01520.4.2.1.3.00200">אחד</w>
@@ -6295,8 +6263,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.1.4_lbl_1_is_5"
-                            rend="size (large) align () pad (brl)">ה<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.4_lbl_1_is_5" rend="size (large) align () pad (brl)">ה<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.4.00100">ראה</w>
                      <lb n="30"/>
@@ -6355,8 +6322,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.5">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.1.5_lbl_1_is_6"
-                            rend="size (large) align () pad (brl)">ו<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.5_lbl_1_is_6" rend="size (large) align () pad (brl)">ו<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.5.00100">מציאת</w>
                      <w xml:id="S01520.4.2.1.5.00200">בנו</w>
@@ -6397,8 +6363,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.6">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.1.6_lbl_1_is_7"
-                            rend="size (size) align () pad (brl)">ז<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.6_lbl_1_is_7" rend="size (size) align () pad (brl)">ז<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.6.00100">מצא</w>
                      <w xml:id="S01520.4.2.1.6.00200">שטרי</w>
@@ -6462,8 +6427,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.7">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.2.1.7_lbl_1_is_8"
-                            rend="size (large) align () pad (brl)">ח<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.7_lbl_1_is_8" rend="size (large) align () pad (brl)">ח<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.7.00100">מצא</w>
                      <w xml:id="S01520.4.2.1.7.00200">גיטי</w>
@@ -6496,8 +6460,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.1.8">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.2.1.8_lbl_1_is_9"
-                            rend="size(large) align () pad (brl)">ט<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.1.8_lbl_1_is_9" rend="size(large) align () pad (brl)">ט<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.1.8.00100">מצא</w>
                      <w xml:id="S01520.4.2.1.8.00200">איגרות</w>
@@ -6646,8 +6609,7 @@
                      <w xml:id="S01520.4.2.2.1.04000">שלו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.2.2.1_lbl_1_is_2"
-                            rend="size (large) align () pad (brl)">ב<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.2.1_lbl_1_is_2" rend="size (large) align () pad (brl)">ב<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.2.1.04100">
                         <choice>
@@ -6852,8 +6814,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.2.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.2.4_lbl_1_is_5"
-                            rend="size(large) align(right) pad (bl)">ה<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.2.4_lbl_1_is_5" rend="size(large) align(right) pad (bl)">ה<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.2.4.00100">מצא</w>
                      <w xml:id="S01520.4.2.2.4.00200">בחנות</w>
@@ -7152,8 +7113,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.2.8">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.2.2.8_lbl_1_is_10"
-                            rend="size(large) align() pad (brl)">י<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.2.2.8_lbl_1_is_10" rend="size(large) align() pad (brl)">י<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.2.8.00100">מצא</w>
                      <w xml:id="S01520.4.2.2.8.00200">ספרים</w>
@@ -7234,8 +7194,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.2.9">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.2.2.9_lbl_1_is_11"
-                            rend="size(large) align() pad (brl)">יא<am rend="gershayyim">״</am>
+                     <label xml:id="S01520.4.2.2.9_lbl_1_is_11" rend="size(large) align() pad (brl)">יא<am rend="gershayyim">״</am>
                      </label>
                      <lb n="17"/>
                      <w xml:id="S01520.4.2.2.9.00100">ואי</w>
@@ -7320,8 +7279,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.2.10">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.2.10_lbl_1_is_12"
-                            rend="size(large) align() pad (brl)">יב<am rend="gershayyim">״</am>
+                     <label xml:id="S01520.4.2.2.10_lbl_1_is_12" rend="size(large) align() pad (brl)">יב<am rend="gershayyim">״</am>
                      </label>
                      <w xml:id="S01520.4.2.2.10.00100">מצאה</w>
                      <w xml:id="S01520.4.2.2.10.00200">ברפת</w>
@@ -7469,8 +7427,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.2.11">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.2.11_lbl_1_is_13"
-                            rend="size(large) align() pad (brl)">יג<am rend="gershayyim">״</am>
+                     <label xml:id="S01520.4.2.2.11_lbl_1_is_13" rend="size(large) align() pad (brl)">יג<am rend="gershayyim">״</am>
                      </label>
                      <w xml:id="S01520.4.2.2.11.00100">אבידתו</w>
                      <w xml:id="S01520.4.2.2.11.00200">ואבידת</w>
@@ -7519,8 +7476,7 @@
                      <w xml:id="S01520.4.2.2.11.04000">קודמת</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.2.2.11_lbl_2_is_14"
-                            rend="size(large) align() pad (brl)">יד<am rend="gershayyim">״</am>
+                     <label xml:id="S01520.4.2.2.11_lbl_2_is_14" rend="size(large) align() pad (brl)">יד<am rend="gershayyim">״</am>
                      </label>
                      <w xml:id="S01520.4.2.2.11.04100">היה</w>
                      <w xml:id="S01520.4.2.2.11.04200">אביו</w>
@@ -7637,8 +7593,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="9"/>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.2.3.1_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.1_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.1.03800">נשבע</w>
                      <w xml:id="S01520.4.2.3.1.03900">אם</w>
@@ -7673,8 +7628,7 @@
                      <w xml:id="S01520.4.2.3.1.06400">הפקדון</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.2.3.1_lbl_2_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.1_lbl_2_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.1.06500">שלם</w>
                      <w xml:id="S01520.4.2.3.1.06600">ולא</w>
@@ -7706,8 +7660,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.2">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.2.3.2_lbl_1_is_4"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.2_lbl_1_is_4" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.2.00100">השוכר</w>
                      <w xml:id="S01520.4.2.3.2.00200">פרה</w>
@@ -7756,8 +7709,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.3">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.3.3_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.3_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.3.00100">אמר</w>
                      <w xml:id="S01520.4.2.3.3.00200">לשנים</w>
@@ -7800,8 +7752,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.4">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.3.4_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.4_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.4.00100">שנים</w>
                      <w xml:id="S01520.4.2.3.4.00200">שהפקיד<c rend="tall">ו</c>
@@ -7867,8 +7818,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.5">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.3.5_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.5_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.5.00100">וכן</w>
                      <w xml:id="S01520.4.2.3.5.00200">שני</w>
@@ -7953,8 +7903,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.2.3.6_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.6_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.6.00100">המפקי<c rend="wide">ד</c>
                      </w>
@@ -8002,8 +7951,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.2.3.7_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.7_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.7.00100">המפקיד</w>
                      <w xml:id="S01520.4.2.3.7.00200">פירו<c rend="tall">ת</c>
@@ -8070,8 +8018,7 @@
                      <w xml:id="S01520.4.2.3.7.04100">להן</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.2.3.7_lbl_2_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.3.7_lbl_2_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
                      </label>
                      <space extent="3" unit="chars"/>
                      <w xml:id="S01520.4.2.3.7.04200">העכברים</w>
@@ -8121,8 +8068,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.8">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.2.3.8_lbl_1_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">יא<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.3.8_lbl_1_is_11" rend="size(larger) pad(rbl) ornamented()">יא<am rend="gershayyim">׳</am>
                      </label>
                      <space extent="3" unit="chars"/>
                      <w xml:id="S01520.4.2.3.8.00100">יוצא</w>
@@ -8211,8 +8157,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.9">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.3.9_lbl_1_is_12"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="gershayyim">׳</am>ב<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.3.9_lbl_1_is_12" rend="size(larger) pad(rbl) ornamented()">י<am rend="gershayyim">׳</am>ב<am rend="gershayyim">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.9.00100">המפקיד</w>
                      <w xml:id="S01520.4.2.3.9.00200">חבית</w>
@@ -8266,8 +8211,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.10">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.3.10_lbl_1_is_13"
-                            rend="size(larger) pad(rbl) ornamented()">יג<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.3.10_lbl_1_is_13" rend="size(larger) pad(rbl) ornamented()">יג<am rend="gershayyim">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.10.00100">המפקיד</w>
                      <w xml:id="S01520.4.2.3.10.00200">מעות</w>
@@ -8304,8 +8248,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.11">
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.2.3.11_lbl_1_is_14"
-                            rend="size(larger) pad(rbl) ornamented()">יד<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.3.11_lbl_1_is_14" rend="size(larger) pad(rbl) ornamented()">יד<am rend="gershayyim">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.3.11.00100">המפקיד</w>
                      <lb n="10"/>
@@ -8387,8 +8330,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.3.12">
                      <milestone unit="MSMishnah" n="15"/>
-                     <label xml:id="S01520.4.2.3.12_lbl_1_is_15"
-                            rend="size(larger) pad(rbl) ornamented()">טו<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.3.12_lbl_1_is_15" rend="size(larger) pad(rbl) ornamented()">טו<am rend="gershayyim">׳</am>
                      </label>
                      <lb n="14"/>
                      <w xml:id="S01520.4.2.3.12.00100">השולח</w>
@@ -8578,8 +8520,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.2">
-                     <label xml:id="S01520.4.2.4.2_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.2_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <lb n="23"/>
                      <w xml:id="S01520.4.2.4.2.00100">כיצד</w>
@@ -8638,8 +8579,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.4.3">
                      <lb n="26"/>
-                     <label xml:id="S01520.4.2.4.3_lbl_1_is_3"
-                            rend="size(larger) pad(bl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.3_lbl_1_is_3" rend="size(larger) pad(bl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.3.00100">ההונאה</w>
                      <w xml:id="S01520.4.2.4.3.00200">ארבעה</w>
@@ -8720,8 +8660,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.4">
-                     <label xml:id="S01520.4.2.4.4_lbl_1_is_4"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.4.4_lbl_1_is_4" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.4.00100">אחד</w>
                      <w xml:id="S01520.4.2.4.4.00200">הלוקח</w>
@@ -8780,8 +8719,7 @@
                      <lb n="2"/>
                   </ab>
                   <ab xml:id="S01520.4.2.4.5">
-                     <label xml:id="S01520.4.2.4.5_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.5_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.5.00100">וכמה</w>
                      <w xml:id="S01520.4.2.4.5.00200">תהא</w>
@@ -8904,8 +8842,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.7">
-                     <label xml:id="S01520.4.2.4.7_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.7_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.7.00100">ההונאה</w>
                      <w xml:id="S01520.4.2.4.7.00200">ארבע</w>
@@ -8959,8 +8896,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.8">
-                     <label xml:id="S01520.4.2.4.8_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.8_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.8.00100">חמשה</w>
                      <w xml:id="S01520.4.2.4.8.00200">חמשין</w>
@@ -9012,8 +8948,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.9">
-                     <label xml:id="S01520.4.2.4.9_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.9_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.9.00100">אלו</w>
                      <w xml:id="S01520.4.2.4.9.00200">
@@ -9110,8 +9045,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.10">
-                     <label xml:id="S01520.4.2.4.10_lbl_1_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.10_lbl_1_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.10.00100">כשם</w>
                      <w xml:id="S01520.4.2.4.10.00200">שהונאה</w>
@@ -9171,8 +9105,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.11">
-                     <label xml:id="S01520.4.2.4.11_lbl_1_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.11_lbl_1_is_11" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.11.00100">אין</w>
                      <w xml:id="S01520.4.2.4.11.00200">מערבין</w>
@@ -9244,8 +9177,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.4.12">
-                     <label xml:id="S01520.4.2.4.12_lbl_1_is_12"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.4.12_lbl_1_is_12" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.4.12.00100">התגר</w>
                      <w xml:id="S01520.4.2.4.12.00200">נוטל</w>
@@ -9480,8 +9412,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.5.2">
-                     <label xml:id="S01520.4.2.5.2_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.2_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.2.00100">המלווה</w>
                      <w xml:id="S01520.4.2.5.2.00200">את</w>
@@ -9536,8 +9467,7 @@
                      <w xml:id="S01520.4.2.5.2.04500">מותר</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.2.5.2_lbl_2_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.2_lbl_2_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <space extent="3" unit="chars"/>
                      <w xml:id="S01520.4.2.5.2.04600">מכר</w>
@@ -9575,8 +9505,7 @@
                   <ab xml:id="S01520.4.2.5.3">
                      <lb n="11"/>
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.2.5.3_lbl_1_is_4"
-                            rend="size(larger) pad(bl) ornamented()">ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.3_lbl_1_is_4" rend="size(larger) pad(bl) ornamented()">ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.3.00100">מכר</w>
                      <w xml:id="S01520.4.2.5.3.00200">לו</w>
@@ -9640,8 +9569,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.5.4_lbl_1_is_5"
-                            rend="size(larger) pad(bl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.4_lbl_1_is_5" rend="size(larger) pad(bl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.4.00100">אין</w>
                      <w xml:id="S01520.4.2.5.4.00200">מושיבין</w>
@@ -9715,8 +9643,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.5">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.5.5_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.5_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.5.00100">שמין</w>
                      <w xml:id="S01520.4.2.5.5.00200">פרה</w>
@@ -9771,8 +9698,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.6">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.5.6_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.6_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.6.00100">אין</w>
                      <w xml:id="S01520.4.2.5.6.00200">מקבלין</w>
@@ -9821,8 +9747,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.7">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.2.5.7_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.5.7_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.7.00100">אין</w>
                      <w xml:id="S01520.4.2.5.7.00200">פוסקין</w>
@@ -9944,8 +9869,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.8">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.2.5.8_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.8_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.8.00100">מלווה</w>
                      <w xml:id="S01520.4.2.5.8.00200">אדם</w>
@@ -9991,8 +9915,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.9">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.2.5.9_lbl_1_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.9_lbl_1_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.9.00100">לא</w>
                      <w xml:id="S01520.4.2.5.9.00200">יאמר</w>
@@ -10048,8 +9971,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.10">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.2.5.10_lbl_1_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.10_lbl_1_is_11" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.10.00100">אומר</w>
                      <w xml:id="S01520.4.2.5.10.00200">אדם</w>
@@ -10098,8 +10020,7 @@
                      <w xml:id="S01520.4.2.5.10.04100">ברביעה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.5.10_lbl_2_is_12"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.5.10_lbl_2_is_12" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.10.04200">רבן</w>
                      <w xml:id="S01520.4.2.5.10.04300">גמליאל</w>
@@ -10187,8 +10108,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.5.11">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.5.11_lbl_1_is_13"
-                            rend="size(larger) pad(rbl) ornamented()">יג<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.5.11_lbl_1_is_13" rend="size(larger) pad(rbl) ornamented()">יג<am rend="gershayyim">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.5.11.00100">אילו</w>
                      <w xml:id="S01520.4.2.5.11.00200">עוברין</w>
@@ -10335,8 +10255,7 @@
                   <ab xml:id="S01520.4.2.6.2">
                      <lb n="18"/>
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.6.2_lbl_1_is_13"
-                            rend="size(larger) pad(bl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.6.2_lbl_1_is_13" rend="size(larger) pad(bl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.2.00100">השוכר</w>
                      <w xml:id="S01520.4.2.6.2.00200">את</w>
@@ -10367,8 +10286,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.6.3">
-                     <label xml:id="S01520.4.2.6.3_lbl_1_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.6.3_lbl_1_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.3.00100">השוכר</w>
                      <w xml:id="S01520.4.2.6.3.00200">את</w>
@@ -10421,8 +10339,7 @@
                      <w xml:id="S01520.4.2.6.3.03800">חמור</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.2.6.3_lbl_2_is_4"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.6.3_lbl_2_is_4" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.3.03900">השוכר</w>
                      <lb n="23"/>
@@ -10458,8 +10375,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.6.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.6.4_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.6.4_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.4.00100">השוכר</w>
                      <w xml:id="S01520.4.2.6.4.00200">את</w>
@@ -10497,8 +10413,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.6.5">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.6.5_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.6.5_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.5.00100">השוכר</w>
                      <w xml:id="S01520.4.2.6.5.00200">את</w>
@@ -10565,8 +10480,7 @@
                      <pb xml:id="S01520.115r" n="115r" type="1-col"/>
                      <lb n="1"/>
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.6.6_lbl_1_is_13"
-                            rend="size(larger) pad(bl) ornamented()">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.6.6_lbl_1_is_13" rend="size(larger) pad(bl) ornamented()">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.6.00100">כל</w>
                      <w xml:id="S01520.4.2.6.6.00200">האומנין</w>
@@ -10651,8 +10565,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.6.8">
-                     <label xml:id="S01520.4.2.6.8_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.6.8_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.6.8.00100">המעב<addSpan spanTo="#d8e5483" place="above line" hand="#h1"/>י<anchor xml:id="d8e5483" type="add"/>ר</w>
                      <w xml:id="S01520.4.2.6.8.00200">חבית</w>
@@ -10836,8 +10749,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.7.2">
-                     <label xml:id="S01520.4.2.7.2_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.2_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.2.00100">אילו</w>
                      <w xml:id="S01520.4.2.7.2.00200">אוכלין</w>
@@ -10866,8 +10778,7 @@
                      <w xml:id="S01520.4.2.7.2.02100">הארץ</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.2.7.2_lbl_2_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.2_lbl_2_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.2.02200">ואילו</w>
                      <w xml:id="S01520.4.2.7.2.02300">שאינן</w>
@@ -10897,8 +10808,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.3">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.7.3_lbl_1_is_13"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.3_lbl_1_is_13" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.3.00100">היה</w>
                      <w xml:id="S01520.4.2.7.3.00200">עושה</w>
@@ -10956,8 +10866,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.7.4_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.4_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.4.00100">היה</w>
                      <w xml:id="S01520.4.2.7.4.00200">עושה</w>
@@ -11017,8 +10926,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.5">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.7.5_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.5_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.5.00100">אוכל</w>
                      <w xml:id="S01520.4.2.7.5.00200">פועל</w>
@@ -11081,8 +10989,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.6">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.7.6_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.7.6_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.6.00100">קוצץ</w>
                      <lb n="26"/>
@@ -11141,8 +11048,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.7">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.2.7.7_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.7.7_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
                      </label>
                      <lb n="29"/>
                      <w xml:id="S01520.4.2.7.7.00100">השוכר</w>
@@ -11183,8 +11089,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.8">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.2.7.8_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.8_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.8.00100">שומרי</w>
                      <w xml:id="S01520.4.2.7.8.00200">פירות</w>
@@ -11238,8 +11143,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.9">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.2.7.9_lbl_1_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overline">׳</am>
+                     <label xml:id="S01520.4.2.7.9_lbl_1_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overline">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.9.00100">זאב</w>
                      <w xml:id="S01520.4.2.7.9.00200">אחד</w>
@@ -11275,8 +11179,7 @@
                      <w xml:id="S01520.4.2.7.9.01700">אונס</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.2.7.9_lbl_2_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.9_lbl_2_is_11" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
                      </label>
                      <space extent="3" unit="chars"/>
                      <w xml:id="S01520.4.2.7.9.01800">שני</w>
@@ -11308,8 +11211,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.10">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.7.10_lbl_1_is_13"
-                            rend="size(larger) pad(rbl) ornamented()">י<am>׳</am>ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.10_lbl_1_is_13" rend="size(larger) pad(rbl) ornamented()">י<am>׳</am>ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.10.00100">מת<c rend="superscript">ה</c>
                      </w>
@@ -11361,8 +11263,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.7.11">
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.2.7.11_lbl_1_is_14"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.7.11_lbl_1_is_14" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.7.11.00100">כל</w>
                      <w xml:id="S01520.4.2.7.11.00200">המתנה</w>
@@ -11459,8 +11360,7 @@
                      <w xml:id="S01520.4.2.8.1.03200">ישלם</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.2.8.1_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.1_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.1.03300">אבל</w>
                      <w xml:id="S01520.4.2.8.1.03400">אם</w>
@@ -11494,8 +11394,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.2">
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.2.8.2_lbl_1_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.2_lbl_1_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.2.00100">השואל</w>
                      <w xml:id="S01520.4.2.8.2.00200">את</w>
@@ -11549,8 +11448,7 @@
                      <w xml:id="S01520.4.2.8.2.03400">חייב</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.8.2_lbl_2_is_12"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.8.2_lbl_2_is_12" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.2.03500">השוכר</w>
                      <w xml:id="S01520.4.2.8.2.03600">אומר</w>
@@ -11626,8 +11524,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.3">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.2.8.3_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.3_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.3.00100">השו<c rend="ligature">אל</c>
                      </w>
@@ -11726,8 +11623,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.4">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.8.4_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.4_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.4.00100">המחליף</w>
                      <w xml:id="S01520.4.2.8.4.00200">פרה</w>
@@ -11851,8 +11747,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.5">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.8.5_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.5_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.5.00100">המוכר</w>
                      <w xml:id="S01520.4.2.8.5.00200">את</w>
@@ -11897,8 +11792,7 @@
                      <w xml:id="S01520.4.2.8.5.02500">יחלוקו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.2.8.5_lbl_2_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.8.5_lbl_2_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.5.02600">שטף</w>
                      <w xml:id="S01520.4.2.8.5.02700">הנהר</w>
@@ -11935,8 +11829,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.6">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.2.8.6_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.6_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.6.00100">המשכיר</w>
                      <lb n="8"/>
@@ -12002,8 +11895,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.7">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.2.8.7_lbl_1_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.8.7_lbl_1_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.7.00100">המשכיר</w>
                      <w xml:id="S01520.4.2.8.7.00200">בית</w>
@@ -12047,8 +11939,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.8">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.2.8.8_lbl_1_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.8_lbl_1_is_11" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.8.00100">המשכיר</w>
                      <w xml:id="S01520.4.2.8.8.00200">בית</w>
@@ -12114,8 +12005,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.8.9">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.8.9_lbl_1_is_12"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.8.9_lbl_1_is_12" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.8.9.00100">המשכיר</w>
                      <w xml:id="S01520.4.2.8.9.00200">בית</w>
@@ -12218,8 +12108,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.2">
-                     <label xml:id="S01520.4.2.9.2_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.2_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.2.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.2.00200">שדה</w>
@@ -12267,8 +12156,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.3">
-                     <label xml:id="S01520.4.2.9.3_lbl_1_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.3_lbl_1_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.3.00100">המקבל</w>
                      <lb n="27"/>
@@ -12300,8 +12188,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.4">
-                     <label xml:id="S01520.4.2.9.4_lbl_1_is_4"
-                            rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.9.4_lbl_1_is_4" rend="size(larger) pad(rbl) ornamented()">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.4.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.4.00200">שדה</w>
@@ -12349,8 +12236,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.5">
-                     <label xml:id="S01520.4.2.9.5_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.5_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.5.00100">המקבל</w>
                      <pb xml:id="S01520.116v" n="116v" type="1-col"/>
@@ -12384,8 +12270,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.6">
-                     <label xml:id="S01520.4.2.9.6_lbl_1_is_6"
-                            rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.6_lbl_1_is_6" rend="size(larger) pad(rbl) ornamented()">ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.6.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.6.00200">שדה</w>
@@ -12448,8 +12333,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.7">
-                     <label xml:id="S01520.4.2.9.7_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.7_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.7.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.7.00200">שדה</w>
@@ -12483,8 +12367,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.8">
-                     <label xml:id="S01520.4.2.9.8_lbl_1_is_8"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.8_lbl_1_is_8" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.8.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.8.00200">שדה</w>
@@ -12522,8 +12405,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.9">
-                     <label xml:id="S01520.4.2.9.9_lbl_1_is_9"
-                            rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.9_lbl_1_is_9" rend="size(larger) pad(rbl) ornamented()">ט<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.9.00100">המקבל</w>
                      <w xml:id="S01520.4.2.9.9.00200">שדה</w>
@@ -12557,8 +12439,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.10">
-                     <label xml:id="S01520.4.2.9.10_lbl_1_is_10"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.10_lbl_1_is_10" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.10.00100">המקבל</w>
                      <lb n="12"/>
@@ -12586,8 +12467,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.9.11">
-                     <label xml:id="S01520.4.2.9.11_lbl_1_is_11"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.11_lbl_1_is_11" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>א<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.11.00100">שכיר</w>
                      <w xml:id="S01520.4.2.9.11.00200">יום</w>
@@ -12611,8 +12491,7 @@
                      <w xml:id="S01520.4.2.9.11.01700">היום</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.2.9.11_lbl_2_is_12"
-                            rend="size(larger) pad(bl) ornamented()">י<am rend="gershayyim">׳</am>ב<am rend="gershayyim">׳</am>
+                     <label xml:id="S01520.4.2.9.11_lbl_2_is_12" rend="size(larger) pad(bl) ornamented()">י<am rend="gershayyim">׳</am>ב<am rend="gershayyim">׳</am>
                      </label>
                      <lb n="15"/>
                      <w xml:id="S01520.4.2.9.11.01800">שכיר</w>
@@ -12641,8 +12520,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.9.12">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.2.9.12_lbl_1_is_13"
-                            rend="size(larger) pad(rb) ornamented()">י<am rend="overmark">׳</am>ג<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.12_lbl_1_is_13" rend="size(larger) pad(rb) ornamented()">י<am rend="overmark">׳</am>ג<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.12.00100">אחד</w>
                      <w xml:id="S01520.4.2.9.12.00200">שכר</w>
@@ -12715,8 +12593,7 @@
                      <w xml:id="S01520.4.2.9.12.06000">ונוטל</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.2.9.12_lbl_2_is_14"
-                            rend="size(larger) pad(bl) ornamented()">י<am rend="overmark">׳</am>ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.12_lbl_2_is_14" rend="size(larger) pad(bl) ornamented()">י<am rend="overmark">׳</am>ד<am rend="overmark">׳</am>
                      </label>
                      <space extent="2" unit="chars"/>
                      <w xml:id="S01520.4.2.9.12.06100">גר</w>
@@ -12745,8 +12622,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.9.13">
                      <milestone unit="MSMishnah" n="15"/>
-                     <label xml:id="S01520.4.2.9.13_lbl_1_is_15"
-                            rend="size(larger) pad(bl) ornamented()">ט<am rend="overmark">׳</am>ו<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.13_lbl_1_is_15" rend="size(larger) pad(bl) ornamented()">ט<am rend="overmark">׳</am>ו<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.9.13.00100">המלוה</w>
                      <w xml:id="S01520.4.2.9.13.00200">את</w>
@@ -12839,8 +12715,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="2" unit="chars"/>
                      <milestone unit="MSMishnah" n="16"/>
-                     <label xml:id="S01520.4.2.9.13_lbl_2_is_16"
-                            rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.9.13_lbl_2_is_16" rend="size(larger) pad(rbl) ornamented()">י<am rend="overmark">׳</am>
                         <c rend="wide">ו</c>
                         <am rend="overmark">׳</am>
                      </label>
@@ -12968,8 +12843,7 @@
                      <pc type="unitEnd" rend="doubleRaisedDot">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.10.2">
-                     <label xml:id="S01520.4.2.10.2_lbl_1_is_2"
-                            rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.10.2_lbl_1_is_2" rend="size(larger) pad(rbl) ornamented()">ב<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.2.00100">הבית</w>
                      <w xml:id="S01520.4.2.10.2.00200">והעליה</w>
@@ -13021,8 +12895,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.10.3">
-                     <label xml:id="S01520.4.2.10.3_lbl_1_is_3"
-                            rend="size(larger) pad(rbl) ornamented()">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.10.3_lbl_1_is_3" rend="size(larger) pad(rbl) ornamented()">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.3.00100">הבית</w>
                      <w xml:id="S01520.4.2.10.3.00200">והעליה</w>
@@ -13111,8 +12984,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.10.4">
-                     <label xml:id="S01520.4.2.10.4_lbl_1_is_4"
-                            rend="size(larger) pad(bl) ornamented()">ד<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.10.4_lbl_1_is_4" rend="size(larger) pad(bl) ornamented()">ד<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.4.00100">וכן</w>
                      <w xml:id="S01520.4.2.10.4.00200">בית</w>
@@ -13171,8 +13043,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.2.10.5">
-                     <label xml:id="S01520.4.2.10.5_lbl_1_is_5"
-                            rend="size(larger) pad(rbl) ornamented()">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.10.5_lbl_1_is_5" rend="size(larger) pad(rbl) ornamented()">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.5.00100">מי</w>
                      <w xml:id="S01520.4.2.10.5.00200">שהיה</w>
@@ -13218,8 +13089,7 @@
                      <w xml:id="S01520.4.2.10.5.03300">לו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.2.10.5_lbl_2_is_6"
-                            rend="size(larger) pad(bl) ornamented()">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.2.10.5_lbl_2_is_6" rend="size(larger) pad(bl) ornamented()">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.5.03400">השוכר</w>
                      <w xml:id="S01520.4.2.10.5.03500">את</w>
@@ -13276,8 +13146,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="17"/>
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.10.5_lbl_3_is_7"
-                            rend="size(larger) pad(bl) ornamented()">ז<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.10.5_lbl_3_is_7" rend="size(larger) pad(bl) ornamented()">ז<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.5.06900">המוציא</w>
                      <w xml:id="S01520.4.2.10.5.07000">זבלו</w>
@@ -13346,8 +13215,7 @@
                   </ab>
                   <ab xml:id="S01520.4.2.10.6">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.2.10.6_lbl_1_is_7"
-                            rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
+                     <label xml:id="S01520.4.2.10.6_lbl_1_is_7" rend="size(larger) pad(rbl) ornamented()">ח<am rend="overmark">׳</am>
                      </label>
                      <w xml:id="S01520.4.2.10.6.00100">שתי</w>
                      <w xml:id="S01520.4.2.10.6.00200">גנות</w>
@@ -13600,8 +13468,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.1.2">
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.3.1.2_lbl_1_is_2"
-                            rend="size(large) align(right) pad(bl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.2_lbl_1_is_2" rend="size(large) align(right) pad(bl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.2.00100">וכן</w>
                      <w xml:id="S01520.4.3.1.2.00200">בגנה</w>
@@ -13641,8 +13508,7 @@
                      <w xml:id="S01520.4.3.1.2.03200">שלו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.1.2_lbl_2_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.2_lbl_2_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.2.03300">ואם</w>
                      <w xml:id="S01520.4.3.1.2.03400">עשו</w>
@@ -13672,8 +13538,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.1.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.1.3_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.3_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.3.00100">המקיף</w>
                      <w xml:id="S01520.4.3.1.3.00200">את</w>
@@ -13724,8 +13589,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.1.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.1.4_lbl_1_is_5"
-                            rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.4_lbl_1_is_5" rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.4.00100">כותל</w>
                      <w xml:id="S01520.4.3.1.4.00200">חצר</w>
@@ -13747,8 +13611,7 @@
                      <w xml:id="S01520.4.3.1.4.01600">נתן</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.1.4_lbl_2_is_6"
-                            rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.4_lbl_2_is_6" rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.4.01700">מארבע</w>
                      <w xml:id="S01520.4.3.1.4.01800">אמות</w>
@@ -13788,8 +13651,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.1.5">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.1.5_lbl_1_is_7"
-                            rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.5_lbl_1_is_7" rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.1.5.00100">כופין</w>
                      <w xml:id="S01520.4.3.1.5.00200">אותו</w>
@@ -13867,8 +13729,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.1.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.1.6_lbl_1_is_8"
-                            rend="size(large) align(left) pad(brl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.1.6_lbl_1_is_8" rend="size(large) align(left) pad(brl)">ח<am rend="overdot">׳</am>
                      </label>
                      <lb n="17"/>
                      <w xml:id="S01520.4.3.1.6.00100">אין</w>
@@ -14115,8 +13976,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.2">
-                     <label xml:id="S01520.4.3.2.2_lbl_1_is_2"
-                            rend="size(large) align(left) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.2_lbl_1_is_2" rend="size(large) align(left) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <lb n="1"/>
                      <w xml:id="S01520.4.3.2.2.00100">לא</w>
@@ -14185,8 +14045,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.3">
-                     <label xml:id="S01520.4.3.2.3_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.3_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <lb n="5"/>
                      <w xml:id="S01520.4.3.2.3.00100">לא</w>
@@ -14265,8 +14124,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.4">
-                     <label xml:id="S01520.4.3.2.4_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.4_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.4.00100">מי</w>
                      <w xml:id="S01520.4.3.2.4.00200">שהיה</w>
@@ -14299,8 +14157,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.5">
-                     <label xml:id="S01520.4.3.2.5_lbl_1_is_5"
-                            rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.5_lbl_1_is_5" rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.5.00100">מרחיקים</w>
                      <w xml:id="S01520.4.3.2.5.00200">את</w>
@@ -14391,8 +14248,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.6">
-                     <label xml:id="S01520.4.3.2.6_lbl_1_is_6"
-                            rend="size(large) align(indent-right) pad(brl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.6_lbl_1_is_6" rend="size(large) align(indent-right) pad(brl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.6.00100">נפול</w>
                      <w xml:id="S01520.4.3.2.6.00200">שנמצא</w>
@@ -14433,8 +14289,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.7">
-                     <label xml:id="S01520.4.3.2.7_lbl_1_is_7"
-                            rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.7_lbl_1_is_7" rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.7.00100">מרחיקי<c rend="superscript">ם</c>
                      </w>
@@ -14477,8 +14332,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.8">
-                     <label xml:id="S01520.4.3.2.8_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.8_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.8.00100">מרחיקין</w>
                      <w xml:id="S01520.4.3.2.8.00200">גורן</w>
@@ -14518,8 +14372,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.9">
-                     <label xml:id="S01520.4.3.2.9_lbl_1_is_9"
-                            rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.9_lbl_1_is_9" rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.9.00100">מרחיקים</w>
                      <w xml:id="S01520.4.3.2.9.00200">את</w>
@@ -14573,8 +14426,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.10">
-                     <label xml:id="S01520.4.3.2.10_lbl_1_is_10"
-                            rend="size(large) align(right) pad(bl)">י<am rend="overline">׳</am>
+                     <label xml:id="S01520.4.3.2.10_lbl_1_is_10" rend="size(large) align(right) pad(bl)">י<am rend="overline">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.10.00100">מרחיקין</w>
                      <w xml:id="S01520.4.3.2.10.00200">את</w>
@@ -14603,8 +14455,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.11">
-                     <label xml:id="S01520.4.3.2.11_lbl_1_is_11"
-                            rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.11_lbl_1_is_11" rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.11.00100">מרחיקין</w>
                      <w xml:id="S01520.4.3.2.11.00200">את</w>
@@ -14687,8 +14538,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.12">
-                     <label xml:id="S01520.4.3.2.12_lbl_1_is_12"
-                            rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.12_lbl_1_is_12" rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.12.00100">לא</w>
                      <w xml:id="S01520.4.3.2.12.00200">יטע</w>
@@ -14752,8 +14602,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.13">
-                     <label xml:id="S01520.4.3.2.13_lbl_1_is_13"
-                            rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.13_lbl_1_is_13" rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.13.00100">אילן</w>
                      <w xml:id="S01520.4.3.2.13.00200">שהוא</w>
@@ -14793,8 +14642,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.2.14">
-                     <label xml:id="S01520.4.3.2.14_lbl_1_is_14"
-                            rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.2.14_lbl_1_is_14" rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.2.14.00100">אילן</w>
                      <w xml:id="S01520.4.3.2.14.00200">שהוא</w>
@@ -14893,8 +14741,7 @@
                      <w xml:id="S01520.4.3.3.1.02900">ליום</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.3.3.1_lbl_1_is_2"
-                            rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.1_lbl_1_is_2" rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.1.03000">
                         <choice>
@@ -14992,8 +14839,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.2">
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.3.2_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.2_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.2.00100">שלש</w>
                      <w xml:id="S01520.4.3.3.2.00200">ארצות</w>
@@ -15055,8 +14901,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.3.3_lbl_1_is_4"
-                            rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.3_lbl_1_is_4" rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.3.00100">כל</w>
                      <w xml:id="S01520.4.3.3.3.00200">חזק<c rend="superscript">ה</c>
@@ -15113,8 +14958,7 @@
                      <w xml:id="S01520.4.3.3.3.03500">טענה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.3.3_lbl_2_is_5"
-                            rend="size(large) align(right) pad(brl)">ה<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.3.3.3_lbl_2_is_5" rend="size(large) align(right) pad(brl)">ה<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.3.03600">השותפים</w>
                      <w xml:id="S01520.4.3.3.3.03700">והאריסין</w>
@@ -15183,8 +15027,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.4">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.3.4_lbl_1_is_6"
-                            rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.4_lbl_1_is_6" rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.4.00100">שנים</w>
                      <w xml:id="S01520.4.3.3.4.00200">מעידין</w>
@@ -15226,8 +15069,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.5">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.3.5_lbl_1_is_7"
-                            rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.5_lbl_1_is_7" rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.5.00100">אלו</w>
                      <w xml:id="S01520.4.3.3.5.00200">דברים</w>
@@ -15294,8 +15136,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.3.6_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.6_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.6.00100">המרזב</w>
                      <w xml:id="S01520.4.3.3.6.00200">אין</w>
@@ -15380,8 +15221,7 @@
                      <w xml:id="S01520.4.3.3.6.06100">חזקה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.3.6_lbl_2_is_9"
-                            rend="size(large) align(right) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.6_lbl_2_is_9" rend="size(large) align(right) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.6.06200">זיז</w>
                      <w xml:id="S01520.4.3.3.6.06300">עד</w>
@@ -15405,8 +15245,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.7">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.3.7_lbl_1_is_10"
-                            rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.7_lbl_1_is_10" rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.7.00100">לא</w>
                      <w xml:id="S01520.4.3.3.7.00200">יפתח</w>
@@ -15454,8 +15293,7 @@
                      <w xml:id="S01520.4.3.3.7.03900">ביתו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.3.7_lbl_2_is_11"
-                            rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.7_lbl_2_is_11" rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.7.04000">לא</w>
                      <w xml:id="S01520.4.3.3.7.04100">יפתח</w>
@@ -15507,8 +15345,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.3.8">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.3.3.8_lbl_1_is_12"
-                            rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.3.8_lbl_1_is_12" rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.3.8.00100">אין</w>
                      <w xml:id="S01520.4.3.3.8.00200">עושין</w>
@@ -15633,8 +15470,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.4.2">
-                     <label xml:id="S01520.4.3.4.2_lbl_1_is_2"
-                            rend="size(large) align(left) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.2_lbl_1_is_2" rend="size(large) align(left) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.2.00100">לא</w>
                      <w xml:id="S01520.4.3.4.2.00200">את</w>
@@ -15748,8 +15584,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.4.3">
-                     <label xml:id="S01520.4.3.4.3_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.3_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.3.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.3.00200">את</w>
@@ -15797,8 +15632,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.4.4">
-                     <label xml:id="S01520.4.3.4.4_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.4_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.4.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.4.00200">את</w>
@@ -15869,8 +15703,7 @@
                      <lb n="4"/>
                   </ab>
                   <ab xml:id="S01520.4.3.4.5">
-                     <label xml:id="S01520.4.3.4.5_lbl_1_is_5"
-                            rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.5_lbl_1_is_5" rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.5.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.5.00200">את</w>
@@ -15942,8 +15775,7 @@
                      <lb n="7"/>
                   </ab>
                   <ab xml:id="S01520.4.3.4.6">
-                     <label xml:id="S01520.4.3.4.6_lbl_1_is_6"
-                            rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.6_lbl_1_is_6" rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.6.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.6.00200">את</w>
@@ -15995,8 +15827,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.4.7">
-                     <label xml:id="S01520.4.3.4.7_lbl_1_is_7"
-                            rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.7_lbl_1_is_7" rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.7.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.7.00200">את</w>
@@ -16068,8 +15899,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.4.8">
-                     <label xml:id="S01520.4.3.4.8_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.8_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.8.00100">המוכר</w>
                      <w xml:id="S01520.4.3.4.8.00200">את</w>
@@ -16118,8 +15948,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.4.9">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.4.9_lbl_1_is_9"
-                            rend="size(large) align(right) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.9_lbl_1_is_9" rend="size(large) align(right) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.9.00100">אבל</w>
                      <w xml:id="S01520.4.3.4.9.00200">לא</w>
@@ -16185,8 +16014,7 @@
                      <w xml:id="S01520.4.3.4.9.05600">השקמה</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.4.9_lbl_2_is_10"
-                            rend="size(large) align(right) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.9_lbl_2_is_10" rend="size(large) align(right) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.9.05700">לא</w>
                      <w xml:id="S01520.4.3.4.9.05800">את</w>
@@ -16300,8 +16128,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="24"/>
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.4.9_lbl_3_is_11"
-                            rend="size(large) align(right) pad(bl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.4.9_lbl_3_is_11" rend="size(large) align(right) pad(bl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.4.9.11300">במה</w>
                      <w xml:id="S01520.4.3.4.9.11400">דברים</w>
@@ -16426,8 +16253,7 @@
                      <w xml:id="S01520.4.3.5.1.03600">מכורין</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.3.5.1_lbl_1_is_2"
-                            rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.1_lbl_1_is_2" rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.1.03700">המוכר</w>
                      <w xml:id="S01520.4.3.5.1.03800">את</w>
@@ -16507,8 +16333,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.2">
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.5.2_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.2_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.2.00100">המוכר</w>
                      <w xml:id="S01520.4.3.5.2.00200">את</w>
@@ -16582,8 +16407,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.5.3_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.3_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.3.00100">המוכר</w>
                      <w xml:id="S01520.4.3.5.3.00200">את</w>
@@ -16647,8 +16471,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.5.4_lbl_1_is_5"
-                            rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.4_lbl_1_is_5" rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.4.00100">הקונה</w>
                      <w xml:id="S01520.4.3.5.4.00200">שני</w>
@@ -16684,8 +16507,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="13"/>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.5.4_lbl_2_is_6"
-                            rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.4_lbl_2_is_6" rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.4.02900">קנה</w>
                      <w xml:id="S01520.4.3.5.4.03000">שלשה</w>
@@ -16707,8 +16529,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.5">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.5.5_lbl_1_is_7"
-                            rend="size(large) align(right) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.5_lbl_1_is_7" rend="size(large) align(right) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.5.00100">המוכר</w>
                      <w xml:id="S01520.4.3.5.5.00200">את</w>
@@ -16776,8 +16597,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.5.6_lbl_1_is_8"
-                            rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.6_lbl_1_is_8" rend="size(large) align(right) pad(bl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.6.00100">ארבע</w>
                      <w xml:id="S01520.4.3.5.6.00200">מידות</w>
@@ -16847,8 +16667,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.5.7_lbl_1_is_9"
-                            rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.7_lbl_1_is_9" rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.7.00100">המוכר</w>
                      <w xml:id="S01520.4.3.5.7.00200">פירות</w>
@@ -16895,8 +16714,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.8">
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.5.8_lbl_1_is_10"
-                            rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.8_lbl_1_is_10" rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.8.00100">המוכר</w>
                      <w xml:id="S01520.4.3.5.8.00200">יין</w>
@@ -16946,8 +16764,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.9">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.5.9_lbl_1_is_11"
-                            rend="size(large) align(right) pad(bl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.9_lbl_1_is_11" rend="size(large) align(right) pad(bl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.9.00100">השולח</w>
                      <w xml:id="S01520.4.3.5.9.00200">את</w>
@@ -17012,8 +16829,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.10">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.3.5.10_lbl_1_is_12"
-                            rend="size(large) align(right) pad(brl)">יב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.10_lbl_1_is_12" rend="size(large) align(right) pad(brl)">יב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.10.00100">הסיטון</w>
                      <w xml:id="S01520.4.3.5.10.00200">מקניח</w>
@@ -17069,8 +16885,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.5.11">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.3.5.11_lbl_1_is_13"
-                            rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.11_lbl_1_is_13" rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.11.00100">אמר</w>
                      <w xml:id="S01520.4.3.5.11.00200">רבן</w>
@@ -17108,8 +16923,7 @@
                      <w xml:id="S01520.4.3.5.11.03100">ביבש</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.3.5.11_lbl_2_is_14"
-                            rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.5.11_lbl_2_is_14" rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.5.11.03200">מקום</w>
                      <w xml:id="S01520.4.3.5.11.03300">שנהגו</w>
@@ -17221,8 +17035,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.3">
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.3.6.3_lbl_1_is_2"
-                            rend="size(large) align(right) pad(bl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.3_lbl_1_is_2" rend="size(large) align(right) pad(bl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.3.00100">המוכר</w>
                      <w xml:id="S01520.4.3.6.3.00200">יין</w>
@@ -17265,8 +17078,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.4">
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.6.4_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.4_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.4.00100">המוכר</w>
                      <w xml:id="S01520.4.3.6.4.00200">מקום</w>
@@ -17368,8 +17180,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.5">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.6.5_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.5_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.5.00100">מי</w>
                      <w xml:id="S01520.4.3.6.5.00200">שיש</w>
@@ -17418,8 +17229,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.6">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.6.6_lbl_1_is_5"
-                            rend="size(large) align(right) pad(brl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.6_lbl_1_is_5" rend="size(large) align(right) pad(brl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.6.00100">מי</w>
                      <w xml:id="S01520.4.3.6.6.00200">שיש</w>
@@ -17459,8 +17269,7 @@
                      <w xml:id="S01520.4.3.6.6.03300">את</w>
                      <w xml:id="S01520.4.3.6.6.03400">הדרך</w>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.6.6_lbl_2_is_6"
-                            rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.6_lbl_2_is_6" rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.6.03500">נתנו</w>
                      <w xml:id="S01520.4.3.6.6.03600">לו</w>
@@ -17499,8 +17308,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.7">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.6.7_lbl_1_is_7"
-                            rend="size(large) align(right) pad(bl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.7_lbl_1_is_7" rend="size(large) align(right) pad(bl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.7.00100">מי</w>
                      <w xml:id="S01520.4.3.6.7.00200">שהיתה</w>
@@ -17557,8 +17365,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.6.8">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.6.8_lbl_1_is_8"
-                            rend="size(large) align(right) pad(brl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.6.8_lbl_1_is_8" rend="size(large) align(right) pad(brl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.6.8.00100">המוכר</w>
                      <w xml:id="S01520.4.3.6.8.00200">מקום</w>
@@ -17789,8 +17596,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.7.2">
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="S01520.4.3.7.2_lbl_1_is_2"
-                            rend="size(large) align(right) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.7.2_lbl_1_is_2" rend="size(large) align(right) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.7.2.00100">בית</w>
                      <w xml:id="S01520.4.3.7.2.00200">כור</w>
@@ -17842,8 +17648,7 @@
                      <w xml:id="S01520.4.3.7.2.03700">חשבון</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.7.2_lbl_2_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.7.2_lbl_2_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.7.2.03800">ומה</w>
                      <w xml:id="S01520.4.3.7.2.03900">הוא</w>
@@ -17907,8 +17712,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.7.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.7.3_lbl_1_is_4"
-                            rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.7.3_lbl_1_is_4" rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <lb n="18"/>
                      <w xml:id="S01520.4.3.7.3.00100">מדה</w>
@@ -17966,8 +17770,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.7.4">
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.7.4_lbl_1_is_5"
-                            rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.7.4_lbl_1_is_5" rend="size(large) align(right) pad(bl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.7.4.00100">האומר</w>
                      <w xml:id="S01520.4.3.7.4.00200">לחבירו</w>
@@ -18095,8 +17898,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.8.2">
-                     <label xml:id="S01520.4.3.8.2_lbl_1_is_2"
-                            rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.2_lbl_1_is_2" rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.2.00100">סדר</w>
                      <w xml:id="S01520.4.3.8.2.00200">נחלות</w>
@@ -18171,8 +17973,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.8.3">
-                     <label xml:id="S01520.4.3.8.3_lbl_1_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.3_lbl_1_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.3.00100">בנות</w>
                      <w xml:id="S01520.4.3.8.3.00200">צלפחד</w>
@@ -18202,8 +18003,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.8.4">
-                     <label xml:id="S01520.4.3.8.4_lbl_1_is_4"
-                            rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.4_lbl_1_is_4" rend="size(large) align(center) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.4.00100">אחד</w>
                      <w xml:id="S01520.4.3.8.4.00200">הבן</w>
@@ -18239,8 +18039,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.8.5">
-                     <label xml:id="S01520.4.3.8.5_lbl_1_is_5"
-                            rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.5_lbl_1_is_5" rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.5.00100">האומר</w>
                      <w xml:id="S01520.4.3.8.5.00200">איש</w>
@@ -18291,10 +18090,7 @@
                      <w xml:id="S01520.4.3.8.5.03100">ומיעט</w>
                      <w xml:id="S01520.4.3.8.5.03200">לאח</w>
                      <w xml:id="S01520.4.3.8.5.03300">
-                        <damageSpan type="unclear"
-                                    spanTo="#d8e9529"
-                                    subtype="orth"
-                                    exclude="#S01520.4.3.8.5.daled #S1832.4.1.8.5.resh"/>
+                        <damageSpan type="unclear" spanTo="#d8e9529" subtype="orth" exclude="#S01520.4.3.8.5.daled #S1832.4.1.8.5.resh"/>
                         <c xml:id="S01520.4.3.8.5.daled">ד</c>
                         <c xml:id="S1832.4.1.8.5.resh">ר</c>
                         <anchor xml:id="d8e9529" type="unclear"/>
@@ -18346,8 +18142,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="10"/>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.8.5_lbl_2_is_6"
-                            rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.5_lbl_2_is_6" rend="size(large) align(right) pad(bl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.5.05800">
                         <choice>
@@ -18427,8 +18222,7 @@
                      <w xml:id="S01520.4.3.8.5.10000">קיימין</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.8.5_lbl_3_is_7"
-                            rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.5_lbl_3_is_7" rend="size(large) align(left) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.5.10100">הכותב</w>
                      <lb n="13"/>
@@ -18472,8 +18266,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.8.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.8.6_lbl_1_is_8"
-                            rend="size(large) align(left) pad(brl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.6_lbl_1_is_8" rend="size(large) align(left) pad(brl)">ח<am rend="overdot">׳</am>
                      </label>
                      <lb n="15"/>
                      <w xml:id="S01520.4.3.8.6.00100">האומר</w>
@@ -18531,8 +18324,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.8.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.8.7_lbl_1_is_9"
-                            rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.7_lbl_1_is_9" rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.7.00100">הכותב</w>
                      <w xml:id="S01520.4.3.8.7.00200">נכסיו</w>
@@ -18624,8 +18416,7 @@
                      <w xml:id="S01520.4.3.8.7.06400">יורשים</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.8.7_lbl_2_is_10"
-                            rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.7_lbl_2_is_10" rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.7.06500">הניח</w>
                      <w xml:id="S01520.4.3.8.7.06600">בנים</w>
@@ -18677,8 +18468,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.8.8">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.8.8_lbl_1_is_11"
-                            rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.8.8_lbl_1_is_11" rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.8.8.00100">הניח</w>
                      <w xml:id="S01520.4.3.8.8.00200">בנות</w>
@@ -18781,8 +18571,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.9.2">
-                     <label xml:id="S01520.4.3.9.2_lbl_1_is_2"
-                            rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.2_lbl_1_is_2" rend="size(large) align(center) pad(brl)">ב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.2.00100">הניח</w>
                      <lb n="2"/>
@@ -18847,8 +18636,7 @@
                      <w xml:id="S01520.4.3.9.2.05000">מאתים</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.9.2_lbl_2_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.2_lbl_2_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.2.05100">ילדה</w>
                      <w xml:id="S01520.4.3.9.2.05200">טומטום</w>
@@ -18885,8 +18673,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.9.3_lbl_1_is_4"
-                            rend="size(large) align(right) pad(bl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.3_lbl_1_is_4" rend="size(large) align(right) pad(bl)">ד<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.3.00100">הניח</w>
                      <w xml:id="S01520.4.3.9.3.00200">בנים</w>
@@ -18916,8 +18703,7 @@
                      <w xml:id="S01520.4.3.9.3.02300">לעצמן</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.9.3_lbl_2_is_5"
-                            rend="size(large) align(left) pad(brl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.3_lbl_2_is_5" rend="size(large) align(left) pad(brl)">ה<am rend="overdot">׳</am>
                      </label>
                      <lb n="9"/>
                      <w xml:id="S01520.4.3.9.3.02400">וכן</w>
@@ -18946,8 +18732,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.4">
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.9.4_lbl_1_is_6"
-                            rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.4_lbl_1_is_6" rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.4.00100">האחים</w>
                      <w xml:id="S01520.4.3.9.4.00200">השותפים</w>
@@ -19000,8 +18785,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.5">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.9.5_lbl_1_is_7"
-                            rend="size(large) align(right) pad(bl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.5_lbl_1_is_7" rend="size(large) align(right) pad(bl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.5.00100">השולח</w>
                      <w xml:id="S01520.4.3.9.5.00200">סבלונות</w>
@@ -19057,8 +18841,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.6">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.9.6_lbl_1_is_8"
-                            rend="size(large) align(center) pad(brl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.6_lbl_1_is_8" rend="size(large) align(center) pad(brl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.6.00100">שכיב</w>
                      <w xml:id="S01520.4.3.9.6.00200">מרע</w>
@@ -19141,8 +18924,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.7">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.9.7_lbl_1_is_9"
-                            rend="size(large) align(left) pad(br)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.7_lbl_1_is_9" rend="size(large) align(left) pad(br)">ט<am rend="overdot">׳</am>
                      </label>
                      <lb n="21"/>
                      <w xml:id="S01520.4.3.9.7.00100">המחלק</w>
@@ -19217,8 +18999,7 @@
                      <w xml:id="S01520.4.3.9.7.05300">אמם</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.9.7_lbl_2_is_10"
-                            rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.7_lbl_2_is_10" rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.7.05400">
                         <choice>
@@ -19264,8 +19045,7 @@
                      <w xml:id="S01520.4.3.9.7.07300">בחול</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.9.7_lbl_3_is_11"
-                            rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.7_lbl_3_is_11" rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.7.07400">כיוצא</w>
                      <w xml:id="S01520.4.3.9.7.07500">בו</w>
@@ -19300,8 +19080,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.8">
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.3.9.8_lbl_1_is_12"
-                            rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.8_lbl_1_is_12" rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.8.00100">נפל</w>
                      <w xml:id="S01520.4.3.9.8.00200">הבית</w>
@@ -19374,8 +19153,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.9">
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.3.9.9_lbl_1_is_13"
-                            rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.9_lbl_1_is_13" rend="size(large) align(center) pad(brl)">יג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.9.9.00100">נפל</w>
                      <w xml:id="S01520.4.3.9.9.00200">הבית</w>
@@ -19448,8 +19226,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.9.10">
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.3.9.10_lbl_1_is_14"
-                            rend="size(large) align(left) pad(br)">יד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.9.10_lbl_1_is_14" rend="size(large) align(left) pad(br)">יד<am rend="overdot">׳</am>
                      </label>
                      <lb n="4"/>
                      <w xml:id="S01520.4.3.9.10.00100">נפל</w>
@@ -19579,8 +19356,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S01520.4.3.10.2">
-                     <label xml:id="S01520.4.3.10.2_lbl_1_is_2"
-                            rend="size(large) align(center) pad(brl)">ב<am rend="geresh">׳</am>
+                     <label xml:id="S01520.4.3.10.2_lbl_1_is_2" rend="size(large) align(center) pad(brl)">ב<am rend="geresh">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.2.00100">גט</w>
                      <w xml:id="S01520.4.3.10.2.00200">פשוט</w>
@@ -19650,8 +19426,7 @@
                      <w xml:id="S01520.4.3.10.2.05300">משנים</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="3"/>
-                     <label xml:id="S01520.4.3.10.2_lbl_2_is_3"
-                            rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.2_lbl_2_is_3" rend="size(large) align(center) pad(brl)">ג<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.2.05400">כתוב</w>
                      <w xml:id="S01520.4.3.10.2.05500">בו</w>
@@ -19689,8 +19464,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.3">
                      <milestone unit="MSMishnah" n="4"/>
-                     <label xml:id="S01520.4.3.10.3_lbl_1_is_4"
-                            rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.3_lbl_1_is_4" rend="size(large) align(left) pad(brl)">ד<am rend="overdot">׳</am>
                      </label>
                      <lb n="16"/>
                      <w xml:id="S01520.4.3.10.3.00100">כותבין</w>
@@ -19721,8 +19495,7 @@
                      <w xml:id="S01520.4.3.10.3.02400">השכר</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="5"/>
-                     <label xml:id="S01520.4.3.10.3_lbl_2_is_5"
-                            rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.3_lbl_2_is_5" rend="size(large) align(center) pad(brl)">ה<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.3.02500">כותבין</w>
                      <w xml:id="S01520.4.3.10.3.02600">שטר</w>
@@ -19749,8 +19522,7 @@
                      <w xml:id="S01520.4.3.10.3.04400">השכר</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01520.4.3.10.3_lbl_3_is_6"
-                            rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.3_lbl_3_is_6" rend="size(large) align(center) pad(brl)">ו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.3.04500">כותבין</w>
                      <w xml:id="S01520.4.3.10.3.04600">שטר</w>
@@ -19778,8 +19550,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.4">
                      <milestone unit="MSMishnah" n="7"/>
-                     <label xml:id="S01520.4.3.10.4_lbl_1_is_7"
-                            rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.4_lbl_1_is_7" rend="size(large) align(center) pad(brl)">ז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.4.00100">אין</w>
                      <w xml:id="S01520.4.3.10.4.00200">כות<c rend="superscript">בין</c>
@@ -19852,8 +19623,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.5">
                      <milestone unit="MSMishnah" n="8"/>
-                     <label xml:id="S01520.4.3.10.5_lbl_1_is_8"
-                            rend="size(large) align(center) pad(brl)">ח<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.5_lbl_1_is_8" rend="size(large) align(center) pad(brl)">ח<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.5.00100">מי</w>
                      <w xml:id="S01520.4.3.10.5.00200">שפרע</w>
@@ -19926,8 +19696,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.6">
                      <milestone unit="MSMishnah" n="9"/>
-                     <label xml:id="S01520.4.3.10.6_lbl_1_is_9"
-                            rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.6_lbl_1_is_9" rend="size(large) align(center) pad(brl)">ט<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.6.00100">מי</w>
                      <w xml:id="S01520.4.3.10.6.00200">שנמחק</w>
@@ -19965,8 +19734,7 @@
                      <w xml:id="S01520.4.3.10.6.02500">עדיו</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="10"/>
-                     <label xml:id="S01520.4.3.10.6_lbl_2_is_10"
-                            rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.6_lbl_2_is_10" rend="size(large) align(center) pad(brl)">י<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.6.02600">מי</w>
                      <w xml:id="S01520.4.3.10.6.02700">שפרע</w>
@@ -20048,8 +19816,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.7">
                      <milestone unit="MSMishnah" n="11"/>
-                     <label xml:id="S01520.4.3.10.7_lbl_1_is_11"
-                            rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.7_lbl_1_is_11" rend="size(large) align(center) pad(brl)">יא<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.7.00100">שני</w>
                      <w xml:id="S01520.4.3.10.7.00200">אחים</w>
@@ -20097,8 +19864,7 @@
                      <w xml:id="S01520.4.3.10.7.03400">הבד</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="12"/>
-                     <label xml:id="S01520.4.3.10.7_lbl_2_is_12"
-                            rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.7_lbl_2_is_12" rend="size(large) align(center) pad(brl)">יב<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.7.03500">שנים</w>
                      <w xml:id="S01520.4.3.10.7.03600">שהיו</w>
@@ -20165,8 +19931,7 @@
                      <w xml:id="S01520.4.3.10.7.08700">כהן</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="13"/>
-                     <label xml:id="S01520.4.3.10.7_lbl_3_is_13"
-                            rend="size(large) align(left) pad(brl)">יג<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.7_lbl_3_is_13" rend="size(large) align(left) pad(brl)">יג<am rend="overdot">׳</am>
                      </label>
                      <lb n="7"/>
                      <w xml:id="S01520.4.3.10.7.08800">
@@ -20203,8 +19968,7 @@
                      <w xml:id="S01520.4.3.10.7.11000">פרוע</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="14"/>
-                     <label xml:id="S01520.4.3.10.7_lbl_4_is_14"
-                            rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.7_lbl_4_is_14" rend="size(large) align(center) pad(brl)">יד<am rend="overdot">׳</am>
                      </label>
                      <lb n="10"/>
                      <w xml:id="S01520.4.3.10.7.11100">המלוה</w>
@@ -20262,8 +20026,7 @@
                      <w xml:id="S01520.4.3.10.7.14700">הערב</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="15"/>
-                     <label xml:id="S01520.4.3.10.7_lbl_5_is_15"
-                            rend="size(large) align(center) pad(brl)">טו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.7_lbl_5_is_15" rend="size(large) align(center) pad(brl)">טו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.7.14800">כיוצא</w>
                      <w xml:id="S01520.4.3.10.7.14900">בו</w>
@@ -20305,8 +20068,7 @@
                   </ab>
                   <ab xml:id="S01520.4.3.10.8">
                      <milestone unit="MSMishnah" n="16"/>
-                     <label xml:id="S01520.4.3.10.8_lbl_1_is_16"
-                            rend="size(large) align(center) pad(brl)">יו<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.8_lbl_1_is_16" rend="size(large) align(center) pad(brl)">יו<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.8.00100">המלוה</w>
                      <w xml:id="S01520.4.3.10.8.00200">את</w>
@@ -20373,8 +20135,7 @@
                      <w xml:id="S01520.4.3.10.8.04500">חורין</w>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <milestone unit="MSMishnah" n="17"/>
-                     <label xml:id="S01520.4.3.10.8_lbl_2_is_17"
-                            rend="size(large) align(center) pad(brl)">יז<am rend="overdot">׳</am>
+                     <label xml:id="S01520.4.3.10.8_lbl_2_is_17" rend="size(large) align(center) pad(brl)">יז<am rend="overdot">׳</am>
                      </label>
                      <w xml:id="S01520.4.3.10.8.04600">
                         <choice>

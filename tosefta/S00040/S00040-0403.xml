@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.4.3"
-      n="Bava_Batra">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.4.3" n="Bava_Batra">
   <div3 xml:id="S00040.4.3.1">
       <ab xml:id="S00040.4.3.1.1">
          <w xml:id="S00040.4.3.1.1.1">לא</w>
@@ -991,10 +987,7 @@
          <w xml:id="S00040.4.3.2.9.30">שניה</w>
          <w xml:id="S00040.4.3.2.9.31">הרי</w>
          <w xml:id="S00040.4.3.2.9.32">ביד<delSpan spanTo="#S00400.tt26679" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt26680"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt26680" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.4.3.2.9.33">
             <anchor xml:id="wit.tt26680" type="gap"/>

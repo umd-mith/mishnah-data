@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S08665">
    <teiHeader>
         <fileDesc>
@@ -97,10 +95,7 @@
                             <w xml:id="S08665.4.8.4.9.01900">בטומאה</w>
                             <w xml:id="S08665.4.8.4.9.02000">לא</w>
                             <w xml:id="S08665.4.8.4.9.02100">לש<damageSpan type="damage" spanTo="#d36e93"/>
-                                <damageSpan type="unclear"
-                                    spanTo="#d36e94"
-                                    subtype="orth"
-                                    exclude="#S08665.4.8.4.9.waw #S08665.4.8.4.9.yod"/>
+                                <damageSpan type="unclear" spanTo="#d36e94" subtype="orth" exclude="#S08665.4.8.4.9.waw #S08665.4.8.4.9.yod"/>
                                 <c xml:id="S08665.4.8.4.9.waw">ו</c>
                                 <c xml:id="S08665.4.8.4.9.yod">י</c>
                                 <anchor xml:id="d36e94" type="unclear"/>
@@ -414,10 +409,7 @@
                             </w>
                             <w xml:id="S08665.4.8.5.2.01400">מ<damageSpan type="damage" spanTo="#d36e291"/>ע<anchor xml:id="d36e291" type="damage"/>שה</w>
                             <w xml:id="S08665.4.8.5.2.01500">בבית<damageSpan type="damage" spanTo="#d36e295"/>
-                                <damageSpan type="unclear"
-                                    spanTo="#d36e296"
-                                    subtype="orth"
-                                    exclude="#S08665.4.8.5.2.final-mem #S08665.4.8.5.5.samekh"/>
+                                <damageSpan type="unclear" spanTo="#d36e296" subtype="orth" exclude="#S08665.4.8.5.2.final-mem #S08665.4.8.5.5.samekh"/>
                                 <c xml:id="S08665.4.8.5.2.final-mem">ם</c>
                                 <c xml:id="S08665.4.8.5.2.samekh">ס</c>
                                 <anchor xml:id="d36e296" type="unclear"/>
@@ -1045,10 +1037,7 @@
                             <w xml:id="S08665.4.9.1.1.01600">הן</w>
                             <w xml:id="S08665.4.9.1.1.01700">אמרו</w>
                             <w xml:id="S08665.4.9.1.1.01800">
-                                <addSpan spanTo="#d36e695"
-                                 place="margin-right"
-                                 hand="2h"
-                                 rend="raised-circle"/>שלשה<anchor xml:id="d36e695" type="add"/>
+                                <addSpan spanTo="#d36e695" place="margin-right" hand="2h" rend="raised-circle"/>שלשה<anchor xml:id="d36e695" type="add"/>
                             </w>
                             <w xml:id="S08665.4.9.1.1.01900">ש<damageSpan type="damage" spanTo="#d36e698"/>ל<anchor xml:id="d36e698" type="damage"/>שה</w>
                             <w xml:id="S08665.4.9.1.1.02000">
@@ -1347,10 +1336,7 @@
                             </w>
                             <w xml:id="S08665.4.9.1.8.01400">א<anchor xml:id="d36e911" type="damage"/>ל</w>
                             <w xml:id="S08665.4.9.1.8.01500">תעש</w>
-                            <w xml:id="S08665.4.9.1.8.01600">עצמ<damageSpan type="unclear"
-                                    spanTo="#d36e922"
-                                    subtype="orth"
-                                    exclude="#S08665.4.9.1.8.final-nun #S08665.4.9.1.8.final-kaph"/>
+                            <w xml:id="S08665.4.9.1.8.01600">עצמ<damageSpan type="unclear" spanTo="#d36e922" subtype="orth" exclude="#S08665.4.9.1.8.final-nun #S08665.4.9.1.8.final-kaph"/>
                                 <c xml:id="S08665.4.9.1.8.final-nun">ן</c>
                                 <c xml:id="S08665.4.9.1.8.final-kaph">ך</c>
                                 <anchor xml:id="d36e922" type="unclear"/>
@@ -1614,11 +1600,7 @@
                             <w xml:id="S08665.4.9.1.15.01100">תרבה</w>
                             <w xml:id="S08665.4.9.1.15.01200">לעשר</w>
                             <w xml:id="S08665.4.9.1.15.01300">
-                                <span type="seg" to="#d36e1109"/>עומ<delSpan spanTo="#d36e1111"
-                                 extent="3"
-                                 unit="chars"
-                                 hand="2h"
-                                 rend="overwritten"/>
+                                <span type="seg" to="#d36e1109"/>עומ<delSpan spanTo="#d36e1111" extent="3" unit="chars" hand="2h" rend="overwritten"/>
                                 <anchor xml:id="d36e1111" type="del"/>
                                 <addSpan spanTo="#d36e1112" hand="2h" rend="overwritten"/>דו<c rend="size(large)">ת</c>
                                 <anchor xml:id="d36e1112" type="add"/>
@@ -1657,11 +1639,7 @@
                             <w xml:id="S08665.4.9.1.16.02300">דברים</w>
                             <w xml:id="S08665.4.9.1.16.02400">מביא</w>
                             <w xml:id="S08665.4.9.1.16.02500">
-                                <span type="seg" to="#d36e1137"/>חט<delSpan spanTo="#d36e1139"
-                                 extent="3"
-                                 unit="chars"
-                                 hand="2h"
-                                 rend="rubbed"/>
+                                <span type="seg" to="#d36e1137"/>חט<delSpan spanTo="#d36e1139" extent="3" unit="chars" hand="2h" rend="rubbed"/>
                                 <anchor xml:id="d36e1139" type="del"/>
                                 <addSpan spanTo="#d36e1140" hand="2h" rend="overwritten"/>
                                 <c rend="size(large)">א</c>

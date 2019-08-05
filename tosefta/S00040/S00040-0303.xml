@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.3.3"
-      n="Nedarim">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.3.3" n="Nedarim">
   <div3 xml:id="S00040.3.3.1">
       <ab xml:id="S00040.3.3.1.1">
          <w xml:id="S00040.3.3.1.1.1">האומ'</w>
@@ -2829,10 +2825,7 @@
          <w xml:id="S00040.3.3.6.5.178">דין</w>
          <w xml:id="S00040.3.3.6.5.179">אחר</w>
          <w xml:id="S00040.3.3.6.5.180">ומ<delSpan spanTo="#S00400.tt18322" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt18323"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt18323" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.3.3.6.5.181">
             <anchor xml:id="wit.tt18323" type="gap"/>

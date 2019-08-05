@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.5.4"
-      n="Bekhorot">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.5.4" n="Bekhorot">
   <div3 xml:id="S00040.5.4.1">
       <ab xml:id="S00040.5.4.1.1">
          <w xml:id="S00040.5.4.1.1.1">הלוקח</w>
@@ -2431,10 +2427,7 @@
          <w xml:id="S00040.5.4.4.4.47">פעמים</w>
          <w xml:id="S00040.5.4.4.4.48">בתוך</w>
          <delSpan spanTo="#S00400.tt35133" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt35134"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt35134" type="gap" extent="CHECKME" unit="chars"/>
          <anchor xml:id="wit.tt35134" type="gap"/>
          <anchor xml:id="wit.tt35133" type="del"/>
          <w xml:id="S00040.5.4.4.4.49">שלשים</w>
@@ -3568,10 +3561,7 @@
          <w xml:id="S00040.5.4.6.8.45">בנכסי</w>
          <w xml:id="S00040.5.4.6.8.46">אביהן</w>
          <w xml:id="S00040.5.4.6.8.47">פ<delSpan spanTo="#S00400.tt35172" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt35173"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt35173" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.5.4.6.8.48">
             <anchor xml:id="wit.tt35173" type="gap"/>
@@ -4536,10 +4526,7 @@
          <w xml:id="S00040.5.4.7.10.28">כולן</w>
          <w xml:id="S00040.5.4.7.10.29">ימותו</w>
          <delSpan spanTo="#S00400.tt35195" hand="#h2"/>
-         <damageSpan spanTo="#S00400.tt35196"
-                     type="gap"
-                     extent="CHECKME"
-                     unit="chars"/>
+         <damageSpan spanTo="#S00400.tt35196" type="gap" extent="CHECKME" unit="chars"/>
          <anchor xml:id="wit.tt35196" type="gap"/>
          <anchor xml:id="wit.tt35195" type="del"/>
          <w xml:id="S00040.5.4.7.10.30">היה</w>

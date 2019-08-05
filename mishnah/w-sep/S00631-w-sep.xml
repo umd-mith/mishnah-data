@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
         <fileDesc>
@@ -78,10 +77,7 @@
       <body>
             <div1 type="order" subtype="order" xml:id="S00631.2">
                 <div2 type="tractate" subtype="tractate" xml:id="S00631.2.4">
-               <div3 n="Chapter1"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.1">
+               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="S00631.2.4.1">
                   <pb xml:id="S00631.128v" n="128v"/>
                   <lb xml:id="S00631.128v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.1.1">
@@ -820,10 +816,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.134r.03.d6e1627" reason="talmud" extent="999"/>
-               <div3 n="Chapter2"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.2">
+               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="S00631.2.4.2">
                   <pb xml:id="S00631.134v" n="134v"/>
                   <lb xml:id="S00631.134v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.2.1">
@@ -1476,10 +1469,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.136r.14.d6e2859" reason="talmud" extent="999"/>
-               <div3 n="Chapter3"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.3">
+               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="S00631.2.4.3">
                   <pb xml:id="S00631.139r" n="139r"/>
                   <lb xml:id="S00631.139r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.3.1">
@@ -1973,10 +1963,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.139r.21.d6e3889" reason="talmud" extent="999"/>
-               <div3 n="Chapter4"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.4">
+               <div3 n="Chapter4" type="chapter" subtype="chapter" xml:id="S00631.2.4.4">
                   <pb xml:id="S00631.142r" n="142r"/>
                   <lb xml:id="S00631.142r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.4.1">
@@ -3147,10 +3134,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.145r.19.d6e6014" reason="talmud" extent="999"/>
-               <div3 n="Chapter5"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.5">
+               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="S00631.2.4.5">
                   <pb xml:id="S00631.147r" n="147r"/>
                   <lb xml:id="S00631.147r.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.5.1">
@@ -3620,10 +3604,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.147v.17.d6e7191" reason="talmud" extent="999"/>
-               <div3 n="Chapter6"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.6">
+               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="S00631.2.4.6">
                   <pb xml:id="S00631.150v" n="150v"/>
                   <lb xml:id="S00631.150v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.6.1">
@@ -4280,10 +4261,7 @@
                      <anchor xml:id="S00631.151r.11.d5d3e3885" type="del"/>
                      <addSpan spanTo="#S00631.151r.11.d5d3e3889" hand="#h2"/>
                      <damageSpan type="damage" spanTo="#S00631.151r.11.d5d3e3890"/>
-                     <damageSpan type="unclear"
-                                 spanTo="#S00631.151r.11.d5d3e3891"
-                                 subtype="damage"
-                                 extent="1"/>
+                     <damageSpan type="unclear" spanTo="#S00631.151r.11.d5d3e3891" subtype="damage" extent="1"/>
                      <w xml:id="S00631.2.4.6.6.03100">עורות</w>
                      <anchor xml:id="S00631.151r.11.d5d3e3889" type="add"/>
                      <w xml:id="S00631.2.4.6.6.03200">לכהנים</w>
@@ -4383,10 +4361,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.151r.14.d6e8822" reason="talmud" extent="999"/>
-               <div3 n="Chapter7"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.7">
+               <div3 n="Chapter7" type="chapter" subtype="chapter" xml:id="S00631.2.4.7">
                   <pb xml:id="S00631.154v" n="154v"/>
                   <lb xml:id="S00631.154v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.7.1">
@@ -5027,10 +5002,7 @@
                   </ab>
                </div3> 
                <gap xml:id="S00631.155r.09.d6e10052" reason="talmud" extent="999"/>
-               <div3 n="Chapter8"
-                     type="chapter"
-                     subtype="chapter"
-                     xml:id="S00631.2.4.8">
+               <div3 n="Chapter8" type="chapter" subtype="chapter" xml:id="S00631.2.4.8">
                   <pb xml:id="S00631.156v" n="156v"/>
                   <lb xml:id="S00631.156v.01" n="1"/>
                   <ab type="textpart" subtype="mishnah" xml:id="S00631.2.4.8.1">

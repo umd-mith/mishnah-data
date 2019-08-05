@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="S07204">
    <teiHeader>
       <fileDesc>
@@ -418,8 +416,7 @@
                      <space extent="7" unit="chars"/>
                      <lb n="9"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.1.T"
-                           rend="(larger) size(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.1.T" rend="(larger) size(b)                      ornamented()">
                      <w xml:id="S07204.4.1.1.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.1.T.00200">פירקא</w>
                   </trailer>
@@ -1095,16 +1092,8 @@
                      <lb n="14"/>
                      <w xml:id="S07204.4.1.2.5.07500">חצי</w>
                      <w xml:id="S07204.4.1.2.5.07600">
-                        <damageSpan type="unclear"
-                                    spanTo="#d26e961"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
-                        <anchor xml:id="d26e961" type="unclear"/>מ<damageSpan type="unclear"
-                                    spanTo="#d26e964"
-                                    subtype="damage"
-                                    unit="chars"
-                                    extent="1"/>
+                        <damageSpan type="unclear" spanTo="#d26e961" subtype="damage" unit="chars" extent="1"/>
+                        <anchor xml:id="d26e961" type="unclear"/>מ<damageSpan type="unclear" spanTo="#d26e964" subtype="damage" unit="chars" extent="1"/>
                         <anchor xml:id="d26e964" type="unclear"/>
                      </w>
                      <w xml:id="S07204.4.1.2.5.07700">נזק</w>
@@ -1251,8 +1240,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="6"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.2.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.2.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.2.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.2.T.00200">פירקא</w>
                   </trailer>
@@ -1398,11 +1386,7 @@
                      <lb n="21"/>
                      <w xml:id="S07204.4.1.3.2.02200">הרבים</w>
                      <w xml:id="S07204.4.1.3.2.02300">והוזק</w>
-                     <damageSpan type="unclear"
-                                 spanTo="#d26e1197"
-                                 subtype="damage"
-                                 unit="chars"
-                                 extent="3"/>
+                     <damageSpan type="unclear" spanTo="#d26e1197" subtype="damage" unit="chars" extent="3"/>
                      <anchor xml:id="d26e1197" type="unclear"/>
                      <w xml:id="S07204.4.1.3.2.02400">בהן</w>
                      <w xml:id="S07204.4.1.3.2.02500">אחד</w>
@@ -2513,8 +2497,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="30"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.3.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.3.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.3.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.3.T.00200">פירקא</w>
                   </trailer>
@@ -3530,8 +3513,7 @@
                      </surplus>
                      <lb n="27"/>
                      <w xml:id="S07204.4.1.5.1.00100">
-                        <c xml:id="S07204.4.1.5.H"
-                           rend="size(large) pad(t)                            ornamented()">שורשנגח</c>
+                        <c xml:id="S07204.4.1.5.H" rend="size(large) pad(t)                            ornamented()">שורשנגח</c>
                      </w>
                      <surplus xml:id="S07204.d26e9147" reason="fill">?</surplus>
                      <lb n="28"/>
@@ -4057,10 +4039,7 @@
                      <pb xml:id="S07204.280v" n="280v" type="1-col"/>
                   </ab>
                   <ab xml:id="S07204.4.1.5.5">
-                     <milestone unit="seg"
-                           resp="ref.xml#eds"
-                           xml:id="S07204.4.1.5.5.transpSeg1"
-                           spanTo="#d26e3429"/>
+                     <milestone unit="seg" resp="ref.xml#eds" xml:id="S07204.4.1.5.5.transpSeg1" spanTo="#d26e3429"/>
                      <lb n="1"/>
                      <w xml:id="S07204.4.1.5.5.00100">החופר</w>
                      <w xml:id="S07204.4.1.5.5.00200">בור</w>
@@ -4112,10 +4091,7 @@
                      </w>
                      <pc type="stop" rend="gershayyim">.</pc>
                      <anchor xml:id="d26e3429" type="seg"/>
-                     <milestone unit="seg"
-                           resp="ref.xml#eds"
-                           xml:id="S07204.4.1.5.5.transpSeg2"
-                           spanTo="#d26e3478"/>
+                     <milestone unit="seg" resp="ref.xml#eds" xml:id="S07204.4.1.5.5.transpSeg2" spanTo="#d26e3478"/>
                      <lb n="8"/>
                      <w xml:id="S07204.4.1.5.5.02100">החופר</w>
                      <w xml:id="S07204.4.1.5.5.02200">בור</w>
@@ -4486,9 +4462,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="23"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.5.T"
-                           n=""
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.5.T" n="" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.5.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.5.T.00200">פירקא</w>
                   </trailer>
@@ -5458,8 +5432,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="26"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.6.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.6.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.6.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.6.T.00200">פירקא</w>
                   </trailer>
@@ -6317,8 +6290,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="5"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.7.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.7.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.7.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.7.T.00200">פירקא</w>
                   </trailer>
@@ -7396,8 +7368,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="19"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.8.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.8.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.8.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.8.T.00200">פירקא</w>
                   </trailer>
@@ -8557,8 +8528,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="20"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.9.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.9.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.9.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.9.T.00200">פירקא</w>
                   </trailer>
@@ -9650,8 +9620,7 @@
                      </w>
                      <lb n="26"/>
                   </ab>
-                  <trailer xml:id="S07204.4.1.10.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.1.10.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.1.10.T.00100">סליק</w>
                      <w xml:id="S07204.4.1.10.T.00200">פירקא</w>
                   </trailer>
@@ -10038,10 +10007,7 @@
                      <w xml:id="S07204.4.2.1.2.03300">מחציה</w>
                      <w xml:id="S07204.4.2.1.2.03400">ויחלוקו</w>
                      <surplus xml:id="S07204.d26e25832" reason="fill">ו</surplus>
-                     <addSpan spanTo="#d26e8643"
-                              hand="#h2"
-                              place="margin-left"
-                              rend="insertionMark"/>
+                     <addSpan spanTo="#d26e8643" hand="#h2" place="margin-left" rend="insertionMark"/>
                      <w xml:id="S07204.4.2.1.2.03500">אימתי</w>
                      <w xml:id="S07204.4.2.1.2.03600">בזמן</w>
                      <lb/>
@@ -10973,8 +10939,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="12"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.1.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.1.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.1.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.1.T.00200">פירקא</w>
                   </trailer>
@@ -13550,8 +13515,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="33"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.2.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.2.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.2.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.2.T.00200">פירקא</w>
                   </trailer>
@@ -15984,8 +15948,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="16"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.3.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.3.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.3.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.3.T.00200">פירקא</w>
                   </trailer>
@@ -18546,8 +18509,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="20"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.4.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.4.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.4.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.4.T.00200">פירקא</w>
                   </trailer>
@@ -21043,8 +21005,7 @@
                      </w>
                      <lb n="26"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.5.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.5.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.5.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.5.T.00200">פירקא</w>
                   </trailer>
@@ -22335,8 +22296,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="9"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.6.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.6.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.6.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.6.T.00200">פירקא</w>
                   </trailer>
@@ -24325,8 +24285,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="20"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.7.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.7.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.7.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.7.T.00200">פירקא</w>
                   </trailer>
@@ -26696,8 +26655,7 @@
                      <w xml:id="S07204.4.2.8.9.03200">שניהן</w>
                      <lb n="31"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.8.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.8.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.8.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.8.T.00200">פירקא</w>
                   </trailer>
@@ -28999,8 +28957,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="23"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.9.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.9.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.9.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.9.T.00200">פירקא</w>
                   </trailer>
@@ -30658,8 +30615,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="26"/>
                   </ab>
-                  <trailer xml:id="S07204.4.2.10.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.2.10.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.2.10.T.00100">סליק</w>
                      <w xml:id="S07204.4.2.10.T.00200">פירקא</w>
                   </trailer>
@@ -31994,8 +31950,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="6"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.1.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.1.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.1.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.1.T.00200">פירקא</w>
                   </trailer>
@@ -34789,8 +34744,7 @@
                      <pc type="unitEnd" rend="geresh">:</pc>
                      <lb n="4"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.2.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.2.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.2.T.00100">סheadליק</w>
                      <w xml:id="S07204.4.3.2.T.00200">פירקא</w>
                   </trailer>
@@ -37165,8 +37119,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="30"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.3.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.3.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.3.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.3.T.00200">פירקא</w>
                   </trailer>
@@ -39136,8 +39089,7 @@
                      <pc type="unitEnd" rend="other">:</pc>
                      <lb n="22"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.4.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.4.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.4.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.4.T.00200">פירקא</w>
                   </trailer>
@@ -41334,8 +41286,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="13"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.5.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.5.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.5.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.5.T.00200">פירקא</w>
                   </trailer>
@@ -43216,8 +43167,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="37"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.6.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.6.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.6.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.6.T.00200">פירקא</w>
                   </trailer>
@@ -43456,9 +43406,7 @@
                         </choice>
                      </w>
                      <w xml:id="S07204.4.3.7.1.04600">
-                        <delSpan spanTo="#d26e42412"
-                                 hand="#h2"
-                                 rend="deletion                            mark"/>או</w>
+                        <delSpan spanTo="#d26e42412" hand="#h2" rend="deletion                            mark"/>או</w>
                      <w xml:id="S07204.4.3.7.1.04700">
                         <choice>
                            <abbr>סלעי<am rend="overmark">׳</am>
@@ -44196,8 +44144,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="36"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.7.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.7.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.7.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.7.T.00200">פירקא</w>
                   </trailer>
@@ -45868,8 +45815,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="24"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.8.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.8.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.8.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.8.T.00200">פירקא</w>
                   </trailer>
@@ -47946,8 +47892,7 @@
                      <pc type="unitEnd" rend="geresh">:</pc>
                      <lb n="28"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.9.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.9.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.9.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.9.T.00200">פירקא</w>
                   </trailer>
@@ -50573,8 +50518,7 @@
                      <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="21"/>
                   </ab>
-                  <trailer xml:id="S07204.4.3.10.T"
-                           rend="size(large) pad(b)                      ornamented()">
+                  <trailer xml:id="S07204.4.3.10.T" rend="size(large) pad(b)                      ornamented()">
                      <w xml:id="S07204.4.3.10.T.00100">סליק</w>
                      <w xml:id="S07204.4.3.10.T.00200">פירקא</w>
                   </trailer>

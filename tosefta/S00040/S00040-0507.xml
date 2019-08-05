@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div2 xmlns="http://www.tei-c.org/ns/1.0"
-      xmlns:xi="http://www.w3.org/2001/XInclude"
-      xml:id="S00040.5.7"
-      n="Meilah">
+<div2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="S00040.5.7" n="Meilah">
   <div3 xml:id="S00040.5.7.1">
       <ab xml:id="S00040.5.7.1.1">
          <w xml:id="S00040.5.7.1.1.1">ר'</w>
@@ -1668,10 +1664,7 @@
          <w xml:id="S00040.5.7.2.6.55">שליחותו</w>
          <w xml:id="S00040.5.7.2.6.56">הקדיש</w>
          <w xml:id="S00040.5.7.2.6.57">ב<delSpan spanTo="#S00400.tt35667" hand="#h2"/>
-            <damageSpan spanTo="#S00400.tt35668"
-                        type="gap"
-                        extent="CHECKME"
-                        unit="chars"/>
+            <damageSpan spanTo="#S00400.tt35668" type="gap" extent="CHECKME" unit="chars"/>
          </w>
          <w xml:id="S00040.5.7.2.6.58">
             <anchor xml:id="wit.tt35668" type="gap"/>
