@@ -239,7 +239,8 @@
                <div3 xml:id="P000308214.1.1.2" n="Chapter2" type="textpart" subtype="chapter">
                   <pb n="8v" xml:id="P000308214.8v"/>
                   <lb n="3"/>
-                  <ab xml:id="P000308214.1.1.2.1" type="textpart" subtype="mishnah">פרק היה קורא
+                          <head xml:id="P000308214.1.1.2.H">פרק היה קורא</head>
+                  <ab xml:id="P000308214.1.1.2.1" type="textpart" subtype="mishnah">
                      <lb n="4"/> היה קורא בתורה והגיע זמן המקרא אם כיון
                      <lb n="5"/> לבו יצא בפרקים שואל מפני הכבוד ומשיב
                      <lb n="6"/> ובאמצע שואל מפני היראה ומשיב דברי רבי מאיר
@@ -403,7 +404,8 @@
                <div3 xml:id="P000308214.1.1.3" n="Chapter3" type="textpart" subtype="chapter">
                   <pb n="21r" xml:id="P000308214.21r"/>
                   <lb n="1"/>
-                  <ab xml:id="P000308214.1.1.3.1" type="textpart" subtype="mishnah">פרק מי שמתו
+                          <head xml:id="P000308214.1.1.3.H">פרק מי שמתו</head>
+                  <ab xml:id="P000308214.1.1.3.1" type="textpart" subtype="mishnah">
                      <lb n="2"/> מי שמתו מוטל לפניו פטור מן קריאת שמע
                      <lb n="3"/> ומן התפלה ומן התפלין נושאי המטה
                      <lb n="4"/> וחלופיהן וחלופי חלופיהן את שלפני המטה
@@ -477,7 +479,8 @@
                <div3 xml:id="P000308214.1.1.4" n="Chapter4" type="textpart" subtype="chapter">
                   <pb n="31v" xml:id="P000308214.31v"/>
                   <lb n="1"/>
-                  <ab xml:id="P000308214.1.1.4.1" type="textpart" subtype="mishnah">פרק תפלת השחר
+                          <head xml:id="P000308214.1.1.4.H">פרק תפלת השחר</head>
+                  <ab xml:id="P000308214.1.1.4.1" type="textpart" subtype="mishnah">
                      <lb n="2"/> תפלת השחר עד חצות <choice>
                         <abbr>ר<am>׳</am>
                                 </abbr>
@@ -571,7 +574,8 @@
                <div3 xml:id="P000308214.1.1.5" n="Chapter5" type="textpart" subtype="chapter">
                   <pb n="37r" xml:id="P000308214.37r"/>
                   <lb n="19"/>
-                  <ab xml:id="P000308214.1.1.5.1" type="textpart" subtype="mishnah">פרק אין עומדין
+                          <head xml:id="P000308214.1.1.5.H" >פרק אין עומדין</head>
+                  <ab xml:id="P000308214.1.1.5.1" type="textpart" subtype="mishnah">
                      <lb n="20"/> אין עומדין להתפלל אלא מתוך כובד ראש
                      <lb n="21"/> חסידים הראשונים היו שוהין שעה אחת
                      <lb n="22"/> ומתפללים כדי שיכוונו לבם למקום אפילו המלך
@@ -646,7 +650,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.1.6" n="Chapter6" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.1.6.1" type="textpart" subtype="mishnah">פרק כיצד מברכין
+                          <head xml:id="P000308214.1.1.6.H">פרק כיצד מברכין</head>
+                  <ab xml:id="P000308214.1.1.6.1" type="textpart" subtype="mishnah">
                      <lb n="13"/> כיצד מברכין על <choice>
                         <abbr>הפירו<am>׳</am>
                                 </abbr>
@@ -763,7 +768,8 @@
                <div3 xml:id="P000308214.1.1.7" n="Chapter7" type="textpart" subtype="chapter">
                   <pb n="49v" xml:id="P000308214.49v"/>
                   <lb n="7"/>
-                  <ab xml:id="P000308214.1.1.7.1" type="textpart" subtype="mishnah">פרק שלשה שאכלו
+                          <head xml:id="P000308214.1.1.7.H">פרק שלשה שאכלו</head>
+                  <ab xml:id="P000308214.1.1.7.1" type="textpart" subtype="mishnah">
                      <lb n="8"/> שלשה שאכלו כאחת חייבין לזמן אכל דמאי
                      <lb n="9"/> ומעשר ראשון <choice>
                         <abbr>שנטל<am>׳</am>
@@ -868,7 +874,8 @@
                <div3 xml:id="P000308214.1.1.8" n="Chapter8" type="textpart" subtype="chapter">
                   <pb n="54v" xml:id="P000308214.54v"/>
                   <lb n="10"/>
-                  <ab xml:id="P000308214.1.1.8.1" type="textpart" subtype="mishnah">פרק אלו דברים
+                          <head xml:id="P000308214.1.1.8.H">פרק אלו דברים</head>
+                  <ab xml:id="P000308214.1.1.8.1" type="textpart" subtype="mishnah">
                      <lb n="11"/> אלו דברים שבין בית שמאי ובין בית הלל
                      <lb n="12"/> בסעודה בית שמאי אומרים מברך על
                      <lb n="13"/> היום ואחר כך מברך על היין ובית הלל אומרים
@@ -966,7 +973,8 @@
                <div3 xml:id="P000308214.1.1.9" n="Chapter9" type="textpart" subtype="chapter">
                   <pb n="60v" xml:id="P000308214.60v"/>
                   <lb n="1"/>
-                  <ab xml:id="P000308214.1.1.9.1" type="textpart" subtype="mishnah">פרק הרואה
+                          <head xml:id="P000308214.1.1.9.H">פרק הרואה</head>
+                  <ab xml:id="P000308214.1.1.9.1" type="textpart" subtype="mishnah">
                      <lb n="2"/> הרואה <choice>
                         <abbr>מקו<am>׳</am>
                                 </abbr>
@@ -1247,7 +1255,8 @@
                <div3 xml:id="P000308214.1.2.2" n="Chapter2" type="textpart" subtype="chapter">
                   <pb n="73v" xml:id="P000308214.73v"/>
                   <lb n="14"/>
-                  <ab xml:id="P000308214.1.2.2.1" type="textpart" subtype="mishnah">פרק ואלו מפסיקין
+                          <head xml:id="P000308214.1.2.2.H" >פרק ואלו מפסיקין</head>
+                  <ab xml:id="P000308214.1.2.2.1" type="textpart" subtype="mishnah">
                      <lb n="15"/> ואלו מפסיקין לפאה הנחל והשלולית דרך
                      <lb n="16"/> היחיד ודרך הרבים ושביל הרבים ושביל
                      <lb n="17"/> הי<damage>
@@ -1461,7 +1470,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.2.3" n="Chapter3" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.2.3.1" type="textpart" subtype="mishnah">פרק מלבנות
+                          <head xml:id="P000308214.1.2.3.H" >פרק מלבנות</head>
+                  <ab xml:id="P000308214.1.2.3.1" type="textpart" subtype="mishnah">
                      <lb n="28"/> מתניתין מלבנות התבואה שבין הזתים בית
                      <lb n="29"/> שמאי <choice>
                         <abbr>אומרי<am>׳</am>
@@ -1714,7 +1724,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.2.4" n="Chapter4" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.2.4.1" type="textpart" subtype="mishnah">פרק הפאה
+                          <head xml:id="P000308214.1.2.4.H">פרק הפאה</head>
+                  <ab xml:id="P000308214.1.2.4.1" type="textpart" subtype="mishnah">
                      <lb n="26"/> הפאה נתנת במחובר לקדקע <choice>
                         <abbr>בדלי<am>׳</am>
                                 </abbr>
@@ -1994,7 +2005,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.2.5" n="Chapter5" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.2.5.1" type="textpart" subtype="mishnah">פרק גדיש
+                          <head xml:id="P000308214.1.2.5.H" >פרק גדיש</head>
+                  <ab xml:id="P000308214.1.2.5.1" type="textpart" subtype="mishnah">
                      <lb n="16"/> גדיש שלא לוקט תחתיו כל הנוגע בארץ הרי
                      <lb n="17"/> הוא של <choice>
                         <abbr>עניי<am>׳</am>
@@ -2235,7 +2247,8 @@
                <div3 xml:id="P000308214.1.2.6" n="Chapter6" type="textpart" subtype="chapter">
                   <pb n="88v" xml:id="P000308214.88v"/>
                   <lb n="1"/>
-                  <ab xml:id="P000308214.1.2.6.1" type="textpart" subtype="mishnah">פרק בית שמאי
+                          <head xml:id="P000308214.1.2.6.H">פרק בית שמאי</head>
+                  <ab xml:id="P000308214.1.2.6.1" type="textpart" subtype="mishnah">
                      <lb n="2"/> בית שמאי אומרים הבקר לענים הבקר <choice>
                         <abbr>וב<am>׳׳</am>ה</abbr>
                         <expan>ובית הלל</expan>
@@ -2804,7 +2817,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.2.7" n="Chapter7" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.2.7.1" type="textpart" subtype="mishnah">פרק כל זית
+                          <head xml:id="P000308214.1.2.7.H">פרק כל זית</head>
+                  <ab xml:id="P000308214.1.2.7.1" type="textpart" subtype="mishnah">
                      <lb n="25"/> כל זית שיש לו שם בשדה אפילו כזית הנטופה
                      <lb n="26"/> בשעתו ושכחו אינו שכחה <choice>
                         <abbr>במד<am>׳׳</am>א</abbr>
@@ -3078,7 +3092,8 @@
                <div3 xml:id="P000308214.1.2.8" n="Chapter8" type="textpart" subtype="chapter">
                   <pb n="99v" xml:id="P000308214.99v"/>
                   <lb n="26"/>
-                  <ab xml:id="P000308214.1.2.8.1" type="textpart" subtype="mishnah">פרק מאימתי
+                          <head xml:id="P000308214.1.2.8.H">פרק מאימתי</head>
+                  <ab xml:id="P000308214.1.2.8.1" type="textpart" subtype="mishnah">
                      <lb n="27"/> מאימתי כל אדם מותרין בלקט משילכו
                      <lb n="28"/> הנמושות בפרט <choice>
                         <abbr>ובעוללו<am>׳</am>
@@ -3555,7 +3570,8 @@
                </div3>
                <gap reason="talmud" extent="999"/>
                <div3 xml:id="P000308214.1.9.2" n="Chapter2" type="textpart" subtype="chapter">
-                  <ab xml:id="P000308214.1.9.2.1" type="textpart" subtype="mishnah">פרק פירות
+                          <head xml:id="P000308214.1.9.2.H" >פרק פירות</head>
+                  <ab xml:id="P000308214.1.9.2.1" type="textpart" subtype="mishnah">
                      <lb n="24"/> פירות <choice>
                         <abbr>ח<am>׳׳</am>ל</abbr>
                         <expan>חוצה לארץ</expan>
@@ -3735,7 +3751,8 @@
                <div3 xml:id="P000308214.1.9.3" n="Chapter3" type="textpart" subtype="chapter">
                   <pb n="165r" xml:id="P000308214.165r"/>
                   <lb n="7"/>
-                  <ab xml:id="P000308214.1.9.3.1" type="textpart" subtype="mishnah">פרק אוכלין
+                          <head xml:id="P000308214.1.9.3.H">פרק אוכלין</head>
+                  <ab xml:id="P000308214.1.9.3.1" type="textpart" subtype="mishnah">
                      <lb n="8"/> אוכלין עראי מן העסה עד שתגלגל בחטים
                      <lb n="9"/>
                      <choice>
@@ -3971,9 +3988,10 @@
                <div3 xml:id="P000308214.1.9.4" n="Chapter4" type="textpart" subtype="chapter">
                   <pb n="171r" xml:id="P000308214.171r"/>
                   <lb n="1"/>
+                          <head xml:id="P000308214.1.9.4.H">פרק שתי נשים</head>
                   <ab xml:id="P000308214.1.9.4.1" type="textpart" subtype="mishnah">
-                            <label>פרק שתי
-                        נשים</label>
+                            
+                        
                      <lb n="2"/> שתי נשים שעשו שני קבין ונגע<damage>
                                 <unclear reason="damage">ו</unclear>
                             </damage> זה בזה
@@ -4462,7 +4480,8 @@
                <div3 xml:id="P000308214.1.10.2" n="Chapter2" type="textpart" subtype="chapter">
                   <pb n="120r" xml:id="P000308214.120r"/>
                   <lb n="11"/>
-                  <ab xml:id="P000308214.1.10.2.1" type="textpart" subtype="mishnah">פרק התרומה
+                       <head xml:id="P000308214.1.10.2.H">פרק התרומה</head>
+                  <ab xml:id="P000308214.1.10.2.1" type="textpart" subtype="mishnah">
                      <lb n="12"/> התרומה ותרומת מעשר של דמאי
                      <lb n="13"/>
                      <surplus>והחלה</surplus>
@@ -4729,7 +4748,8 @@
                <div3 xml:id="P000308214.1.10.3" n="Chapter3" type="textpart" subtype="chapter">
                   <pb n="139r" xml:id="P000308214.139r"/>
                   <lb n="10"/>
-                  <ab xml:id="P000308214.1.10.3.1" type="textpart" subtype="mishnah">פרק בגד
+                       <head xml:id="P000308214.1.10.3.H">פרק בגד</head>
+                  <ab xml:id="P000308214.1.10.3.1" type="textpart" subtype="mishnah">
                      <lb n="11"/> בגד שצבעו בקליפי ערלה ידלק נתערב
                      <lb n="12"/> באחרים כלן ידלקו דברי רבי מאיר
                      <lb n="13"/> וחכמים אומרים יעלו באחד ומאתים<pc unit="unitEnd">׃</pc> </ab>
@@ -5043,7 +5063,8 @@
                <div3 xml:id="P000308214.1.11.2" n="Chapter2" type="textpart" subtype="chapter">
                   <pb n="187r" xml:id="P000308214.187r"/>
                   <lb n="11"/>
-                  <ab xml:id="P000308214.1.11.2.1" type="textpart" subtype="mishnah">פרק התרומה
+                       <head xml:id="P000308214.1.11.2.H">פרק התרומה</head>
+                  <ab xml:id="P000308214.1.11.2.1" type="textpart" subtype="mishnah">
                      <lb n="12"/> מתניתין התרומה והבכורים חייבין עליהם
                      <lb n="13"/> מיתה וחומש ואסורין לזרים והם
                      <lb n="14"/> נכסי כהן ועולין באחד ומאה וטעונים רחיצת ידים
