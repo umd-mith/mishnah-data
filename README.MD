@@ -1,5 +1,9 @@
 # Digital Mishnah
 
+Part of the [Digital Mishnah project](https://github.com/umd-mith/mishnah).
+
+This repository contains TEI data for the project.
+
 The Digital Mishnah Project aims to create a digital critical edition of the Mishnah. This will involve transcribing and encoding major (ideally all) manuscript witnesses to the text of the Mishnah, as well as citations in medieval and early modern commentaries.
 
 * Provide digital renditions of manuscript witnesses
