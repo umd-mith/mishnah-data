@@ -182,7 +182,6 @@
                         <expan>ומציאת</expan>
                         <seg function="CHECK-ME">
                            <damage>א</damage>
-                           
                         </seg>
                      </choice>
                      <lb n="31"/>אשתו שג<damage>ר</damage>שה<pc type="stop" rend="colon">.</pc>
@@ -2401,9 +2400,7 @@
                      <space extent="20" unit="chars"/> לקצור יקצו<c rend="tall">ר</c>
                      <lb n="20"/>לעקור יעקור לחרוש אחריו יחרוש הכ<c rend="wide tall">ל</c>
                      <lb n="21"/>כמנהג המדינה<pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="4" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.2"> כשם שחול<c rend="wide">קין</c>
+                     <space extent="4" unit="chars"/> כשם שחול<c rend="wide">קין</c>
                      <lb n="22"/>בתבואה כך חולקין בתבן ובקש<pc type="stop" rend="raisedDot">.</pc>
                         כש<c rend="tall">ם</c>
                      <lb n="23"/>שחולקין ביין כך חולקין <choice>
@@ -2414,15 +2411,14 @@
                      <lb n="24"/>ושניהם מספקין את הקנים<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.3"> המקבל <surplus reason="fill">?</surplus>
+                  <ab xml:id="S07397.4.2.9.2"> המקבל <surplus reason="fill">?</surplus>
                      <lb n="25"/>שדה מחבירו והיא בית השלחין או בי<c rend="wide">ת</c>
                      <lb n="26"/>האילן יבש המעיין ונקצץ האילן אינו <del hand="other" rend="non-vocalization">אינו</del>
                      <note type="EdRevReqd" resp="#NE">comm:מילה זו מיותרת אולם אין כל סימן
                         מחיקה</note>
                      <lb n="27"/>מנכה מן חכירו<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="6" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.4"> אם <choice>
+                   אם <choice>
                         <abbr>אמ<am rend="overmark">׳</am>
                         </abbr>
                         <expan>אמר</expan>
@@ -2439,7 +2435,7 @@
                      <lb n="30"/>חכירו<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="4" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.5"> המקבל שדה מחבירו 
+                  <ab xml:id="S07397.4.2.9.3"> המקבל שדה מחבירו 
                      <add place="above line" hand="#h1">וזכה בה</add> מי <surplus reason="fill">שזכ</surplus>
                      <lb n="31"/>שזכה בה ה
                      <add place="above line" hand="#h1">ו</add>בירה שמין אותה כמה היא
@@ -2453,7 +2449,7 @@
                      <lb n="34"/>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.6"> המקבל שדה מחבירו ולא רצה לנקש <space extent="1" unit="chars"/>
+                  <ab xml:id="S07397.4.2.9.4"> המקבל שדה מחבירו ולא רצה לנקש <space extent="1" unit="chars"/>
                      <surplus reason="fill">?</surplus>
                      <lb n="35"/>אמר לו מה איכפת לך הואיל ואני נותן ל<c rend="wide tall">ך</c>
                      <lb n="36"/>חכירך אין שומעין לו שהוא <choice>
@@ -2465,7 +2461,7 @@
                      <lb n="38"/>לפני עשבים<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.7"> המקבל שדה מחבירו 
+                  <ab xml:id="S07397.4.2.9.5"> המקבל שדה מחבירו 
                      <cb xml:id="S07397.80rB" n="80rB"/>
                      <lb n="1"/>ולא עשת אם יש בה כדי להעמיד כ<damage>
                         <c rend="wide">ר</c>
@@ -2478,7 +2474,7 @@
                      <lb n="3"/>כרי אלא אם יש בה ניפלה<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.8"> המקב<c rend="wide tall">ל</c>
+                  <ab xml:id="S07397.4.2.9.6"> המקב<c rend="wide tall">ל</c>
                      <lb n="4"/>שדה מחבירו ואכלה חגב או נשרפ<w rend="tall">ה</w>
                      <lb n="5"/>אם מכת מדינה הוא מנכה לו מן חכי<c rend="tall">ר</c>ו
                      <lb n="6"/>ואם אינו מכת מכת מדינה אינו מנכה
@@ -2504,25 +2500,18 @@
                      <lb n="9"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.9"> המקבל <del hand="h1" rend="deletion mark">ש</del> שדה
+                  <ab xml:id="S07397.4.2.9.7"> המקבל <del hand="h1" rend="deletion mark">ש</del> שדה
                      בעשרים כור חיטין
                      <lb n="10"/>לקתה נותן לו מתוכה היו חיטיה יפו<c rend="wide tall">ת</c>
                      <lb n="11"/>לא יאמר לו הרי אני לוקח לך מן השו<c rend="wide tall">ק</c>
                      <lb n="12"/>אלא נותן לו מתוכה<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="4" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.10"> המקבל שד<c rend="tall">ה</c>
+                  <ab xml:id="S07397.4.2.9.8"> המקבל שד<c rend="tall">ה</c>
                      <lb n="13"/>מחבירו לזורעה שעורים חיטין <c rend="wide tall">ל</c>א
                      <lb n="14"/>יזרענה<pc type="stop" rend="raisedDot">.</pc> חיטין יזרענה
                         שעורים<pc type="stop" rend="gershayyim">.</pc> רבן <surplus reason="fill">?</surplus>
-                     <lb n="15"/>שמעון בן גמלי<c rend="ligature">אל</c> או<del hand="h1" rend="overwritten">מ<seg function="CHECK-ME">
-                           <ptr xml:id="s2435" type="s" target="#e2435"/>
-                           
-                        </seg>
-                     </del>ס<seg function="CHECK-ME">
-                        <anchor xml:id="e2435" type="e"/>
-                        
-                     </seg>ר קיטנית יזרענ<c rend="tall">ה</c>
+                     <lb n="15"/>שמעון בן גמלי<c rend="ligature">אל</c> או<del hand="h1" rend="overwritten">מ</del>ר קיטנית יזרענ<c rend="tall">ה</c>
                      <lb n="16"/>תבואה תבואה לא יזרענה קיטנית <choice>
                         <abbr>ר<am rend="overmark">׳</am>ש<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>ג<am rend="overmark">׳</am>
                         </abbr>
@@ -2532,7 +2521,7 @@
                      <add place="overwritten" hand="#h1">ס</add>ר<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.11"> המקבל שדה מחבירו לשנים
+                  <ab xml:id="S07397.4.2.9.9"> המקבל שדה מחבירו לשנים
                      <lb n="18"/>
                      <damage>מ</damage>
                      <unclear reason="writ">
@@ -2546,14 +2535,15 @@
                      <lb n="21"/>בקורת ש<unclear reason="writ">י</unclear>קמה<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="3" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.12"> המקבל שדה מחבירו 
+                  <ab xml:id="S07397.4.2.9.10"> המקבל שדה מחבירו 
                      <lb n="22"/>שבע שנים בשבע מאות דינר אין <space extent="1" unit="chars"/>
                      <surplus reason="fill">?</surplus>
                      <lb n="23"/>השביעית
                      <add place="overwritten" hand="#h1">מ</add>ין המיניין<pc type="stop" rend="gershayyim">.</pc> שבוע אח<c rend="wide tall">ת</c>
                      <lb n="24"/>בשבע מאות דינר השביעית מן <surplus reason="fill">המי</surplus>
                      <lb n="25"/>המיניין<pc type="stop" rend="gershayyim">.</pc>
-                     <space extent="1" unit="chars"/> שכיר יום גובה כל הליל<c rend="tall">ה</c>
+                     <space extent="1" unit="chars"/></ab>
+                  <ab xml:id="S07397.4.2.9.11"> שכיר יום גובה כל הליל<c rend="tall">ה</c>
                      <lb n="26"/>ושכיר לילה גובה כל היום ושכיר שעות
                      <lb n="27"/>גובה כל היום וכל הלילה<pc type="stop" rend="gershayyim">.</pc>
                      <space extent="2" unit="chars"/> שכיר שב<c rend="wide tall">ת</c>
@@ -2570,7 +2560,7 @@
                      <lb n="30"/>
                      <space extent="1" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.13"> אחד שכיר האדם ואחד שכיר הבהמה
+                  <ab xml:id="S07397.4.2.9.12"> אחד שכיר האדם ואחד שכיר הבהמה
                      <lb n="31"/>ואחד שכיר הכלים יש בהן משום ביומו
                      <lb n="32"/>תתן שכרו ויש בהן משום לא תלין <space extent="2" unit="chars"/>
                      <surplus reason="fill">?</surplus>
@@ -2579,9 +2569,7 @@
                      <surplus reason="fill">?</surplus>
                      <lb n="34"/>בזמן שתבעו אבל לא תבעו אינו עוב<c rend="wide tall">ר</c>
                      <lb n="35"/>עליו<pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.14"> המחה
+                     <space extent="3" unit="chars"/>  המחה
                      <add place="above line" hand="#h1">ו</add> אצל חנווני או אצל <surplus reason="fill">??</surplus>
                      <lb n="36"/>שולחני אינו עובר עליו השכיר נשבע
                      <lb n="37"/>בזמנו ונוטל עבר זמנו אינו נשבע ונוטל
@@ -2600,7 +2588,7 @@
                      <lb n="1"/>פעולת שכיר אתך עד בקר<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="2" unit="chars"/>
                   </ab>
-                  <ab xml:id="S07397.4.2.9.15"> המלוה א<c rend="wide">ת</c>
+                  <ab xml:id="S07397.4.2.9.13"> המלוה א<c rend="wide">ת</c>
                      <lb n="2"/>חבירו לא ימשכננו אלא בבית דין לא <surplus reason="fill">יכנ</surplus>
                      <lb n="3"/>יכנס בביתו ויטול משכונו <choice>
                         <abbr>שנ<am rend="overdot">׳</am>
@@ -2640,8 +2628,7 @@
                      </choice> לא תחבול בגד אלמנה <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="13"/>
                      <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.16"> החובל את הרחיים עובר בלא תעש<c rend="wide">ה</c>
+                   החובל את הרחיים עובר בלא תעש<c rend="wide">ה</c>
                      <lb n="14"/>וחייב משום שני כלים <choice>
                         <abbr>שנ<am rend="overmark">׳</am>
                         </abbr>

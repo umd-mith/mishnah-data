@@ -7535,862 +7535,884 @@
                      <space extent="4" unit="chars"/>
                   </ab>
                   <ab xml:id="S07397.4.2.9.2">
-                     <w xml:id="S07397.4.2.9.2.00100">כשם</w>
-                     <w xml:id="S07397.4.2.9.2.00200">שחול<c rend="wide">קין</c>
-                     </w>
-                     <lb n="6"/>
-                     <w xml:id="S07397.4.2.9.2.00300">בתבואה</w>
-                     <w xml:id="S07397.4.2.9.2.00400">כך</w>
-                     <w xml:id="S07397.4.2.9.2.00500">חולקין</w>
-                     <w xml:id="S07397.4.2.9.2.00600">בתבן</w>
-                     <w xml:id="S07397.4.2.9.2.00700">ובקש</w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <w xml:id="S07397.4.2.9.2.00800">כש<c rend="tall">ם</c>
-                     </w>
-                     <lb n="7"/>
-                     <w xml:id="S07397.4.2.9.2.00900">שחולקין</w>
-                     <w xml:id="S07397.4.2.9.2.01000">ביין</w>
-                     <w xml:id="S07397.4.2.9.2.01100">כך</w>
-                     <w xml:id="S07397.4.2.9.2.01200">חולקין</w>
-                     <w xml:id="S07397.4.2.9.2.01300">
-                        <choice>
-                           <abbr>בזמורו<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>בזמורות</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.2.01400">ובקני<c rend="tall">ם</c>
-                     </w>
-                     <lb n="8"/>
-                     <w xml:id="S07397.4.2.9.2.01500">ושניהם</w>
-                     <w xml:id="S07397.4.2.9.2.01600">מספקין</w>
-                     <w xml:id="S07397.4.2.9.2.01700">את</w>
-                     <w xml:id="S07397.4.2.9.2.01800">הקנים</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.3">
-                     <w xml:id="S07397.4.2.9.3.00100">המקבל</w>
-                     <surplus xml:id="S07397.d33e20684" reason="fill">?</surplus>
-                     <lb n="9"/>
-                     <w xml:id="S07397.4.2.9.3.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.3.00300">מחבירו</w>
-                     <w xml:id="S07397.4.2.9.3.00400">והיא</w>
-                     <w xml:id="S07397.4.2.9.3.00500">בית</w>
-                     <w xml:id="S07397.4.2.9.3.00600">השלחין</w>
-                     <w xml:id="S07397.4.2.9.3.00700">או</w>
-                     <w xml:id="S07397.4.2.9.3.00800">בי<c rend="wide">ת</c>
-                     </w>
-                     <lb n="10"/>
-                     <w xml:id="S07397.4.2.9.3.00900">האילן</w>
-                     <w xml:id="S07397.4.2.9.3.01000">יבש</w>
-                     <w xml:id="S07397.4.2.9.3.01100">המעיין</w>
-                     <w xml:id="S07397.4.2.9.3.01200">ונקצץ</w>
-                     <w xml:id="S07397.4.2.9.3.01300">האילן</w>
-                     <w xml:id="S07397.4.2.9.3.01400">אינו</w>
-                     <delSpan spanTo="#d2e5586" hand="other" rend="non-vocalization"/>
-                     <w xml:id="S07397.4.2.9.3.01500">אינו<anchor xml:id="d2e5586" type="del"/>
-                        <note type="EdRevReqd" resp="#NE">comm:מילה זו מיותרת אולם אין כל סימן
+      <w xml:id="S07397.4.2.9.2.00010">המקבל</w>
+      <surplus xml:id="S07397.080rA.24d1e5183">?</surplus>
+      <lb xml:id="S07397.080rA.25" n="25"/>
+      <w xml:id="S07397.4.2.9.2.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.2.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.2.00040">והיא</w>
+      <w xml:id="S07397.4.2.9.2.00050">בית</w>
+      <w xml:id="S07397.4.2.9.2.00060">השלחין</w>
+      <w xml:id="S07397.4.2.9.2.00070">או</w>
+      <w xml:id="S07397.4.2.9.2.00080">בי<c xml:id="S07397.4.2.9.2.00080.0030" rend="wide">ת</c>
+      </w>
+      <lb xml:id="S07397.080rA.26" n="26"/>
+      <w xml:id="S07397.4.2.9.2.00090">האילן</w>
+      <w xml:id="S07397.4.2.9.2.00100">יבש</w>
+      <w xml:id="S07397.4.2.9.2.00110">המעיין</w>
+      <w xml:id="S07397.4.2.9.2.00120">ונקצץ</w>
+      <w xml:id="S07397.4.2.9.2.00130">האילן</w>
+      <w xml:id="S07397.4.2.9.2.00140">אינו</w>
+      <w xml:id="S07397.4.2.9.2.00150">
+         <delSpan spanTo="#S07397.080rA.26.d1e5191"
+                  type="del"
+                  hand="other"
+                  rend="non-vocalization"/>אינו<anchor xml:id="S07397.080rA.26.d1e5191" type="del"/>
+         <note type="EdRevReqd" resp="#NE">comm:מילה זו מיותרת אולם אין כל סימן
                         מחיקה</note>
-                     </w>
-                     <lb n="11"/>
-                     <w xml:id="S07397.4.2.9.3.01600">מנכה</w>
-                     <w xml:id="S07397.4.2.9.3.01700">מן</w>
-                     <w xml:id="S07397.4.2.9.3.01800">חכירו</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="6" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.4">
-                     <w xml:id="S07397.4.2.9.4.00100">אם</w>
-                     <w xml:id="S07397.4.2.9.4.00200">
-                        <choice>
-                           <abbr>אמ<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>אמר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.4.00300">ליה</w>
-                     <damageSpan type="unclear" spanTo="#d2e5606" subtype="writ"/>
-                     <delSpan spanTo="#d2e5607" hand="h1" rend="rubbing"/>
-                     <w xml:id="S07397.4.2.9.4.00400">ה<anchor xml:id="d2e5607" type="del"/>
-                        <anchor xml:id="d2e5606" type="unclear"/>חכי<c rend="wide">ר</c>
-                     </w>
-                     <lb n="12"/>
-                     <w xml:id="S07397.4.2.9.4.00500">לי</w>
-                     <w xml:id="S07397.4.2.9.4.00600">שדה</w>
-                     <w xml:id="S07397.4.2.9.4.00700">בית</w>
-                     <w xml:id="S07397.4.2.9.4.00800">השלחין</w>
-                     <w xml:id="S07397.4.2.9.4.00900">זו</w>
-                     <w xml:id="S07397.4.2.9.4.01000">או</w>
-                     <w xml:id="S07397.4.2.9.4.01100">בית</w>
-                     <w xml:id="S07397.4.2.9.4.01200">האילן</w>
-                     <w xml:id="S07397.4.2.9.4.01300">ז<c rend="wide tall">ה</c>
-                     </w>
-                     <lb n="13"/>
-                     <w xml:id="S07397.4.2.9.4.01400">ויבש</w>
-                     <w xml:id="S07397.4.2.9.4.01500">המעיין</w>
-                     <w xml:id="S07397.4.2.9.4.01600">ונקצץ</w>
-                     <w xml:id="S07397.4.2.9.4.01700">האילן</w>
-                     <w xml:id="S07397.4.2.9.4.01800">מנכה</w>
-                     <w xml:id="S07397.4.2.9.4.01900">לו</w>
-                     <w xml:id="S07397.4.2.9.4.02000">מן</w>
-                     <space extent="1" unit="chars"/>
-                     <surplus xml:id="S07397.d33e20862" reason="fill">?</surplus>
-                     <lb n="14"/>
-                     <w xml:id="S07397.4.2.9.4.02100">חכירו</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="4" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.5">
-                     <w xml:id="S07397.4.2.9.5.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.5.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.5.00300">מחבירו</w>
-                     <addSpan spanTo="#d2e5632" place="above line" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.5.00400">וזכה</w>
-                     <w xml:id="S07397.4.2.9.5.00500">בה</w>
-                     <anchor xml:id="d2e5632" type="add"/>
-                     <w xml:id="S07397.4.2.9.5.00600">מי</w>
-                     <surplus xml:id="S07397.d33e20903" reason="fill">שזכ</surplus>
-                     <lb n="15"/>
-                     <w xml:id="S07397.4.2.9.5.00700">שזכה</w>
-                     <w xml:id="S07397.4.2.9.5.00800">בה</w>
-                     <w xml:id="S07397.4.2.9.5.00900">ה</w>
-                     <addSpan spanTo="#d2e5639" place="above line" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.5.01000">ו<anchor xml:id="d2e5639" type="add"/>בירה</w>
-                     <w xml:id="S07397.4.2.9.5.01100">שמין</w>
-                     <w xml:id="S07397.4.2.9.5.01200">אותה</w>
-                     <w xml:id="S07397.4.2.9.5.01300">כמה</w>
-                     <w xml:id="S07397.4.2.9.5.01400">היא</w>
-                     <lb n="16"/>
-                     <w xml:id="S07397.4.2.9.5.01500">ראויה</w>
-                     <w xml:id="S07397.4.2.9.5.01600">לעשות</w>
-                     <w xml:id="S07397.4.2.9.5.01700">ונותנין</w>
-                     <w xml:id="S07397.4.2.9.5.01800">לו</w>
-                     <w xml:id="S07397.4.2.9.5.01900">שכ<damageSpan type="damage" spanTo="#d2e5644"/>ר<anchor xml:id="d2e5644" type="damage"/>
-                     </w>
-                     <w xml:id="S07397.4.2.9.5.02000">כותב</w>
-                     <w xml:id="S07397.4.2.9.5.02100">א<c rend="tall">ם</c>
-                     </w>
-                     <lb n="17"/>
-                     <w xml:id="S07397.4.2.9.5.02200">אוביד</w>
-                     <w xml:id="S07397.4.2.9.5.02300">ולא</w>
-                     <w xml:id="S07397.4.2.9.5.02400">אעביד</w>
-                     <w xml:id="S07397.4.2.9.5.02500">אשלם</w>
-                     <w xml:id="S07397.4.2.9.5.02600">לך</w>
-                     <damageSpan type="unclear" spanTo="#d2e5652" subtype="writ"/>
-                     <span type="altChar" to="#d2e5653"/>
-                     <w xml:id="S07397.4.2.9.5.02700">
-                        <c>ב</c>
-                        <c>כ</c>
-                     </w>
-                     <anchor xml:id="d2e5653" type="seg"/>
-                     <w xml:id="S07397.4.2.9.5.02800">
-                        <anchor xml:id="d2e5652" type="unclear"/>מיטבה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <lb n="18"/>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.6">
-                     <w xml:id="S07397.4.2.9.6.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.6.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.6.00300">מחבירו</w>
-                     <w xml:id="S07397.4.2.9.6.00400">ולא</w>
-                     <w xml:id="S07397.4.2.9.6.00500">רצה</w>
-                     <w xml:id="S07397.4.2.9.6.00600">לנקש</w>
-                     <space extent="1" unit="chars"/>
-                     <surplus xml:id="S07397.d33e21039" reason="fill">?</surplus>
-                     <lb n="19"/>
-                     <w xml:id="S07397.4.2.9.6.00700">אמר</w>
-                     <w xml:id="S07397.4.2.9.6.00800">לו</w>
-                     <w xml:id="S07397.4.2.9.6.00900">מה</w>
-                     <w xml:id="S07397.4.2.9.6.01000">איכפת</w>
-                     <w xml:id="S07397.4.2.9.6.01100">לך</w>
-                     <w xml:id="S07397.4.2.9.6.01200">הואיל</w>
-                     <w xml:id="S07397.4.2.9.6.01300">ואני</w>
-                     <w xml:id="S07397.4.2.9.6.01400">נותן</w>
-                     <w xml:id="S07397.4.2.9.6.01500">ל<c rend="wide tall">ך</c>
-                     </w>
-                     <lb n="20"/>
-                     <w xml:id="S07397.4.2.9.6.01600">חכירך</w>
-                     <w xml:id="S07397.4.2.9.6.01700">אין</w>
-                     <w xml:id="S07397.4.2.9.6.01800">שומעין</w>
-                     <w xml:id="S07397.4.2.9.6.01900">לו</w>
-                     <w xml:id="S07397.4.2.9.6.02000">שהוא</w>
-                     <w xml:id="S07397.4.2.9.6.02100">
-                        <choice>
-                           <abbr>אומ<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>אומר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.6.02200">לו</w>
-                     <surplus xml:id="S07397.d33e21112" reason="fill">למ</surplus>
-                     <lb n="21"/>
-                     <w xml:id="S07397.4.2.9.6.02300">למחר</w>
-                     <w xml:id="S07397.4.2.9.6.02400">אתה</w>
-                     <w xml:id="S07397.4.2.9.6.02500">יוצא</w>
-                     <w xml:id="S07397.4.2.9.6.02600">ממנה</w>
-                     <w xml:id="S07397.4.2.9.6.02700">ואתה</w>
-                     <w xml:id="S07397.4.2.9.6.02800">מעל<c rend="wide tall">ה</c>
-                     </w>
-                     <lb n="22"/>
-                     <w xml:id="S07397.4.2.9.6.02900">לפני</w>
-                     <w xml:id="S07397.4.2.9.6.03000">עשבים</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.7">
-                     <w xml:id="S07397.4.2.9.7.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.7.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.7.00300">מחבירו</w>
-                     <cb xml:id="S07397.80rB" n="80rB" type="1-col"/>
-                     <lb n="1"/>
-                     <w xml:id="S07397.4.2.9.7.00400">ולא</w>
-                     <w xml:id="S07397.4.2.9.7.00500">עשת</w>
-                     <w xml:id="S07397.4.2.9.7.00600">אם</w>
-                     <w xml:id="S07397.4.2.9.7.00700">יש</w>
-                     <w xml:id="S07397.4.2.9.7.00800">בה</w>
-                     <w xml:id="S07397.4.2.9.7.00900">כדי</w>
-                     <w xml:id="S07397.4.2.9.7.01000">להעמיד</w>
-                     <w xml:id="S07397.4.2.9.7.01100">כ<damageSpan type="damage" spanTo="#d2e5699"/>
-                        <c rend="wide">ר</c>
-                        <anchor xml:id="d2e5699" type="damage"/>י</w>
-                     <lb n="2"/>
-                     <w xml:id="S07397.4.2.9.7.01200">חייב</w>
-                     <w xml:id="S07397.4.2.9.7.01300">ליטפל</w>
-                     <w xml:id="S07397.4.2.9.7.01400">בה</w>
-                     <w xml:id="S07397.4.2.9.7.01500">אמר</w>
-                     <w xml:id="S07397.4.2.9.7.01600">
-                        <choice>
-                           <abbr>ר<am rend="overdot">׳</am>
-                           </abbr>
-                           <expan>רבי</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.7.01700">יהודה</w>
-                     <w xml:id="S07397.4.2.9.7.01800">מה</w>
-                     <w xml:id="S07397.4.2.9.7.01900">קיצב<c rend="tall">ה</c>
-                     </w>
-                     <lb n="3"/>
-                     <w xml:id="S07397.4.2.9.7.02000">כרי</w>
-                     <w xml:id="S07397.4.2.9.7.02100">אלא</w>
-                     <w xml:id="S07397.4.2.9.7.02200">אם</w>
-                     <w xml:id="S07397.4.2.9.7.02300">יש</w>
-                     <w xml:id="S07397.4.2.9.7.02400">בה</w>
-                     <w xml:id="S07397.4.2.9.7.02500">ניפלה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.8">
-                     <w xml:id="S07397.4.2.9.8.00100">המקב<c rend="wide tall">ל</c>
-                     </w>
-                     <lb n="4"/>
-                     <w xml:id="S07397.4.2.9.8.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.8.00300">מחבירו</w>
-                     <w xml:id="S07397.4.2.9.8.00400">ואכלה</w>
-                     <w xml:id="S07397.4.2.9.8.00500">חגב</w>
-                     <w xml:id="S07397.4.2.9.8.00600">או</w>
-                     <w xml:id="S07397.4.2.9.8.00700">נשרפ</w>
-                     <w rend="tall" xml:id="S07397.4.2.9.8.00800">ה</w>
-                     <lb n="5"/>
-                     <w xml:id="S07397.4.2.9.8.00900">אם</w>
-                     <w xml:id="S07397.4.2.9.8.01000">מכת</w>
-                     <w xml:id="S07397.4.2.9.8.01100">מדינה</w>
-                     <w xml:id="S07397.4.2.9.8.01200">הוא</w>
-                     <w xml:id="S07397.4.2.9.8.01300">מנכה</w>
-                     <w xml:id="S07397.4.2.9.8.01400">לו</w>
-                     <w xml:id="S07397.4.2.9.8.01500">מן</w>
-                     <w xml:id="S07397.4.2.9.8.01600">חכי<c rend="tall">ר</c>ו</w>
-                     <lb n="6"/>
-                     <w xml:id="S07397.4.2.9.8.01700">ואם</w>
-                     <w xml:id="S07397.4.2.9.8.01800">אינו</w>
-                     <w xml:id="S07397.4.2.9.8.01900">מכת</w>
-                     <w xml:id="S07397.4.2.9.8.02000">מכת</w>
-                     <w xml:id="S07397.4.2.9.8.02100">מדינה</w>
-                     <w xml:id="S07397.4.2.9.8.02200">אינו</w>
-                     <w xml:id="S07397.4.2.9.8.02300">מנכה</w>
-                     <lb n="7"/>
-                     <w xml:id="S07397.4.2.9.8.02400">לו</w>
-                     <w xml:id="S07397.4.2.9.8.02500">מ<damageSpan type="unclear" spanTo="#d2e5739" subtype="writ"/>ן<anchor xml:id="d2e5739" type="unclear"/>
-                     </w>
-                     <w xml:id="S07397.4.2.9.8.02600">החכירו</w>
-                     <w xml:id="S07397.4.2.9.8.02700">
-                        <choice>
-                           <abbr>ר<am rend="overdot">׳</am>
-                           </abbr>
-                           <expan>רבי</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.8.02800">יהודה</w>
-                     <w xml:id="S07397.4.2.9.8.02900">
-                        <choice>
-                           <abbr>אומ<am rend="overdot">׳</am>
-                           </abbr>
-                           <expan>אומר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.8.03000">אם</w>
-                     <w xml:id="S07397.4.2.9.8.03100">קיבל<c rend="tall">ה</c>
-                     </w>
-                     <lb n="8"/>
-                     <w xml:id="S07397.4.2.9.8.03200">במעות</w>
-                     <w xml:id="S07397.4.2.9.8.03300">בין</w>
-                     <w xml:id="S07397.4.2.9.8.03400">כך</w>
-                     <w xml:id="S07397.4.2.9.8.03500">ובין</w>
-                     <w xml:id="S07397.4.2.9.8.03600">כך</w>
-                     <w xml:id="S07397.4.2.9.8.03700">אינו</w>
-                     <addSpan spanTo="#d2e5763" place="above line" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.8.03800">
-                        <choice>
-                           <abbr>מנכ<am rend="geresh">׳</am>
-                           </abbr>
-                           <expan>מנכה</expan>
-                        </choice>
-                     </w>
-                     <anchor xml:id="d2e5763" type="add"/>
-                     <w xml:id="S07397.4.2.9.8.03900">לו</w>
-                     <w xml:id="S07397.4.2.9.8.04000">מן</w>
-                     <w xml:id="S07397.4.2.9.8.04100">חכירו<damageSpan type="damage" spanTo="#d2e5772"/>
-                     </w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <anchor xml:id="d2e5772" type="damage"/>
-                     <lb n="9"/>
-                     <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.9">
-                     <w xml:id="S07397.4.2.9.9.00100">המקבל</w>
-                     <delSpan spanTo="#d2e5779" hand="h1" rend="deletion mark"/>
-                     <w xml:id="S07397.4.2.9.9.00200">ש</w>
-                     <anchor xml:id="d2e5779" type="del"/>
-                     <w xml:id="S07397.4.2.9.9.00300">שדה</w>
-                     <w xml:id="S07397.4.2.9.9.00400">בעשרים</w>
-                     <w xml:id="S07397.4.2.9.9.00500">כור</w>
-                     <w xml:id="S07397.4.2.9.9.00600">חיטין</w>
-                     <lb n="10"/>
-                     <w xml:id="S07397.4.2.9.9.00700">לקתה</w>
-                     <w xml:id="S07397.4.2.9.9.00800">נותן</w>
-                     <w xml:id="S07397.4.2.9.9.00900">לו</w>
-                     <w xml:id="S07397.4.2.9.9.01000">מתוכה</w>
-                     <w xml:id="S07397.4.2.9.9.01100">היו</w>
-                     <w xml:id="S07397.4.2.9.9.01200">חיטיה</w>
-                     <w xml:id="S07397.4.2.9.9.01300">יפו<c rend="wide tall">ת</c>
-                     </w>
-                     <lb n="11"/>
-                     <w xml:id="S07397.4.2.9.9.01400">לא</w>
-                     <w xml:id="S07397.4.2.9.9.01500">יאמר</w>
-                     <w xml:id="S07397.4.2.9.9.01600">לו</w>
-                     <w xml:id="S07397.4.2.9.9.01700">הרי</w>
-                     <w xml:id="S07397.4.2.9.9.01800">אני</w>
-                     <w xml:id="S07397.4.2.9.9.01900">לוקח</w>
-                     <w xml:id="S07397.4.2.9.9.02000">לך</w>
-                     <w xml:id="S07397.4.2.9.9.02100">מן</w>
-                     <w xml:id="S07397.4.2.9.9.02200">השו<c rend="wide tall">ק</c>
-                     </w>
-                     <lb n="12"/>
-                     <w xml:id="S07397.4.2.9.9.02300">אלא</w>
-                     <w xml:id="S07397.4.2.9.9.02400">נותן</w>
-                     <w xml:id="S07397.4.2.9.9.02500">לו</w>
-                     <w xml:id="S07397.4.2.9.9.02600">מתוכה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="4" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.10">
-                     <w xml:id="S07397.4.2.9.10.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.10.00200">שד<c rend="tall">ה</c>
-                     </w>
-                     <lb n="13"/>
-                     <w xml:id="S07397.4.2.9.10.00300">מחבירו</w>
-                     <w xml:id="S07397.4.2.9.10.00400">לזורעה</w>
-                     <w xml:id="S07397.4.2.9.10.00500">שעורים</w>
-                     <w xml:id="S07397.4.2.9.10.00600">חיטין</w>
-                     <w xml:id="S07397.4.2.9.10.00700">
-                        <c rend="wide tall">ל</c>א</w>
-                     <lb n="14"/>
-                     <w xml:id="S07397.4.2.9.10.00800">יזרענה</w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <w xml:id="S07397.4.2.9.10.00900">חיטין</w>
-                     <w xml:id="S07397.4.2.9.10.01000">יזרענה</w>
-                     <w xml:id="S07397.4.2.9.10.01100">שעורים</w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <w xml:id="S07397.4.2.9.10.01200">רבן</w>
-                     <surplus xml:id="S07397.d33e21643" reason="fill">?</surplus>
-                     <lb n="15"/>
-                     <w xml:id="S07397.4.2.9.10.01300">שמעון</w>
-                     <w xml:id="S07397.4.2.9.10.01400">בן</w>
-                     <w xml:id="S07397.4.2.9.10.01500">גמלי<c rend="ligature">אל</c>
-                     </w>
-                     <w xml:id="S07397.4.2.9.10.01600">או<delSpan spanTo="#d2e5821" hand="h1" rend="overwritten"/>מ<anchor xml:id="d2e5821" type="del"/>סר</w>
-                     <w xml:id="S07397.4.2.9.10.01700">קיטנית</w>
-                     <w xml:id="S07397.4.2.9.10.01800">יזרענ<c rend="tall">ה</c>
-                     </w>
-                     <lb n="16"/>
-                     <w xml:id="S07397.4.2.9.10.01900">תבואה</w>
-                     <w xml:id="S07397.4.2.9.10.02000">תבואה</w>
-                     <w xml:id="S07397.4.2.9.10.02100">לא</w>
-                     <w xml:id="S07397.4.2.9.10.02200">יזרענה</w>
-                     <w xml:id="S07397.4.2.9.10.02300">קיטנית</w>
-                     <w xml:id="S07397.4.2.9.10.02400">
-                        <choice>
-                           <abbr>ר<am rend="overmark">׳</am>ש<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>ג<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>רבן שמעון בן גמליאל</expan>
-                        </choice>
-                     </w>
-                     <lb n="17"/>
-                     <w xml:id="S07397.4.2.9.10.02500">או<delSpan spanTo="#d2e5852" hand="h1" rend="overwritten"/>מ<anchor xml:id="d2e5852" type="del"/>
-                        <addSpan spanTo="#d2e5854" place="overwritten" hand="#h1"/>ס<anchor xml:id="d2e5854" type="add"/>ר</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.11">
-                     <w xml:id="S07397.4.2.9.11.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.11.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.11.00300">מחבירו</w>
-                     <w xml:id="S07397.4.2.9.11.00400">לשנים</w>
-                     <lb n="18"/>
-                     <w xml:id="S07397.4.2.9.11.00500">
-                        <damageSpan type="damage" spanTo="#d2e5864"/>מ<anchor xml:id="d2e5864" type="damage"/>
-                        <damageSpan type="unclear" spanTo="#d2e5866" subtype="writ"/>
-                     </w>
-                     <span type="altChar" to="#d2e5867"/>
-                     <w xml:id="S07397.4.2.9.11.00600">
-                        <c>י</c>
-                        <c>ו</c>
-                     </w>
-                     <anchor xml:id="d2e5867" type="seg"/>
-                     <w xml:id="S07397.4.2.9.11.00700">
-                        <anchor xml:id="d2e5866" type="unclear"/>עטים</w>
-                     <w xml:id="S07397.4.2.9.11.00800">לא</w>
-                     <w xml:id="S07397.4.2.9.11.00900">יזרענה</w>
-                     <w xml:id="S07397.4.2.9.11.01000">פשתן</w>
-                     <w xml:id="S07397.4.2.9.11.01100">ואין</w>
-                     <w xml:id="S07397.4.2.9.11.01200">לו</w>
-                     <w xml:id="S07397.4.2.9.11.01300">בקורת</w>
-                     <lb n="19"/>
-                     <w xml:id="S07397.4.2.9.11.01400">ש<damageSpan type="unclear" spanTo="#d2e5875" subtype="writ"/>י<anchor xml:id="d2e5875" type="unclear"/>קמה</w>
-                     <w xml:id="S07397.4.2.9.11.01500">קבלה</w>
-                     <w xml:id="S07397.4.2.9.11.01600">ממנה</w>
-                     <w xml:id="S07397.4.2.9.11.01700">לשבע</w>
-                     <w xml:id="S07397.4.2.9.11.01800">שני<c rend="tall">ם</c>
-                     </w>
-                     <lb n="20"/>
-                     <w xml:id="S07397.4.2.9.11.01900">זורעה</w>
-                     <w xml:id="S07397.4.2.9.11.02000">שנה</w>
-                     <w xml:id="S07397.4.2.9.11.02100">ראשונה</w>
-                     <w xml:id="S07397.4.2.9.11.02200">פשתן</w>
-                     <w xml:id="S07397.4.2.9.11.02300">ויש</w>
-                     <w xml:id="S07397.4.2.9.11.02400">לו</w>
-                     <lb n="21"/>
-                     <w xml:id="S07397.4.2.9.11.02500">בקורת</w>
-                     <w xml:id="S07397.4.2.9.11.02600">ש<damageSpan type="unclear" spanTo="#d2e5885" subtype="writ"/>י<anchor xml:id="d2e5885" type="unclear"/>קמה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.12">
-                     <w xml:id="S07397.4.2.9.12.00100">המקבל</w>
-                     <w xml:id="S07397.4.2.9.12.00200">שדה</w>
-                     <w xml:id="S07397.4.2.9.12.00300">מחבירו</w>
-                     <lb n="22"/>
-                     <w xml:id="S07397.4.2.9.12.00400">שבע</w>
-                     <w xml:id="S07397.4.2.9.12.00500">שנים</w>
-                     <w xml:id="S07397.4.2.9.12.00600">בשבע</w>
-                     <w xml:id="S07397.4.2.9.12.00700">מאות</w>
-                     <w xml:id="S07397.4.2.9.12.00800">דינר</w>
-                     <w xml:id="S07397.4.2.9.12.00900">אין</w>
-                     <space extent="1" unit="chars"/>
-                     <surplus xml:id="S07397.d33e21903" reason="fill">?</surplus>
-                     <lb n="23"/>
-                     <w xml:id="S07397.4.2.9.12.01000">השביעית</w>
-                     <addSpan spanTo="#d2e5900" place="overwritten" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.12.01100">מ<anchor xml:id="d2e5900" type="add"/>ין</w>
-                     <w xml:id="S07397.4.2.9.12.01200">המיניין</w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <w xml:id="S07397.4.2.9.12.01300">שבוע</w>
-                     <w xml:id="S07397.4.2.9.12.01400">אח<c rend="wide tall">ת</c>
-                     </w>
-                     <lb n="24"/>
-                     <w xml:id="S07397.4.2.9.12.01500">בשבע</w>
-                     <w xml:id="S07397.4.2.9.12.01600">מאות</w>
-                     <w xml:id="S07397.4.2.9.12.01700">דינר</w>
-                     <w xml:id="S07397.4.2.9.12.01800">השביעית</w>
-                     <w xml:id="S07397.4.2.9.12.01900">מן</w>
-                     <surplus xml:id="S07397.d33e21952" reason="fill">המי</surplus>
-                     <lb n="25"/>
-                     <w xml:id="S07397.4.2.9.12.02000">המיניין</w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <space extent="1" unit="chars"/>
-                     <w xml:id="S07397.4.2.9.12.02100">שכיר</w>
-                     <w xml:id="S07397.4.2.9.12.02200">יום</w>
-                     <w xml:id="S07397.4.2.9.12.02300">גובה</w>
-                     <w xml:id="S07397.4.2.9.12.02400">כל</w>
-                     <w xml:id="S07397.4.2.9.12.02500">הליל<c rend="tall">ה</c>
-                     </w>
-                     <lb n="26"/>
-                     <w xml:id="S07397.4.2.9.12.02600">ושכיר</w>
-                     <w xml:id="S07397.4.2.9.12.02700">לילה</w>
-                     <w xml:id="S07397.4.2.9.12.02800">גובה</w>
-                     <w xml:id="S07397.4.2.9.12.02900">כל</w>
-                     <w xml:id="S07397.4.2.9.12.03000">היום</w>
-                     <w xml:id="S07397.4.2.9.12.03100">ושכיר</w>
-                     <w xml:id="S07397.4.2.9.12.03200">שעות</w>
-                     <lb n="27"/>
-                     <w xml:id="S07397.4.2.9.12.03300">גובה</w>
-                     <w xml:id="S07397.4.2.9.12.03400">כל</w>
-                     <w xml:id="S07397.4.2.9.12.03500">היום</w>
-                     <w xml:id="S07397.4.2.9.12.03600">וכל</w>
-                     <w xml:id="S07397.4.2.9.12.03700">הלילה</w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <space extent="2" unit="chars"/>
-                     <w xml:id="S07397.4.2.9.12.03800">שכיר</w>
-                     <w xml:id="S07397.4.2.9.12.03900">שב<c rend="wide tall">ת</c>
-                     </w>
-                     <lb n="28"/>
-                     <w xml:id="S07397.4.2.9.12.04000">שכי</w>
-                     <addSpan spanTo="#d2e5934" place="overwritten" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.12.04100">ר</w>
-                     <anchor xml:id="d2e5934" type="add"/>
-                     <w xml:id="S07397.4.2.9.12.04200">חדש</w>
-                     <w xml:id="S07397.4.2.9.12.04300">שכיר</w>
-                     <w xml:id="S07397.4.2.9.12.04400">שנה</w>
-                     <w xml:id="S07397.4.2.9.12.04500">שכיר</w>
-                     <w xml:id="S07397.4.2.9.12.04600">שבוע</w>
-                     <lb n="29"/>
-                     <w xml:id="S07397.4.2.9.12.04700">יצא</w>
-                     <w xml:id="S07397.4.2.9.12.04800">ביום</w>
-                     <w xml:id="S07397.4.2.9.12.04900">גובה</w>
-                     <w xml:id="S07397.4.2.9.12.05000">כל</w>
-                     <w xml:id="S07397.4.2.9.12.05100">היום</w>
-                     <addSpan spanTo="#d2e5940" place="margin-right" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.12.05200">יצא</w>
-                     <w xml:id="S07397.4.2.9.12.05300">בלילה</w>
-                     <w xml:id="S07397.4.2.9.12.05400">גובה</w>
-                     <w xml:id="S07397.4.2.9.12.05500">כל</w>
-                     <w xml:id="S07397.4.2.9.12.05600">
-                        <choice>
-                           <abbr>היו<am rend="none">׳</am>
-                           </abbr>
-                           <expan>היום</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.12.05700">
-                        <fw type="catchw-corr-end" rend="size(smaller) ornamented(n)                            place(margin-right)">וכל הלילה</fw>
-                     </w>
-                     <anchor xml:id="d2e5940" type="add"/>
-                     <w xml:id="S07397.4.2.9.12.05800">וכל</w>
-                     <w xml:id="S07397.4.2.9.12.05900">הלילה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <lb n="30"/>
-                     <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.13">
-                     <w xml:id="S07397.4.2.9.13.00100">אחד</w>
-                     <w xml:id="S07397.4.2.9.13.00200">שכיר</w>
-                     <w xml:id="S07397.4.2.9.13.00300">האדם</w>
-                     <w xml:id="S07397.4.2.9.13.00400">ואחד</w>
-                     <w xml:id="S07397.4.2.9.13.00500">שכיר</w>
-                     <w xml:id="S07397.4.2.9.13.00600">הבהמה</w>
-                     <lb n="31"/>
-                     <w xml:id="S07397.4.2.9.13.00700">ואחד</w>
-                     <w xml:id="S07397.4.2.9.13.00800">שכיר</w>
-                     <w xml:id="S07397.4.2.9.13.00900">הכלים</w>
-                     <w xml:id="S07397.4.2.9.13.01000">יש</w>
-                     <w xml:id="S07397.4.2.9.13.01100">בהן</w>
-                     <w xml:id="S07397.4.2.9.13.01200">משום</w>
-                     <w xml:id="S07397.4.2.9.13.01300">ביומו</w>
-                     <lb n="32"/>
-                     <w xml:id="S07397.4.2.9.13.01400">תתן</w>
-                     <w xml:id="S07397.4.2.9.13.01500">שכרו</w>
-                     <w xml:id="S07397.4.2.9.13.01600">ויש</w>
-                     <w xml:id="S07397.4.2.9.13.01700">בהן</w>
-                     <w xml:id="S07397.4.2.9.13.01800">משום</w>
-                     <w xml:id="S07397.4.2.9.13.01900">לא</w>
-                     <w xml:id="S07397.4.2.9.13.02000">תלין</w>
-                     <space extent="2" unit="chars"/>
-                     <surplus xml:id="S07397.d33e22213" reason="fill">?</surplus>
-                     <lb n="33"/>
-                     <w xml:id="S07397.4.2.9.13.02100">פעולת</w>
-                     <w xml:id="S07397.4.2.9.13.02200">שכיר</w>
-                     <w xml:id="S07397.4.2.9.13.02300">אתך</w>
-                     <w xml:id="S07397.4.2.9.13.02400">עד</w>
-                     <w xml:id="S07397.4.2.9.13.02500">בקר</w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <w xml:id="S07397.4.2.9.13.02600">אימתי</w>
-                     <space extent="1" unit="chars"/>
-                     <surplus xml:id="S07397.d33e22242" reason="fill">?</surplus>
-                     <lb n="34"/>
-                     <w xml:id="S07397.4.2.9.13.02700">בזמן</w>
-                     <w xml:id="S07397.4.2.9.13.02800">שתבעו</w>
-                     <w xml:id="S07397.4.2.9.13.02900">אבל</w>
-                     <w xml:id="S07397.4.2.9.13.03000">לא</w>
-                     <w xml:id="S07397.4.2.9.13.03100">תבעו</w>
-                     <w xml:id="S07397.4.2.9.13.03200">אינו</w>
-                     <w xml:id="S07397.4.2.9.13.03300">עוב<c rend="wide tall">ר</c>
-                     </w>
-                     <lb n="35"/>
-                     <w xml:id="S07397.4.2.9.13.03400">עליו</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="3" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.14">
-                     <w xml:id="S07397.4.2.9.14.00100">המחה</w>
-                     <addSpan spanTo="#d2e5985" place="above line" hand="#h1"/>
-                     <w xml:id="S07397.4.2.9.14.00200">ו</w>
-                     <anchor xml:id="d2e5985" type="add"/>
-                     <w xml:id="S07397.4.2.9.14.00300">אצל</w>
-                     <w xml:id="S07397.4.2.9.14.00400">חנווני</w>
-                     <w xml:id="S07397.4.2.9.14.00500">או</w>
-                     <w xml:id="S07397.4.2.9.14.00600">אצל</w>
-                     <surplus xml:id="S07397.d33e22309" reason="fill">??</surplus>
-                     <lb n="36"/>
-                     <w xml:id="S07397.4.2.9.14.00700">שולחני</w>
-                     <w xml:id="S07397.4.2.9.14.00800">אינו</w>
-                     <w xml:id="S07397.4.2.9.14.00900">עובר</w>
-                     <w xml:id="S07397.4.2.9.14.01000">עליו</w>
-                     <w xml:id="S07397.4.2.9.14.01100">השכיר</w>
-                     <w xml:id="S07397.4.2.9.14.01200">נשבע</w>
-                     <lb n="37"/>
-                     <w xml:id="S07397.4.2.9.14.01300">בזמנו</w>
-                     <w xml:id="S07397.4.2.9.14.01400">ונוטל</w>
-                     <w xml:id="S07397.4.2.9.14.01500">עבר</w>
-                     <w xml:id="S07397.4.2.9.14.01600">זמנו</w>
-                     <w xml:id="S07397.4.2.9.14.01700">אינו</w>
-                     <w xml:id="S07397.4.2.9.14.01800">נשבע</w>
-                     <w xml:id="S07397.4.2.9.14.01900">ונוטל</w>
-                     <lb n="38"/>
-                     <w xml:id="S07397.4.2.9.14.02000">ואם</w>
-                     <w xml:id="S07397.4.2.9.14.02100">יש</w>
-                     <w xml:id="S07397.4.2.9.14.02200">עדים</w>
-                     <w xml:id="S07397.4.2.9.14.02300">שתבעו</w>
-                     <w xml:id="S07397.4.2.9.14.02400">הרי</w>
-                     <w xml:id="S07397.4.2.9.14.02500">זה</w>
-                     <w xml:id="S07397.4.2.9.14.02600">נשבע</w>
-                     <lb n="39"/>
-                     <w xml:id="S07397.4.2.9.14.02700">ונוטל</w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <space extent="1" unit="chars"/>
-                     <w xml:id="S07397.4.2.9.14.02800">גר</w>
-                     <damageSpan type="unclear" spanTo="#d2e6003" subtype="writ"/>
-                     <delSpan spanTo="#d2e6004" hand="h1" rend="rubbing"/>
-                     <w xml:id="S07397.4.2.9.14.02900">ו<anchor xml:id="d2e6004" type="del"/>
-                        <anchor xml:id="d2e6003" type="unclear"/>תושב</w>
-                     <w xml:id="S07397.4.2.9.14.03000">יש</w>
-                     <w xml:id="S07397.4.2.9.14.03100">בו</w>
-                     <w xml:id="S07397.4.2.9.14.03200">משו<c rend="tall">ם</c>
-                     </w>
-                     <lb n="40"/>
-                     <w xml:id="S07397.4.2.9.14.03300">ביומו</w>
-                     <w xml:id="S07397.4.2.9.14.03400">תתן</w>
-                     <w xml:id="S07397.4.2.9.14.03500">שכרו</w>
-                     <w xml:id="S07397.4.2.9.14.03600">ואין</w>
-                     <w xml:id="S07397.4.2.9.14.03700">בו</w>
-                     <w xml:id="S07397.4.2.9.14.03800">משום</w>
-                     <w xml:id="S07397.4.2.9.14.03900">לא</w>
-                     <w xml:id="S07397.4.2.9.14.04000">תלי<c rend="tall">ן</c>
-                     </w>
-                     <pb xml:id="S07397.80v" n="80v" type="1-col"/>
-                     <cb xml:id="S07397.80rv" n="80vA" type="1-col"/>
-                     <lb n="1"/>
-                     <w xml:id="S07397.4.2.9.14.04100">פעולת</w>
-                     <w xml:id="S07397.4.2.9.14.04200">שכיר</w>
-                     <w xml:id="S07397.4.2.9.14.04300">אתך</w>
-                     <w xml:id="S07397.4.2.9.14.04400">עד</w>
-                     <w xml:id="S07397.4.2.9.14.04500">בקר</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <space extent="2" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.15">
-                     <w xml:id="S07397.4.2.9.15.00100">המלוה</w>
-                     <w xml:id="S07397.4.2.9.15.00200">א<c rend="wide">ת</c>
-                     </w>
-                     <lb n="2"/>
-                     <w xml:id="S07397.4.2.9.15.00300">חבירו</w>
-                     <w xml:id="S07397.4.2.9.15.00400">לא</w>
-                     <w xml:id="S07397.4.2.9.15.00500">ימשכננו</w>
-                     <w xml:id="S07397.4.2.9.15.00600">אלא</w>
-                     <w xml:id="S07397.4.2.9.15.00700">בבית</w>
-                     <w xml:id="S07397.4.2.9.15.00800">דין</w>
-                     <w xml:id="S07397.4.2.9.15.00900">לא</w>
-                     <surplus xml:id="S07397.d33e22514" reason="fill">יכנ</surplus>
-                     <lb n="3"/>
-                     <w xml:id="S07397.4.2.9.15.01000">יכנס</w>
-                     <w xml:id="S07397.4.2.9.15.01100">בביתו</w>
-                     <w xml:id="S07397.4.2.9.15.01200">ויטול</w>
-                     <w xml:id="S07397.4.2.9.15.01300">משכונו</w>
-                     <w xml:id="S07397.4.2.9.15.01400">
-                        <choice>
-                           <abbr>שנ<am rend="overdot">׳</am>
-                           </abbr>
-                           <expan>שנאמר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.15.01500">בחוץ</w>
-                     <space extent="2" unit="chars"/>
-                     <surplus xml:id="S07397.d33e22553" reason="fill">ת</surplus>
-                     <lb n="4"/>
-                     <w xml:id="S07397.4.2.9.15.01600">תעמד</w>
-                     <w xml:id="S07397.4.2.9.15.01700">והאיש</w>
-                     <w xml:id="S07397.4.2.9.15.01800">
-                        <choice>
-                           <abbr>וגו<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>וגומר</expan>
-                        </choice>
-                     </w>
-                     <pc type="stop" rend="gershayyim">.</pc>
-                     <w xml:id="S07397.4.2.9.15.01900">היו</w>
-                     <w xml:id="S07397.4.2.9.15.02000">לו</w>
-                     <w xml:id="S07397.4.2.9.15.02100">שני</w>
-                     <w xml:id="S07397.4.2.9.15.02200">כלי<c rend="tall">ם</c>
-                     </w>
-                     <lb n="5"/>
-                     <w xml:id="S07397.4.2.9.15.02300">נוטל</w>
-                     <w xml:id="S07397.4.2.9.15.02400">אחד</w>
-                     <w xml:id="S07397.4.2.9.15.02500">ומחזיר</w>
-                     <w xml:id="S07397.4.2.9.15.02600">אחד</w>
-                     <w xml:id="S07397.4.2.9.15.02700">מחזיר</w>
-                     <w xml:id="S07397.4.2.9.15.02800">את</w>
-                     <w xml:id="S07397.4.2.9.15.02900">הכר</w>
-                     <lb n="6"/>
-                     <w xml:id="S07397.4.2.9.15.03000">בלילה</w>
-                     <w xml:id="S07397.4.2.9.15.03100">ואת</w>
-                     <w xml:id="S07397.4.2.9.15.03200">המחרישה</w>
-                     <w xml:id="S07397.4.2.9.15.03300">ביום</w>
-                     <w xml:id="S07397.4.2.9.15.03400">ואם</w>
-                     <w xml:id="S07397.4.2.9.15.03500">מת</w>
-                     <w xml:id="S07397.4.2.9.15.03600">אינו</w>
-                     <lb n="7"/>
-                     <w xml:id="S07397.4.2.9.15.03700">מחזיר</w>
-                     <w xml:id="S07397.4.2.9.15.03800">ליורשי<damageSpan type="unclear" spanTo="#d2e6067" subtype="writ"/>
-                     </w>
-                     <span type="altChar" to="#d2e6068"/>
-                     <w xml:id="S07397.4.2.9.15.03900">
-                        <c>ו</c>
-                        <c>ן</c>
-                     </w>
-                     <anchor xml:id="d2e6068" type="seg"/>
-                     <anchor xml:id="d2e6067" type="unclear"/>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <w xml:id="S07397.4.2.9.15.04000">רבן</w>
-                     <w xml:id="S07397.4.2.9.15.04100">שמעון</w>
-                     <w xml:id="S07397.4.2.9.15.04200">בן</w>
-                     <w xml:id="S07397.4.2.9.15.04300">גמלי<c rend="ligature">אל</c>
-                     </w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <lb n="8"/>
-                     <w xml:id="S07397.4.2.9.15.04400">אומר</w>
-                     <w xml:id="S07397.4.2.9.15.04500">אף</w>
-                     <w xml:id="S07397.4.2.9.15.04600">לעצמו</w>
-                     <w xml:id="S07397.4.2.9.15.04700">אינו</w>
-                     <w xml:id="S07397.4.2.9.15.04800">מחזיר</w>
-                     <w xml:id="S07397.4.2.9.15.04900">אלא</w>
-                     <w xml:id="S07397.4.2.9.15.05000">ע<c rend="tall">ד</c>
-                     </w>
-                     <lb n="9"/>
-                     <w xml:id="S07397.4.2.9.15.05100">שלשים</w>
-                     <w xml:id="S07397.4.2.9.15.05200">יום</w>
-                     <w xml:id="S07397.4.2.9.15.05300">ומשלשים</w>
-                     <w xml:id="S07397.4.2.9.15.05400">יום</w>
-                     <w xml:id="S07397.4.2.9.15.05500">ולהלן</w>
-                     <w xml:id="S07397.4.2.9.15.05600">מוכרן</w>
-                     <lb n="10"/>
-                     <w xml:id="S07397.4.2.9.15.05700">בבית</w>
-                     <w xml:id="S07397.4.2.9.15.05800">דין</w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <w xml:id="S07397.4.2.9.15.05900">אלמנה</w>
-                     <w xml:id="S07397.4.2.9.15.06000">בין</w>
-                     <w xml:id="S07397.4.2.9.15.06100">שהיא</w>
-                     <w xml:id="S07397.4.2.9.15.06200">עניי<c rend="tall">ה</c>
-                     </w>
-                     <lb n="11"/>
-                     <w xml:id="S07397.4.2.9.15.06300">ובין</w>
-                     <w xml:id="S07397.4.2.9.15.06400">שהיא</w>
-                     <w xml:id="S07397.4.2.9.15.06500">עשירה</w>
-                     <w xml:id="S07397.4.2.9.15.06600">אין</w>
-                     <w xml:id="S07397.4.2.9.15.06700">ממשכנין</w>
-                     <space extent="1" unit="chars"/>
-                     <surplus xml:id="S07397.d33e22791" reason="fill">?</surplus>
-                     <lb n="12"/>
-                     <w xml:id="S07397.4.2.9.15.06800">אותה</w>
-                     <w xml:id="S07397.4.2.9.15.06900">
-                        <choice>
-                           <abbr>שנ<am rend="overline">׳</am>
-                           </abbr>
-                           <expan>שנאמר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.15.07000">לא</w>
-                     <w xml:id="S07397.4.2.9.15.07100">תחבול</w>
-                     <w xml:id="S07397.4.2.9.15.07200">בגד</w>
-                     <w xml:id="S07397.4.2.9.15.07300">אלמנה</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <lb n="13"/>
-                     <space extent="1" unit="chars"/>
-                  </ab>
-                  <ab xml:id="S07397.4.2.9.16">
-                     <w xml:id="S07397.4.2.9.16.00100">החובל</w>
-                     <w xml:id="S07397.4.2.9.16.00200">את</w>
-                     <w xml:id="S07397.4.2.9.16.00300">הרחיים</w>
-                     <w xml:id="S07397.4.2.9.16.00400">עובר</w>
-                     <w xml:id="S07397.4.2.9.16.00500">בלא</w>
-                     <w xml:id="S07397.4.2.9.16.00600">תעש<c rend="wide">ה</c>
-                     </w>
-                     <lb n="14"/>
-                     <w xml:id="S07397.4.2.9.16.00700">וחייב</w>
-                     <w xml:id="S07397.4.2.9.16.00800">משום</w>
-                     <w xml:id="S07397.4.2.9.16.00900">שני</w>
-                     <w xml:id="S07397.4.2.9.16.01000">כלים</w>
-                     <w xml:id="S07397.4.2.9.16.01100">
-                        <choice>
-                           <abbr>שנ<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>שנאמר</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.16.01200">לא</w>
-                     <w xml:id="S07397.4.2.9.16.01300">יחב<c rend="wide tall">ל</c>
-                     </w>
-                     <lb n="15"/>
-                     <w xml:id="S07397.4.2.9.16.01400">ריחים</w>
-                     <w xml:id="S07397.4.2.9.16.01500">ורכב<damageSpan type="damage" spanTo="#d2e6132"/>
-                     </w>
-                     <pc type="stop" rend="raisedDot">.</pc>
-                     <anchor xml:id="d2e6132" type="damage"/>
-                     <w xml:id="S07397.4.2.9.16.01600">לא</w>
-                     <w xml:id="S07397.4.2.9.16.01700">ריחיים</w>
-                     <w xml:id="S07397.4.2.9.16.01800">ורכב</w>
-                     <w xml:id="S07397.4.2.9.16.01900">בלבד</w>
-                     <w xml:id="S07397.4.2.9.16.02000">אמרו</w>
-                     <lb n="16"/>
-                     <w xml:id="S07397.4.2.9.16.02100">
-                        <choice>
-                           <abbr>אל<am rend="overmark">׳</am>
-                           </abbr>
-                           <expan>אלא</expan>
-                        </choice>
-                     </w>
-                     <w xml:id="S07397.4.2.9.16.02200">כל</w>
-                     <w xml:id="S07397.4.2.9.16.02300">דבר</w>
-                     <w xml:id="S07397.4.2.9.16.02400">שעושין</w>
-                     <w xml:id="S07397.4.2.9.16.02500">בו</w>
-                     <w xml:id="S07397.4.2.9.16.02600">אוכל</w>
-                     <w xml:id="S07397.4.2.9.16.02700">נפש</w>
-                     <w xml:id="S07397.4.2.9.16.02800">
-                        <choice>
-                           <abbr>שנ<am rend="overline">׳</am>
-                           </abbr>
-                           <expan>שנאמר</expan>
-                        </choice>
-                     </w>
-                     <lb n="17"/>
-                     <w xml:id="S07397.4.2.9.16.02900">כי</w>
-                     <w xml:id="S07397.4.2.9.16.03000">נפש</w>
-                     <space extent="7" unit="chars"/>
-                     <w xml:id="S07397.4.2.9.16.03100">הוא</w>
-                     <w xml:id="S07397.4.2.9.16.03200">חובל</w>
-                     <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <lb n="18"/>
-                  </ab>
-                  <trailer xml:id="S07397.4.2.9.T" rend="size(large) pad(b) ornamented()">
+      </w>
+      <lb xml:id="S07397.080rA.27" n="27"/>
+      <w xml:id="S07397.4.2.9.2.00160">מנכה</w>
+      <w xml:id="S07397.4.2.9.2.00170">מן</w>
+      <w xml:id="S07397.4.2.9.2.00180">חכירו</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="6" unit="chars"/>
+      <w xml:id="S07397.4.2.9.2.00190">אם</w>
+      <w xml:id="S07397.4.2.9.2.00200">
+         <choice>
+            <abbr>אמ<am rend="overmark">׳</am>
+            </abbr>
+            <expan>אמר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.2.00210">ליה</w>
+      <damageSpan spanTo="#S07397.080rA.27.d1e5209" type="unclear" subtype="writ"/>
+      <w xml:id="S07397.4.2.9.2.00220">
+         <delSpan spanTo="#S07397.080rA.27.d1e5210"
+                  type="del"
+                  hand="h1"
+                  rend="rubbing"/>ה<anchor xml:id="S07397.080rA.27.d1e5210" type="del"/>
+      </w>
+      <milestone unit="seg" spanTo="#S07397.080rA.27.d1e5212" function="CHECK-ME"/>
+      <w xml:id="S07397.4.2.9.2.00230">
+         <delSpan spanTo="#S07397.080rA.27.d1e5213"
+                  type="del"
+                  hand="h1"
+                  rend="rubbing"/>ה<anchor xml:id="S07397.080rA.27.d1e5213" type="del"/>
+         <anchor xml:id="S07397.080rA.27.d1e5212" type=""/>
+         <anchor xml:id="S07397.080rA.27.d1e5209" type="unclear"/>חכי<c xml:id="S07397.4.2.9.2.00230.0050" rend="wide">ר</c>
+      </w>
+      <lb xml:id="S07397.080rA.28" n="28"/>
+      <w xml:id="S07397.4.2.9.2.00240">לי</w>
+      <w xml:id="S07397.4.2.9.2.00250">שדה</w>
+      <w xml:id="S07397.4.2.9.2.00260">בית</w>
+      <w xml:id="S07397.4.2.9.2.00270">השלחין</w>
+      <w xml:id="S07397.4.2.9.2.00280">זו</w>
+      <w xml:id="S07397.4.2.9.2.00290">או</w>
+      <w xml:id="S07397.4.2.9.2.00300">בית</w>
+      <w xml:id="S07397.4.2.9.2.00310">האילן</w>
+      <w xml:id="S07397.4.2.9.2.00320">ז<c xml:id="S07397.4.2.9.2.00320.0020" rend="wide tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rA.29" n="29"/>
+      <w xml:id="S07397.4.2.9.2.00330">ויבש</w>
+      <w xml:id="S07397.4.2.9.2.00340">המעיין</w>
+      <w xml:id="S07397.4.2.9.2.00350">ונקצץ</w>
+      <w xml:id="S07397.4.2.9.2.00360">האילן</w>
+      <w xml:id="S07397.4.2.9.2.00370">מנכה</w>
+      <w xml:id="S07397.4.2.9.2.00380">לו</w>
+      <w xml:id="S07397.4.2.9.2.00390">מן</w>
+      <space extent="1" unit="chars"/>
+      <surplus xml:id="S07397.080rA.29d1e5226">?</surplus>
+      <lb xml:id="S07397.080rA.30" n="30"/>
+      <w xml:id="S07397.4.2.9.2.00400">חכירו</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="4" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.3">
+      <w xml:id="S07397.4.2.9.3.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.3.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.3.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.3.00040">
+         <addSpan spanTo="#S07397.080rA.30.d1e5235"
+                  type="add"
+                  place="above line"
+                  hand="#h1"/>וזכה</w>
+      <w xml:id="S07397.4.2.9.3.00050">בה<anchor xml:id="S07397.080rA.30.d1e5235" type="add"/>
+      </w>
+      <w xml:id="S07397.4.2.9.3.00060">מי</w>
+      <surplus xml:id="S07397.080rA.30d1e5238">שזכ</surplus>
+      <lb xml:id="S07397.080rA.31" n="31"/>
+      <w xml:id="S07397.4.2.9.3.00070">שזכה</w>
+      <w xml:id="S07397.4.2.9.3.00080">בה</w>
+      <w xml:id="S07397.4.2.9.3.00090">ה</w>
+      <w xml:id="S07397.4.2.9.3.00100">
+         <addSpan spanTo="#S07397.080rA.31.d1e5242"
+                  type="add"
+                  place="above line"
+                  hand="#h1"/>ו<anchor xml:id="S07397.080rA.31.d1e5242" type="add"/>בירה</w>
+      <w xml:id="S07397.4.2.9.3.00110">שמין</w>
+      <w xml:id="S07397.4.2.9.3.00120">אותה</w>
+      <w xml:id="S07397.4.2.9.3.00130">כמה</w>
+      <w xml:id="S07397.4.2.9.3.00140">היא</w>
+      <lb xml:id="S07397.080rA.32" n="32"/>
+      <w xml:id="S07397.4.2.9.3.00150">ראויה</w>
+      <w xml:id="S07397.4.2.9.3.00160">לעשות</w>
+      <w xml:id="S07397.4.2.9.3.00170">ונותנין</w>
+      <w xml:id="S07397.4.2.9.3.00180">לו</w>
+      <w xml:id="S07397.4.2.9.3.00190">שכ<damageSpan spanTo="#S07397.080rA.32.d1e5247" type="damage"/>ר<anchor xml:id="S07397.080rA.32.d1e5247" type="damage"/>
+      </w>
+      <w xml:id="S07397.4.2.9.3.00200">כותב</w>
+      <w xml:id="S07397.4.2.9.3.00210">א<c xml:id="S07397.4.2.9.3.00210.0020" rend="tall">ם</c>
+      </w>
+      <lb xml:id="S07397.080rA.33" n="33"/>
+      <w xml:id="S07397.4.2.9.3.00220">אוביד</w>
+      <w xml:id="S07397.4.2.9.3.00230">ולא</w>
+      <w xml:id="S07397.4.2.9.3.00240">אעביד</w>
+      <w xml:id="S07397.4.2.9.3.00250">אשלם</w>
+      <w xml:id="S07397.4.2.9.3.00260">לך</w>
+      <damageSpan spanTo="#S07397.080rA.33.d1e5254" type="unclear" subtype="writ"/>
+      <milestone unit="seg" spanTo="#S07397.080rA.33.d1e5255" type="altChar"/>
+      <w xml:id="S07397.4.2.9.3.00270">
+         <c xml:id="S07397.4.2.9.3.00270.0010">ב</c>
+         <c xml:id="S07397.4.2.9.3.00270.0020">כ</c>
+         <anchor xml:id="S07397.080rA.33.d1e5255" type="altChar"/>
+         <anchor xml:id="S07397.080rA.33.d1e5254" type="unclear"/>מיטבה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <lb xml:id="S07397.080rA.34" n="34"/>
+      <space extent="3" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.4">
+      <w xml:id="S07397.4.2.9.4.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.4.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.4.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.4.00040">ולא</w>
+      <w xml:id="S07397.4.2.9.4.00050">רצה</w>
+      <w xml:id="S07397.4.2.9.4.00060">לנקש</w>
+      <space extent="1" unit="chars"/>
+      <surplus xml:id="S07397.080rA.34d1e5266">?</surplus>
+      <lb xml:id="S07397.080rA.35" n="35"/>
+      <w xml:id="S07397.4.2.9.4.00070">אמר</w>
+      <w xml:id="S07397.4.2.9.4.00080">לו</w>
+      <w xml:id="S07397.4.2.9.4.00090">מה</w>
+      <w xml:id="S07397.4.2.9.4.00100">איכפת</w>
+      <w xml:id="S07397.4.2.9.4.00110">לך</w>
+      <w xml:id="S07397.4.2.9.4.00120">הואיל</w>
+      <w xml:id="S07397.4.2.9.4.00130">ואני</w>
+      <w xml:id="S07397.4.2.9.4.00140">נותן</w>
+      <w xml:id="S07397.4.2.9.4.00150">ל<c xml:id="S07397.4.2.9.4.00150.0020" rend="wide tall">ך</c>
+      </w>
+      <lb xml:id="S07397.080rA.36" n="36"/>
+      <w xml:id="S07397.4.2.9.4.00160">חכירך</w>
+      <w xml:id="S07397.4.2.9.4.00170">אין</w>
+      <w xml:id="S07397.4.2.9.4.00180">שומעין</w>
+      <w xml:id="S07397.4.2.9.4.00190">לו</w>
+      <w xml:id="S07397.4.2.9.4.00200">שהוא</w>
+      <w xml:id="S07397.4.2.9.4.00210">
+         <choice>
+            <abbr>אומ<am rend="overmark">׳</am>
+            </abbr>
+            <expan>אומר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.4.00220">לו</w>
+      <surplus xml:id="S07397.080rA.36d1e5281">למ</surplus>
+      <lb xml:id="S07397.080rA.37" n="37"/>
+      <w xml:id="S07397.4.2.9.4.00230">למחר</w>
+      <w xml:id="S07397.4.2.9.4.00240">אתה</w>
+      <w xml:id="S07397.4.2.9.4.00250">יוצא</w>
+      <w xml:id="S07397.4.2.9.4.00260">ממנה</w>
+      <w xml:id="S07397.4.2.9.4.00270">ואתה</w>
+      <w xml:id="S07397.4.2.9.4.00280">מעל<c xml:id="S07397.4.2.9.4.00280.0040" rend="wide tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rA.38" n="38"/>
+      <w xml:id="S07397.4.2.9.4.00290">לפני</w>
+      <w xml:id="S07397.4.2.9.4.00300">עשבים</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="3" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.5">
+      <w xml:id="S07397.4.2.9.5.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.5.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.5.00030">מחבירו</w>
+      <cb xml:id="S07397.080rB"/>
+      <lb xml:id="S07397.080rB.1" n="1"/>
+      <w xml:id="S07397.4.2.9.5.00040">ולא</w>
+      <w xml:id="S07397.4.2.9.5.00050">עשת</w>
+      <w xml:id="S07397.4.2.9.5.00060">אם</w>
+      <w xml:id="S07397.4.2.9.5.00070">יש</w>
+      <w xml:id="S07397.4.2.9.5.00080">בה</w>
+      <w xml:id="S07397.4.2.9.5.00090">כדי</w>
+      <w xml:id="S07397.4.2.9.5.00100">להעמיד</w>
+      <w xml:id="S07397.4.2.9.5.00110">כ<damageSpan spanTo="#S07397.080rB.1.d1e5298" type="damage"/>
+         <c xml:id="S07397.4.2.9.5.00110.0020" rend="wide">ר</c>
+         <anchor xml:id="S07397.080rB.1.d1e5298" type="damage"/>י</w>
+      <lb xml:id="S07397.080rB.2" n="2"/>
+      <w xml:id="S07397.4.2.9.5.00120">חייב</w>
+      <w xml:id="S07397.4.2.9.5.00130">ליטפל</w>
+      <w xml:id="S07397.4.2.9.5.00140">בה</w>
+      <w xml:id="S07397.4.2.9.5.00150">אמר</w>
+      <w xml:id="S07397.4.2.9.5.00160">
+         <choice>
+            <abbr>ר<am rend="overdot">׳</am>
+            </abbr>
+            <expan>רבי</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.5.00170">יהודה</w>
+      <w xml:id="S07397.4.2.9.5.00180">מה</w>
+      <w xml:id="S07397.4.2.9.5.00190">קיצב<c xml:id="S07397.4.2.9.5.00190.0050" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rB.3" n="3"/>
+      <w xml:id="S07397.4.2.9.5.00200">כרי</w>
+      <w xml:id="S07397.4.2.9.5.00210">אלא</w>
+      <w xml:id="S07397.4.2.9.5.00220">אם</w>
+      <w xml:id="S07397.4.2.9.5.00230">יש</w>
+      <w xml:id="S07397.4.2.9.5.00240">בה</w>
+      <w xml:id="S07397.4.2.9.5.00250">ניפלה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="2" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.6">
+      <w xml:id="S07397.4.2.9.6.00010">המקב<c xml:id="S07397.4.2.9.6.00010.0050" rend="wide tall">ל</c>
+      </w>
+      <lb xml:id="S07397.080rB.4" n="4"/>
+      <w xml:id="S07397.4.2.9.6.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.6.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.6.00040">ואכלה</w>
+      <w xml:id="S07397.4.2.9.6.00050">חגב</w>
+      <w xml:id="S07397.4.2.9.6.00060">או</w>
+      <w xml:id="S07397.4.2.9.6.00070">נשרפ</w>
+      <w xml:id="S07397.4.2.9.6.00080" rend="tall">ה</w>
+      <lb xml:id="S07397.080rB.5" n="5"/>
+      <w xml:id="S07397.4.2.9.6.00090">אם</w>
+      <w xml:id="S07397.4.2.9.6.00100">מכת</w>
+      <w xml:id="S07397.4.2.9.6.00110">מדינה</w>
+      <w xml:id="S07397.4.2.9.6.00120">הוא</w>
+      <w xml:id="S07397.4.2.9.6.00130">מנכה</w>
+      <w xml:id="S07397.4.2.9.6.00140">לו</w>
+      <w xml:id="S07397.4.2.9.6.00150">מן</w>
+      <w xml:id="S07397.4.2.9.6.00160">חכי<c xml:id="S07397.4.2.9.6.00160.0040" rend="tall">ר</c>ו</w>
+      <lb xml:id="S07397.080rB.6" n="6"/>
+      <w xml:id="S07397.4.2.9.6.00170">ואם</w>
+      <w xml:id="S07397.4.2.9.6.00180">אינו</w>
+      <w xml:id="S07397.4.2.9.6.00190">מכת</w>
+      <w xml:id="S07397.4.2.9.6.00200">מכת</w>
+      <w xml:id="S07397.4.2.9.6.00210">מדינה</w>
+      <w xml:id="S07397.4.2.9.6.00220">אינו</w>
+      <w xml:id="S07397.4.2.9.6.00230">מנכה</w>
+      <lb xml:id="S07397.080rB.7" n="7"/>
+      <w xml:id="S07397.4.2.9.6.00240">לו</w>
+      <w xml:id="S07397.4.2.9.6.00250">מ<damageSpan spanTo="#S07397.080rB.7.d1e5337" type="unclear" subtype="writ"/>ן<anchor xml:id="S07397.080rB.7.d1e5337" type="unclear"/>
+      </w>
+      <w xml:id="S07397.4.2.9.6.00260">החכירו</w>
+      <w xml:id="S07397.4.2.9.6.00270">
+         <choice>
+            <abbr>ר<am rend="overdot">׳</am>
+            </abbr>
+            <expan>רבי</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.6.00280">יהודה</w>
+      <w xml:id="S07397.4.2.9.6.00290">
+         <choice>
+            <abbr>אומ<am rend="overdot">׳</am>
+            </abbr>
+            <expan>אומר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.6.00300">אם</w>
+      <w xml:id="S07397.4.2.9.6.00310">קיבל<c xml:id="S07397.4.2.9.6.00310.0050" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rB.8" n="8"/>
+      <w xml:id="S07397.4.2.9.6.00320">במעות</w>
+      <w xml:id="S07397.4.2.9.6.00330">בין</w>
+      <w xml:id="S07397.4.2.9.6.00340">כך</w>
+      <w xml:id="S07397.4.2.9.6.00350">ובין</w>
+      <w xml:id="S07397.4.2.9.6.00360">כך</w>
+      <w xml:id="S07397.4.2.9.6.00370">אינו</w>
+      <w xml:id="S07397.4.2.9.6.00380">
+         <addSpan spanTo="#S07397.080rB.8.d1e5359"
+                  type="add"
+                  place="above line"
+                  hand="#h1"/>
+         <choice>
+            <abbr>מנכ<am rend="geresh">׳</am>
+            </abbr>
+            <expan>מנכה</expan>
+         </choice>
+         <anchor xml:id="S07397.080rB.8.d1e5359" type="add"/>
+      </w>
+      <w xml:id="S07397.4.2.9.6.00390">לו</w>
+      <w xml:id="S07397.4.2.9.6.00400">מן</w>
+      <w xml:id="S07397.4.2.9.6.00410">חכירו</w>
+      <damageSpan spanTo="#S07397.080rB.8.d1e5367" type="damage"/>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <lb xml:id="S07397.080rB.9" n="9"/>
+      <space extent="1" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.7">
+      <w xml:id="S07397.4.2.9.7.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.7.00020">
+         <delSpan spanTo="#S07397.080rB.9.d1e5374"
+                  type="del"
+                  hand="h1"
+                  rend="deletion mark"/>ש<anchor xml:id="S07397.080rB.9.d1e5374" type="del"/>
+      </w>
+      <w xml:id="S07397.4.2.9.7.00030">שדה</w>
+      <w xml:id="S07397.4.2.9.7.00040">בעשרים</w>
+      <w xml:id="S07397.4.2.9.7.00050">כור</w>
+      <w xml:id="S07397.4.2.9.7.00060">חיטין</w>
+      <lb xml:id="S07397.080rB.10" n="10"/>
+      <w xml:id="S07397.4.2.9.7.00070">לקתה</w>
+      <w xml:id="S07397.4.2.9.7.00080">נותן</w>
+      <w xml:id="S07397.4.2.9.7.00090">לו</w>
+      <w xml:id="S07397.4.2.9.7.00100">מתוכה</w>
+      <w xml:id="S07397.4.2.9.7.00110">היו</w>
+      <w xml:id="S07397.4.2.9.7.00120">חיטיה</w>
+      <w xml:id="S07397.4.2.9.7.00130">יפו<c xml:id="S07397.4.2.9.7.00130.0040" rend="wide tall">ת</c>
+      </w>
+      <lb xml:id="S07397.080rB.11" n="11"/>
+      <w xml:id="S07397.4.2.9.7.00140">לא</w>
+      <w xml:id="S07397.4.2.9.7.00150">יאמר</w>
+      <w xml:id="S07397.4.2.9.7.00160">לו</w>
+      <w xml:id="S07397.4.2.9.7.00170">הרי</w>
+      <w xml:id="S07397.4.2.9.7.00180">אני</w>
+      <w xml:id="S07397.4.2.9.7.00190">לוקח</w>
+      <w xml:id="S07397.4.2.9.7.00200">לך</w>
+      <w xml:id="S07397.4.2.9.7.00210">מן</w>
+      <w xml:id="S07397.4.2.9.7.00220">השו<c xml:id="S07397.4.2.9.7.00220.0040" rend="wide tall">ק</c>
+      </w>
+      <lb xml:id="S07397.080rB.12" n="12"/>
+      <w xml:id="S07397.4.2.9.7.00230">אלא</w>
+      <w xml:id="S07397.4.2.9.7.00240">נותן</w>
+      <w xml:id="S07397.4.2.9.7.00250">לו</w>
+      <w xml:id="S07397.4.2.9.7.00260">מתוכה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="4" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.8">
+      <w xml:id="S07397.4.2.9.8.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.8.00020">שד<c xml:id="S07397.4.2.9.8.00020.0030" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rB.13" n="13"/>
+      <w xml:id="S07397.4.2.9.8.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.8.00040">לזורעה</w>
+      <w xml:id="S07397.4.2.9.8.00050">שעורים</w>
+      <w xml:id="S07397.4.2.9.8.00060">חיטין</w>
+      <w xml:id="S07397.4.2.9.8.00070">
+         <c xml:id="S07397.4.2.9.8.00070.0010" rend="wide tall">ל</c>א</w>
+      <lb xml:id="S07397.080rB.14" n="14"/>
+      <w xml:id="S07397.4.2.9.8.00080">יזרענה</w>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <w xml:id="S07397.4.2.9.8.00090">חיטין</w>
+      <w xml:id="S07397.4.2.9.8.00100">יזרענה</w>
+      <w xml:id="S07397.4.2.9.8.00110">שעורים</w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <w xml:id="S07397.4.2.9.8.00120">רבן</w>
+      <surplus xml:id="S07397.080rB.14d1e5409">?</surplus>
+      <lb xml:id="S07397.080rB.15" n="15"/>
+      <w xml:id="S07397.4.2.9.8.00130">שמעון</w>
+      <w xml:id="S07397.4.2.9.8.00140">בן</w>
+      <w xml:id="S07397.4.2.9.8.00150">גמלי<c xml:id="S07397.4.2.9.8.00150.0050" rend="ligature">אל</c>
+      </w>
+      <w xml:id="S07397.4.2.9.8.00160">או<delSpan spanTo="#S07397.080rB.15.d1e5416"
+                  type="del"
+                  hand="h1"
+                  rend="overwritten"/>מ</w>
+      <milestone unit="seg" spanTo="#S07397.080rB.15.d1e5418" function="CHECK-ME"/>
+      <ptr xml:id="s2435" type="s" target="#e2435"/>
+      <w xml:id="S07397.4.2.9.8.00170">ס</w>
+      <milestone unit="seg" spanTo="#S07397.080rB.15.d1e5421" function="CHECK-ME"/>
+      <w xml:id="S07397.4.2.9.8.00180">ר</w>
+      <w xml:id="S07397.4.2.9.8.00190">קיטנית</w>
+      <w xml:id="S07397.4.2.9.8.00200">יזרענ<c xml:id="S07397.4.2.9.8.00200.0060" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rB.16" n="16"/>
+      <w xml:id="S07397.4.2.9.8.00210">תבואה</w>
+      <w xml:id="S07397.4.2.9.8.00220">תבואה</w>
+      <w xml:id="S07397.4.2.9.8.00230">לא</w>
+      <w xml:id="S07397.4.2.9.8.00240">יזרענה</w>
+      <w xml:id="S07397.4.2.9.8.00250">קיטנית</w>
+      <w xml:id="S07397.4.2.9.8.00260">
+         <choice>
+            <abbr>ר<am rend="overmark">׳</am>ש<am rend="overmark">׳</am>ב<am rend="overmark">׳</am>ג<am rend="overmark">׳</am>
+            </abbr>
+            <expan>רבן שמעון בן גמליאל</expan>
+         </choice>
+      </w>
+      <lb xml:id="S07397.080rB.17" n="17"/>
+      <w xml:id="S07397.4.2.9.8.00270">או<delSpan spanTo="#S07397.080rB.17.d1e5446"
+                  type="del"
+                  hand="h1"
+                  rend="overwritten"/>מ<anchor xml:id="S07397.080rB.17.d1e5446" type="del"/>
+         <addSpan spanTo="#S07397.080rB.17.d1e5448"
+                  type="add"
+                  place="overwritten"
+                  hand="#h1"/>ס<anchor xml:id="S07397.080rB.17.d1e5448" type="add"/>ר</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="3" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.9">
+      <w xml:id="S07397.4.2.9.9.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.9.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.9.00030">מחבירו</w>
+      <w xml:id="S07397.4.2.9.9.00040">לשנים</w>
+      <lb xml:id="S07397.080rB.18" n="18"/>
+      <damageSpan spanTo="#S07397.080rB.18.d1e5457" type="damage"/>
+      <w xml:id="S07397.4.2.9.9.00050">מ</w>
+      <anchor xml:id="S07397.080rB.18.d1e5457" type="damage"/>
+      <damageSpan spanTo="#S07397.080rB.18.d1e5458" type="unclear" subtype="writ"/>
+      <milestone unit="seg" spanTo="#S07397.080rB.18.d1e5459" type="altChar"/>
+      <w xml:id="S07397.4.2.9.9.00060">
+         <c xml:id="S07397.4.2.9.9.00060.0010">י</c>
+         <c xml:id="S07397.4.2.9.9.00060.0020">ו</c>
+         <anchor xml:id="S07397.080rB.18.d1e5459" type="altChar"/>
+         <anchor xml:id="S07397.080rB.18.d1e5458" type="unclear"/>עטים</w>
+      <w xml:id="S07397.4.2.9.9.00070">לא</w>
+      <w xml:id="S07397.4.2.9.9.00080">יזרענה</w>
+      <w xml:id="S07397.4.2.9.9.00090">פשתן</w>
+      <w xml:id="S07397.4.2.9.9.00100">ואין</w>
+      <w xml:id="S07397.4.2.9.9.00110">לו</w>
+      <w xml:id="S07397.4.2.9.9.00120">בקורת</w>
+      <lb xml:id="S07397.080rB.19" n="19"/>
+      <w xml:id="S07397.4.2.9.9.00130">ש<damageSpan spanTo="#S07397.080rB.19.d1e5465" type="unclear" subtype="writ"/>י<anchor xml:id="S07397.080rB.19.d1e5465" type="unclear"/>קמה</w>
+      <w xml:id="S07397.4.2.9.9.00140">קבלה</w>
+      <w xml:id="S07397.4.2.9.9.00150">ממנה</w>
+      <w xml:id="S07397.4.2.9.9.00160">לשבע</w>
+      <w xml:id="S07397.4.2.9.9.00170">שני<c xml:id="S07397.4.2.9.9.00170.0040" rend="tall">ם</c>
+      </w>
+      <lb xml:id="S07397.080rB.20" n="20"/>
+      <w xml:id="S07397.4.2.9.9.00180">זורעה</w>
+      <w xml:id="S07397.4.2.9.9.00190">שנה</w>
+      <w xml:id="S07397.4.2.9.9.00200">ראשונה</w>
+      <w xml:id="S07397.4.2.9.9.00210">פשתן</w>
+      <w xml:id="S07397.4.2.9.9.00220">ויש</w>
+      <w xml:id="S07397.4.2.9.9.00230">לו</w>
+      <lb xml:id="S07397.080rB.21" n="21"/>
+      <w xml:id="S07397.4.2.9.9.00240">בקורת</w>
+      <w xml:id="S07397.4.2.9.9.00250">ש<damageSpan spanTo="#S07397.080rB.21.d1e5475" type="unclear" subtype="writ"/>י<anchor xml:id="S07397.080rB.21.d1e5475" type="unclear"/>קמה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="3" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.10">
+      <w xml:id="S07397.4.2.9.10.00010">המקבל</w>
+      <w xml:id="S07397.4.2.9.10.00020">שדה</w>
+      <w xml:id="S07397.4.2.9.10.00030">מחבירו</w>
+      <lb xml:id="S07397.080rB.22" n="22"/>
+      <w xml:id="S07397.4.2.9.10.00040">שבע</w>
+      <w xml:id="S07397.4.2.9.10.00050">שנים</w>
+      <w xml:id="S07397.4.2.9.10.00060">בשבע</w>
+      <w xml:id="S07397.4.2.9.10.00070">מאות</w>
+      <w xml:id="S07397.4.2.9.10.00080">דינר</w>
+      <w xml:id="S07397.4.2.9.10.00090">אין</w>
+      <space extent="1" unit="chars"/>
+      <surplus xml:id="S07397.080rB.22d1e5486">?</surplus>
+      <lb xml:id="S07397.080rB.23" n="23"/>
+      <w xml:id="S07397.4.2.9.10.00100">השביעית</w>
+      <w xml:id="S07397.4.2.9.10.00110">
+         <addSpan spanTo="#S07397.080rB.23.d1e5490"
+                  type="add"
+                  place="overwritten"
+                  hand="#h1"/>מ<anchor xml:id="S07397.080rB.23.d1e5490" type="add"/>ין</w>
+      <w xml:id="S07397.4.2.9.10.00120">המיניין</w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <w xml:id="S07397.4.2.9.10.00130">שבוע</w>
+      <w xml:id="S07397.4.2.9.10.00140">אח<c xml:id="S07397.4.2.9.10.00140.0030" rend="wide tall">ת</c>
+      </w>
+      <lb xml:id="S07397.080rB.24" n="24"/>
+      <w xml:id="S07397.4.2.9.10.00150">בשבע</w>
+      <w xml:id="S07397.4.2.9.10.00160">מאות</w>
+      <w xml:id="S07397.4.2.9.10.00170">דינר</w>
+      <w xml:id="S07397.4.2.9.10.00180">השביעית</w>
+      <w xml:id="S07397.4.2.9.10.00190">מן</w>
+      <surplus xml:id="S07397.080rB.24d1e5501">המי</surplus>
+      <lb xml:id="S07397.080rB.25" n="25"/>
+      <w xml:id="S07397.4.2.9.10.00200">המיניין</w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <space extent="1" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.11">
+      <w xml:id="S07397.4.2.9.11.00010">שכיר</w>
+      <w xml:id="S07397.4.2.9.11.00020">יום</w>
+      <w xml:id="S07397.4.2.9.11.00030">גובה</w>
+      <w xml:id="S07397.4.2.9.11.00040">כל</w>
+      <w xml:id="S07397.4.2.9.11.00050">הליל<c xml:id="S07397.4.2.9.11.00050.0050" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rB.26" n="26"/>
+      <w xml:id="S07397.4.2.9.11.00060">ושכיר</w>
+      <w xml:id="S07397.4.2.9.11.00070">לילה</w>
+      <w xml:id="S07397.4.2.9.11.00080">גובה</w>
+      <w xml:id="S07397.4.2.9.11.00090">כל</w>
+      <w xml:id="S07397.4.2.9.11.00100">היום</w>
+      <w xml:id="S07397.4.2.9.11.00110">ושכיר</w>
+      <w xml:id="S07397.4.2.9.11.00120">שעות</w>
+      <lb xml:id="S07397.080rB.27" n="27"/>
+      <w xml:id="S07397.4.2.9.11.00130">גובה</w>
+      <w xml:id="S07397.4.2.9.11.00140">כל</w>
+      <w xml:id="S07397.4.2.9.11.00150">היום</w>
+      <w xml:id="S07397.4.2.9.11.00160">וכל</w>
+      <w xml:id="S07397.4.2.9.11.00170">הלילה</w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <space extent="2" unit="chars"/>
+      <w xml:id="S07397.4.2.9.11.00180">שכיר</w>
+      <w xml:id="S07397.4.2.9.11.00190">שב<c xml:id="S07397.4.2.9.11.00190.0030" rend="wide tall">ת</c>
+      </w>
+      <lb xml:id="S07397.080rB.28" n="28"/>
+      <w xml:id="S07397.4.2.9.11.00200">שכי</w>
+      <w xml:id="S07397.4.2.9.11.00210">
+         <addSpan spanTo="#S07397.080rB.28.d1e5526"
+                  type="add"
+                  place="overwritten"
+                  hand="#h1"/>ר<anchor xml:id="S07397.080rB.28.d1e5526" type="add"/>
+      </w>
+      <w xml:id="S07397.4.2.9.11.00220">חדש</w>
+      <w xml:id="S07397.4.2.9.11.00230">שכיר</w>
+      <w xml:id="S07397.4.2.9.11.00240">שנה</w>
+      <w xml:id="S07397.4.2.9.11.00250">שכיר</w>
+      <w xml:id="S07397.4.2.9.11.00260">שבוע</w>
+      <lb xml:id="S07397.080rB.29" n="29"/>
+      <w xml:id="S07397.4.2.9.11.00270">יצא</w>
+      <w xml:id="S07397.4.2.9.11.00280">ביום</w>
+      <w xml:id="S07397.4.2.9.11.00290">גובה</w>
+      <w xml:id="S07397.4.2.9.11.00300">כל</w>
+      <w xml:id="S07397.4.2.9.11.00310">היום</w>
+      <addSpan spanTo="#S07397.080rB.29.d1e5531"
+               type="add"
+               place="margin-right"
+               hand="#h1"/>
+      <lb xml:id="add.d1e5531.01"/>
+      <w xml:id="S07397.4.2.9.11.00320">יצא</w>
+      <w xml:id="S07397.4.2.9.11.00330">בלילה</w>
+      <w xml:id="S07397.4.2.9.11.00340">גובה</w>
+      <w xml:id="S07397.4.2.9.11.00350">כל</w>
+      <w xml:id="S07397.4.2.9.11.00360">
+         <choice>
+            <abbr>היו<am rend="none">׳</am>
+            </abbr>
+            <expan>היום</expan>
+         </choice>
+      </w>
+      <fw xml:id="S07397.080rB.29.d1e5531.fw-01"
+          type="catchw-corr-end"
+          rend="size(smaller) ornamented(n)                            place(margin-right)">
+         <w xml:id="S07397.080rB.29.d1e5531.fw-01.00010">וכל</w>
+         <w xml:id="S07397.080rB.29.d1e5531.fw-01.00020">הלילה</w>
+      </fw>
+      <w xml:id="S07397.4.2.9.11.00370">וכל</w>
+      <w xml:id="S07397.4.2.9.11.00380">הלילה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <lb xml:id="S07397.080rB.30" n="30"/>
+      <space extent="1" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.12">
+      <w xml:id="S07397.4.2.9.12.00010">אחד</w>
+      <w xml:id="S07397.4.2.9.12.00020">שכיר</w>
+      <w xml:id="S07397.4.2.9.12.00030">האדם</w>
+      <w xml:id="S07397.4.2.9.12.00040">ואחד</w>
+      <w xml:id="S07397.4.2.9.12.00050">שכיר</w>
+      <w xml:id="S07397.4.2.9.12.00060">הבהמה</w>
+      <lb xml:id="S07397.080rB.31" n="31"/>
+      <w xml:id="S07397.4.2.9.12.00070">ואחד</w>
+      <w xml:id="S07397.4.2.9.12.00080">שכיר</w>
+      <w xml:id="S07397.4.2.9.12.00090">הכלים</w>
+      <w xml:id="S07397.4.2.9.12.00100">יש</w>
+      <w xml:id="S07397.4.2.9.12.00110">בהן</w>
+      <w xml:id="S07397.4.2.9.12.00120">משום</w>
+      <w xml:id="S07397.4.2.9.12.00130">ביומו</w>
+      <lb xml:id="S07397.080rB.32" n="32"/>
+      <w xml:id="S07397.4.2.9.12.00140">תתן</w>
+      <w xml:id="S07397.4.2.9.12.00150">שכרו</w>
+      <w xml:id="S07397.4.2.9.12.00160">ויש</w>
+      <w xml:id="S07397.4.2.9.12.00170">בהן</w>
+      <w xml:id="S07397.4.2.9.12.00180">משום</w>
+      <w xml:id="S07397.4.2.9.12.00190">לא</w>
+      <w xml:id="S07397.4.2.9.12.00200">תלין</w>
+      <space extent="2" unit="chars"/>
+      <surplus xml:id="S07397.080rB.32d1e5553">?</surplus>
+      <lb xml:id="S07397.080rB.33" n="33"/>
+      <w xml:id="S07397.4.2.9.12.00210">פעולת</w>
+      <w xml:id="S07397.4.2.9.12.00220">שכיר</w>
+      <w xml:id="S07397.4.2.9.12.00230">אתך</w>
+      <w xml:id="S07397.4.2.9.12.00240">עד</w>
+      <w xml:id="S07397.4.2.9.12.00250">בקר</w>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <w xml:id="S07397.4.2.9.12.00260">אימתי</w>
+      <space extent="1" unit="chars"/>
+      <surplus xml:id="S07397.080rB.33d1e5562">?</surplus>
+      <lb xml:id="S07397.080rB.34" n="34"/>
+      <w xml:id="S07397.4.2.9.12.00270">בזמן</w>
+      <w xml:id="S07397.4.2.9.12.00280">שתבעו</w>
+      <w xml:id="S07397.4.2.9.12.00290">אבל</w>
+      <w xml:id="S07397.4.2.9.12.00300">לא</w>
+      <w xml:id="S07397.4.2.9.12.00310">תבעו</w>
+      <w xml:id="S07397.4.2.9.12.00320">אינו</w>
+      <w xml:id="S07397.4.2.9.12.00330">עוב<c xml:id="S07397.4.2.9.12.00330.0040" rend="wide tall">ר</c>
+      </w>
+      <lb xml:id="S07397.080rB.35" n="35"/>
+      <w xml:id="S07397.4.2.9.12.00340">עליו</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="3" unit="chars"/>
+      <w xml:id="S07397.4.2.9.12.00350">המחה</w>
+      <w xml:id="S07397.4.2.9.12.00360">
+         <addSpan spanTo="#S07397.080rB.35.d1e5574"
+                  type="add"
+                  place="above line"
+                  hand="#h1"/>ו<anchor xml:id="S07397.080rB.35.d1e5574" type="add"/>
+      </w>
+      <w xml:id="S07397.4.2.9.12.00370">אצל</w>
+      <w xml:id="S07397.4.2.9.12.00380">חנווני</w>
+      <w xml:id="S07397.4.2.9.12.00390">או</w>
+      <w xml:id="S07397.4.2.9.12.00400">אצל</w>
+      <surplus xml:id="S07397.080rB.35d1e5578">??</surplus>
+      <lb xml:id="S07397.080rB.36" n="36"/>
+      <w xml:id="S07397.4.2.9.12.00410">שולחני</w>
+      <w xml:id="S07397.4.2.9.12.00420">אינו</w>
+      <w xml:id="S07397.4.2.9.12.00430">עובר</w>
+      <w xml:id="S07397.4.2.9.12.00440">עליו</w>
+      <w xml:id="S07397.4.2.9.12.00450">השכיר</w>
+      <w xml:id="S07397.4.2.9.12.00460">נשבע</w>
+      <lb xml:id="S07397.080rB.37" n="37"/>
+      <w xml:id="S07397.4.2.9.12.00470">בזמנו</w>
+      <w xml:id="S07397.4.2.9.12.00480">ונוטל</w>
+      <w xml:id="S07397.4.2.9.12.00490">עבר</w>
+      <w xml:id="S07397.4.2.9.12.00500">זמנו</w>
+      <w xml:id="S07397.4.2.9.12.00510">אינו</w>
+      <w xml:id="S07397.4.2.9.12.00520">נשבע</w>
+      <w xml:id="S07397.4.2.9.12.00530">ונוטל</w>
+      <lb xml:id="S07397.080rB.38" n="38"/>
+      <w xml:id="S07397.4.2.9.12.00540">ואם</w>
+      <w xml:id="S07397.4.2.9.12.00550">יש</w>
+      <w xml:id="S07397.4.2.9.12.00560">עדים</w>
+      <w xml:id="S07397.4.2.9.12.00570">שתבעו</w>
+      <w xml:id="S07397.4.2.9.12.00580">הרי</w>
+      <w xml:id="S07397.4.2.9.12.00590">זה</w>
+      <w xml:id="S07397.4.2.9.12.00600">נשבע</w>
+      <lb xml:id="S07397.080rB.39" n="39"/>
+      <w xml:id="S07397.4.2.9.12.00610">ונוטל</w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <space extent="1" unit="chars"/>
+      <w xml:id="S07397.4.2.9.12.00620">גר</w>
+      <damageSpan spanTo="#S07397.080rB.39.d1e5593" type="unclear" subtype="writ"/>
+      <w xml:id="S07397.4.2.9.12.00630">
+         <delSpan spanTo="#S07397.080rB.39.d1e5594"
+                  type="del"
+                  hand="h1"
+                  rend="rubbing"/>ו<anchor xml:id="S07397.080rB.39.d1e5594" type="del"/>
+      </w>
+      <milestone unit="seg" spanTo="#S07397.080rB.39.d1e5596" function="CHECK-ME"/>
+      <w xml:id="S07397.4.2.9.12.00640">
+         <delSpan spanTo="#S07397.080rB.39.d1e5597"
+                  type="del"
+                  hand="h1"
+                  rend="rubbing"/>ו<anchor xml:id="S07397.080rB.39.d1e5597" type="del"/>
+         <anchor xml:id="S07397.080rB.39.d1e5596" type=""/>
+         <anchor xml:id="S07397.080rB.39.d1e5593" type="unclear"/>תושב</w>
+      <w xml:id="S07397.4.2.9.12.00650">יש</w>
+      <w xml:id="S07397.4.2.9.12.00660">בו</w>
+      <w xml:id="S07397.4.2.9.12.00670">משו<c xml:id="S07397.4.2.9.12.00670.0040" rend="tall">ם</c>
+      </w>
+      <lb xml:id="S07397.080rB.40" n="40"/>
+      <w xml:id="S07397.4.2.9.12.00680">ביומו</w>
+      <w xml:id="S07397.4.2.9.12.00690">תתן</w>
+      <w xml:id="S07397.4.2.9.12.00700">שכרו</w>
+      <w xml:id="S07397.4.2.9.12.00710">ואין</w>
+      <w xml:id="S07397.4.2.9.12.00720">בו</w>
+      <w xml:id="S07397.4.2.9.12.00730">משום</w>
+      <w xml:id="S07397.4.2.9.12.00740">לא</w>
+      <w xml:id="S07397.4.2.9.12.00750">תלי<c xml:id="S07397.4.2.9.12.00750.0040" rend="tall">ן</c>
+      </w>
+      <pb xml:id="S07397.080v"/>
+      <cb xml:id="S07397.080rv"/>
+      <lb xml:id="S07397.080rv.1" n="1"/>
+      <w xml:id="S07397.4.2.9.12.00760">פעולת</w>
+      <w xml:id="S07397.4.2.9.12.00770">שכיר</w>
+      <w xml:id="S07397.4.2.9.12.00780">אתך</w>
+      <w xml:id="S07397.4.2.9.12.00790">עד</w>
+      <w xml:id="S07397.4.2.9.12.00800">בקר</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <space extent="2" unit="chars"/>
+   </ab>
+   <ab xml:id="S07397.4.2.9.13">
+      <w xml:id="S07397.4.2.9.13.00010">המלוה</w>
+      <w xml:id="S07397.4.2.9.13.00020">א<c xml:id="S07397.4.2.9.13.00020.0020" rend="wide">ת</c>
+      </w>
+      <lb xml:id="S07397.080rv.2" n="2"/>
+      <w xml:id="S07397.4.2.9.13.00030">חבירו</w>
+      <w xml:id="S07397.4.2.9.13.00040">לא</w>
+      <w xml:id="S07397.4.2.9.13.00050">ימשכננו</w>
+      <w xml:id="S07397.4.2.9.13.00060">אלא</w>
+      <w xml:id="S07397.4.2.9.13.00070">בבית</w>
+      <w xml:id="S07397.4.2.9.13.00080">דין</w>
+      <w xml:id="S07397.4.2.9.13.00090">לא</w>
+      <surplus xml:id="S07397.080rv.2d1e5620">יכנ</surplus>
+      <lb xml:id="S07397.080rv.3" n="3"/>
+      <w xml:id="S07397.4.2.9.13.00100">יכנס</w>
+      <w xml:id="S07397.4.2.9.13.00110">בביתו</w>
+      <w xml:id="S07397.4.2.9.13.00120">ויטול</w>
+      <w xml:id="S07397.4.2.9.13.00130">משכונו</w>
+      <w xml:id="S07397.4.2.9.13.00140">
+         <choice>
+            <abbr>שנ<am rend="overdot">׳</am>
+            </abbr>
+            <expan>שנאמר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.13.00150">בחוץ</w>
+      <space extent="2" unit="chars"/>
+      <surplus xml:id="S07397.080rv.3d1e5632">ת</surplus>
+      <lb xml:id="S07397.080rv.4" n="4"/>
+      <w xml:id="S07397.4.2.9.13.00160">תעמד</w>
+      <w xml:id="S07397.4.2.9.13.00170">והאיש</w>
+      <w xml:id="S07397.4.2.9.13.00180">
+         <choice>
+            <abbr>וגו<am rend="overmark">׳</am>
+            </abbr>
+            <expan>וגומר</expan>
+         </choice>
+      </w>
+      <pc type="stop" rend="gershayyim">.</pc>
+      <w xml:id="S07397.4.2.9.13.00190">היו</w>
+      <w xml:id="S07397.4.2.9.13.00200">לו</w>
+      <w xml:id="S07397.4.2.9.13.00210">שני</w>
+      <w xml:id="S07397.4.2.9.13.00220">כלי<c xml:id="S07397.4.2.9.13.00220.0040" rend="tall">ם</c>
+      </w>
+      <lb xml:id="S07397.080rv.5" n="5"/>
+      <w xml:id="S07397.4.2.9.13.00230">נוטל</w>
+      <w xml:id="S07397.4.2.9.13.00240">אחד</w>
+      <w xml:id="S07397.4.2.9.13.00250">ומחזיר</w>
+      <w xml:id="S07397.4.2.9.13.00260">אחד</w>
+      <w xml:id="S07397.4.2.9.13.00270">מחזיר</w>
+      <w xml:id="S07397.4.2.9.13.00280">את</w>
+      <w xml:id="S07397.4.2.9.13.00290">הכר</w>
+      <lb xml:id="S07397.080rv.6" n="6"/>
+      <w xml:id="S07397.4.2.9.13.00300">בלילה</w>
+      <w xml:id="S07397.4.2.9.13.00310">ואת</w>
+      <w xml:id="S07397.4.2.9.13.00320">המחרישה</w>
+      <w xml:id="S07397.4.2.9.13.00330">ביום</w>
+      <w xml:id="S07397.4.2.9.13.00340">ואם</w>
+      <w xml:id="S07397.4.2.9.13.00350">מת</w>
+      <w xml:id="S07397.4.2.9.13.00360">אינו</w>
+      <lb xml:id="S07397.080rv.7" n="7"/>
+      <w xml:id="S07397.4.2.9.13.00370">מחזיר</w>
+      <w xml:id="S07397.4.2.9.13.00380">ליורשי</w>
+      <damageSpan spanTo="#S07397.080rv.7.d1e5655" type="unclear" subtype="writ"/>
+      <milestone unit="seg" spanTo="#S07397.080rv.7.d1e5656" type="altChar"/>
+      <w xml:id="S07397.4.2.9.13.00390">
+         <c xml:id="S07397.4.2.9.13.00390.0010">ו</c>
+         <c xml:id="S07397.4.2.9.13.00390.0020">ן</c>
+      </w>
+      <anchor xml:id="S07397.080rv.7.d1e5656" type="altChar"/>
+      <anchor xml:id="S07397.080rv.7.d1e5655" type="unclear"/>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <w xml:id="S07397.4.2.9.13.00400">רבן</w>
+      <w xml:id="S07397.4.2.9.13.00410">שמעון</w>
+      <w xml:id="S07397.4.2.9.13.00420">בן</w>
+      <w xml:id="S07397.4.2.9.13.00430">גמלי<c xml:id="S07397.4.2.9.13.00430.0050" rend="ligature">אל</c>
+      </w>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <lb xml:id="S07397.080rv.8" n="8"/>
+      <w xml:id="S07397.4.2.9.13.00440">אומר</w>
+      <w xml:id="S07397.4.2.9.13.00450">אף</w>
+      <w xml:id="S07397.4.2.9.13.00460">לעצמו</w>
+      <w xml:id="S07397.4.2.9.13.00470">אינו</w>
+      <w xml:id="S07397.4.2.9.13.00480">מחזיר</w>
+      <w xml:id="S07397.4.2.9.13.00490">אלא</w>
+      <w xml:id="S07397.4.2.9.13.00500">ע<c xml:id="S07397.4.2.9.13.00500.0020" rend="tall">ד</c>
+      </w>
+      <lb xml:id="S07397.080rv.9" n="9"/>
+      <w xml:id="S07397.4.2.9.13.00510">שלשים</w>
+      <w xml:id="S07397.4.2.9.13.00520">יום</w>
+      <w xml:id="S07397.4.2.9.13.00530">ומשלשים</w>
+      <w xml:id="S07397.4.2.9.13.00540">יום</w>
+      <w xml:id="S07397.4.2.9.13.00550">ולהלן</w>
+      <w xml:id="S07397.4.2.9.13.00560">מוכרן</w>
+      <lb xml:id="S07397.080rv.10" n="10"/>
+      <w xml:id="S07397.4.2.9.13.00570">בבית</w>
+      <w xml:id="S07397.4.2.9.13.00580">דין</w>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <w xml:id="S07397.4.2.9.13.00590">אלמנה</w>
+      <w xml:id="S07397.4.2.9.13.00600">בין</w>
+      <w xml:id="S07397.4.2.9.13.00610">שהיא</w>
+      <w xml:id="S07397.4.2.9.13.00620">עניי<c xml:id="S07397.4.2.9.13.00620.0050" rend="tall">ה</c>
+      </w>
+      <lb xml:id="S07397.080rv.11" n="11"/>
+      <w xml:id="S07397.4.2.9.13.00630">ובין</w>
+      <w xml:id="S07397.4.2.9.13.00640">שהיא</w>
+      <w xml:id="S07397.4.2.9.13.00650">עשירה</w>
+      <w xml:id="S07397.4.2.9.13.00660">אין</w>
+      <w xml:id="S07397.4.2.9.13.00670">ממשכנין</w>
+      <space extent="1" unit="chars"/>
+      <surplus xml:id="S07397.080rv.11d1e5683">?</surplus>
+      <lb xml:id="S07397.080rv.12" n="12"/>
+      <w xml:id="S07397.4.2.9.13.00680">אותה</w>
+      <w xml:id="S07397.4.2.9.13.00690">
+         <choice>
+            <abbr>שנ<am rend="overline">׳</am>
+            </abbr>
+            <expan>שנאמר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.13.00700">לא</w>
+      <w xml:id="S07397.4.2.9.13.00710">תחבול</w>
+      <w xml:id="S07397.4.2.9.13.00720">בגד</w>
+      <w xml:id="S07397.4.2.9.13.00730">אלמנה</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <lb xml:id="S07397.080rv.13" n="13"/>
+      <space extent="1" unit="chars"/>
+      <w xml:id="S07397.4.2.9.13.00740">החובל</w>
+      <w xml:id="S07397.4.2.9.13.00750">את</w>
+      <w xml:id="S07397.4.2.9.13.00760">הרחיים</w>
+      <w xml:id="S07397.4.2.9.13.00770">עובר</w>
+      <w xml:id="S07397.4.2.9.13.00780">בלא</w>
+      <w xml:id="S07397.4.2.9.13.00790">תעש<c xml:id="S07397.4.2.9.13.00790.0040" rend="wide">ה</c>
+      </w>
+      <lb xml:id="S07397.080rv.14" n="14"/>
+      <w xml:id="S07397.4.2.9.13.00800">וחייב</w>
+      <w xml:id="S07397.4.2.9.13.00810">משום</w>
+      <w xml:id="S07397.4.2.9.13.00820">שני</w>
+      <w xml:id="S07397.4.2.9.13.00830">כלים</w>
+      <w xml:id="S07397.4.2.9.13.00840">
+         <choice>
+            <abbr>שנ<am rend="overmark">׳</am>
+            </abbr>
+            <expan>שנאמר</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.13.00850">לא</w>
+      <w xml:id="S07397.4.2.9.13.00860">יחב<c xml:id="S07397.4.2.9.13.00860.0040" rend="wide tall">ל</c>
+      </w>
+      <lb xml:id="S07397.080rv.15" n="15"/>
+      <w xml:id="S07397.4.2.9.13.00870">ריחים</w>
+      <w xml:id="S07397.4.2.9.13.00880">ורכב</w>
+      <damageSpan spanTo="#S07397.080rv.15.d1e5716" type="damage"/>
+      <pc type="stop" rend="raisedDot">.</pc>
+      <anchor xml:id="S07397.080rv.15.d1e5716" type="damage"/>
+      <w xml:id="S07397.4.2.9.13.00890">לא</w>
+      <w xml:id="S07397.4.2.9.13.00900">ריחיים</w>
+      <w xml:id="S07397.4.2.9.13.00910">ורכב</w>
+      <w xml:id="S07397.4.2.9.13.00920">בלבד</w>
+      <w xml:id="S07397.4.2.9.13.00930">אמרו</w>
+      <lb xml:id="S07397.080rv.16" n="16"/>
+      <w xml:id="S07397.4.2.9.13.00940">
+         <choice>
+            <abbr>אל<am rend="overmark">׳</am>
+            </abbr>
+            <expan>אלא</expan>
+         </choice>
+      </w>
+      <w xml:id="S07397.4.2.9.13.00950">כל</w>
+      <w xml:id="S07397.4.2.9.13.00960">דבר</w>
+      <w xml:id="S07397.4.2.9.13.00970">שעושין</w>
+      <w xml:id="S07397.4.2.9.13.00980">בו</w>
+      <w xml:id="S07397.4.2.9.13.00990">אוכל</w>
+      <w xml:id="S07397.4.2.9.13.01000">נפש</w>
+      <w xml:id="S07397.4.2.9.13.01010">
+         <choice>
+            <abbr>שנ<am rend="overline">׳</am>
+            </abbr>
+            <expan>שנאמר</expan>
+         </choice>
+      </w>
+      <lb xml:id="S07397.080rv.17" n="17"/>
+      <w xml:id="S07397.4.2.9.13.01020">כי</w>
+      <w xml:id="S07397.4.2.9.13.01030">נפש</w>
+      <space extent="7" unit="chars"/>
+      <w xml:id="S07397.4.2.9.13.01040">הוא</w>
+      <w xml:id="S07397.4.2.9.13.01050">חובל</w>
+      <pc type="unitEnd" rend="gershayyim">:</pc>
+      <lb xml:id="S07397.080rv.18" n="18"/>
+   </ab>
+   <trailer xml:id="S07397.4.2.9.T" rend="size(large) pad(b) ornamented()">
                      <w xml:id="S07397.4.2.9.T.00100">סליק</w>
                      <w xml:id="S07397.4.2.9.T.00200">פירקא</w>
                      <w xml:id="S07397.4.2.9.T.00300">המקבל</w>
