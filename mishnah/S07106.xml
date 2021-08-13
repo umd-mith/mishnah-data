@@ -1642,14 +1642,15 @@
                         </ab>
                         <ab xml:id="S07106.4.2.1.6"> מצא <lb n="15"/>שטרי חוב אם יש בהן אחריות נכסים
                             לא יחזיר אין בהן אחריות נכסים יחזיר שאין בית דין <lb n="16"/>נפרעין מהן
-                            דברי <abbr>ר<am rend="overdot">׳</am>
-                                <expan>רבי</expan>
-                            </abbr> מאיר <abbr>וחכמ<am rend="overdot">׳</am>
+                            דברי <choice><abbr>ר<am rend="overdot">׳</am>
+                                <expan>רבי</expan></abbr></choice>
+                            מאיר 
+                            <choice><abbr>וחכמ<am rend="overdot">׳</am></abbr>
                                 <expan>וחכמים</expan>
-                            </abbr>
-                            <abbr>או<am rend="overmark">׳</am>
-                                <expan>אומרים</expan>
-                            </abbr> בין כך ובין כך לא יחזיר שבית דין נפרעין מהן<pc type="unitEnd" rend="raisedDot">:</pc>
+                            </choice>
+                            <choice><abbr>או<am rend="overmark">׳</am></abbr>
+                                <expan>אומרים</expan></choice>
+                            בין כך ובין כך לא יחזיר שבית דין נפרעין מהן<pc type="unitEnd" rend="raisedDot">:</pc>
                             <space extent="5" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.7"> מצא <lb n="17"/>גטי נשים ושחרורי עבדים דיתיקי

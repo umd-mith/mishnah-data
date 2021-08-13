@@ -6929,13 +6929,11 @@
                      <w xml:id="P00001.4.1.10.2.09800">את<anchor xml:id="d2e4391" type="del"/>
                         <delSpan spanTo="#d2e4393" rend="FIXME" hand="#P00001.SL"/>ה<anchor xml:id="d2e4393" type="del"/>
                      </w>
-                     <w xml:id="P00001.4.1.10.2.09900">
-                        <choice>
-                           <abbr>דמי<am rend="raised-dot">׳</am>
-                           </abbr>
-                           <expan>
-                              <delSpan spanTo="#d2e4401" rend="FIXME" hand="#P00001.SL"/>ה<anchor xml:id="d2e4401" type="del"/>דמים</expan>
-                        </choice>
+                     <w xml:id="P00001.4.1.10.2.09900"><delSpan spanTo="#d2e4401" rend="FIXME" hand="#P00001.SL"/>ה<anchor xml:id="d2e4401" type="del"/><choice>
+                        <abbr>דמי<am rend="raised-dot">׳</am>
+                        </abbr>
+                        <expan>דמים</expan>
+                     </choice>
                      </w>
                      <anchor xml:id="d2e4390" type="seg"/>
                      <lb n="15"/>
@@ -12349,7 +12347,7 @@
                               <addSpan spanTo="#d2e7859" place="inline" hand="#P00001.SL"/>מ<anchor xml:id="d2e7859" type="add"/>
                            </abbr>
                            <am rend="raised-dot">׳</am>
-                           <expan>וא<delSpan spanTo="#d2e7865" hand="#P00001.SL"/>ו<anchor xml:id="d2e7865" type="del"/>מר</expan>
+                           <expan>ואמר</expan>
                         </choice>
                      </w>
                      <anchor xml:id="d2e7853" type="seg"/>

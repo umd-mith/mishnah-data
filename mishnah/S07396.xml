@@ -1,7 +1,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css"
-    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    href="http://rawgithub.com/umd-mith/mishnah/gh-pages/css/GenizahEditedFormat.css" title="Mishnah Style Sheet" alternate="no"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1455,8 +1454,7 @@
                      דמי צמרו צבעו
                      <lb n="6"/>בעור אם השבח יתר על היצאה נותן לו את
                      <lb n="7"/>היצאה ואם היצאה יתירה על השבח נותן
-                     <lb n="8"/>לו את השבח<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="2" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.5"> לצבוע אדום וצבעו שחו<add place="margin-left" hand="#h1">ר</add>
+                     <lb n="8"/>לו את השבח<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="2" unit="chars"/>  לצבוע אדום וצבעו שחו<add place="margin-left" hand="#h1">ר</add>
                      <lb n="9"/>שחור וצבעו אדום <choice>
                         <abbr>ר<damage>
                                         <am rend="overmark">׳</am>
@@ -1476,8 +1474,9 @@
                      <lb n="11"/>נותן לו את היצאה ואם היצאה יתירה על
                      <lb n="12"/>השבח נותן לו את השבח<damage>
                                 <pc type="unitEnd" rend="gershayyim">:</pc>
-                            </damage> <space extent="3" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.6"> הגוזל את <surplus reason="fill">חבי׳</surplus>
+                            </damage> <space extent="3" unit="chars"/>  
+                  </ab>
+                  <ab xml:id="S07396.4.1.9.5">הגוזל את <surplus reason="fill">חבי׳</surplus>
                      <lb n="13"/>חבירו שוה פרוטה <damage>ו</damage>נשבע לו יוליכנו
                      אחרי<damage>ו</damage> <surplus reason="fill"> <damage>א</damage> </surplus>
                      <lb n="14"/> <choice>
@@ -1488,7 +1487,7 @@
                      </choice> למדי ולא יתן לא לבנו <damage>ו</damage>לא לשלוחו א<c rend="tall">ב</c>ל
                      <lb n="15"/>נותן הוא לשליח בית דין ואם מת יחזי<c rend="tall">ר</c>
                      <lb n="16"/>ליורשיו<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="1" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.7"> נתן לו את הקרן ולא נתן לו את
+                  <ab xml:id="S07396.4.1.9.6"> נתן לו את הקרן ולא נתן לו את
                      <lb n="17"/>החומש מחל לו על הקרן ולא מחל לו על החומ<add place="margin-left" hand="#h1">ש</add>
                      <lb n="18"/>מחל על זה ועל זה חוץ מפחות שוה פרוטה
                      <lb n="19"/>אינו צריך לילך אחריו נתן לו את החומ<c rend="wide">ש</c>
@@ -1496,7 +1495,7 @@
                      <lb n="21"/>מחל לו על הקרן מחל על זה ועל זה חוץ <damage>מפחו<add place="margin-left" hand="#h1">ת</add> </damage>
                      <lb n="22"/>שוה פרוטה בקרן הרי זה צריך לילך אחריו
                      <lb n="23"/> <pc type="unitEnd" rend="gershayyim">:</pc> <space extent="2" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.8"> נתן לו את הקרן ולא נתן לו את החומש
+                  <ab xml:id="S07396.4.1.9.7"> נתן לו את הקרן ולא נתן לו את החומש
                      <lb n="24"/>ונשבע על החומש הרי זה משלם חומ<c rend="wide">ש</c>
                      <lb n="25"/>על חומש עד שיתמעט הקרן פחות משו<c rend="tall">ה</c>
                      <lb n="26"/>פרוטה וכן בפקדון וכן בתשומת יד או בגזל
@@ -1506,10 +1505,10 @@
                      <expan>וגומר</expan>
                      </choice>
                      <pc type="unitEnd" rend="gershayyim">:</pc> 
-                     <space extent="2" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.9"> מצא אבידה וכחש ב<c rend="tall">ה</c>
+                     <space extent="2" unit="chars"/>  מצא אבידה וכחש ב<c rend="tall">ה</c>
                      <lb n="29"/>ונשבע לשקר והודה הרי זה משלם ק<c rend="tall">ר</c>ן
-                     <lb n="30"/>וחומש ואשם היכן פקדוני <choice>
+                     <lb n="30"/>וחומש ואשם </ab>
+                  <ab xml:id="S07396.4.1.9.8">היכן פקדוני <choice>
                      <abbr>ואמ<am rend="none">׳</am> </abbr>
                      <expan>ואמר</expan>
                      </choice> לו אב<c rend="tall">ד</c>
@@ -1529,11 +1528,11 @@
                      <lb n="35"/>מעידים אותו שגנבו משלם כפל הוד<c rend="tall">ה</c>
                      <lb n="36"/>מעצמו משלם קרן וחומש ואשם <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="37"/> </ab>
-                  <ab xml:id="S07396.4.1.9.10"> הגוזל את אביו ונשבע לו ומת הרי ז<c rend="tall">ה</c>
+                  <ab xml:id="S07396.4.1.9.9"> הגוזל את אביו ונשבע לו ומת הרי ז<c rend="tall">ה</c>
                      <lb n="38"/>משלם קרן וחומש לבניו או לאחיו וא<c rend="tall">ם</c>
                      <lb n="39"/>אינו רוצה או שאין לו לווה ובעלי חוביו <surplus reason="fill">נפ׳</surplus>
                      <lb n="40"/>נפרעין ובאין<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="2" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.11"> <choice>
+                  <ab xml:id="S07396.4.1.9.10"> <choice>
                      <abbr>האומ<am rend="none">׳</am> </abbr>
                      <expan>האומר</expan>
                      </choice> לבנו קונם שאי <surplus reason="fill">א</surplus>
@@ -1543,17 +1542,19 @@
                      <lb n="2"/>לא יירשנו ויחזיר לבניו או לאחיו ואם אינו רוצ<add place="margin-left" hand="#h1">ה</add>
                      <lb n="3"/>או שאין לו לווה ובעל חוביו באין ונפרעין ממנו<pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="4"/> <space extent="3" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.12"> הגוזל את הגר ונשבע לו מת הגר הרי ז<c rend="wide                      tall">ה</c>
+                  <ab xml:id="S07396.4.1.9.11"> הגוזל את הגר ונשבע לו מת הגר הרי ז<c rend="wide                      tall">ה</c>
                      <lb n="5"/>משלם קרן וחומש לכהנים ואשם למזבח ואם
                      <lb n="6"/>אין לאיש גואל היה מעלה את הכסף ואת האש<add place="margin-left" hand="#h1">ם</add>
                      <lb n="7"/>ומת הכסף ינתן לבניו והאשם ירעה עד שיסת<add place="margin-left" hand="#h1">אב</add>
-                     <lb n="8"/>וימכר ויפלו דמיו לנדבה נתן הכסף לאנשי משמ<add place="margin-left" hand="#h1">ר</add>
+                     <lb n="8"/>וימכר ויפלו דמיו לנדבה 
+                  </ab>
+                  <ab xml:id="S07396.4.1.9.12">
+                     נתן הכסף לאנשי משמ<add place="margin-left" hand="#h1">ר</add>
                      <lb n="9"/>ומת אין היורשין יכולין להוציא מידם <choice>
                      <abbr>שנ<am rend="geresh">׳</am> </abbr>
                      <expan>שנאמר</expan>
                      </choice> <surplus reason="fill">וא</surplus>
-                     <lb n="10"/>ואיש אשר יתן לכהן לו יהיה<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="3" unit="chars"/> </ab>
-                  <ab xml:id="S07396.4.1.9.13"> נתן את הכסף
+                     <lb n="10"/>ואיש אשר יתן לכהן לו יהיה<pc type="unitEnd" rend="gershayyim">:</pc> <space extent="3" unit="chars"/>  נתן את הכסף
                      <lb n="11"/>ליהוייריב ואשם לידעיה יצא אשם ליהוירי<c rend="wide tall">ב</c>
                      <lb n="12"/>וכסף לידעיה אם קיים האשם יקריבוהו בני <surplus reason="fill">יד</surplus>
                      <lb n="13"/>ידעיה ואם לאו יחזיר ויביא אשם אחר <surplus reason="fill">שהמ׳</surplus>

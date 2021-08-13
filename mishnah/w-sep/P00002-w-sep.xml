@@ -10673,16 +10673,14 @@
                         <choice>
                            <abbr>בענבי<am rend="overmark">׳</am>
                            </abbr>
-                           <expan>בענבי<am rend="overmark">׳</am>
-                           </expan>
+                           <expan>בענבים</expan>
                         </choice>
                      </w>
                      <w xml:id="P00002.4.2.7.4.00700">
                         <choice>
                            <abbr>בענבי<am rend="overmark">׳</am>
                            </abbr>
-                           <expan>בענבי<am rend="overmark">׳</am>
-                           </expan>
+                           <expan>בענבים</expan>
                         </choice>
                      </w>
                      <w xml:id="P00002.4.2.7.4.00800">לא</w>
@@ -11982,8 +11980,7 @@
                         <choice>
                            <abbr>יהוד<am rend="overmark">׳</am>
                            </abbr>
-                           <expan>יהוד<am rend="overmark">׳</am>
-                           </expan>
+                           <expan>יהודה</expan>
                         </choice>
                      </w>
                      <w xml:id="P00002.4.2.9.6.02500">אומר</w>
@@ -18245,12 +18242,11 @@
                      <w xml:id="P00002.4.3.8.8.03300">
                         <choice>
                            <abbr>הבנו<am rend="overmark">׳</am>
-                              <pc type="stop" rend="colon">׃</pc>
                            </abbr>
-                           <expan>הבנות<pc type="stop" rend="colon">׃</pc>
+                           <expan>הבנות
                            </expan>
                         </choice>
-                     </w>
+                     </w><pc type="stop" rend="colon">׃</pc>
                      <lb n="37"/>
                   </ab>
                   <trailer xml:id="P00002.4.3.8.T">

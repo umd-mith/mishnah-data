@@ -5591,7 +5591,7 @@
                         <choice>
                            <abbr>ב<am rend="overdot">׳</am>
                            </abbr>
-                           <expan>ב<c rend="wide">ר</c>בי</expan>
+                           <expan>ברבי</expan>
                         </choice>
                      </w>
                      <lb n="2"/>
@@ -8773,10 +8773,11 @@
                         <choice>
                            <abbr>
                               <am rend="gershayyim">״</am>א</abbr>
-                           <expan>אמר <damageSpan type="damage" spanTo="#d31e5909"/>ר<anchor xml:id="d31e5909" type="damage"/>בי</expan>
+                           <expan>אמר</expan>
                         </choice>
                      </w>
-                     <lb n="5"/>
+                     <w xml:id="S07394.4.2.10.6.03101"><damageSpan type="damage" spanTo="#d31e5909"/>ר<anchor xml:id="d31e5909" type="damage"/>בי
+                     </w><lb n="5"/>
                      <w xml:id="S07394.4.2.10.6.03200">יהודה</w>
                      <w xml:id="S07394.4.2.10.6.03300">ומה</w>
                      <w xml:id="S07394.4.2.10.6.03400">אם</w>
