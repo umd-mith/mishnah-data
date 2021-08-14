@@ -1476,51 +1476,83 @@
                      <pc type="unitEnd">:</pc>
                   </ab>
                   
-                  <ab xml:id="S01715.4.2.1.6">
-                     <milestone unit="MSMishnah" n="6"/>
-                     <label xml:id="S01715.4.2.1.6_lbl_1_is_6" rend="size(larger) align() pad (rl)">ו<am rend="overdot">׳</am>
+                  <ab xmlns="http://www.tei-c.org/ns/1.0" xml:id="S01715.4.2.1.6">
+                     <milestone  unit="MSMishnah" n="6"/>
+                     <label  xml:id="S01715.4.2.1.6_1_is_6">ו<am rend="overdot">׳</am>
                      </label>
-                     <w xml:id="S01715.4.2.1.6.00100">מצא</w>
-                     <w xml:id="S01715.4.2.1.6.00200">שטרי</w>
-                     <w xml:id="S01715.4.2.1.6.00300">חוב</w>
-                     <w xml:id="S01715.4.2.1.6.00400">אם</w>
-                     <w xml:id="S01715.4.2.1.6.00500">יש</w>
-                     <w xml:id="S01715.4.2.1.6.00600">בהן</w>
-                     <lb n="26"/>
-                     <damageSpan type="damage" spanTo="#d9e1390"/>
-                     <gap extent="22"/>
-                     <w xml:id="S01715.4.2.1.6.00700">
-                        <damageSpan type="unclear" spanTo="#d9e1395" extent="8"/>הן</w>
-                     <w xml:id="S01715.4.2.1.6.00800">אחריות<anchor xml:id="d9e1395" type="unclear"/>
-                        <anchor xml:id="d9e1390" type="damage"/>
-                     </w>
-                     <w xml:id="S01715.4.2.1.6.00900">נכסין<note>Supplied text follows
+                     <w xml:id="S01715.4.2.1.6.00010">מצא</w>
+                     <w xml:id="S01715.4.2.1.6.00020">שטרי</w>
+                     <w xml:id="S01715.4.2.1.6.00030">חוב</w>
+                     <w xml:id="S01715.4.2.1.6.00040">אם</w>
+                     <w xml:id="S01715.4.2.1.6.00050">יש</w>
+                     <w xml:id="S01715.4.2.1.6.00060">בהן</w>
+                     <lb 
+                        xml:id="S01715.001v.26"
+                        n="26"/>
+                     <damageSpan 
+                        spanTo="#S01715.001v.26.d1e1214"
+                        type="damage"/>
+                     <damageSpan 
+                        xml:id="S01715.damBeg.1v.27"
+                        spanTo="#S01715.damEnd.1v.27"/>
+                     <gap  extent="22"/>
+                     <w xml:id="S01715.4.2.1.6.00070"><!-- <supplied>אחריות נכסין לא יחזיר אין
+                           ב</supplied> -->
+                        <damageSpan spanTo="#S01715.001v.26.d1e1218" type="unclear" extent="8"/>הן</w>
+                     <w xml:id="S01715.4.2.1.6.00080">אחריות</w>
+                     <anchor 
+                        xml:id="S01715.001v.26.d1e1218"
+                        type="unclear"/>
+                     <anchor  xml:id="S01715.damEnd.1v.27"/>
+                     <anchor 
+                        xml:id="S01715.001v.26.d1e1214"
+                        type="damage"/>
+                     <w xml:id="S01715.4.2.1.6.00090">נכסין<note>Supplied text follows
                         presumptive orthography of this scribe: masc plu ending in -ן.</note>
                      </w>
-                     <w xml:id="S01715.4.2.1.6.01000">יחזיר</w>
-                     <w xml:id="S01715.4.2.1.6.01100">שאין</w>
-                     <w xml:id="S01715.4.2.1.6.01200">בית</w>
-                     <w xml:id="S01715.4.2.1.6.01300">דין</w>
-                     <lb n="27"/>
-                     <damageSpan type="damage" spanTo="#d9e1403"/>
-                     <gap extent="29"/>
-                     <w xml:id="S01715.4.2.1.6.01400">
-                        <anchor xml:id="d9e1403" type="damage"/>
+                     <w xml:id="S01715.4.2.1.6.00100">יחזיר</w>
+                     <w xml:id="S01715.4.2.1.6.00110">שאין</w>
+                     <w xml:id="S01715.4.2.1.6.00120">בית</w>
+                     <w xml:id="S01715.4.2.1.6.00130">דין</w>
+                     <lb 
+                        xml:id="S01715.001v.27"
+                        n="27"/>
+                     <damageSpan 
+                        spanTo="#S01715.001v.27.d1e1225"
+                        type="damage"/>
+                     <damageSpan 
+                        xml:id="S01715.damBeg.1v.28"
+                        spanTo="#S01715.damEnd.1v.28"/>
+                     <gap  extent="29"/>
+                     <w xml:id="S01715.4.2.1.6.00140"><!-- <supplied>נפרעין מהן
+                           דבר' ר' <persName ref="Personography.xml#Meir">מאיר</persName> וחכמ' אומ'
+                           בין כך ובי</supplied> -->
+                        <anchor xml:id="S01715.damEnd.1v.28"/>
+                        <anchor xml:id="S01715.001v.27.d1e1225" type="damage"/>
                         <note>Supplied text follows Kaufmann MS., but the text of
-                        Kaufmann is probably too long for this lacuna.</note>ן</w>
-                     <w xml:id="S01715.4.2.1.6.01500">כך</w>
-                     <w xml:id="S01715.4.2.1.6.01600">לא</w>
-                     <w xml:id="S01715.4.2.1.6.01700">יחזיר</w>
-                     <w xml:id="S01715.4.2.1.6.01800">מפני</w>
-                     <w xml:id="S01715.4.2.1.6.01900">שבית</w>
-                     <w xml:id="S01715.4.2.1.6.02000">דין</w>
-                     <lb n="28"/>
-                     <pb n="1r" xml:id="S01715.1r" type="1-col"/>
-                     <w xml:id="S01715.4.2.1.6.02100">ניפרעין</w>
-                     <w xml:id="S01715.4.2.1.6.02200">
-                        <damageSpan type="damage" spanTo="#d9e1419"/>מ</w>
-                     <gap extent="3"/>
-                     <anchor xml:id="d9e1419" type="damage"/>
+                           Kaufmann is probably too long for this lacuna.</note>ן</w>
+                     <w xml:id="S01715.4.2.1.6.00150">כך</w>
+                     <w xml:id="S01715.4.2.1.6.00160">לא</w>
+                     <w xml:id="S01715.4.2.1.6.00170">יחזיר</w>
+                     <w xml:id="S01715.4.2.1.6.00180">מפני</w>
+                     <w xml:id="S01715.4.2.1.6.00190">שבית</w>
+                     <w xml:id="S01715.4.2.1.6.00200">דין</w>
+                     <lb 
+                        xml:id="S01715.001v.28"
+                        n="28"/>
+                     <pb  xml:id="S01715.001r"/>
+                     <w xml:id="S01715.4.2.1.6.00210">ניפרעין</w>
+                     <damageSpan 
+                        spanTo="#S01715.001v.28.d1e1236"
+                        type="damage"/>
+                     <w xml:id="S01715.4.2.1.6.00220">מ
+                        <gap extent="3"/>
+                        <!-- <supplied>הן<pc type="unitEnd">:</pc>
+                                </supplied> -->
+                     </w>
+                     <anchor 
+                        xml:id="S01715.001v.28.d1e1236"
+                        type="damage"/>
                   </ab>
                   <ab xml:id="S01715.4.2.1.7">
                      <damageSpan type="damage" spanTo="#d9e1428"/>

@@ -72,10 +72,6 @@
                         <abbr>והאו<am rend="geresh">׳</am>
                         </abbr>
                         <expan>והאומר</expan>
-                        <seg function="CHECK-ME">
-                           <unclear reason="damage" unit="chars" extent="1"/>
-                           
-                        </seg>
                      </choice>
                      <damage>ח</damage>ציי<damage>ה</damage> שלי ישבע שאין לו
                      <lb n="9"/>בה פחות מרביעי <pc type="stop" rend="raisedDot">.</pc>
@@ -83,10 +79,6 @@
                         <abbr>שלש<am rend="overmark">׳</am>
                         </abbr>
                         <expan>שלשה</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
                      </choice> חל<c rend="wide tall">ק</c>ין
                      <lb n="10"/>וזה נוטל רביע <pc type="stop" rend="raisedDot">.</pc>
                      </ab>
@@ -118,17 +110,10 @@
                   </ab>
                   <ab xml:id="S07397.4.2.1.3"> היה רוכב על <c rend="tall">ג</c>בי
                      <lb n="17"/>בהמה וראה המציאה <choice>
-                        <abbr>אמ<am rend="overmark">׳</am>
+                        <abbr><unclear reason="writ">ו</unclear>אמ<am rend="overmark">׳</am>
                         </abbr>
                         <expan>ואמר</expan>
-                        <seg function="CHECK-ME">
-                           <damage>
-                              <unclear reason="writ">ו</unclear>
-                           </damage>
-                           <unclear reason="writ">ו</unclear>
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> ל<damage>חב</damage>י<c rend="tall">ר</c>ו
                      <lb n="18"/>תנה לי ונטלה ואמר <damage>זה</damage> זכיתי בה זכ<del hand="h1" rend="rubbing">
                         <damage>ית</damage>
@@ -150,17 +135,11 @@
                      <surplus reason="fill">?</surplus>
                      <lb n="25"/>לי שדי זכתה לו<pc type="unitEnd" rend="gershayyim">:</pc>
                    היה צבי רץ כדר<c rend="wide tall">כ</c>ו
-                     <lb n="26"/>או שהיו גוזלות מפריחין ואמר זכת<c rend="tall">ה</c>
+                     <lb n="26"/>או שהיו גוזלות מפריחין ואמר זכת<c rend="wide">ה</c>
                      <lb n="27"/>
                      <damage>לי</damage>
-                     <damage>ש</damage>די לא א<damage>מר כלום<seg function="CHECK-ME">
-                           <ptr xml:id="s145" type="s" target="#e145"/>
-                           
-                        </seg>
-                     </damage>:<seg function="CHECK-ME">
-                        <anchor xml:id="e145" type="e"/>
-                        
-                     </seg>
+                     <damage>ש</damage>די לא א<damage>מר כלום
+                     </damage><pc type="stop" rend="raisedDot">:</pc>
                      <space extent="1" unit="chars"/>
                   </ab>
                   <ab xml:id="S07397.4.2.1.5">
@@ -177,12 +156,9 @@
                    
                    מציאת <damage>בנו ובתו</damage>
                      <lb n="30"/>הגדולים ועבדו ושפחתו העברים <choice>
-                        <abbr>ומצי<am rend="geresh">׳</am>
+                        <abbr>ומצי<damage>א</damage><am rend="geresh">׳</am>
                         </abbr>
                         <expan>ומציאת</expan>
-                        <seg function="CHECK-ME">
-                           <damage>א</damage>
-                        </seg>
                      </choice>
                      <lb n="31"/>אשתו שג<damage>ר</damage>שה<pc type="stop" rend="colon">.</pc>
                      <space extent="1" unit="chars"/>
@@ -193,15 +169,9 @@
                      </choice> שלא נ<damage>תן ל</damage>ה
                      <lb n="32"/>כתו<damage>בת</damage>ה הרי אילו שלהן<pc type="stop" rend="raisedDot">.</pc>
                      </ab>
-                  <ab  xml:id="S07397.4.1.2.6">מצא שטרי
-                     <lb n="33"/>חוב אם יש בהן] אחר<damage>יו</damage>ת נכסי<damage>ן</damage>
-                     <unclear reason="writ">
-                        <damage>?</damage>
-                        <seg function="CHECK-ME">
-                           <damage>?</damage>
-                           
-                        </seg>
-                     </unclear>לא
+                  <ab  xml:id="S07397.4.2.1.6">מצא שטרי
+                     <lb n="33"/>חוב אם יש בהן אחר<damage>יו</damage>ת נכסי<damage>ן</damage>
+                     <damage>לא</damage>
                      <lb n="34"/>
                      <damage>יח<unclear reason="damage" unit="chars" extent="2"/>ר מ<unclear reason="writ">פני</unclear>
                      </damage> שבית די<damage>ן</damage> נפרעין מ<damage>
@@ -235,9 +205,9 @@
                      <cb xml:id="S07397.1vB" n="1vB"/>
                      <lb n="1"/>יחזיר מפני שבית דין נפרעי<damage>ן מ<c rend="wide tall">ה</c>ן</damage>
                      <pc type="unitEnd" rend="gershayyim">:</pc>
-                     <lb n="2"/>
                   </ab>
                   <ab xml:id="S07397.4.2.1.7">
+                     <lb n="2"/>
                      <damage>מ</damage>צא גיטי נשים ושחרורי <damage>עבדי<c rend="tall">ם</c>
                      </damage>
                      <surplus reason="fill">?</surplus>
@@ -256,16 +226,9 @@
                      <lb n="6"/>שום איגרות מזון ושטרי חליצ<c rend="wide tall">ה</c>
                      <lb n="7"/>ומיאונין ושטרי <damage>
                         <choice>
-                           <abbr>בירי<am rend="overmark">׳</am>
+                           <abbr>בירר<am rend="overmark">׳</am>
                            </abbr>
                            <expan>ביררין</expan>
-                           <seg function="CHECK-ME">
-                              <damage>
-                                 <unclear reason="writ">ר</unclear>
-                              </damage>
-                              <unclear reason="writ">ר</unclear>
-                              
-                           </seg>
                         </choice>
                      </damage> וכל מעש<c rend="tall">ה</c>
                      <lb n="8"/>בית דין הרי זה מחזיר מצא <choice>
@@ -274,11 +237,8 @@
                         <expan>בחפיסה</expan>
                      </choice>
                      <lb n="9"/>או בי<unclear reason="writ">
-                        <seg type="altChar">
-                           <c>ר</c>
-                           <c>ג</c>
-                        </seg>
-                     </unclear>לוסקמא תכריך של שטרו<c rend="wide tall">ת</c>
+                        <seg type="altChar"><c>ר</c><c>ג</c></seg></unclear>לוסקמא
+                     תכריך של שטרו<c rend="wide tall">ת</c>
                      <lb n="10"/>או אגודה של שטרות הרי זה יחזי<c rend="tall">ר</c>
                      <lb n="11"/>וכמה אגודה של שטרות שלש<c rend="tall">ה</c> <surplus reason="fill">?</surplus>
                      <lb n="12"/>קשורין זה ב<damage>זה</damage> רבן <choice>
@@ -289,13 +249,9 @@
                      </choice> בן גמלי<c rend="ligature">אל</c>
                      <lb n="13"/>
                      <choice>
-                        <abbr>א<am rend="geresh">׳</am>
+                        <abbr>א<damage>ומ<am rend="geresh">׳</am></damage>
                         </abbr>
                         <expan>אומר</expan>
-                        <seg function="CHECK-ME">
-                           <damage>ומ׳</damage>
-                           
-                        </seg>
                      </choice> אחד ה<damage>לוו</damage>ה <damage>מש</damage>לשה יחזיר ללו<c rend="tall">ה</c> <surplus reason="fill">?</surplus>
                      <lb n="14"/>שלשה שלווה מן האחד יחזי<c rend="tall">ר</c> <surplus reason="fill">?</surplus>
                      <lb n="15"/>למלווה<pc type="unitEnd" rend="gershayyim">:</pc>
@@ -771,10 +727,6 @@
                      <damage>ולזה מנה שהרי הודה מפי </damage>
                      <unclear reason="writ">
                         <del hand="h1" rend="rubbing">ר</del>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing">ר</del>
-                           
-                        </seg>
                      </unclear> עצמו <pc type="unitEnd" rend="gershayyim">:</pc>
                      <lb n="24"/>
                   </ab>
@@ -878,17 +830,8 @@
                      <space extent="2" unit="chars"/>
                   </ab>
                   <ab xml:id="S07397.4.2.3.8"> יוציא לו שתות יין <del hand="h1" rend="rubbing">
-                        <unclear reason="damage" unit="chars" extent="5"/>
-                        <seg function="CHECK-ME">
-                           <ptr xml:id="s891" type="s" target="#e891"/>
-                           <ptr xml:id="s890" type="s" target="#e890"/>
-                           
-                        </seg>
-                     </del>ר׳<seg function="CHECK-ME">
-                        <anchor xml:id="e890" type="e"/>
-                        <anchor xml:id="e891" type="e"/>
-                        
-                     </seg> יהודה
+                        <unclear reason="damage" unit="chars" extent="5"/></del>
+                     <choice><abbr>ר<am rend="overline">׳</am></abbr></choice>                         יהודה
                      <lb n="14"/>אומר חמש <space extent="2" unit="chars"/> יוציא לו שלשת לו<c rend="wide tall">גין</c>
                      <lb n="15"/>
                      <damage>שמן</damage> למאה לוג ומחצה שמרים לו<c rend="wide">ג</c>
@@ -934,13 +877,10 @@
                      <space extent="15" unit="chars"/> ואם שמ<damage>ר</damage> כדרך
                      <lb n="32"/>
                      <choice>
-                        <abbr>השומרי<am rend="overmark">׳</am>
+                        <abbr>השומרי<damage><am rend="overmark">׳</am></damage>
                         </abbr>
                         <expan>השומרים</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> פטור <pc type="unitEnd" rend="gershayyim">:</pc>
                   </ab>
                   <ab xml:id="S07397.4.2.3.11"> המפקיד מעות אצ<c rend="wide tall">ל</c>
@@ -952,10 +892,6 @@
                      <lb n="36"/>חייב <damage>
                         <unclear reason="writ">
                            <del hand="h1" rend="other">ב</del>
-                           <seg function="CHECK-ME">
-                              <del hand="h1" rend="other">ב</del>
-                              
-                           </seg>
                         </unclear>
                      </damage> באחריותן אצל בעל הבית בי<c rend="tall">ן</c>
                      <lb n="37"/>כך ובין כך לא ישתמש בהן לפיכ<c rend="wide tall">ך</c>
@@ -969,14 +905,9 @@
                         </abbr>
                         <expan>רבי</expan>
                      </choice> מאיר <choice>
-                        <abbr>
-                           <am rend="other">׳</am>
+                        <abbr><damage>ר<am rend="other">׳</am></damage>
                         </abbr>
                         <expan>רבי</expan>
-                        <seg function="CHECK-ME">
-                           <damage>ר׳</damage>
-                           
-                        </seg>
                      </choice>
                      <lb n="40"/>יהודה אומר כשולחני<pc type="stop" rend="gershayyim">.</pc> השולח
                         י<c rend="wide tall">ד</c>
@@ -992,13 +923,10 @@
                      </choice>
                      <lb n="3"/>
                      <choice>
-                        <abbr>הוצ<am rend="overmark">׳</am>
+                        <abbr>הוצ<damage>א<am rend="overmark">׳</am></damage>
                         </abbr>
                         <expan>הוצאה</expan>
-                        <seg function="CHECK-ME">
-                           <damage>א׳</damage>
-                           
-                        </seg>
+                        
                      </choice>
                      <choice>
                         <abbr>ור<am rend="geresh">׳</am>
@@ -1236,13 +1164,10 @@
                                 <pc type="stop" rend="raisedDot">.</pc>
                             </damage>
                      <lb n="15"/>נושא שכר אינו משלם <choice>
-                        <abbr>ר<am rend="overmark">׳</am>
+                        <abbr>ר<am rend="overmark"><damage>׳</damage></am>
                         </abbr>
                         <expan>רבי</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> שמעון
                      <lb n="16"/>
                      <choice>
@@ -1292,13 +1217,10 @@
                                 <pc type="stop" rend="gershayyim">.</pc>
                             </damage> אין
                      <lb n="31"/>מעבירין שמרי יין ביין <choice>
-                        <abbr>אב<am rend="overmark">׳</am>
+                        <abbr>אב<am rend="overmark"><damage>׳</damage></am>
                         </abbr>
                         <expan>אבל</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> נותן לו <surplus reason="fill">?</surplus>
                      <lb n="32"/>את שמריו מי שנתערב מי<c rend="tall">ם</c>
                      <lb n="33"/>ביינו לא ימכרינו בחנות אלא אם כן
@@ -1417,14 +1339,8 @@
                      <lb n="10"/>ונתן מקצת דמים אמר לו מאימתי
                      <lb n="11"/>שתרצה הבא מעות וטול א<c rend="wide tall">ת</c>
                      <lb n="12"/>שלך אסור הלוהו על שדהו <choice>
-                        <abbr>וא<am rend="geresh">׳</am>
-                        </abbr>
-                        <expan>ואמר</expan>
-                        <seg function="CHECK-ME">
-                           <damage>מ׳</damage>
-                           
-                        </seg>
-                     </choice>
+                        <abbr>וא<damage>מ׳</damage><am rend="geresh">׳</am></abbr>
+                        <expan>ואמר</expan>                     </choice>
                      <lb n="13"/>לו אם אין אתה נותן לי מיכן וע<c rend="wide tall">ד</c>
                      <lb n="14"/>שלש שנים הרי הוא שלי הרי הוא
                      <lb n="15"/>שלו כך היה עושה <del hand="h1" rend="other">בית</del> ביתוס בין
@@ -1605,16 +1521,12 @@
                      <lb n="28"/>נכיש עמו ואנכיש עמך עדו<c rend="wide tall">ר</c>
                      <lb n="29"/>עמי עדור ואעדור עמך
                      <add place="above line" hand="#h1">אבל לא <choice>
-                           <abbr>או<am rend="other">׳</am>
+                        <abbr>או<damage>
+                           <unclear reason="writ">מ׳</unclear>
+                        </damage>
+                           <unclear reason="writ">מ׳</unclear><am rend="other">׳</am>
                            </abbr>
                            <expan>אומר</expan>
-                           <seg function="CHECK-ME">
-                              <damage>
-                                 <unclear reason="writ">מ׳</unclear>
-                              </damage>
-                              <unclear reason="writ">מ׳</unclear>
-                              
-                           </seg>
                         </choice>
                      </add> עדו<c rend="tall">ר</c>
                      <lb n="30"/>עמי ואנכיש עמך כל ימי גדי<c rend="tall">ר</c>
@@ -1625,10 +1537,6 @@
                      </choice>
                      <lb n="32"/>לו <unclear reason="writ">
                         <del hand="h1" rend="rubbing">?</del>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing">?</del>
-                           
-                        </seg>
                      </unclear> חריש עמי בגריד ואני
                      <add place="above line" hand="#h1">אחרו<damage>ש</damage>
                      </add>עמך
@@ -1663,14 +1571,10 @@
                   <ab xml:id="S07397.4.2.5.11"> אילו עוברין בלא
                      <add place="margin-left" hand="#h1">תעשה</add>
                      <lb n="4"/>המלוה והלווה והערב <choice>
-                        <abbr>
-                           <am rend="overmark">׳</am>
+                        <abbr><add place="above line" hand="#h1">והעדי</add><am rend="overmark">׳</am>
                         </abbr>
                         <expan>והעדים</expan>
-                        <seg function="CHECK-ME">
-                           <add place="above line" hand="#h1">והעדי׳</add>
-                           
-                        </seg>
+                        
                      </choice> וחכמי<c rend="tall">ם</c>
                      <lb n="5"/>
                      <del hand="h1" rend="rubbing">מתירין</del>
@@ -1684,10 +1588,6 @@
                         <damage>תיקח</damage>
                      </add> מ<unclear reason="writ">
                         <damage>א</damage>
-                        <seg function="CHECK-ME">
-                           <damage>א</damage>
-                           
-                        </seg>
                      </unclear>תו ועל כל תהי<c rend="tall">ה</c>
                      <lb n="7"/>לו כנושה ועל כל תשימון עליו נשך
                      <lb n="8"/>ועל לפני עור לא תתן מכשול ויראת
@@ -1728,13 +1628,7 @@
                      <lb n="7"/>התחתונה<pc type="stop" rend="gershayyim">.</pc>
                      <space extent="2" unit="chars"/> כל המשנה ידו ע<c rend="wide">ל</c>
                      <lb n="8"/>התחתונה וכל החוזר בו ידו ע<c rend="wide tall">ל</c>
-                     <seg function="CHECK-ME">
-                        <ptr xml:id="s17464" type="s" target="#e17464"/>
-                        
-                     </seg>
-                     <lb n="9"/>הת<seg function="CHECK-ME">
-                        <ptr xml:id="s1693" type="s" target="#e1693"/>
-                     </seg>חתונה<pc type="unitEnd" rend="gershayyim">:</pc>
+                     <lb n="9"/>התחתונה<pc type="unitEnd" rend="gershayyim">:</pc>
                      <space extent="3" unit="chars"/>
                   </ab>
                   <ab xml:id="S07397.4.2.6.3">
@@ -1853,13 +1747,10 @@
                      <lb n="6"/>הלוהו פירות שומר שכר<pc type="stop" rend="gershayyim">.</pc>
                      <space extent="1" unit="chars"/> אבא
                      <lb n="7"/>שאול <choice>
-                        <abbr>אומ<am rend="geresh">׳</am>
+                        <abbr>אומ<am rend="geresh"><damage>׳</damage></am>
                         </abbr>
                         <expan>אומר</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> רשאי אדם להשכיר
                      <lb n="8"/>
                      <damage>מש</damage>כונו של עני בפחות להיו<c rend="wide">ת</c>
@@ -1874,10 +1765,6 @@
                         <abbr>ובר<am rend="overmark">׳</am>
                         </abbr>
                         <expan>ושברה</expan>
-                        <seg function="CHECK-ME">
-                           <damage>ש</damage>
-                           
-                        </seg>
                      </choice>
                      <lb n="12"/>בין שומר חנם בין שומר שכ<c rend="tall">ר</c>
                      <lb n="13"/>ישבע דברי <choice>
@@ -1963,10 +1850,7 @@
                      <lb n="3"/>מלאכתו בדבר שגידולו מן הארץ
                      <lb n="4"/>ואילו שאין אוכלין <unclear reason="damage" unit="chars" extent="1">
                         <del hand="h1" rend="rubbing"/>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing"/>
-                           
-                        </seg>
+                        
                      </unclear> העוש<c rend="tall">ה</c>
                      <lb n="5"/>במחובר <del hand="h1" rend="rubbing">מלאכה</del> לקרקע בשע<c rend="wide tall">ת</c>
                      <lb n="6"/>שאין גמר מלאכה ובתלוש מן <space extent="1" unit="chars"/>
@@ -2061,10 +1945,6 @@
                      <lb n="38"/>אילו לא יאכלו ואם לא <damage>ה</damage>ודיעו
                      <lb n="39"/>פו<damage>דה ומ</damage>אכילן נתפרסו <unclear reason="writ">
                         <add place="above line" hand="#h1">ב</add>
-                        <seg function="CHECK-ME">
-                           <add place="above line" hand="#h1">ב</add>
-                           
-                        </seg>
                      </unclear> עיגו<c rend="wide tall">ל</c>יו
                      <lb n="40"/>נתפתחו חביותיו הרי אילו <c rend="wide tall">ל</c>א
                      <pb xml:id="S07397.63r" n="63r"/>
@@ -2209,13 +2089,10 @@
                         <expan>אומר</expan>
                      </choice> שכורה מתה ביום שהית<c rend="tall">ה</c>
                      <lb n="22"/>שכירה מתה בשעת שהיתה <choice>
-                        <abbr>שכור<am rend="overdot">׳</am>
+                        <abbr>שכור<am rend="overdot"><damage>׳</damage></am>
                         </abbr>
                         <expan>שכורה</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice>
                      <lb n="23"/>מתה והלה אומר איני יודע פטור<pc type="stop" rend="gershayyim">.</pc>
                      <lb n="24"/>
@@ -2235,10 +2112,6 @@
                   <ab xml:id="S07397.4.2.8.3"> השואל את הפרה ושלחה לו בי<c rend="wide">ד</c>
                      <lb n="29"/>בנו או ביד עבדו ביד שלוחו של <unclear reason="writ">
                         <add place="above line" hand="#h1">מ</add>
-                        <seg function="CHECK-ME">
-                           <add place="above line" hand="#h1">מ</add>
-                           
-                        </seg>
                      </unclear>שואל<note type="EdRevReqd" resp="#NE">corr:נראה כי התכוון לתקן
                         "משאיל" במקום שואל</note>
                      <lb n="30"/>או ביד בנו או ביד עבדו או ביד שלוחו
@@ -2297,8 +2170,7 @@
                            </abbr>
                            <expan>נחתומין</expan>
                         </choice> ושל צבעין שלש שנים</add>
-                     <lb n="13"/>
-                     <space extent="3" unit="chars"/>
+                     <lb n="13"/><space extent="3" unit="chars"/>
                   </ab>
                   <ab xml:id="S07397.4.2.8.5"> המוכר זיתיו לעצים וע<unclear reason="writ">ש</unclear>ו
                      <add place="margin-left" hand="#h1">פירות</add> פחו<c rend="wide tall">ת</c>
@@ -2315,10 +2187,6 @@
                         <abbr>או<am rend="overmark">׳</am>
                         </abbr>
                         <expan>אומר</expan>
-                        <seg function="CHECK-ME">
-                           <damage>מ</damage>
-                           
-                        </seg>
                      </choice>
                      <lb n="19"/>זיתיו גידלו וזה אומר ארצי גידל<c rend="tall">ה</c>
                      <lb n="20"/>יחלוקו <pc type="unitEnd" rend="gershayyim">:</pc>
@@ -2334,14 +2202,7 @@
                            </abbr>
                            <expan>שמעשה</expan>
                         </choice> אומן אבל דבר שאין מעשה אומן השוכר עושהו<pc type="stop" rend="raisedDot">.</pc> הזבל של בעל הבית ואן לשוכר אלא היוצא מן התנור ומן
-                        הכירים בלבד<pc type="unitEnd" rend="other">:</pc>
-                        <seg function="CHECK-ME">
-                           <ptr xml:id="s2252" type="s" target="#e2252"/>
-                           
-                        </seg>המשכיר כו</add>]<seg function="CHECK-ME">
-                        <anchor xml:id="e2252" type="e"/>
-                        
-                     </seg>
+                        הכירים בלבד<pc type="unitEnd" rend="other">:</pc> <fw type="catchw-corr-end">כו<am rend="geresh">׳</am></fw></add>
                   </ab>
                   <ab xml:id="S07397.4.2.8.8"> המשכיר בית לחבי<c rend="wide">רו</c>
                      <lb n="21"/>לשנה נתעברה השנה נתעברה לשוכר<pc type="stop" rend="gershayyim">.</pc>
@@ -2424,10 +2285,6 @@
                         <expan>אמר</expan>
                      </choice> ליה <unclear reason="writ">
                         <del hand="h1" rend="rubbing">ה</del>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing">ה</del>
-                           
-                        </seg>
                      </unclear>חכי<c rend="wide">ר</c>
                      <lb n="28"/>לי שדה בית השלחין זו או בית האילן ז<c rend="wide tall">ה</c>
                      <lb n="29"/>ויבש המעיין ונקצץ האילן מנכה לו מן <space extent="1" unit="chars"/>
@@ -2577,10 +2434,6 @@
                      <lb n="39"/>ונוטל<pc type="stop" rend="gershayyim">.</pc>
                      <space extent="1" unit="chars"/> גר <unclear reason="writ">
                         <del hand="h1" rend="rubbing">ו</del>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing">ו</del>
-                           
-                        </seg>
                      </unclear>תושב יש בו משו<c rend="tall">ם</c>
                      <lb n="40"/>ביומו תתן שכרו ואין בו משום לא תלי<c rend="tall">ן</c>
                      <pb xml:id="S07397.80v" n="80v"/>
@@ -2683,10 +2536,6 @@
                      <lb n="37"/>
                      <unclear reason="writ">
                         <del hand="h1" rend="rubbing">ש</del>
-                        <seg function="CHECK-ME">
-                           <del hand="h1" rend="rubbing">ש</del>
-                           
-                        </seg>
                      </unclear>ניפחתה העלייה אין בעל הבית רוצה לתק<c rend="tall ornaments">ן</c>
                      <cb xml:id="S07397.87vB" n="87vB"/>
                      <lb n="1"/>הרי זה בעל העלייה יורד מלמטה עד שיתקן
@@ -2834,13 +2683,10 @@
                         <expan>אמר</expan>
                      </choice>
                      <choice>
-                        <abbr>ר<am rend="overdot">׳</am>
+                        <abbr>ר<am rend="overdot"><damage>׳</damage></am>
                         </abbr>
                         <expan>רבי</expan>
-                        <seg function="CHECK-ME">
-                           <damage>׳</damage>
-                           
-                        </seg>
+                        
                      </choice> יהודה ומה אם ירצ<c rend="tall">ה</c>
                      <lb n="38"/>התחתון למלאות גינתו עפר אין כאן י<c rend="wide tall">ר</c>ק
                      <lb n="39"/>

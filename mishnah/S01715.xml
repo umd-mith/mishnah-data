@@ -139,16 +139,16 @@
                            <damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.1" spanTo="#S01715.damEnd.2v.1"/>
                                 <gap extent="18"/>
-                                <supplied>נזק <milestone unit="MSMishnah" n="2"/>
+                                <!-- <supplied>נזק <milestone unit="MSMishnah" n="2"/>
                                     <label rend="size() align() pad(rl)">ב<am rend="overdot">׳</am>
-                                    </label>התרנגולים מועדים</supplied>
+                                    </label>התרנגולים מועדים</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.1"/>
                             </damage>
                      <lb n="1"/> ל<damage>הלך</damage> כדרכן ולשבר היה דליל <damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.2" spanTo="#S01715.damEnd.2v.2"/>
                                 <unclear extent="10">קשור ברגלו</unclear>
                         <gap extent="15"/>
-                                <supplied>או שהיה מהדס ושיבר</supplied>
+                                <!--  <supplied>או שהיה מהדס ושיבר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.2"/>
                             </damage>
                      <lb n="2"/> את הכלים משלם חצי נזק<pc type="unitEnd">:</pc>
@@ -159,32 +159,32 @@
                             </label> כיצד
                            <damage>ה<damageSpan xml:id="S01715.damBeg.2v.3" spanTo="#S01715.damEnd.2v.3"/>
                                 <gap extent="11"/>
-                                <supplied>שן מועדת
-                           לאכל</supplied>
+                                <!-- <supplied>שן מועדת
+                           לאכל</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.3"/>
                             </damage>
                      <lb n="3"/> את הרא<damage>ו</damage>י לה הבהמה מועדת לאכול פירות
                            <damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.4" spanTo="#S01715.damEnd.2v.4"/>
                                 <gap extent="12"/>
-                                <supplied>וירקות אכלה
-                           כס</supplied>
+                                <!-- <supplied>וירקות אכלה
+                           כס</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.4"/>ות</damage>
                      <lb n="4"/> או כלים <damage>מש</damage>למת חצי נזק במי דברין
                            אמורי<damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.5" spanTo="#S01715.damEnd.2v.5"/>
-                                <supplied>ן ברש</supplied>
+                                <!-- <supplied>ן ברש</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.5"/>ות הניזק אבל</damage>
                      <lb n="5"/>
                      <damage>בר</damage>ש<damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.6a" spanTo="#S01715.damEnd.2v.6a"/>
                                 <gap reason="damage" extent="10"/>
-                                <supplied>ות הרבים פטו</supplied>
+                                <!-- <supplied>ות הרבים פטו</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.6a"/>
                             </damage>ר ואם נהנית משלם מה <damage>
                                 <damageSpan xml:id="S01715.damBeg.2v.6b" spanTo="#S01715.damEnd.2v.6b"/>
                                 <gap extent="4"/>
-                                <supplied>שנהנ</supplied>
+                                <!-- <supplied>שנהנ</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.6b"/>ית<pc type="unitEnd">:</pc>
                                 <milestone unit="MSMishnah" n="4"/>
                                 <label rend="size() align() pad(rl)">ד<am rend="overdot">׳</am>
@@ -209,8 +209,8 @@
                                 <anchor xml:id="S01715.damEnd.2v.8a"/>ש</damage>היזיקה
                         מ<damage>פתח ה<damageSpan xml:id="S01715.damBeg.2v.8b" spanTo="#S01715.damEnd.2v.8b"/>
                                 <gap extent="8"/>
-                                <supplied>חנות
-                           משלם</supplied>
+                                <!-- <supplied>חנות
+                           משלם</supplied> -->
                         <unclear extent="2"> מה</unclear>
                                 <anchor xml:id="S01715.damEnd.2v.8b"/>
                             </damage>
@@ -230,7 +230,7 @@
                         <damage>שלם מפ</damage>ני
                      <lb n="10"/> שהן מועדים הכלב שנטל את החררה הלך לו <damage>לגדיש ו<damageSpan xml:id="S01715.damBeg.2v.11" spanTo="#S01715.damEnd.2v.11"/>
                                 <gap extent="1"/>
-                                <supplied>א</supplied>
+                                <!-- <supplied>א</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.11"/>כל</damage> את
                      <lb n="11"/> החררה והידליק את הגדיש על החררה משלם נזק שלם ועל<surplus reason="fill">
                                 <pc type="fill">••</pc>
@@ -301,8 +301,8 @@
                             </damage> ברשות הרבים
                      <lb n="17"/> מש<damage>לם חצ<damageSpan xml:id="S01715.damBeg.2v.18" spanTo="#S01715.damEnd.2v.18"/>
                                 <gap extent="4"/>
-                                <supplied>י
-                           נזק</supplied>
+                                <!-- <supplied>י
+                           נזק</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.18"/>
                             </damage> וברשות
                         ה<damage>ניזק</damage>
@@ -332,7 +332,7 @@
                                 </label>
                                 <damageSpan xml:id="S01715.damBeg.2v.19" spanTo="#S01715.damEnd.2v.19"/>
                                 <gap extent="3"/>
-                                <supplied>אמר</supplied>
+                                <!-- <supplied>אמר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.19"/>להם <choice>
                            <abbr>ר<am rend="overdot">׳</am>
                                     </abbr>
@@ -342,16 +342,16 @@
                      במ</damage>קום שהקל<surplus>א</surplus>
                      <lb n="19"/> על הש<damage>ן וע<damageSpan xml:id="S01715.damBeg.2v.20" spanTo="#S01715.damEnd.2v.20"/>
                                 <gap extent="7"/>
-                                <supplied>ל הרגל
-                           בר</supplied>
+                                <!-- <supplied>ל הרגל
+                           בר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.20"/>
                             </damage>שות
                      <add hand="2h" place="above">הרבים</add>
                      <damage>ש</damage>הוא פטור <damage>החמיר ע</damage>ליהם ברשות
                      <lb n="20"/> הניזק ל<damage>של<damageSpan xml:id="S01715.damBeg.2v.21" spanTo="#S01715.damEnd.2v.21"/>
                                 <gap extent="6"/>
-                                <supplied>ם נזק
-                           של</supplied>
+                                <!-- <supplied>ם נזק
+                           של</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2v.21"/>ם מקו</damage>ם
                         <damage>שהחמיר על הקרן בר</damage>שות הרבים
                      <lb n="21"/>
@@ -366,7 +366,7 @@
                            leave too much space for the continuation.</note>
                                 <damageSpan xml:id="S01715.damBeg.2v.23a" spanTo="#S01715.damEnd.2v.23a"/>
                                 <gap extent="3"/>
-                        <supplied>שלם</supplied>
+                        <!-- <supplied>שלם</supplied> -->
                         <unclear extent="4">אמרו</unclear>
                                 <anchor xml:id="S01715.damEnd.2v.23a"/>
                             </damage> לו דייו לב<damage>
@@ -379,8 +379,8 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.2r.1" spanTo="#S01715.damEnd.2r.1"/>
                                 <gap extent="26"/>
-                                <supplied>הרבים חצי נזק אף ברשות הניזק
-                           חצי</supplied>
+                                <!-- <supplied>הרבים חצי נזק אף ברשות הניזק
+                           חצי</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.1"/>
                             </damage>
                      <damage>נזק</damage>
@@ -392,7 +392,7 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.2r.2a" spanTo="#S01715.damEnd.2r.2a"/>
                                 <gap extent="15"/>
-                                <supplied>קרן מקרן ואני אדין</supplied>
+                                <!-- <supplied>קרן מקרן ואני אדין</supplied> -->
                         <unclear extent="4">קרן מ</unclear>
                                 <anchor xml:id="S01715.damEnd.2r.2a"/>רג<damageSpan xml:id="S01715.damBeg.2r.2b" spanTo="#S01715.damEnd.2r.2b"/>
                                 <unclear extent="4">ל מה
@@ -404,7 +404,7 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.2r.3" spanTo="#S01715.damEnd.2r.3"/>
                                 <gap extent="15"/>
-                                <supplied>ברשות הרבים החמ</supplied>
+                                <!-- <supplied>ברשות הרבים החמ</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.3"/>
                             </damage>יר בקרן מקום שהחמיר עליהם ברשות
                      הניזק
@@ -413,8 +413,8 @@
                                 <damageSpan xml:id="S01715.damBeg.2r.4" spanTo="#S01715.damEnd.2r.4"/>
                                 <unclear extent="1">א</unclear>
                                 <gap extent="13"/>
-                                <supplied>ינו דין
-                           שנחמיר ב</supplied>
+                                <!-- <supplied>ינו דין
+                           שנחמיר ב</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.4"/>
                             </damage>קרן אמרו
                      לו דייו לבא מן הדין להיות כנדון מה
@@ -425,7 +425,7 @@
                                 <anchor xml:id="S01715.damEnd.2r.5a"/>ות הר<damageSpan xml:id="S01715.damBeg.2r.5b" spanTo="#S01715.damEnd.2r.5b"/>
                                 <unclear extent="1">ב</unclear>
                                 <gap extent="5"/>
-                                <supplied>ים חצי</supplied>
+                                <!-- <supplied>ים חצי</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.5b"/>
                             </damage> נזק אף ברשות הניזק חצי נזק<pc type="unitEnd">:</pc>
                   </ab>
@@ -440,8 +440,8 @@
                         <add hand="2h" place="above">י</add>
                                 <damageSpan xml:id="S01715.damBeg.2r.6b" spanTo="#S01715.damEnd.2r.6b"/>
                                 <gap extent="3"/>
-                                <supplied>ן
-                           שו</supplied>
+                                <!-- <supplied>ן
+                           שו</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.6b"/>
                             </damage>גג ב
                      <add hand="2h" place="above">י</add>ן מזיד ב
@@ -457,7 +457,7 @@
                                 <damageSpan xml:id="S01715.damBeg.2r.7a" spanTo="#S01715.damEnd.2r.7a"/>
                                 <unclear extent="1">א</unclear>
                                 <gap extent="16"/>
-                                <supplied>ת הכלים משלם נז</supplied>
+                                <!-- <supplied>ת הכלים משלם נז</supplied> -->
                                 <unclear extent="1">ק</unclear>
                                 <anchor xml:id="S01715.damEnd.2r.7a"/>
                             </damage> שלם<pc type="unitEnd">:</pc>
@@ -506,7 +506,7 @@
                      <lb n="10"/> חייב <damage>
                                 <damageSpan xml:id="S01715.damBeg.2r.11" spanTo="#S01715.damEnd.2r.11"/>
                                 <gap extent="2"/>
-                                <supplied>וב</supplied>
+                                <!-- <supplied>וב</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.11"/>ש</damage>אינו מיתכוון פטור<pc type="unitEnd">:</pc>
                   </ab>
                   <ab xml:id="S01715.4.1.3.2">
@@ -564,7 +564,7 @@
                                 <damageSpan xml:id="S01715.damBeg.2r.19" spanTo="#S01715.damEnd.2r.19"/>
                                 <unclear extent="4">שלזה</unclear>
                         <gap extent="1"/>
-                                <supplied>פ</supplied>
+                                <!-- <supplied>פ</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.19"/>טו</damage>ר <damage>ש</damage>לזה רשות
                      <lb n="19"/> להלך ולזה רשות <damage>להלך</damage>
                             <pc type="unitEnd">:</pc>
@@ -572,7 +572,7 @@
                             <label rend="size() align() pad (rl)">ז<am rend="overdot">׳</am>
                             </label>היה <damage>בע<damageSpan xml:id="S01715.damBeg.2r.20" spanTo="#S01715.damEnd.2r.20"/>
                                 <gap extent="7"/>
-                                <supplied>ל הקרה ר</supplied>
+                                <!-- <supplied>ל הקרה ר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.2r.20"/>א</damage>שון ובעל
                      <lb n="20"/> החבית אח<damage>רו</damage>ן נ<damage>שברה</damage> חבית בקורה
                         פ<damage>טור</damage>
@@ -612,24 +612,24 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.1" spanTo="#S01715.damEnd.1v.1"/>
                                 <gap extent="38"/>
-                                <supplied> חייב באחריותו ואם לא ידעו הבעלים לא
-                           בגניבתו ול</supplied>
+                                <!-- <supplied> חייב באחריותו ואם לא ידעו הבעלים לא
+                           בגניבתו ול</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.1"/>א</damage>
                      בחזירתו
                      <lb n="1"/>
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.2" spanTo="#S01715.damEnd.1v.2"/>
                                 <gap extent="28"/>
-                                <supplied>ומנו את הצאן והיא שלימה פטור מלשלם<pc type="unitEnd">:</pc>
-                        </supplied>
+                                <!-- <supplied>ומנו את הצאן והיא שלימה פטור מלשלם<pc type="unitEnd">:</pc>
+                        </supplied> -->
                             </damage>
                         </ab>
                   <ab xml:id="S01715.4.1.10.9">
                             <damage>
                                 <gap extent="12"/>
-                        <supplied>
+                        <!-- <supplied>
                                     <label rend="size()     align() pad(rl)">י<am rend="overdot">׳</am>
-                                    </label>אין לוקחין</supplied>
+                                    </label>אין לוקחין</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.2"/>
                             </damage>
                      <damage>מ</damage>ן הרועים
@@ -638,8 +638,8 @@
                                 <damageSpan xml:id="S01715.damBeg.1v.3" spanTo="#S01715.damEnd.1v.3"/>
                                 <unclear extent="1">צ</unclear>
                                 <gap extent="25"/>
-                                <supplied>מר וחלב
-                           וגידים ולא משומרי פרות עצים ופירו</supplied>
+                                <!-- <supplied>מר וחלב
+                           וגידים ולא משומרי פרות עצים ופירו</supplied> -->
                                 <unclear extent="4">ת
                            אבל</unclear>
                         <anchor xml:id="S01715.damEnd.1v.3"/>לוקח</damage>ין מן הנשים
@@ -648,15 +648,15 @@
                                 <damageSpan xml:id="S01715.damBeg.1v.4" spanTo="#S01715.damEnd.1v.4"/>
                                 <unclear extent="2">פי</unclear>
                                 <gap extent="26"/>
-                                <supplied>שתן בגליל
-                           ועגלים בשרון וכולם שאמר</supplied>
+                                <!-- <supplied>שתן בגליל
+                           ועגלים בשרון וכולם שאמר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.4"/>ו</damage> הטמן אסור ליקח מהן ולוקחין
                      <lb n="4"/> ביצין <damage>ו<damageSpan xml:id="S01715.damBeg.1v.5a" spanTo="#S01715.damEnd.1v.5a"/>
                                 <unclear extent="13">תרנגולין מכל
                            מק</unclear>
                                 <gap extent="3"/>
-                                <supplied>ום<pc type="unitEnd">:</pc>
-                                </supplied>
+                                <!-- <supplied>ום<pc type="unitEnd">:</pc>
+                                </supplied> -->
                             </damage>
                         </ab>
                   <ab xml:id="S01715.4.1.10.10">
@@ -664,8 +664,8 @@
                                 <milestone unit="MSMishnah" n="11"/>
                                 <label rend="size() align() pad                                     (rl)">
                                     <gap extent="1"/>
-                                    <supplied>י<am rend="overdot">׳</am>
-                                    </supplied>
+                                    <!-- <supplied>י<am rend="overdot">׳</am>
+                                    </supplied> -->
                                     <unclear extent="1" unit="chars">א<am rend="overdot">׳</am>
                                     </unclear>
                                 </label>
@@ -673,7 +673,7 @@
                             </damage>
                      <damage>מ<damageSpan xml:id="S01715.damBeg.1v.5b" spanTo="S01715.damEnd.1v.5b"/>
                                 <gap extent="1"/>
-                                <supplied>ו</supplied>
+                                <!-- <supplied>ו</supplied> -->
                                 <unclear extent="2">כי</unclear>
                                 <anchor xml:id="S01715.damEnd.1v.5b"/>ם</damage> שהכובש
                         <damage>מו</damage>ציא הרי אילו
@@ -683,7 +683,7 @@
                                 <damageSpan xml:id="S01715.damBeg.1v.6" spanTo="#S01715.damEnd.1v.6"/>
                                 <unclear extent="1">ת</unclear>
                         <gap extent="5"/>
-                                <supplied>הכובס</supplied>
+                                <!-- <supplied>הכובס</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.6"/>
                             </damage>
                      <damage>נ</damage>וטל שלושה חוטין והן שלו יתר מיכן שלבעל
@@ -691,7 +691,7 @@
                                 <damageSpan xml:id="S01715.damBeg.1v.7" spanTo="#S01715.damEnd.1v.7"/>
                                 <unclear extent="4">על גב</unclear>
                                 <gap extent="2"/>
-                                <supplied>י ל</supplied>
+                                <!-- <supplied>י ל</supplied> -->
                                 <unclear extent="2">בן</unclear>
                                 <anchor xml:id="S01715.damEnd.1v.7"/>
                             </damage> נוטל את הכל
@@ -796,8 +796,8 @@
                                 <damageSpan xml:id="S01715.damBeg.1v.23" spanTo="#S01715.damEnd.1v.23"/>
                                 <unclear extent="6">גוזלות</unclear>
                         <unclear extent="17" unit="chars"/>
-                                <supplied>מפריחין ואמר זכת
-                           לי</supplied>
+                                <!-- <supplied>מפריחין ואמר זכת
+                           לי</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.23"/>
                             </damage>
                      <damage>ש</damage>די לו אמר כלום<pc type="unitEnd">:</pc>
@@ -811,8 +811,8 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.24" spanTo="#S01715.damEnd.1v.24"/>
                                 <gap extent="22"/>
-                                <supplied>הקטנים עבדו ושפחתו
-                           הכנעני</supplied>
+                                <!-- <supplied>הקטנים עבדו ושפחתו
+                           הכנעני</supplied> -->
                                 <unclear extent="4">ם מצי</unclear>
                                 <anchor xml:id="S01715.damEnd.1v.24"/>
                             </damage>את אשתו הרי אילו שלו מציאת בנו
@@ -820,16 +820,16 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.25" spanTo="#S01715.damEnd.1v.25"/>
                                 <gap extent="27"/>
-                                <supplied>ובתו הגדולים ועבדו ושפחתו
-                           העברי</supplied>
+                                <!-- <supplied>ובתו הגדולים ועבדו ושפחתו
+                           העברי</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.25"/>ין</damage> מציאת
                      אשתו שגירשה אף על פי
                      <lb n="25"/>
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.26" spanTo="#S01715.damEnd.1v.26"/>
                                 <gap extent="22"/>
-                                <supplied>שלא נתן לה כתובתה הרי אלו
-                           של</supplied>
+                                <!-- <supplied>שלא נתן לה כתובתה הרי אלו
+                           של</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.26"/>
                             </damage>
                             <note>Supplied text seems short for the length of the
@@ -846,8 +846,8 @@
                      <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.27" spanTo="#S01715.damEnd.1v.27"/>
                                 <gap extent="22"/>
-                                <supplied>אחריות נכסין לא יחזיר אין
-                           ב</supplied>
+                                <!-- <supplied>אחריות נכסין לא יחזיר אין
+                           ב</supplied> -->
                                 <unclear extent="8">הן אחריות</unclear>
                                 <anchor xml:id="S01715.damEnd.1v.27"/>
                             </damage> נכסין<note>Supplied text follows
@@ -857,36 +857,35 @@
                             <damage>
                                 <damageSpan xml:id="S01715.damBeg.1v.28" spanTo="#S01715.damEnd.1v.28"/>
                                 <gap extent="29"/>
-                                <supplied>נפרעין מהן
+                                <!-- <supplied>נפרעין מהן
                            דבר' ר' <persName ref="Personography.xml#Meir">מאיר</persName> וחכמ' אומ'
-                           בין כך ובי</supplied>
+                           בין כך ובי</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1v.28"/>
                             </damage>
                             <note>Supplied text follows Kaufmann MS., but the text of
                         Kaufmann is probably too long for this lacuna.</note>ן כך לא יחזיר מפני שבית
                      דין
                      <lb n="28"/>
-                     <pb n="1r" xml:id="S01715.1r"/> ניפרעין <damage>מ<damageSpan xml:id="S01715.damBeg.1r.1" spanTo="#S01715.damEnd.1r.1"/>
+                     <pb n="1r" xml:id="S01715.1r"/> ניפרעין <damage>מ<damageSpan xml:id="S01715.damBeg.1r.1"/>
                                 <gap extent="3"/>
-                                <supplied>הן<pc type="unitEnd">:</pc>
-                                </supplied>
+                                <!-- <supplied>הן<pc type="unitEnd">:</pc>
+                                </supplied> -->
                      </damage>
                         </ab>
                   <ab xml:id="S01715.4.2.1.7">
                             <damage>
                                 <milestone unit="MSMishnah" n="7"/>
                                 <gap extent="37"/>
-                                <supplied>
+                                <!-- <supplied>
                                     <milestone unit="MSMishnah" n="7"/>
                                     <label rend="size() align() pad (rl)">ז<am rend="overdot">׳</am>
                                     </label> מצא
-                           גיטי נשים ושחרורי עבדים דייתיקי מתנה</supplied>
-                                <anchor xml:id="S01715.damEnd.1r.1"/>
+                           גיטי נשים ושחרורי עבדים דייתיקי מתנה</supplied> -->
                             </damage>
                      <lb n="1"/>ושוברין <damage>ה<damageSpan xml:id="S01715.damBeg.1r.2" spanTo="#S01715.damEnd.1r.2"/>
                                 <gap extent="40"/>
-                                <supplied>רי זה לא יחזיר
-                           שני אומ' כתובים היו ונימלך שלא ליתנן</supplied>
+                                <!-- <supplied>רי זה לא יחזיר
+                           שני אומ' כתובים היו ונימלך שלא ליתנן</supplied> -->
                                 <note>Supplied text from
                            Kaufmann seems a bit too long for the gap.</note>
                      </damage>
@@ -894,22 +893,22 @@
                   <ab xml:id="S01715.4.2.1.8">
                             <damage>
                                 <gap extent="3"/>
-                                <supplied>
+                                <!-- <supplied>
                                     <milestone unit="MSMishnah" n="8"/>
                                     <label rend="size() align() pad (rl)">ח<am rend="overdot">׳</am>
                                     </label>
-                                </supplied>
+                                </supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.2"/>
                             </damage>
                      <lb n="2"/> מצא איגרו<damage>ת ש<damageSpan xml:id="S01715.damBeg.1r.3" spanTo="#S01715.damEnd.1r.3"/>ו<unclear extent="5">ם ואגר</unclear>
                                 <gap reason="damage" extent="40"/>
-                                <supplied>ות מזון שטרי חוב שטרי חליצה
-                           ומאונים שטרי בירורים</supplied>
+                                <!-- <supplied>ות מזון שטרי חוב שטרי חליצה
+                           ומאונים שטרי בירורים</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.3"/>
                             </damage>
                      <lb n="3"/> וכל מעשה בית דין הרי זה <damage>יח<damageSpan xml:id="S01715.damBeg.1r.4" spanTo="#S01715.damEnd.1r.4"/>
                                 <gap extent="25"/>
-                                <supplied>זיר מצא בחפיסה או בגלוסקמא תכר</supplied>
+                                <!-- <supplied>זיר מצא בחפיסה או בגלוסקמא תכר</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.4"/>יך</damage>
                      <lb n="4"/> שלשטרות
                      <add hand="2h" rend="circle" place="margin right">או אגודה
@@ -922,7 +921,7 @@
                             </damage> א<damage>
                                 <damageSpan xml:id="S01715.damBeg.1r.5b" spanTo="#S01715.damEnd.1r.5b"/>
                                 <gap extent="5"/>
-                                <supplied>גודה ש</supplied>
+                                <!-- <supplied>גודה ש</supplied> -->
                                 <unclear extent="11">לשטרות
                            שלושה</unclear>
                                 <anchor xml:id="S01715.damEnd.1r.5b"/>
@@ -941,7 +940,7 @@
                      שלשה
                      <lb n="6"/> לווים מן האחד יחזיר למלוה מצא שטר <damage>ב<damageSpan xml:id="S01715.damBeg.1r.7" spanTo="#S01715.damEnd.1r.7"/>
                                 <gap extent="2"/>
-                                <supplied>ין </supplied>
+                                <!-- <supplied>ין </supplied> -->
                                 <unclear extent="4">שטרו</unclear>
                                 <anchor xml:id="S01715.damEnd.1r.7"/>
                             </damage>תיו ואין ידוע מה טיבו
@@ -1029,50 +1028,50 @@
                                 <damageSpan xml:id="S01715.damBeg.1r.23" spanTo="#S01715.damEnd.1r.23"/>
                                 <unclear extent="1">ה</unclear>
                                 <gap extent="20"/>
-                                <supplied>רי אלו שלו בין תיבה
-                           לחנונ</supplied>
+                                <!-- <supplied>רי אלו שלו בין תיבה
+                           לחנונ</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.23"/>י</damage>
                      <lb n="23"/> הרי הן שלחנוני לפני שולחני <damage>
                                 <damageSpan xml:id="S01715.damBeg.1r.24" spanTo="#S01715.damEnd.1r.24"/>
                                 <unclear extent="4">הרי א</unclear>
                                 <gap extent="23"/>
-                                <supplied>לו שלו בין כסא
-                           לשולחני הרי הן</supplied>
+                                <!-- <supplied>לו שלו בין כסא
+                           לשולחני הרי הן</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.24"/>
                             </damage>
                      <lb n="24"/> שלשולחני לקח פירות מחבירו <damage>או <damageSpan xml:id="S01715.damBeg.1r.25" spanTo="#S01715.damEnd.1r.25"/>
                                 <gap extent="25"/>
-                                <supplied>ששילח לו חבירו פרות ומצא בתוכן</supplied>
+                                <!-- <supplied>ששילח לו חבירו פרות ומצא בתוכן</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.25"/>
                             </damage>
                      <lb n="25"/> מעות הרי הן שלו ואם היו צרורים <damage>
                                 <damageSpan xml:id="S01715.damBeg.1r.26" spanTo="#S01715.damEnd.1r.26"/>
                                 <gap extent="15"/>
-                                <supplied>נוטל ומכריז</supplied>
+                                <!-- <supplied>נוטל ומכריז</supplied> -->
                             </damage>
                         </ab>
                   <ab xml:id="S01715.4.2.2.5">
                             <damage>
                         <gap extent="10"/>
                                 <milestone unit="MSMishnah" n="6"/>
-                        <supplied>
+                        <!-- <supplied>
                                     <label rend="size() align() pad()">ו<am rend="overdot">׳</am>
-                                    </label>אף השימלה</supplied>
+                                    </label>אף השימלה</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.26"/>
                             </damage>
                      <lb n="26"/> היתה בכלל כל אילו ולמה <damage>י<damageSpan xml:id="S01715.damBeg.1r.27" spanTo="#S01715.damEnd.1r.27"/>
                                 <unclear extent="7">צאת להקי</unclear>
                                 <gap extent="22"/>
-                                <supplied>ש אליה אלא מה
-                           השימלה מיוחדת</supplied>
+                                <!-- <supplied>ש אליה אלא מה
+                           השימלה מיוחדת</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.27"/>
                             </damage>
                      <lb n="27"/> שיש בה סימנין ויש לה תו<damage>
                                 <damageSpan xml:id="S01715.damBeg.1r.28" spanTo="#S01715.damEnd.1r.28"/>
                                 <unclear extent="1">ב</unclear>
                                 <gap extent="32"/>
-                                <supplied>עין אף כל דבר שיש בו
-                           סימנין ויש לו תובעין</supplied>
+                                <!-- <supplied>עין אף כל דבר שיש בו
+                           סימנין ויש לו תובעין</supplied> -->
                                 <anchor xml:id="S01715.damEnd.1r.28"/>
                             </damage>
                      <lb n="28"/>
