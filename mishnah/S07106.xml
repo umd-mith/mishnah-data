@@ -1552,9 +1552,8 @@
                     <div3 xml:id="S07106.4.2.1">
                         <lb n="1"/>
                         <ab xml:id="S07106.4.2.1.1">
-                            <seg rend="wide tall">שנים אוחזין בטלית</seg> זה <abbr>אומ<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> אני מ<damage>צ</damage>אתיה וזה<damage>
+                            <seg rend="wide tall">שנים אוחזין בטלית</seg> זה <choice><abbr>אומ<am rend="overdot">׳</am>
+                            </abbr><expan>אומר</expan></choice> אני מ<damage>צ</damage>אתיה וזה<damage>
                                 <abbr>או<am rend="overdot">׳</am>
                                     <expan>אומר</expan>
                                 </abbr> אני <abbr>מצאתי<am rend="overdot">׳</am>
@@ -1562,21 +1561,17 @@
                                 </abbr>
                             </damage>
                             <lb n="2"/>
-                            <space extent="31" unit="chars"/> זה <abbr>או<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> כולה שלי וזה <abbr>או<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> כולה שלי זה י<damage>שב</damage>ע<lb n="3"/>שאין לו בה
+                            <space extent="31" unit="chars"/> זה <choice><abbr>אומ<am rend="overdot">׳</am>
+                            </abbr><expan>אומר</expan></choice> כולה שלי וזה <choice><abbr>או<am rend="overdot">׳</am>
+                            </abbr><expan>אומר</expan></choice> כולה שלי זה י<damage>שב</damage>ע<lb n="3"/>שאין לו בה
                                 פחו<damage>ת מחציה וזה ישבע שאין לו בה פח</damage>ות מחציה ויחלוקו
-                            זה <abbr>אומ<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> כולה שלי <damage>וזה <abbr>או<am rend="overdot">׳</am>
+                            זה <choice><abbr>אומ<am rend="overdot">׳</am>
+                            </abbr><expan>אומר</expan></choice> כולה שלי <damage>וזה <choice><abbr>או<am rend="overdot">׳</am>
                                     <expan>אומר</expan>
-                                </abbr>
+                                </abbr></choice>
                             </damage>
-                            <lb n="4"/>חציה שלי זה <abbr>האומ<am rend="overdot">׳</am>
-                                <expan>האומר</expan>
-                            </abbr> כולה שלי ישב<damage>ע שאין לו </damage>בה פחות
+                            <lb n="4"/>חציה שלי זה <choice><abbr>האומ<am rend="overdot">׳</am>
+                            </abbr><expan>האומר</expan></choice> כולה שלי ישב<damage>ע שאין לו </damage>בה פחות
                                 משלש<damage>ה</damage> חלקים <damage>וזה</damage>
                             <choice>
                                 <abbr>
@@ -1584,18 +1579,16 @@
                                 </abbr>
                                 <expan>האומר</expan>
                             </choice> חציה שלי
-                                    <abbr>ישב<am rend="overdot">׳</am>
-                                <expan>ישבע</expan>
-                            </abbr>
+                                    <choice><abbr>ישב<am rend="overdot">׳</am>
+                            </abbr><expan>ישבע</expan></choice>
                             <lb n="5"/>שאין לו בה פחות מרביע וזה נוטל שלשה חלקים וזה נו<damage>
                                 <unclear reason="damage">ט</unclear>
                             </damage>ל רביע<pc type="unitEnd" rend="raisedDot">:</pc>
                             <space extent="6" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.2"> היו ש<damage>נים רוכבין על גבי </damage>
-                            <lb n="6"/>בהמה או שהיה אחד רוכב ואחד מנהיג זה <abbr>אומ<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> כ<damage>ולה</damage> שלי ו<damage>זה <abbr>או<am rend="overdot">׳</am>
+                            <lb n="6"/>בהמה או שהיה אחד רוכב ואחד מנהיג זה <choice><abbr>אומ<am rend="overdot">׳</am>
+                            </abbr><expan>אומר</expan></choice> כ<damage>ולה</damage> שלי ו<damage>זה <abbr>או<am rend="overdot">׳</am>
                                     <expan>אומר</expan>
                                 </abbr>
                             </damage> כולה שלי זה ישבע שאין לו בה <lb n="7"/>פחות מחציה וזה ישבע
@@ -1606,38 +1599,31 @@
                         </ab>
                         <ab xml:id="S07106.4.2.1.3"> היה רוכב על ג<damage>בי בהמה ו</damage>ראה את
                                 המציא<add place="inline" hand="#h2">ה</add>
-                            <abbr>ואמ<am rend="overdot">׳</am>
-                                <expan>ואמר</expan>
-                            </abbr> לחברו <damage>ת</damage>נה לי <lb n="9"/>נטלה <abbr>ואמ<am rend="overdot">׳</am>
-                                <expan>ואמר</expan>
-                            </abbr> אני זכיתי בה זכה <damage>בה</damage> ואם <damage>מ</damage>שנתנה
+                            <choice><abbr>ואמ<am rend="overdot">׳</am>
+                            </abbr><expan>ואמר</expan></choice> לחברו <damage>ת</damage>נה לי <lb n="9"/>נטלה <choice><abbr>ואמ<am rend="overdot">׳</am>
+                            </abbr><expan>ואמר</expan></choice> אני זכיתי בה זכה <damage>בה</damage> ואם <damage>מ</damage>שנתנה
                                 <damage>לו <abbr>אמ<am rend="overdot">׳</am>
                                     <expan>אמר</expan>
                                 </abbr>
-                            </damage> אני זכיתי בה תחלה לא <abbr>אמ<am rend="overdot">׳</am>
-                                <expan>אמר</expan>
-                            </abbr> כלום<pc type="unitEnd" rend="raisedDot">:</pc>
+                                </damage> אני זכיתי בה תחלה לא <choice><abbr>אמ<am rend="overdot">׳</am>
+                                </abbr><expan>אמר</expan></choice> כלום<pc type="unitEnd" rend="raisedDot">:</pc>
                             <lb n="10"/>
                             <space extent="4" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.4"> ראה את ה<damage>מציאה ונפל לו עליה <unclear reason="damage">ובא</unclear> אחר והחזי</damage>ק בה זה
                                 ש<damage>החזיק</damage> בה זכה בה ראה אותן <lb n="11"/>רצי<del hand="" rend="rubbing">?</del>
                             <add place="overwritten" hand="#h2">ן</add> אחר המציאה אחר צבי שבור אחר
-                            גוזלות שלא פרחו <abbr>ואמ<am rend="overdot">׳</am>
-                                <expan>ואמר</expan>
-                            </abbr> זכת לי שדי זכת לו היה צבי <lb n="12"/>רץ כדרכו או שהיו גוזלות
-                            מפריחין <abbr>ואמ<am rend="overdot">׳</am>
-                                <expan>ואמר</expan>
-                            </abbr> זכת לי שדי לא <abbr>אמ<am rend="overdot">׳</am>
-                                <expan>אמר</expan>
-                            </abbr> כלום<pc type="unitEnd" rend="raisedDot">:</pc>
+                            גוזלות שלא פרחו <choice><abbr>ואמ<am rend="overdot">׳</am>
+                            </abbr><expan>ואמר</expan></choice> זכת לי שדי זכת לו היה צבי <lb n="12"/>רץ כדרכו או שהיו גוזלות
+                            מפריחין <choice><abbr>ואמ<am rend="overdot">׳</am>
+                            </abbr><expan>ואמר</expan></choice> זכת לי שדי לא <choice><abbr>אמ<am rend="overdot">׳</am>
+                            </abbr><expan>אמר</expan></choice> כלום<pc type="unitEnd" rend="raisedDot">:</pc>
                             <space extent="4" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.5"> מציאת בנו ובתו <surplus reason="fill">?</surplus>
                             <lb n="13"/>הקטנים ועבדו ושפחתו הכ<damage>נענ</damage>ים ומציאת אשתו הרי
-                                <c rend="ligature">אל</c>ו שלו מציאת בנו ובתו הגדולים ועבדו <lb n="14"/>ושפחתו העברים ומציאת אשתו שגרשה <abbr>א<am rend="overdot">׳</am>ע<am rend="overdot">׳</am>פ<am rend="overdot">׳</am>
-                                <expan>אף על פי</expan>
-                            </abbr> שלא נתן לה כתובה הרי <c rend="ligature">אל</c>ו שלהן<pc type="unitEnd" rend="raisedDot">:</pc>
+                                <c rend="ligature">אל</c>ו שלו מציאת בנו ובתו הגדולים ועבדו <lb n="14"/>ושפחתו העברים ומציאת אשתו שגרשה <choice><abbr>א<am rend="overdot">׳</am>ע<am rend="overdot">׳</am>פ<am rend="overdot">׳</am>
+                                </abbr><expan>אף על פי</expan></choice> שלא נתן לה כתובה הרי <c rend="ligature">אל</c>ו שלהן<pc type="unitEnd" rend="raisedDot">:</pc>
                             <space extent="5" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.6"> מצא <lb n="15"/>שטרי חוב אם יש בהן אחריות נכסים
@@ -1654,9 +1640,8 @@
                             <space extent="5" unit="chars"/>
                         </ab>
                         <ab xml:id="S07106.4.2.1.7"> מצא <lb n="17"/>גטי נשים ושחרורי עבדים דיתיקי
-                            מתנה ופרוסבלין <damage>וש</damage>וברין הרי זה לא יחזיר שאני <abbr>או<am rend="overdot">׳</am>
-                                <expan>אומר</expan>
-                            </abbr> כתובין <lb n="18"/>היו ונמלך עליהן שלא ליתנן<pc type="unitEnd" rend="period">:</pc>
+                            מתנה ופרוסבלין <damage>וש</damage>וברין הרי זה לא יחזיר שאני <choice><abbr>או<am rend="overdot">׳</am>  
+                            </abbr><expan>אומר</expan></choice> כתובין <lb n="18"/>היו ונמלך עליהן שלא ליתנן<pc type="unitEnd" rend="period">:</pc>
                         </ab>
                         <ab xml:id="S07106.4.2.1.8"> מצא איגרות שום איגרות מזון שטרי חליצה
                                 <damage>ומיאונין</damage>
@@ -1667,17 +1652,19 @@
                             וכמה היא אגודה של שטרות שלשה <surplus reason="fill">?</surplus>
                             <note resp="#HL">The facsimile transcriber read this as qof, but this is
                                 not clear in the image.</note>
-                            <lb n="21"/>קשורין זה בזה רבן שמעון בן <abbr>גמל<am rend="overdot">׳</am>
+                            <lb n="21"/>קשורין זה בזה רבן שמעון בן <choice><abbr>גמל<am rend="overdot">׳</am>
                                 <expan>גמליאל</expan>
                             </abbr>
+                            </choice>
+                            <choice>
                             <abbr>או<am rend="overdot">׳</am>
                                 <expan>אומר</expan>
-                            </abbr> אחד לווה משלשה יחזיר ללווה שלשה לווין מאחד <lb n="22"/>יחזיר
-                            למלוה מצא שטר בין שטרותיו ואין ידוע מה טיבו יהא מונח עד שיבא <c rend="ligature">אל</c>יהו אם יש<lb n="23"/>עמהן <abbr>סמפו<del hand="h2" rend="rubbing">ן</del>
+                            </abbr></choice> אחד לווה משלשה יחזיר ללווה שלשה לווין מאחד <lb n="22"/>יחזיר
+                            למלוה מצא שטר בין שטרותיו ואין ידוע מה טיבו יהא מונח עד שיבא <c rend="ligature">אל</c>יהו אם יש<lb n="23"/>עמהן <choice><abbr>סמפו<del hand="h2" rend="rubbing">ן</del>
                                 <add place="overwritten" hand="#h2">נ</add>
                                 <am rend="overdot">׳</am>
                             </abbr>
-                            <expan>סמפונין</expan> יעשה מה שבסמפונות<pc type="unitEnd" rend="raisedDot">:</pc>
+                            <expan>סמפונין</expan></choice> יעשה מה שבסמפונות<pc type="unitEnd" rend="raisedDot">:</pc>
                         </ab>
                         <trailer xml:id="S07106.4.2.1.T" n="" rend="size(large) pad() ornamented()">סליק פירקא</trailer>
                     </div3>
