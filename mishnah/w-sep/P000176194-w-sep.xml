@@ -1,384 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>An Electronic Edition Mishnah Kilaim, P00005
+      <fileDesc>
+         <titleStmt>
+            <title>An Electronic Edition Mishnah Kilaim, P00005
                 </title>
-                <editor>
-                    <persName corresp="ref.xml#HL">Hayim Lapin</persName>
-                </editor>
-                <respStmt>
-                    <resp>transcriber</resp>
-                     <persName corresp="ref.xml#AE">Anja Engel</persName>
-                     <persName corresp="ref.xml#KI">Kerstin Ipta</persName>
-                     <persName corresp="ref.xml#UL">Uta Lohmann</persName>
-                     <persName corresp="ref.xml#MU">Martina Urban</persName>
-                     <persName corresp="ref.xml#GW">Gert Wildensee</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>markup</resp>
-                    <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
-                </respStmt>
-                <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
-                <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
+            <editor>
+               <persName corresp="ref.xml#HL">Hayim Lapin</persName>
+            </editor>
+            <respStmt>
+               <resp>transcriber</resp>
+               <persName corresp="ref.xml#AE">Anja Engel</persName>
+               <persName corresp="ref.xml#KI">Kerstin Ipta</persName>
+               <persName corresp="ref.xml#UL">Uta Lohmann</persName>
+               <persName corresp="ref.xml#MU">Martina Urban</persName>
+               <persName corresp="ref.xml#GW">Gert Wildensee</persName>
+            </respStmt>
+            <respStmt>
+               <resp>markup</resp>
+               <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
+            </respStmt>
+            <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
+            <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
                     Literature</sponsor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Digital Mishnah Project</publisher>
-                <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
-                <address>
-                    <addrLine>B0131 McKeldin Library</addrLine>
-                    <addrLine>University of Maryland</addrLine>
-                    <addrLine>College Park, MD</addrLine>
-                </address>
-                <idno type="local">P00005</idno>
-                <availability status="restricted">
-                    <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a .</p>
-                </availability>
-                <pubPlace>College Park, MD USA</pubPlace>
-                <date>2012-06-15</date>
-            </publicationStmt>
-            <notesStmt>
-                <note>
-                <p>Mishnah text, extracted from the print Yalqut Shimoni Saloniki 1501/1506
-                as published in .</p>
-                <p>Based on a transcription by Anja Engel, Kerstin Ipta, Uta Lohmann, Martina Urban
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Digital Mishnah Project</publisher>
+            <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
+            <address>
+               <addrLine>B0131 McKeldin Library</addrLine>
+               <addrLine>University of Maryland</addrLine>
+               <addrLine>College Park, MD</addrLine>
+            </address>
+            <idno type="local">P00005</idno>
+            <availability status="restricted">
+               <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
+                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licenses/by-nc/3.0//">Creative
+                            Commons Attribution-NonCommercial 3.0 License</ref>.</p>
+            </availability>
+            <pubPlace>College Park, MD USA</pubPlace>
+            <date>2012-06-15</date>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p>Mishnah text, extracted from the print Yalqut Shimoni Saloniki 1501/1506
+                as published in <ref corresp="ref.xml#synopse">Schäfer,
+                et al., <hi>Synopsis</hi>, Vol I/3-5</ref>.</p>
+               <p>Based on a transcription by Anja Engel, Kerstin Ipta, Uta Lohmann, Martina Urban
                 und Gert Wildensee, last revision by Hans-Jürgen Becker. Responsibility by
                 Peter Schäfer, Hans-Jürgen Becker. Converted to TEI by Gottfried Reeg using
                 TUSCRIPT</p>
-                </note>
-            </notesStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier/>
-                    <msContents>
-                        <msItem/>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc/>
-                        <handDesc/>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <tagsDecl> </tagsDecl>
-        </encodingDesc>
-        <profileDesc>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier/>
+               <msContents>
+                  <msItem/>
+               </msContents>
+               <physDesc>
+                  <objectDesc/>
+                  <handDesc/>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
          <listTranspose/>
       </profileDesc>
+      <encodingDesc>
+         <tagsDecl/>
+      </encodingDesc>
       <revisionDesc>
-        <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
-         <change who="ref.xml#AE ref.xml#KI ref.xml#UL ref.xml#MU ref.xml#GW" notAfter="1992">Original Transcription for Yerushalmi Synopsis</change>
+         <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
+         <change who="ref.xml#AE ref.xml#KI ref.xml#UL ref.xml#MU ref.xml#GW"
+                 notAfter="1992">Original Transcription for Yerushalmi Synopsis</change>
          <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
-        </revisionDesc>
-    </teiHeader>
+      </revisionDesc>
+   </teiHeader>
    <text xml:lang="heb" type="edition">
       <body>
-            <div1 type="order" subtype="order" xml:id="P00005.1">
-                <div2 type="tractate" subtype="tractate" xml:id="P00005.1.2">
-               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="P00005.1.2.6">
-                  <pb xml:id="P00005.372v" n="372v"/> 
-                  <cb xml:id="P00005.372A" n="372vA"/>
-                  <lb xml:id="P00005.372A.01" n="1"/>
+         <div1 xml:id="P00005.1" type="textpart" subtype="order">
+            <div2 xml:id="P00005.1.2" type="textpart" subtype="tractate">
+               <div3 xml:id="P00005.1.2.6"
+                     n="Chapter6"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P00005.372v"/>
+                  <cb xml:id="P00005.372vA"/>
+                  <lb xml:id="P00005.372vA.36" n="36"/>
                   <head xml:id="P00005.1.2.6.H">
-                     <w xml:id="P00005.1.2.6.H.00100">פ<am>׳</am>ו</w>
+                     <w xml:id="P00005.1.2.6.H.00010">פ<am>׳</am>
+                     </w>
+                     <w xml:id="P00005.1.2.6.H.00020">ו</w>
                      <milestone/>
-                     <w xml:id="P00005.1.2.6.H.00200">קי<am>׳</am>
-                        <am>׳</am>ו</w>
+                     <w xml:id="P00005.1.2.6.H.00030">קי<am>׳</am>
+                        <am>׳</am>
+                     </w>
+                     <w xml:id="P00005.1.2.6.H.00040">ו</w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.2.6.1">
+                  <ab xml:id="P00005.1.2.6.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="6"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P00005.1.2.6.1.00100">בית</w>
-                     <w xml:id="P00005.1.2.6.1.00200">שמאי</w>
-                     <w xml:id="P00005.1.2.6.1.00300">אומרים</w>
-                     <w xml:id="P00005.1.2.6.1.00400">הבקר</w>
-                     <w xml:id="P00005.1.2.6.1.00500">לעניים</w>
-                     <w xml:id="P00005.1.2.6.1.00600">הבקר</w>
-                     <w xml:id="P00005.1.2.6.1.00700">ובית</w>
-                     <lb xml:id="P00005.372A.02" n="2"/>
-                     <w xml:id="P00005.1.2.6.1.00800">הלל</w>
-                     <w xml:id="P00005.1.2.6.1.00900">
+                     <w xml:id="P00005.1.2.6.1.00010">בית</w>
+                     <w xml:id="P00005.1.2.6.1.00020">שמאי</w>
+                     <w xml:id="P00005.1.2.6.1.00030">אומרים</w>
+                     <w xml:id="P00005.1.2.6.1.00040">הבקר</w>
+                     <w xml:id="P00005.1.2.6.1.00050">לעניים</w>
+                     <w xml:id="P00005.1.2.6.1.00060">הבקר</w>
+                     <w xml:id="P00005.1.2.6.1.00070">ובית</w>
+                     <lb xml:id="P00005.372vA.37" n="37"/>
+                     <w xml:id="P00005.1.2.6.1.00080">הלל</w>
+                     <w xml:id="P00005.1.2.6.1.00090">
                         <choice>
                            <abbr>אומ<am>׳</am>
                            </abbr>
                            <expan>אומרים</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.2.6.1.01000">אינו</w>
-                     <w xml:id="P00005.1.2.6.1.01100">הבקר</w>
-                     <w xml:id="P00005.1.2.6.1.01200">עד</w>
-                     <w xml:id="P00005.1.2.6.1.01300">שיובקר</w>
-                     <w xml:id="P00005.1.2.6.1.01400">אף</w>
-                     <w xml:id="P00005.1.2.6.1.01500">לעשירים</w>
-                     <lb xml:id="P00005.372A.03" n="3"/>
-                     <w xml:id="P00005.1.2.6.1.01600">
-                        <damageSpan type="damage" spanTo="#P00005.372A.03.d5d3e194"/>
-                        <damageSpan type="unclear" spanTo="#P00005.372A.03.d5d3e195" subtype="damage"/>ב<anchor type="unclear" xml:id="P00005.372A.03.d5d3e195"/>
-                        <anchor type="damage" xml:id="P00005.372A.03.d5d3e194"/>שמיטה</w>
-                     <lb xml:id="P00005.372A.04" n="4"/>
+                     <w xml:id="P00005.1.2.6.1.00100">אינו</w>
+                     <w xml:id="P00005.1.2.6.1.00110">הבקר</w>
+                     <w xml:id="P00005.1.2.6.1.00120">עד</w>
+                     <w xml:id="P00005.1.2.6.1.00130">שיובקר</w>
+                     <w xml:id="P00005.1.2.6.1.00140">אף</w>
+                     <w xml:id="P00005.1.2.6.1.00150">לעשירים</w>
+                     <lb xml:id="P00005.372vA.38" n="38"/>
+                     <damageSpan spanTo="#P00005.372vA.38.d271663e103" type="damage"/>
+                     <damageSpan spanTo="#P00005.372vA.38.d271663e104"
+                                 type="unclear"
+                                 subtype="damage"/>
+                     <w xml:id="P00005.1.2.6.1.00160">ב<anchor xml:id="P00005.372vA.38.d271663e104" type="unclear"/>
+                        <anchor xml:id="P00005.372vA.38.d271663e103" type="damage"/>שמיטה</w>
+                     <lb xml:id="P00005.372vA.48" n="48"/>
                   </ab>
-                  <gap xml:id="P00005.372A.04.d6e244" reason="talmud" extent="999"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.2.6.5">
-                     <w xml:id="P00005.1.2.6.5.00100">שני</w>
-                     <lb xml:id="P00005.372A.05" n="5"/>
-                     <w xml:id="P00005.1.2.6.5.00200">עומרין</w>
-                     <w xml:id="P00005.1.2.6.5.00300">שכחה</w>
-                     <w xml:id="P00005.1.2.6.5.00400">
+                  <gap reason="talmud" extent="999"/>
+                  <ab xml:id="P00005.1.2.6.5" type="textpart" subtype="mishnah">
+                     <w xml:id="P00005.1.2.6.5.00010">שני</w>
+                     <lb xml:id="P00005.372vA.49" n="49"/>
+                     <w xml:id="P00005.1.2.6.5.00020">עומרין</w>
+                     <w xml:id="P00005.1.2.6.5.00030">שכחה</w>
+                     <w xml:id="P00005.1.2.6.5.00040">
                         <choice>
                            <abbr>שלש<am>׳</am>
                            </abbr>
                            <expan>שלשה</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.2.6.5.00500">אינם</w>
-                     <w xml:id="P00005.1.2.6.5.00600">שכחה</w>
-                     <w xml:id="P00005.1.2.6.5.00700">שני</w>
-                     <w xml:id="P00005.1.2.6.5.00800">גרגרים</w>
-                     <w xml:id="P00005.1.2.6.5.00900">פרט</w>
-                     <w xml:id="P00005.1.2.6.5.01000">שלשה</w>
-                     <w xml:id="P00005.1.2.6.5.01100">אינן</w>
-                     <lb xml:id="P00005.372A.06" n="6"/>
-                     <w xml:id="P00005.1.2.6.5.01200">פרט</w>
-                     <w xml:id="P00005.1.2.6.5.01300">שתי</w>
-                     <w xml:id="P00005.1.2.6.5.01400">שיבולין</w>
-                     <w xml:id="P00005.1.2.6.5.01500">לקט</w>
-                     <w xml:id="P00005.1.2.6.5.01600">
+                     <w xml:id="P00005.1.2.6.5.00050">אינם</w>
+                     <w xml:id="P00005.1.2.6.5.00060">שכחה</w>
+                     <w xml:id="P00005.1.2.6.5.00070">שני</w>
+                     <w xml:id="P00005.1.2.6.5.00080">גרגרים</w>
+                     <w xml:id="P00005.1.2.6.5.00090">פרט</w>
+                     <w xml:id="P00005.1.2.6.5.00100">שלשה</w>
+                     <w xml:id="P00005.1.2.6.5.00110">אינן</w>
+                     <lb xml:id="P00005.372vA.50" n="50"/>
+                     <w xml:id="P00005.1.2.6.5.00120">פרט</w>
+                     <w xml:id="P00005.1.2.6.5.00130">שתי</w>
+                     <w xml:id="P00005.1.2.6.5.00140">שיבולין</w>
+                     <w xml:id="P00005.1.2.6.5.00150">לקט</w>
+                     <w xml:id="P00005.1.2.6.5.00160">
                         <choice>
                            <abbr>ג<am>׳</am>
                            </abbr>
                            <expan>שלשה</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.2.6.5.01700">אינם</w>
-                     <w xml:id="P00005.1.2.6.5.01800">לקט</w>
-                     <w xml:id="P00005.1.2.6.5.01900">אלו</w>
-                     <w xml:id="P00005.1.2.6.5.02000">כדברי</w>
-                     <w xml:id="P00005.1.2.6.5.02100">בית</w>
-                     <w xml:id="P00005.1.2.6.5.02200">הלל</w>
-                     <w xml:id="P00005.1.2.6.5.02300">בית</w>
-                     <lb xml:id="P00005.372A.07" n="7"/>
-                     <w xml:id="P00005.1.2.6.5.02400">שמאי</w>
-                     <w xml:id="P00005.1.2.6.5.02500">אומרים</w>
-                     <w xml:id="P00005.1.2.6.5.02600">שלשה</w>
-                     <w xml:id="P00005.1.2.6.5.02700">לעניים</w>
-                     <w xml:id="P00005.1.2.6.5.02800">ארבעה</w>
-                     <w xml:id="P00005.1.2.6.5.02900">לבעל</w>
-                     <w xml:id="P00005.1.2.6.5.03000">הבית</w>
+                     <w xml:id="P00005.1.2.6.5.00170">אינם</w>
+                     <w xml:id="P00005.1.2.6.5.00180">לקט</w>
+                     <w xml:id="P00005.1.2.6.5.00190">אלו</w>
+                     <w xml:id="P00005.1.2.6.5.00200">כדברי</w>
+                     <w xml:id="P00005.1.2.6.5.00210">בית</w>
+                     <w xml:id="P00005.1.2.6.5.00220">הלל</w>
+                     <w xml:id="P00005.1.2.6.5.00230">בית</w>
+                     <lb xml:id="P00005.372vA.51" n="51"/>
+                     <w xml:id="P00005.1.2.6.5.00240">שמאי</w>
+                     <w xml:id="P00005.1.2.6.5.00250">אומרים</w>
+                     <w xml:id="P00005.1.2.6.5.00260">שלשה</w>
+                     <w xml:id="P00005.1.2.6.5.00270">לעניים</w>
+                     <w xml:id="P00005.1.2.6.5.00280">ארבעה</w>
+                     <w xml:id="P00005.1.2.6.5.00290">לבעל</w>
+                     <w xml:id="P00005.1.2.6.5.00300">הבית</w>
                   </ab>
-                  <gap xml:id="P00005.372A.07.d6e360" reason="talmud" extent="999"/>
-                  <cb xml:id="P00005.372B" n="372vB"/>
-                  <lb xml:id="P00005.372B.01" n="1"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.2.6.6">
+                  <gap reason="talmud" extent="999"/>
+                  <cb xml:id="P00005.372vB"/>
+                  <lb xml:id="P00005.372vB.3" n="3"/>
+                  <ab xml:id="P00005.1.2.6.6" type="textpart" subtype="mishnah">
                      <milestone/>
-                     <w xml:id="P00005.1.2.6.6.00100">קי<am>׳</am>ט</w>
-                     <w xml:id="P00005.1.2.6.6.00200">עומר</w>
-                     <w xml:id="P00005.1.2.6.6.00300">שיש</w>
-                     <w xml:id="P00005.1.2.6.6.00400">בו</w>
-                     <w xml:id="P00005.1.2.6.6.00500">סאתים</w>
-                     <w xml:id="P00005.1.2.6.6.00600">ושכחו</w>
-                     <lb xml:id="P00005.372B.02" n="2"/>
-                     <w xml:id="P00005.1.2.6.6.00700">אינו</w>
-                     <w xml:id="P00005.1.2.6.6.00800">שכחה</w>
-                     <lb xml:id="P00005.372B.03" n="3"/>
+                     <w xml:id="P00005.1.2.6.6.00010">קי<am>׳</am>
+                     </w>
+                     <w xml:id="P00005.1.2.6.6.00020">ט</w>
+                     <w xml:id="P00005.1.2.6.6.00030">עומר</w>
+                     <w xml:id="P00005.1.2.6.6.00040">שיש</w>
+                     <w xml:id="P00005.1.2.6.6.00050">בו</w>
+                     <w xml:id="P00005.1.2.6.6.00060">סאתים</w>
+                     <w xml:id="P00005.1.2.6.6.00070">ושכחו</w>
+                     <lb xml:id="P00005.372vB.4" n="4"/>
+                     <w xml:id="P00005.1.2.6.6.00080">אינו</w>
+                     <w xml:id="P00005.1.2.6.6.00090">שכחה</w>
+                     <lb xml:id="P00005.372vB.7" n="7"/>
                   </ab>
-                  <gap xml:id="P00005.372B.03.d6e398" reason="talmud" extent="999"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.2.6.10">
-                     <w xml:id="P00005.1.2.6.10.00100">וכל</w>
-                     <w xml:id="P00005.1.2.6.10.00200">הטמונים</w>
-                     <w xml:id="P00005.1.2.6.10.00300">בארץ</w>
-                     <w xml:id="P00005.1.2.6.10.00400">כגון</w>
-                     <w xml:id="P00005.1.2.6.10.00500">הלוף</w>
-                     <w xml:id="P00005.1.2.6.10.00600">והשום</w>
-                     <w xml:id="P00005.1.2.6.10.00700">והבצלים</w>
-                     <lb xml:id="P00005.372B.04" n="4"/>
-                     <w xml:id="P00005.1.2.6.10.00800">רבי</w>
-                     <w xml:id="P00005.1.2.6.10.00900">יהודה</w>
-                     <w xml:id="P00005.1.2.6.10.01000">אומר</w>
-                     <w xml:id="P00005.1.2.6.10.01100">אין</w>
-                     <w xml:id="P00005.1.2.6.10.01200">להן</w>
-                     <w xml:id="P00005.1.2.6.10.01300">שכחה</w>
-                     <w xml:id="P00005.1.2.6.10.01400">וחכמים</w>
-                     <w xml:id="P00005.1.2.6.10.01500">
+                  <gap reason="talmud" extent="999"/>
+                  <ab xml:id="P00005.1.2.6.10" type="textpart" subtype="mishnah">
+                     <w xml:id="P00005.1.2.6.10.00010">וכל</w>
+                     <w xml:id="P00005.1.2.6.10.00020">הטמונים</w>
+                     <w xml:id="P00005.1.2.6.10.00030">בארץ</w>
+                     <w xml:id="P00005.1.2.6.10.00040">כגון</w>
+                     <w xml:id="P00005.1.2.6.10.00050">הלוף</w>
+                     <w xml:id="P00005.1.2.6.10.00060">והשום</w>
+                     <w xml:id="P00005.1.2.6.10.00070">והבצלים</w>
+                     <lb xml:id="P00005.372vB.8" n="8"/>
+                     <w xml:id="P00005.1.2.6.10.00080">רבי</w>
+                     <w xml:id="P00005.1.2.6.10.00090">יהודה</w>
+                     <w xml:id="P00005.1.2.6.10.00100">אומר</w>
+                     <w xml:id="P00005.1.2.6.10.00110">אין</w>
+                     <w xml:id="P00005.1.2.6.10.00120">להן</w>
+                     <w xml:id="P00005.1.2.6.10.00130">שכחה</w>
+                     <w xml:id="P00005.1.2.6.10.00140">וחכמים</w>
+                     <w xml:id="P00005.1.2.6.10.00150">
                         <choice>
                            <abbr>אומרי<am>׳</am>
                            </abbr>
                            <expan>אומרים</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.2.6.10.01600">יש</w>
-                     <w xml:id="P00005.1.2.6.10.01700">להן</w>
-                     <w xml:id="P00005.1.2.6.10.01800">שכחה</w>
+                     <w xml:id="P00005.1.2.6.10.00160">יש</w>
+                     <w xml:id="P00005.1.2.6.10.00170">להן</w>
+                     <w xml:id="P00005.1.2.6.10.00180">שכחה</w>
                   </ab>
-
                </div3>
             </div2>
-          
-                <div2 type="tractate" subtype="tractate" xml:id="P00005.1.4">
-               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="P00005.1.4.1">
-                  <pb xml:id="P00005.373r" n="373r"/> 
-                  <cb xml:id="P00005.373A" n="373rA"/>
-                  <lb xml:id="P00005.373A.01" n="1"/>
+            <div2 xml:id="P00005.1.4" type="textpart" subtype="tractate">
+               <div3 xml:id="P00005.1.4.1"
+                     n="Chapter1"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P00005.373r"/>
+                  <cb xml:id="P00005.373rA"/>
+                  <lb xml:id="P00005.373rA.50" n="50"/>
                   <head xml:id="P00005.1.4.1.H">
-                     <w xml:id="P00005.1.4.1.H.00100">פ<am>׳</am>ג</w>
+                     <w xml:id="P00005.1.4.1.H.00010">פ<am>׳</am>
+                     </w>
+                     <w xml:id="P00005.1.4.1.H.00020">ג</w>
                      <milestone/>
-                     <w xml:id="P00005.1.4.1.H.00200">ק<am>׳</am>ל</w>
+                     <w xml:id="P00005.1.4.1.H.00030">ק<am>׳</am>
+                     </w>
+                     <w xml:id="P00005.1.4.1.H.00040">ל</w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.4.1.1">
+                  <ab xml:id="P00005.1.4.1.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="3"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P00005.1.4.1.1.00100">היתה</w>
-                     <w xml:id="P00005.1.4.1.1.00200">שדהו</w>
-                     <w xml:id="P00005.1.4.1.1.00300">זרועה</w>
-                     <w xml:id="P00005.1.4.1.1.00400">ירק</w>
-                     <w xml:id="P00005.1.4.1.1.00500">ומבקש</w>
-                     <w xml:id="P00005.1.4.1.1.00600">ליטע</w>
-                     <w xml:id="P00005.1.4.1.1.00700">בתוכה</w>
-                     <w xml:id="P00005.1.4.1.1.00800">שורה</w>
-                     <lb xml:id="P00005.373A.02" n="2"/>
-                     <w xml:id="P00005.1.4.1.1.00900">של</w>
-                     <w xml:id="P00005.1.4.1.1.01000">ירק</w>
-                     <w xml:id="P00005.1.4.1.1.01100">אחר</w>
-                     <w xml:id="P00005.1.4.1.1.01200">
+                     <w xml:id="P00005.1.4.1.1.00010">היתה</w>
+                     <w xml:id="P00005.1.4.1.1.00020">שדהו</w>
+                     <w xml:id="P00005.1.4.1.1.00030">זרועה</w>
+                     <w xml:id="P00005.1.4.1.1.00040">ירק</w>
+                     <w xml:id="P00005.1.4.1.1.00050">ומבקש</w>
+                     <w xml:id="P00005.1.4.1.1.00060">ליטע</w>
+                     <w xml:id="P00005.1.4.1.1.00070">בתוכה</w>
+                     <w xml:id="P00005.1.4.1.1.00080">שורה</w>
+                     <lb xml:id="P00005.373rA.51" n="51"/>
+                     <w xml:id="P00005.1.4.1.1.00090">של</w>
+                     <w xml:id="P00005.1.4.1.1.00100">ירק</w>
+                     <w xml:id="P00005.1.4.1.1.00110">אחר</w>
+                     <w xml:id="P00005.1.4.1.1.00120">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.4.1.1.01300">יהודה</w>
-                     <w xml:id="P00005.1.4.1.1.01400">
+                     <w xml:id="P00005.1.4.1.1.00130">יהודה</w>
+                     <w xml:id="P00005.1.4.1.1.00140">
                         <choice>
                            <abbr>או<am>׳</am>
                            </abbr>
                            <expan>אומר</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.4.1.1.01500">רוחב</w>
-                     <w xml:id="P00005.1.4.1.1.01600">כמלא</w>
-                     <w xml:id="P00005.1.4.1.1.01700">רוחב</w>
-                     <w xml:id="P00005.1.4.1.1.01800">פרסה</w>
+                     <w xml:id="P00005.1.4.1.1.00150">רוחב</w>
+                     <w xml:id="P00005.1.4.1.1.00160">כמלא</w>
+                     <w xml:id="P00005.1.4.1.1.00170">רוחב</w>
+                     <w xml:id="P00005.1.4.1.1.00180">פרסה</w>
                   </ab>
-
                </div3>
             </div2>
-          
-                <div2 type="tractate" subtype="tractate" xml:id="P00005.1.5">
-               <div3 n="Chapter9" type="chapter" subtype="chapter" xml:id="P00005.1.5.9">
-                  <pb xml:id="P00005.373v" n="373v"/> 
-                  <cb xml:id="P00005.373B" n="373vB"/>
-                  <lb xml:id="P00005.373B.01" n="1"/>
+            <div2 xml:id="P00005.1.5" type="textpart" subtype="tractate">
+               <div3 xml:id="P00005.1.5.9"
+                     n="Chapter9"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P00005.373v"/>
+                  <cb xml:id="P00005.373vB"/>
+                  <lb xml:id="P00005.373vB.20" n="20"/>
                   <head xml:id="P00005.1.5.9.H">
-                     <w xml:id="P00005.1.5.9.H.00100">ט</w>
+                     <w xml:id="P00005.1.5.9.H.00010">ט</w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.5.9.8">
+                  <ab xml:id="P00005.1.5.9.8" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="9"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P00005.1.5.9.8.00100">פ</w>
-                     <w xml:id="P00005.1.5.9.8.00200">מי</w>
-                     <w xml:id="P00005.1.5.9.8.00300">שהיו</w>
-                     <w xml:id="P00005.1.5.9.8.00400">לו</w>
-                     <w xml:id="P00005.1.5.9.8.00500">פירות</w>
-                     <w xml:id="P00005.1.5.9.8.00600">שביעית</w>
-                     <w xml:id="P00005.1.5.9.8.00700">והגיע</w>
-                     <w xml:id="P00005.1.5.9.8.00800">שעת</w>
-                     <w xml:id="P00005.1.5.9.8.00900">הביעור</w>
-                     <w xml:id="P00005.1.5.9.8.01000">מחלקן</w>
-                     <lb xml:id="P00005.373B.02" n="2"/>
-                     <w xml:id="P00005.1.5.9.8.01100">מזון</w>
-                     <w xml:id="P00005.1.5.9.8.01200">
+                     <w xml:id="P00005.1.5.9.8.00010">פ</w>
+                     <w xml:id="P00005.1.5.9.8.00020">מי</w>
+                     <w xml:id="P00005.1.5.9.8.00030">שהיו</w>
+                     <w xml:id="P00005.1.5.9.8.00040">לו</w>
+                     <w xml:id="P00005.1.5.9.8.00050">פירות</w>
+                     <w xml:id="P00005.1.5.9.8.00060">שביעית</w>
+                     <w xml:id="P00005.1.5.9.8.00070">והגיע</w>
+                     <w xml:id="P00005.1.5.9.8.00080">שעת</w>
+                     <w xml:id="P00005.1.5.9.8.00090">הביעור</w>
+                     <w xml:id="P00005.1.5.9.8.00100">מחלקן</w>
+                     <lb xml:id="P00005.373vB.21" n="21"/>
+                     <w xml:id="P00005.1.5.9.8.00110">מזון</w>
+                     <w xml:id="P00005.1.5.9.8.00120">
                         <choice>
                            <abbr>ג<am>׳</am>
                            </abbr>
                            <expan>שלש</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.5.9.8.01300">סעודות</w>
-                     <w xml:id="P00005.1.5.9.8.01400">אכל</w>
-                     <w xml:id="P00005.1.5.9.8.01500">אחד</w>
-                     <w xml:id="P00005.1.5.9.8.01600">ואחד</w>
-                     <w xml:id="P00005.1.5.9.8.01700">ועניים</w>
-                     <w xml:id="P00005.1.5.9.8.01800">אוכלים</w>
-                     <w xml:id="P00005.1.5.9.8.01900">אחר</w>
-                     <lb xml:id="P00005.373B.03" n="3"/>
-                     <w xml:id="P00005.1.5.9.8.02000">הביעור</w>
+                     <w xml:id="P00005.1.5.9.8.00130">סעודות</w>
+                     <w xml:id="P00005.1.5.9.8.00140">אכל</w>
+                     <w xml:id="P00005.1.5.9.8.00150">אחד</w>
+                     <w xml:id="P00005.1.5.9.8.00160">ואחד</w>
+                     <w xml:id="P00005.1.5.9.8.00170">ועניים</w>
+                     <w xml:id="P00005.1.5.9.8.00180">אוכלים</w>
+                     <w xml:id="P00005.1.5.9.8.00190">אחר</w>
+                     <lb xml:id="P00005.373vB.22" n="22"/>
+                     <w xml:id="P00005.1.5.9.8.00200">הביעור</w>
                   </ab>
-
                </div3>
             </div2>
-          
-                <div2 type="tractate" subtype="tractate" xml:id="P00005.1.6">
-               <div3 n="Chapter11" type="chapter" subtype="chapter" xml:id="P00005.1.6.11">
-                  <pb xml:id="P00005.374r" n="374r"/> 
-                  <cb xml:id="P00005.374A" n="374rA"/>
-                  <lb xml:id="P00005.374A.01" n="1"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P00005.1.6.11.2">
-                     <w xml:id="P00005.1.6.11.2.00100">דבש</w>
-                     <w xml:id="P00005.1.6.11.2.00200">תמרים</w>
-                     <w xml:id="P00005.1.6.11.2.00300">ויין</w>
-                     <lb xml:id="P00005.374A.02" n="2"/>
-                     <w xml:id="P00005.1.6.11.2.00400">תפוחים</w>
-                     <w xml:id="P00005.1.6.11.2.00500">וחומץ</w>
-                     <w xml:id="P00005.1.6.11.2.00600">שיסוונית</w>
-                     <w xml:id="P00005.1.6.11.2.00700">ושאר</w>
-                     <w xml:id="P00005.1.6.11.2.00800">כל</w>
-                     <w xml:id="P00005.1.6.11.2.00900">מיני</w>
-                     <w xml:id="P00005.1.6.11.2.01000">פירות</w>
-                     <w xml:id="P00005.1.6.11.2.01100">של</w>
-                     <w xml:id="P00005.1.6.11.2.01200">תרומה</w>
-                     <w xml:id="P00005.1.6.11.2.01300">
+            <div2 xml:id="P00005.1.6" type="textpart" subtype="tractate">
+               <div3 xml:id="P00005.1.6.11"
+                     n="Chapter11"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P00005.374r"/>
+                  <cb xml:id="P00005.374rA"/>
+                  <lb xml:id="P00005.374rA.27" n="27"/>
+                  <ab xml:id="P00005.1.6.11.2" type="textpart" subtype="mishnah">
+                     <w xml:id="P00005.1.6.11.2.00010">דבש</w>
+                     <w xml:id="P00005.1.6.11.2.00020">תמרים</w>
+                     <w xml:id="P00005.1.6.11.2.00030">ויין</w>
+                     <lb xml:id="P00005.374rA.28" n="28"/>
+                     <w xml:id="P00005.1.6.11.2.00040">תפוחים</w>
+                     <w xml:id="P00005.1.6.11.2.00050">וחומץ</w>
+                     <w xml:id="P00005.1.6.11.2.00060">שיסוונית</w>
+                     <w xml:id="P00005.1.6.11.2.00070">ושאר</w>
+                     <w xml:id="P00005.1.6.11.2.00080">כל</w>
+                     <w xml:id="P00005.1.6.11.2.00090">מיני</w>
+                     <w xml:id="P00005.1.6.11.2.00100">פירות</w>
+                     <w xml:id="P00005.1.6.11.2.00110">של</w>
+                     <w xml:id="P00005.1.6.11.2.00120">תרומה</w>
+                     <w xml:id="P00005.1.6.11.2.00130">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <lb xml:id="P00005.374A.03" n="3"/>
-                     <w xml:id="P00005.1.6.11.2.01400">אלעזר</w>
-                     <w xml:id="P00005.1.6.11.2.01500">מחייב</w>
-                     <w xml:id="P00005.1.6.11.2.01600">קרן</w>
-                     <w xml:id="P00005.1.6.11.2.01700">וחומש</w>
-                     <w xml:id="P00005.1.6.11.2.01800">
-                        <damageSpan type="damage" spanTo="#P00005.374A.03.d5d3e348"/>
-                        <damageSpan type="unclear" spanTo="#P00005.374A.03.d5d3e349" subtype="damage"/>ו<anchor type="unclear" xml:id="P00005.374A.03.d5d3e349"/>
-                        <anchor type="damage" xml:id="P00005.374A.03.d5d3e348"/>רבי</w>
-                     <w xml:id="P00005.1.6.11.2.01900">יהושע</w>
-                     <w xml:id="P00005.1.6.11.2.02000">פוטר</w>
-                     <w xml:id="P00005.1.6.11.2.02100">
+                     <lb xml:id="P00005.374rA.29" n="29"/>
+                     <w xml:id="P00005.1.6.11.2.00140">אלעזר</w>
+                     <w xml:id="P00005.1.6.11.2.00150">מחייב</w>
+                     <w xml:id="P00005.1.6.11.2.00160">קרן</w>
+                     <w xml:id="P00005.1.6.11.2.00170">וחומש</w>
+                     <damageSpan spanTo="#P00005.374rA.29.d271663e220" type="damage"/>
+                     <damageSpan spanTo="#P00005.374rA.29.d271663e221"
+                                 type="unclear"
+                                 subtype="damage"/>
+                     <w xml:id="P00005.1.6.11.2.00180">ו<anchor xml:id="P00005.374rA.29.d271663e221" type="unclear"/>
+                        <anchor xml:id="P00005.374rA.29.d271663e220" type="damage"/>רבי</w>
+                     <w xml:id="P00005.1.6.11.2.00190">יהושע</w>
+                     <w xml:id="P00005.1.6.11.2.00200">פוטר</w>
+                     <w xml:id="P00005.1.6.11.2.00210">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.6.11.2.02200">אליעזר</w>
-                     <w xml:id="P00005.1.6.11.2.02300">מטמא</w>
-                     <lb xml:id="P00005.374A.04" n="4"/>
-                     <w xml:id="P00005.1.6.11.2.02400">משום</w>
-                     <w xml:id="P00005.1.6.11.2.02500">משקה</w>
-                     <w xml:id="P00005.1.6.11.2.02600">
+                     <w xml:id="P00005.1.6.11.2.00220">אליעזר</w>
+                     <w xml:id="P00005.1.6.11.2.00230">מטמא</w>
+                     <lb xml:id="P00005.374rA.30" n="30"/>
+                     <w xml:id="P00005.1.6.11.2.00240">משום</w>
+                     <w xml:id="P00005.1.6.11.2.00250">משקה</w>
+                     <w xml:id="P00005.1.6.11.2.00260">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P00005.1.6.11.2.02700">יהושע</w>
-                     <w xml:id="P00005.1.6.11.2.02800">שבעה</w>
-                     <w xml:id="P00005.1.6.11.2.02900">משקין</w>
-                     <w xml:id="P00005.1.6.11.2.03000">טמאין</w>
-                     <w xml:id="P00005.1.6.11.2.03100">ושאר</w>
-                     <w xml:id="P00005.1.6.11.2.03200">כל</w>
-                     <w xml:id="P00005.1.6.11.2.03300">המשקין</w>
-                     <lb xml:id="P00005.374A.05" n="5"/>
-                     <w xml:id="P00005.1.6.11.2.03400">טהורין</w>
+                     <w xml:id="P00005.1.6.11.2.00270">יהושע</w>
+                     <w xml:id="P00005.1.6.11.2.00280">שבעה</w>
+                     <w xml:id="P00005.1.6.11.2.00290">משקין</w>
+                     <w xml:id="P00005.1.6.11.2.00300">טמאין</w>
+                     <w xml:id="P00005.1.6.11.2.00310">ושאר</w>
+                     <w xml:id="P00005.1.6.11.2.00320">כל</w>
+                     <w xml:id="P00005.1.6.11.2.00330">המשקין</w>
+                     <lb xml:id="P00005.374rA.31" n="31"/>
+                     <w xml:id="P00005.1.6.11.2.00340">טהורין</w>
                   </ab>
-
                </div3>
             </div2>
-          </div1>
-         </body>
+         </div1>
+      </body>
    </text>
 </TEI>

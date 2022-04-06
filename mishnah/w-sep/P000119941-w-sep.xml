@@ -1,592 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>An Electronic Edition Mishnah Sheqalim, P000119941
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Electronic Edition Mishnah Sheqalim, P000119941
                 </title>
-                <editor>
-                    <persName corresp="ref.xml#HL">Hayim Lapin</persName>
-                </editor>
-                <respStmt>
-                    <resp>transcriber</resp>
-                     <persName corresp="ref.xml#KJ">Katrin Jansen</persName>
-                     <persName corresp="ref.xml#ML">Matthias Lehmann</persName>
-                     <persName corresp="ref.xml#GN">Gerold Necker</persName>
-                     <persName corresp="ref.xml#GW">Gert Wildensee</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>markup</resp>
-                    <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
-                </respStmt>
-                <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
-                <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
+            <editor>
+               <persName corresp="ref.xml#HL">Hayim Lapin</persName>
+            </editor>
+            <respStmt>
+               <resp>transcriber</resp>
+               <persName corresp="ref.xml#KJ">Katrin Jansen</persName>
+               <persName corresp="ref.xml#ML">Matthias Lehmann</persName>
+               <persName corresp="ref.xml#GN">Gerold Necker</persName>
+               <persName corresp="ref.xml#GW">Gert Wildensee</persName>
+            </respStmt>
+            <respStmt>
+               <resp>markup</resp>
+               <persName corresp="ref.xml#GR">Gottfried Reeg</persName>
+            </respStmt>
+            <sponsor n="primary">Joseph and Rebecca Meyerhoff Center for Jewish Studies</sponsor>
+            <sponsor n="secondary">Lieberman Institute; Primary Witnesses to Tannaitic
                     Literature</sponsor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Digital Mishnah Project</publisher>
-                <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
-                <address>
-                    <addrLine>B0131 McKeldin Library</addrLine>
-                    <addrLine>University of Maryland</addrLine>
-                    <addrLine>College Park, MD</addrLine>
-                </address>
-                <idno type="local">P000119941</idno>
-                <availability status="restricted">
-                    <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
-                        Center for Jewish Studies and licensed under a .</p>
-                </availability>
-                <pubPlace>College Park, MD USA</pubPlace>
-                <date>2012-06-15</date>
-            </publicationStmt>
-            <notesStmt>
-                <note>
-                <p>Mishnah text, extracted from the print En Yaaqov Saloniki (1521/1527)
-                as published in .</p>
-                <p>Based on a transcription by Katrin Jansen, Matthias Lehmann, Gerold Necker
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Digital Mishnah Project</publisher>
+            <pubPlace>The Maryland Institute for Technology in the Humanities</pubPlace>
+            <address>
+               <addrLine>B0131 McKeldin Library</addrLine>
+               <addrLine>University of Maryland</addrLine>
+               <addrLine>College Park, MD</addrLine>
+            </address>
+            <idno type="local">P000119941</idno>
+            <availability status="restricted">
+               <p>This work is copyright Hayim lapin and the Joseph and Rebecca Meyerhoff
+                        Center for Jewish Studies and licensed under a <ref target=" http://creativecommons.org/licenses/by-nc/3.0//">Creative
+                            Commons Attribution-NonCommercial 3.0 License</ref>.</p>
+            </availability>
+            <pubPlace>College Park, MD USA</pubPlace>
+            <date>2012-06-15</date>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p>Mishnah text, extracted from the print En Yaaqov Saloniki (1521/1527)
+                as published in <ref corresp="ref.xml#synopse">Schäfer,
+                et al., <hi>Synopsis</hi>, Vol II/5-12</ref>.</p>
+               <p>Based on a transcription by Katrin Jansen, Matthias Lehmann, Gerold Necker
                 und Gert Wildensee, last revision by Hans-Jürgen Becker. Responsibility by
                 Peter Schäfer, Hans-Jürgen Becker. Converted to TEI by Gottfried Reeg using
                 TUSCRIPT</p>
-                </note>
-            </notesStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier/>
-                    <msContents>
-                        <msItem/>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc/>
-                        <handDesc/>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <tagsDecl> </tagsDecl>
-        </encodingDesc>
-        <profileDesc>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier/>
+               <msContents>
+                  <msItem/>
+               </msContents>
+               <physDesc>
+                  <objectDesc/>
+                  <handDesc/>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
          <listTranspose/>
       </profileDesc>
+      <encodingDesc>
+         <tagsDecl/>
+      </encodingDesc>
       <revisionDesc>
-        <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
+         <change who="ref.xml#YT" when="2012-01-05">Sample transcription and markup of Bava Metsia Ch. 2</change>
          <change who="ref.xml#KJ ref.xml#ML ref.xml#GN ref.xml#GW" notAfter="2000">Original Transcription for Yerushalmi Synopsis</change>
          <change who="ref.xml#GR" when="2014-06-26">Converted to TEI</change>
-        </revisionDesc>
-    </teiHeader>
+      </revisionDesc>
+   </teiHeader>
    <text xml:lang="heb" type="edition">
       <body>
-            <div1 type="order" subtype="order" xml:id="P000119941.2">
-                <div2 type="tractate" subtype="tractate" xml:id="P000119941.2.4">
-               <div3 n="Chapter1" type="chapter" subtype="chapter" xml:id="P000119941.2.4.1">
-                  <pb xml:id="P000119941.188r" n="188r"/> 
-                  <cb xml:id="P000119941.188B" n="188rB"/>
-                  <lb xml:id="P000119941.188B.01" n="1"/>
+         <div1 xml:id="P000119941.2" type="textpart" subtype="order">
+            <div2 xml:id="P000119941.2.4" type="textpart" subtype="tractate">
+               <div3 xml:id="P000119941.2.4.1"
+                     n="Chapter1"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P000119941.188r"/>
+                  <cb xml:id="P000119941.188rB"/>
+                  <lb xml:id="P000119941.188rB.39" n="39"/>
                   <head xml:id="P000119941.2.4.1.H">
-                     <w xml:id="P000119941.2.4.1.H.00100">פרק</w>
-                     <w xml:id="P000119941.2.4.1.H.00200">א<am>׳</am>
+                     <w xml:id="P000119941.2.4.1.H.00010">פרק</w>
+                     <w xml:id="P000119941.2.4.1.H.00020">א<am>׳</am>
                         <am>׳</am>
                      </w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.1.1">
+                  <ab xml:id="P000119941.2.4.1.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="1"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P000119941.2.4.1.1.00100">משנה</w>
-                     <w xml:id="P000119941.2.4.1.1.00200">ראשונא</w>
+                     <w xml:id="P000119941.2.4.1.1.00010">משנה</w>
+                     <w xml:id="P000119941.2.4.1.1.00020">ראשונא</w>
                      <milestone/>
-                     <w xml:id="P000119941.2.4.1.1.00300">ט<am>׳׳</am>ו</w>
-                     <surplus xml:id="P000119941.188B.01.surplus.d6e182">בא</surplus>
-                     <lb xml:id="P000119941.188B.02" n="2"/>
-                     <w xml:id="P000119941.2.4.1.1.00400">באדר</w>
-                     <w xml:id="P000119941.2.4.1.1.00500">משמיעים</w>
-                     <w xml:id="P000119941.2.4.1.1.00600">על</w>
-                     <w xml:id="P000119941.2.4.1.1.00700">השקלים</w>
-                     <w xml:id="P000119941.2.4.1.1.00800">ועל</w>
-                     <w xml:id="P000119941.2.4.1.1.00900">הכלאים</w>
-                     <w xml:id="P000119941.2.4.1.1.01000">
+                     <w xml:id="P000119941.2.4.1.1.00030">ט<am>׳׳</am>
+                     </w>
+                     <w xml:id="P000119941.2.4.1.1.00040">ו</w>
+                     <surplus xml:id="P000119941.188rB.39d271494e91">בא</surplus>
+                     <lb xml:id="P000119941.188rB.40" n="40"/>
+                     <w xml:id="P000119941.2.4.1.1.00050">באדר</w>
+                     <w xml:id="P000119941.2.4.1.1.00060">משמיעים</w>
+                     <w xml:id="P000119941.2.4.1.1.00070">על</w>
+                     <w xml:id="P000119941.2.4.1.1.00080">השקלים</w>
+                     <w xml:id="P000119941.2.4.1.1.00090">ועל</w>
+                     <w xml:id="P000119941.2.4.1.1.00100">הכלאים</w>
+                     <w xml:id="P000119941.2.4.1.1.00110">
                         <choice>
-                           <abbr>וב<damageSpan type="damage" spanTo="#P000119941.188B.02.d5d3e188"/>
-                              <damageSpan type="unclear" spanTo="#P000119941.188B.02.d5d3e189" subtype="damage"/>ט<anchor type="unclear" xml:id="P000119941.188B.02.d5d3e189"/>
-                              <anchor type="damage" xml:id="P000119941.188B.02.d5d3e188"/>ו<am>׳</am>
+                           <abbr>וב<damageSpan spanTo="#P000119941.188rB.40.d271494e97" type="damage"/>
+                              <damageSpan spanTo="#P000119941.188rB.40.d271494e98"
+                                          type="unclear"
+                                          subtype="damage"/>ט<anchor xml:id="P000119941.188rB.40.d271494e98" type="unclear"/>
+                              <anchor xml:id="P000119941.188rB.40.d271494e97" type="damage"/>ו<am>׳</am>
                            </abbr>
                            <expan>ובחמשה עשר</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.1.1.01100">בו</w>
-                     <lb xml:id="P000119941.188B.03" n="3"/>
-                     <w xml:id="P000119941.2.4.1.1.01200">קורין</w>
-                     <w xml:id="P000119941.2.4.1.1.01300">את</w>
-                     <w xml:id="P000119941.2.4.1.1.01400">המגלה</w>
-                     <w xml:id="P000119941.2.4.1.1.01500">בכרכים</w>
-                     <w xml:id="P000119941.2.4.1.1.01600">ומתקנים</w>
-                     <w xml:id="P000119941.2.4.1.1.01700">את</w>
-                     <w xml:id="P000119941.2.4.1.1.01800">הדרכים</w>
-                     <w xml:id="P000119941.2.4.1.1.01900">ואת</w>
-                     <lb xml:id="P000119941.188B.04" n="4"/>
-                     <w xml:id="P000119941.2.4.1.1.02000">הרחובות</w>
-                     <w xml:id="P000119941.2.4.1.1.02100">ואת</w>
-                     <w xml:id="P000119941.2.4.1.1.02200">מקוות</w>
-                     <w xml:id="P000119941.2.4.1.1.02300">המים</w>
-                     <w xml:id="P000119941.2.4.1.1.02400">ועושין</w>
-                     <w xml:id="P000119941.2.4.1.1.02500">כל</w>
-                     <w xml:id="P000119941.2.4.1.1.02600">צרכי</w>
-                     <w xml:id="P000119941.2.4.1.1.02700">הרבים</w>
-                     <lb xml:id="P000119941.188B.05" n="5"/>
-                     <w xml:id="P000119941.2.4.1.1.02800">ומציינין</w>
-                     <w xml:id="P000119941.2.4.1.1.02900">על</w>
-                     <w xml:id="P000119941.2.4.1.1.03000">הקברות</w>
-                     <w xml:id="P000119941.2.4.1.1.03100">ויוצאין</w>
-                     <w xml:id="P000119941.2.4.1.1.03200">אף</w>
-                     <w xml:id="P000119941.2.4.1.1.03300">על</w>
-                     <w xml:id="P000119941.2.4.1.1.03400">הבלאים</w>
+                     <w xml:id="P000119941.2.4.1.1.00120">בו</w>
+                     <lb xml:id="P000119941.188rB.41" n="41"/>
+                     <w xml:id="P000119941.2.4.1.1.00130">קורין</w>
+                     <w xml:id="P000119941.2.4.1.1.00140">את</w>
+                     <w xml:id="P000119941.2.4.1.1.00150">המגלה</w>
+                     <w xml:id="P000119941.2.4.1.1.00160">בכרכים</w>
+                     <w xml:id="P000119941.2.4.1.1.00170">ומתקנים</w>
+                     <w xml:id="P000119941.2.4.1.1.00180">את</w>
+                     <w xml:id="P000119941.2.4.1.1.00190">הדרכים</w>
+                     <w xml:id="P000119941.2.4.1.1.00200">ואת</w>
+                     <lb xml:id="P000119941.188rB.42" n="42"/>
+                     <w xml:id="P000119941.2.4.1.1.00210">הרחובות</w>
+                     <w xml:id="P000119941.2.4.1.1.00220">ואת</w>
+                     <w xml:id="P000119941.2.4.1.1.00230">מקוות</w>
+                     <w xml:id="P000119941.2.4.1.1.00240">המים</w>
+                     <w xml:id="P000119941.2.4.1.1.00250">ועושין</w>
+                     <w xml:id="P000119941.2.4.1.1.00260">כל</w>
+                     <w xml:id="P000119941.2.4.1.1.00270">צרכי</w>
+                     <w xml:id="P000119941.2.4.1.1.00280">הרבים</w>
+                     <lb xml:id="P000119941.188rB.43" n="43"/>
+                     <w xml:id="P000119941.2.4.1.1.00290">ומציינין</w>
+                     <w xml:id="P000119941.2.4.1.1.00300">על</w>
+                     <w xml:id="P000119941.2.4.1.1.00310">הקברות</w>
+                     <w xml:id="P000119941.2.4.1.1.00320">ויוצאין</w>
+                     <w xml:id="P000119941.2.4.1.1.00330">אף</w>
+                     <w xml:id="P000119941.2.4.1.1.00340">על</w>
+                     <w xml:id="P000119941.2.4.1.1.00350">הבלאים</w>
                      <pc unit="stop">׃</pc>
-                     <pb xml:id="P000119941.188v" n="188v"/>
-                     <cb xml:id="P000119941.188A" n="188vA"/>
-                     <lb xml:id="P000119941.188A.01" n="1"/>
-                     <lb xml:id="P000119941.188A.02" n="2"/>
+                     <pb xml:id="P000119941.188v"/>
+                     <cb xml:id="P000119941.188vA"/>
+                     <lb xml:id="P000119941.188vA.34" n="34"/>
+                     <lb xml:id="P000119941.188vA.35" n="35"/>
                   </ab>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.1.2">
+                  <ab xml:id="P000119941.2.4.1.2" type="textpart" subtype="mishnah">
                      <milestone/>
-                     <w xml:id="P000119941.2.4.1.2.00100">יז<am>׳</am>
+                     <w xml:id="P000119941.2.4.1.2.00010">יז<am>׳</am>
                      </w>
-                     <w xml:id="P000119941.2.4.1.2.00200">משנה</w>
+                     <w xml:id="P000119941.2.4.1.2.00020">משנה</w>
                      <milestone unit="MSMishnah" n="2"/>
-                     <label xml:id="P000119941.2.4.1.2_lbl_1_is_2">ב</label>
-                     <w xml:id="P000119941.2.4.1.2.00300">
+                     <label xml:id="P000119941.2.4.1.2_1_is_2">ב</label>
+                     <w xml:id="P000119941.2.4.1.2.00030">
                         <choice>
                            <abbr>אר<am>׳</am>
                            </abbr>
                            <expan>אמר רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.1.2.00400">יהודה</w>
-                     <w xml:id="P000119941.2.4.1.2.00500">ב<damageSpan type="damage" spanTo="#P000119941.188A.02.d5d3e232"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188A.02.d5d3e233" subtype="damage"/>ד<anchor type="unclear" xml:id="P000119941.188A.02.d5d3e233"/>
-                        <anchor type="damage" xml:id="P000119941.188A.02.d5d3e232"/>אשונה</w>
-                     <lb xml:id="P000119941.188A.03" n="3"/>
-                     <w xml:id="P000119941.2.4.1.2.00600">היו</w>
-                     <w xml:id="P000119941.2.4.1.2.00700">עוק<damageSpan type="damage" spanTo="#P000119941.188A.03.d5d3e239"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188A.03.d5d3e240" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.188A.03.d5d3e240"/>
-                        <anchor type="damage" xml:id="P000119941.188A.03.d5d3e239"/>ין</w>
-                     <w xml:id="P000119941.2.4.1.2.00800">ומשליכין</w>
-                     <lb xml:id="P000119941.188A.04" n="4"/>
-                     <w xml:id="P000119941.2.4.1.2.00900">לפניהם</w>
-                     <w xml:id="P000119941.2.4.1.2.01000">משרבו</w>
-                     <w xml:id="P000119941.2.4.1.2.01100">עוברי</w>
-                     <w xml:id="P000119941.2.4.1.2.01200">עבירה</w>
-                     <w xml:id="P000119941.2.4.1.2.01300">היו</w>
-                     <w xml:id="P000119941.2.4.1.2.01400">משליכין</w>
-                     <w xml:id="P000119941.2.4.1.2.01500">על</w>
-                     <surplus xml:id="P000119941.188A.04.surplus.d6e393">ה</surplus>
-                     <lb xml:id="P000119941.188A.05" n="5"/>
-                     <w xml:id="P000119941.2.4.1.2.01600">הדרכים</w>
+                     <w xml:id="P000119941.2.4.1.2.00040">יהודה</w>
+                     <w xml:id="P000119941.2.4.1.2.00050">ב<damageSpan spanTo="#P000119941.188vA.35.d271494e130" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vA.35.d271494e131"
+                                    type="unclear"
+                                    subtype="damage"/>ד<anchor xml:id="P000119941.188vA.35.d271494e131" type="unclear"/>
+                        <anchor xml:id="P000119941.188vA.35.d271494e130" type="damage"/>אשונה</w>
+                     <lb xml:id="P000119941.188vA.36" n="36"/>
+                     <w xml:id="P000119941.2.4.1.2.00060">היו</w>
+                     <w xml:id="P000119941.2.4.1.2.00070">עוק<damageSpan spanTo="#P000119941.188vA.36.d271494e137" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vA.36.d271494e138"
+                                    type="unclear"
+                                    subtype="damage"/>ר<anchor xml:id="P000119941.188vA.36.d271494e138" type="unclear"/>
+                        <anchor xml:id="P000119941.188vA.36.d271494e137" type="damage"/>ין</w>
+                     <w xml:id="P000119941.2.4.1.2.00080">ומשליכין</w>
+                     <lb xml:id="P000119941.188vA.37" n="37"/>
+                     <w xml:id="P000119941.2.4.1.2.00090">לפניהם</w>
+                     <w xml:id="P000119941.2.4.1.2.00100">משרבו</w>
+                     <w xml:id="P000119941.2.4.1.2.00110">עוברי</w>
+                     <w xml:id="P000119941.2.4.1.2.00120">עבירה</w>
+                     <w xml:id="P000119941.2.4.1.2.00130">היו</w>
+                     <w xml:id="P000119941.2.4.1.2.00140">משליכין</w>
+                     <w xml:id="P000119941.2.4.1.2.00150">על</w>
+                     <surplus xml:id="P000119941.188vA.37d271494e143">ה</surplus>
+                     <lb xml:id="P000119941.188vA.38" n="38"/>
+                     <w xml:id="P000119941.2.4.1.2.00160">הדרכים</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.1.2.01700">התקינו</w>
-                     <w xml:id="P000119941.2.4.1.2.01800">שיהיו</w>
-                     <w xml:id="P000119941.2.4.1.2.01900">מפקי<damageSpan type="damage" spanTo="#P000119941.188A.05.d5d3e254"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188A.05.d5d3e255" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.188A.05.d5d3e255"/>
-                        <anchor type="damage" xml:id="P000119941.188A.05.d5d3e254"/>ין</w>
-                     <w xml:id="P000119941.2.4.1.2.02000">כל</w>
-                     <w xml:id="P000119941.2.4.1.2.02100">השדה</w>
+                     <w xml:id="P000119941.2.4.1.2.00170">התקינו</w>
+                     <w xml:id="P000119941.2.4.1.2.00180">שיהיו</w>
+                     <w xml:id="P000119941.2.4.1.2.00190">מפקי<damageSpan spanTo="#P000119941.188vA.38.d271494e149" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vA.38.d271494e150"
+                                    type="unclear"
+                                    subtype="damage"/>ר<anchor xml:id="P000119941.188vA.38.d271494e150" type="unclear"/>
+                        <anchor xml:id="P000119941.188vA.38.d271494e149" type="damage"/>ין</w>
+                     <w xml:id="P000119941.2.4.1.2.00200">כל</w>
+                     <w xml:id="P000119941.2.4.1.2.00210">השדה</w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-                  <gap xml:id="P000119941.188A.05.d6e428" reason="talmud" extent="999"/>
-                  <cb xml:id="P000119941.188B" n="188vB"/>
-                  <lb xml:id="P000119941.188B.01" n="1"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.1.3">
+                  <gap reason="talmud" extent="999"/>
+                  <cb xml:id="P000119941.188vB"/>
+                  <lb xml:id="P000119941.188vB.21" n="21"/>
+                  <ab xml:id="P000119941.2.4.1.3" type="textpart" subtype="mishnah">
                      <milestone/>
-                     <w xml:id="P000119941.2.4.1.3.00100">י<am>׳׳</am>ח</w>
-                     <w xml:id="P000119941.2.4.1.3.00200">משנה</w>
-                     <w xml:id="P000119941.2.4.1.3.00300">שלישית</w>
-                     <w xml:id="P000119941.2.4.1.3.00400">את</w>
-                     <lb xml:id="P000119941.188B.02" n="2"/>
-                     <w xml:id="P000119941.2.4.1.3.00500">מי</w>
-                     <w xml:id="P000119941.2.4.1.3.00600">ממשכנין</w>
-                     <w xml:id="P000119941.2.4.1.3.00700">לויים</w>
-                     <w xml:id="P000119941.2.4.1.3.00800">גרים</w>
-                     <w xml:id="P000119941.2.4.1.3.00900">ועבדים</w>
-                     <w xml:id="P000119941.2.4.1.3.01000">משוח<damageSpan type="damage" spanTo="#P000119941.188B.02.d5d3e274"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.02.d5d3e275" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.188B.02.d5d3e275"/>
-                        <anchor type="damage" xml:id="P000119941.188B.02.d5d3e274"/>רים</w>
-                     <w xml:id="P000119941.2.4.1.3.01100">אבל</w>
-                     <lb xml:id="P000119941.188B.03" n="3"/>
-                     <w xml:id="P000119941.2.4.1.3.01200">לא</w>
-                     <w xml:id="P000119941.2.4.1.3.01300">נשים</w>
-                     <w xml:id="P000119941.2.4.1.3.01400">ולא</w>
-                     <w xml:id="P000119941.2.4.1.3.01500">עבדים</w>
-                     <w xml:id="P000119941.2.4.1.3.01600">ולא</w>
-                     <w xml:id="P000119941.2.4.1.3.01700">קטנים</w>
+                     <w xml:id="P000119941.2.4.1.3.00010">י<am>׳׳</am>
+                     </w>
+                     <w xml:id="P000119941.2.4.1.3.00020">ח</w>
+                     <w xml:id="P000119941.2.4.1.3.00030">משנה</w>
+                     <w xml:id="P000119941.2.4.1.3.00040">שלישית</w>
+                     <w xml:id="P000119941.2.4.1.3.00050">את</w>
+                     <lb xml:id="P000119941.188vB.22" n="22"/>
+                     <w xml:id="P000119941.2.4.1.3.00060">מי</w>
+                     <w xml:id="P000119941.2.4.1.3.00070">ממשכנין</w>
+                     <w xml:id="P000119941.2.4.1.3.00080">לויים</w>
+                     <w xml:id="P000119941.2.4.1.3.00090">גרים</w>
+                     <w xml:id="P000119941.2.4.1.3.00100">ועבדים</w>
+                     <w xml:id="P000119941.2.4.1.3.00110">משוח<damageSpan spanTo="#P000119941.188vB.22.d271494e166" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.22.d271494e167"
+                                    type="unclear"
+                                    subtype="damage"/>ר<anchor xml:id="P000119941.188vB.22.d271494e167" type="unclear"/>
+                        <anchor xml:id="P000119941.188vB.22.d271494e166" type="damage"/>רים</w>
+                     <w xml:id="P000119941.2.4.1.3.00120">אבל</w>
+                     <lb xml:id="P000119941.188vB.23" n="23"/>
+                     <w xml:id="P000119941.2.4.1.3.00130">לא</w>
+                     <w xml:id="P000119941.2.4.1.3.00140">נשים</w>
+                     <w xml:id="P000119941.2.4.1.3.00150">ולא</w>
+                     <w xml:id="P000119941.2.4.1.3.00160">עבדים</w>
+                     <w xml:id="P000119941.2.4.1.3.00170">ולא</w>
+                     <w xml:id="P000119941.2.4.1.3.00180">קטנים</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.1.3.01800">וכל</w>
-                     <w xml:id="P000119941.2.4.1.3.01900">קטן</w>
-                     <w xml:id="P000119941.2.4.1.3.02000">שהתחיל</w>
-                     <lb xml:id="P000119941.188B.04" n="4"/>
-                     <w xml:id="P000119941.2.4.1.3.02100">אביו</w>
-                     <w xml:id="P000119941.2.4.1.3.02200">לשקול</w>
-                     <w xml:id="P000119941.2.4.1.3.02300">על</w>
-                     <w xml:id="P000119941.2.4.1.3.02400">ידו</w>
-                     <w xml:id="P000119941.2.4.1.3.02500">אינו</w>
-                     <w xml:id="P000119941.2.4.1.3.02600">פוסק</w>
+                     <w xml:id="P000119941.2.4.1.3.00190">וכל</w>
+                     <w xml:id="P000119941.2.4.1.3.00200">קטן</w>
+                     <w xml:id="P000119941.2.4.1.3.00210">שהתחיל</w>
+                     <lb xml:id="P000119941.188vB.24" n="24"/>
+                     <w xml:id="P000119941.2.4.1.3.00220">אביו</w>
+                     <w xml:id="P000119941.2.4.1.3.00230">לשקול</w>
+                     <w xml:id="P000119941.2.4.1.3.00240">על</w>
+                     <w xml:id="P000119941.2.4.1.3.00250">ידו</w>
+                     <w xml:id="P000119941.2.4.1.3.00260">אינו</w>
+                     <w xml:id="P000119941.2.4.1.3.00270">פוסק</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.1.3.02700">ואין</w>
-                     <w xml:id="P000119941.2.4.1.3.02800">ממשכנין</w>
-                     <lb xml:id="P000119941.188B.05" n="5"/>
-                     <w xml:id="P000119941.2.4.1.3.02900">הכהנים</w>
-                     <w xml:id="P000119941.2.4.1.3.03000">מפני</w>
-                     <w xml:id="P000119941.2.4.1.3.03100">דרכי</w>
-                     <w xml:id="P000119941.2.4.1.3.03200">שלום</w>
+                     <w xml:id="P000119941.2.4.1.3.00280">ואין</w>
+                     <w xml:id="P000119941.2.4.1.3.00290">ממשכנין</w>
+                     <lb xml:id="P000119941.188vB.25" n="25"/>
+                     <w xml:id="P000119941.2.4.1.3.00300">הכהנים</w>
+                     <w xml:id="P000119941.2.4.1.3.00310">מפני</w>
+                     <w xml:id="P000119941.2.4.1.3.00320">דרכי</w>
+                     <w xml:id="P000119941.2.4.1.3.00330">שלום</w>
                      <pc unit="stop">׃</pc>
                   </ab>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.1.4">
-                     <w xml:id="P000119941.2.4.1.4.00100">
+                  <ab xml:id="P000119941.2.4.1.4" type="textpart" subtype="mishnah">
+                     <w xml:id="P000119941.2.4.1.4.00010">
                         <choice>
                            <abbr>א<am>׳׳</am>ר</abbr>
                            <expan>אמר רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.1.4.00200">יהודה</w>
-                     <w xml:id="P000119941.2.4.1.4.00300">העיר</w>
-                     <w xml:id="P000119941.2.4.1.4.00400">בן</w>
-                     <lb xml:id="P000119941.188B.06" n="6"/>
-                     <w xml:id="P000119941.2.4.1.4.00500">כו<damageSpan type="damage" spanTo="#P000119941.188B.06.d5d3e306"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.06.d5d3e307" subtype="damage"/>ב<anchor type="unclear" xml:id="P000119941.188B.06.d5d3e307"/>
-                        <anchor type="damage" xml:id="P000119941.188B.06.d5d3e306"/>רי</w>
-                     <w xml:id="P000119941.2.4.1.4.00600">כל</w>
-                     <w xml:id="P000119941.2.4.1.4.00700">כהן</w>
-                     <w xml:id="P000119941.2.4.1.4.00800">שהוא</w>
-                     <w xml:id="P000119941.2.4.1.4.00900">שוקל</w>
-                     <w xml:id="P000119941.2.4.1.4.01000">אינו</w>
-                     <w xml:id="P000119941.2.4.1.4.01100">חוטא</w>
+                     <w xml:id="P000119941.2.4.1.4.00020">יהודה</w>
+                     <w xml:id="P000119941.2.4.1.4.00030">העיר</w>
+                     <w xml:id="P000119941.2.4.1.4.00040">בן</w>
+                     <lb xml:id="P000119941.188vB.26" n="26"/>
+                     <w xml:id="P000119941.2.4.1.4.00050">כו<damageSpan spanTo="#P000119941.188vB.26.d271494e195" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.26.d271494e196"
+                                    type="unclear"
+                                    subtype="damage"/>ב<anchor xml:id="P000119941.188vB.26.d271494e196" type="unclear"/>
+                        <anchor xml:id="P000119941.188vB.26.d271494e195" type="damage"/>רי</w>
+                     <w xml:id="P000119941.2.4.1.4.00060">כל</w>
+                     <w xml:id="P000119941.2.4.1.4.00070">כהן</w>
+                     <w xml:id="P000119941.2.4.1.4.00080">שהוא</w>
+                     <w xml:id="P000119941.2.4.1.4.00090">שוקל</w>
+                     <w xml:id="P000119941.2.4.1.4.00100">אינו</w>
+                     <w xml:id="P000119941.2.4.1.4.00110">חוטא</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.1.4.01200">
+                     <w xml:id="P000119941.2.4.1.4.00120">
                         <choice>
                            <abbr>א<am>׳׳</am>ל</abbr>
                            <expan>אמר לו</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.1.4.01300">רבן</w>
-                     <lb xml:id="P000119941.188B.07" n="7"/>
-                     <w xml:id="P000119941.2.4.1.4.01400">יוחנן</w>
-                     <w xml:id="P000119941.2.4.1.4.01500">בן</w>
-                     <w xml:id="P000119941.2.4.1.4.01600">זכאי</w>
-                     <w xml:id="P000119941.2.4.1.4.01700">לא</w>
-                     <w xml:id="P000119941.2.4.1.4.01800">כי</w>
-                     <w xml:id="P000119941.2.4.1.4.01900">אלא</w>
-                     <w xml:id="P000119941.2.4.1.4.02000">שכל</w>
-                     <w xml:id="P000119941.2.4.1.4.02100">כהן</w>
-                     <w xml:id="P000119941.2.4.1.4.02200">שאינ<damageSpan type="damage" spanTo="#P000119941.188B.07.d5d3e325"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.07.d5d3e326" subtype="damage"/>ו<anchor type="unclear" xml:id="P000119941.188B.07.d5d3e326"/>
-                        <anchor type="damage" xml:id="P000119941.188B.07.d5d3e325"/>
-                     </w>
-                     <w xml:id="P000119941.2.4.1.4.02300">שוקל</w>
-                     <w xml:id="P000119941.2.4.1.4.02400">חוטא</w>
-                     <lb xml:id="P000119941.188B.08" n="8"/>
-                     <w xml:id="P000119941.2.4.1.4.02500">אלא</w>
-                     <w xml:id="P000119941.2.4.1.4.02600">שה<damageSpan type="damage" spanTo="#P000119941.188B.08.d5d3e331"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.08.d5d3e332" subtype="damage"/>כ<anchor type="unclear" xml:id="P000119941.188B.08.d5d3e332"/>
-                        <anchor type="damage" xml:id="P000119941.188B.08.d5d3e331"/>הנים</w>
-                     <w xml:id="P000119941.2.4.1.4.02700">דורשין</w>
-                     <w xml:id="P000119941.2.4.1.4.02800">את</w>
-                     <w xml:id="P000119941.2.4.1.4.02900">המקרא</w>
-                     <w xml:id="P000119941.2.4.1.4.03000">הזה</w>
-                     <w xml:id="P000119941.2.4.1.4.03100">וכל</w>
-                     <w xml:id="P000119941.2.4.1.4.03200">מנחת</w>
-                     <lb xml:id="P000119941.188B.09" n="9"/>
-                     <w xml:id="P000119941.2.4.1.4.03300">כהן</w>
-                     <w xml:id="P000119941.2.4.1.4.03400">כליל</w>
-                     <w xml:id="P000119941.2.4.1.4.03500">תהיה</w>
-                     <w xml:id="P000119941.2.4.1.4.03600">לא</w>
-                     <w xml:id="P000119941.2.4.1.4.03700">תאכל</w>
+                     <w xml:id="P000119941.2.4.1.4.00130">רבן</w>
+                     <lb xml:id="P000119941.188vB.27" n="27"/>
+                     <w xml:id="P000119941.2.4.1.4.00140">יוחנן</w>
+                     <w xml:id="P000119941.2.4.1.4.00150">בן</w>
+                     <w xml:id="P000119941.2.4.1.4.00160">זכאי</w>
+                     <w xml:id="P000119941.2.4.1.4.00170">לא</w>
+                     <w xml:id="P000119941.2.4.1.4.00180">כי</w>
+                     <w xml:id="P000119941.2.4.1.4.00190">אלא</w>
+                     <w xml:id="P000119941.2.4.1.4.00200">שכל</w>
+                     <w xml:id="P000119941.2.4.1.4.00210">כהן</w>
+                     <w xml:id="P000119941.2.4.1.4.00220">שאינ<damageSpan spanTo="#P000119941.188vB.27.d271494e211" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.27.d271494e212"
+                                    type="unclear"
+                                    subtype="damage"/>ו</w>
+                     <anchor xml:id="P000119941.188vB.27.d271494e212" type="unclear"/>
+                     <anchor xml:id="P000119941.188vB.27.d271494e211" type="damage"/>
+                     <w xml:id="P000119941.2.4.1.4.00230">שוקל</w>
+                     <w xml:id="P000119941.2.4.1.4.00240">חוטא</w>
+                     <lb xml:id="P000119941.188vB.28" n="28"/>
+                     <w xml:id="P000119941.2.4.1.4.00250">אלא</w>
+                     <w xml:id="P000119941.2.4.1.4.00260">שה<damageSpan spanTo="#P000119941.188vB.28.d271494e217" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.28.d271494e218"
+                                    type="unclear"
+                                    subtype="damage"/>כ<anchor xml:id="P000119941.188vB.28.d271494e218" type="unclear"/>
+                        <anchor xml:id="P000119941.188vB.28.d271494e217" type="damage"/>הנים</w>
+                     <w xml:id="P000119941.2.4.1.4.00270">דורשין</w>
+                     <w xml:id="P000119941.2.4.1.4.00280">את</w>
+                     <w xml:id="P000119941.2.4.1.4.00290">המקרא</w>
+                     <w xml:id="P000119941.2.4.1.4.00300">הזה</w>
+                     <w xml:id="P000119941.2.4.1.4.00310">וכל</w>
+                     <w xml:id="P000119941.2.4.1.4.00320">מנחת</w>
+                     <lb xml:id="P000119941.188vB.29" n="29"/>
+                     <w xml:id="P000119941.2.4.1.4.00330">כהן</w>
+                     <w xml:id="P000119941.2.4.1.4.00340">כליל</w>
+                     <w xml:id="P000119941.2.4.1.4.00350">תהיה</w>
+                     <w xml:id="P000119941.2.4.1.4.00360">לא</w>
+                     <w xml:id="P000119941.2.4.1.4.00370">תאכל</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.1.4.03800">הואיל</w>
-                     <w xml:id="P000119941.2.4.1.4.03900">והעומ<damageSpan type="damage" spanTo="#P000119941.188B.09.d5d3e340"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.09.d5d3e341" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.188B.09.d5d3e341"/>
-                        <anchor type="damage" xml:id="P000119941.188B.09.d5d3e340"/>
-                     </w>
-                     <w xml:id="P000119941.2.4.1.4.04000">ושתי</w>
-                     <lb xml:id="P000119941.188B.10" n="10"/>
-                     <w xml:id="P000119941.2.4.1.4.04100">הלחם</w>
-                     <w xml:id="P000119941.2.4.1.4.04200">ולחם</w>
-                     <w xml:id="P000119941.2.4.1.4.04300">הפנים</w>
-                     <w xml:id="P000119941.2.4.1.4.04400">שלנו</w>
-                     <w xml:id="P000119941.2.4.1.4.04500">היאך</w>
-                     <w xml:id="P000119941.2.4.1.4.04600">הן</w>
-                     <w xml:id="P000119941.2.4.1.4.04700">נא<damageSpan type="damage" spanTo="#P000119941.188B.10.d5d3e347"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.188B.10.d5d3e348" subtype="damage"/>כ<anchor type="unclear" xml:id="P000119941.188B.10.d5d3e348"/>
-                        <anchor type="damage" xml:id="P000119941.188B.10.d5d3e347"/>לין</w>
+                     <w xml:id="P000119941.2.4.1.4.00380">הואיל</w>
+                     <w xml:id="P000119941.2.4.1.4.00390">והעומ<damageSpan spanTo="#P000119941.188vB.29.d271494e226" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.29.d271494e227"
+                                    type="unclear"
+                                    subtype="damage"/>ר</w>
+                     <anchor xml:id="P000119941.188vB.29.d271494e227" type="unclear"/>
+                     <anchor xml:id="P000119941.188vB.29.d271494e226" type="damage"/>
+                     <w xml:id="P000119941.2.4.1.4.00400">ושתי</w>
+                     <lb xml:id="P000119941.188vB.30" n="30"/>
+                     <w xml:id="P000119941.2.4.1.4.00410">הלחם</w>
+                     <w xml:id="P000119941.2.4.1.4.00420">ולחם</w>
+                     <w xml:id="P000119941.2.4.1.4.00430">הפנים</w>
+                     <w xml:id="P000119941.2.4.1.4.00440">שלנו</w>
+                     <w xml:id="P000119941.2.4.1.4.00450">היאך</w>
+                     <w xml:id="P000119941.2.4.1.4.00460">הן</w>
+                     <w xml:id="P000119941.2.4.1.4.00470">נא<damageSpan spanTo="#P000119941.188vB.30.d271494e233" type="damage"/>
+                        <damageSpan spanTo="#P000119941.188vB.30.d271494e234"
+                                    type="unclear"
+                                    subtype="damage"/>כ<anchor xml:id="P000119941.188vB.30.d271494e234" type="unclear"/>
+                        <anchor xml:id="P000119941.188vB.30.d271494e233" type="damage"/>לין</w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-               </div3> 
-               <gap xml:id="P000119941.188B.10.d6e773" reason="talmud" extent="999"/>
-               <div3 n="Chapter2" type="chapter" subtype="chapter" xml:id="P000119941.2.4.2">
-                  <pb xml:id="P000119941.189v" n="189v"/> 
-                  <cb xml:id="P000119941.189B" n="189vB"/>
-                  <lb xml:id="P000119941.189B.01" n="1"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.2.5">
-                     <w xml:id="P000119941.2.4.2.5.00100">עוד</w>
-                     <w xml:id="P000119941.2.4.2.5.00200">בפרק</w>
-                     <w xml:id="P000119941.2.4.2.5.00300">שני</w>
-                     <w xml:id="P000119941.2.4.2.5.00400">בסוף</w>
-                     <w xml:id="P000119941.2.4.2.5.00500">המשנה</w>
+               </div3>
+               <gap reason="talmud" extent="999"/>
+               <div3 xml:id="P000119941.2.4.2"
+                     n="Chapter2"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P000119941.189v"/>
+                  <cb xml:id="P000119941.189vB"/>
+                  <lb xml:id="P000119941.189vB.16" n="16"/>
+                  <ab xml:id="P000119941.2.4.2.5" type="textpart" subtype="mishnah">
+                     <w xml:id="P000119941.2.4.2.5.00010">עוד</w>
+                     <w xml:id="P000119941.2.4.2.5.00020">בפרק</w>
+                     <w xml:id="P000119941.2.4.2.5.00030">שני</w>
+                     <w xml:id="P000119941.2.4.2.5.00040">בסוף</w>
+                     <w xml:id="P000119941.2.4.2.5.00050">המשנה</w>
                      <pc unit="unitEnd">׃</pc>
                      <milestone/>
-                     <w xml:id="P000119941.2.4.2.5.00600">כ</w>
-                     <lb xml:id="P000119941.189B.02" n="2"/>
-                     <w xml:id="P000119941.2.4.2.5.00700">מותר</w>
-                     <w xml:id="P000119941.2.4.2.5.00800">שבוי</w>
-                     <w xml:id="P000119941.2.4.2.5.00900">לאותו</w>
-                     <w xml:id="P000119941.2.4.2.5.01000">שבוי</w>
+                     <w xml:id="P000119941.2.4.2.5.00060">כ</w>
+                     <lb xml:id="P000119941.189vB.17" n="17"/>
+                     <w xml:id="P000119941.2.4.2.5.00070">מותר</w>
+                     <w xml:id="P000119941.2.4.2.5.00080">שבוי</w>
+                     <w xml:id="P000119941.2.4.2.5.00090">לאותו</w>
+                     <w xml:id="P000119941.2.4.2.5.00100">שבוי</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.2.5.01100">מותר</w>
-                     <lb xml:id="P000119941.189B.03" n="3"/>
-                     <w xml:id="P000119941.2.4.2.5.01200">עני</w>
-                     <w xml:id="P000119941.2.4.2.5.01300">לאותו</w>
-                     <w xml:id="P000119941.2.4.2.5.01400">עני</w>
+                     <w xml:id="P000119941.2.4.2.5.00110">מותר</w>
+                     <lb xml:id="P000119941.189vB.18" n="18"/>
+                     <w xml:id="P000119941.2.4.2.5.00120">עני</w>
+                     <w xml:id="P000119941.2.4.2.5.00130">לאותו</w>
+                     <w xml:id="P000119941.2.4.2.5.00140">עני</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.2.5.01500">מותר</w>
-                     <w xml:id="P000119941.2.4.2.5.01600">מתים</w>
-                     <w xml:id="P000119941.2.4.2.5.01700">למתים</w>
+                     <w xml:id="P000119941.2.4.2.5.00150">מותר</w>
+                     <w xml:id="P000119941.2.4.2.5.00160">מתים</w>
+                     <w xml:id="P000119941.2.4.2.5.00170">למתים</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.2.5.01800">מותר</w>
-                     <w xml:id="P000119941.2.4.2.5.01900">המת</w>
-                     <lb xml:id="P000119941.189B.04" n="4"/>
-                     <w xml:id="P000119941.2.4.2.5.02000">ליורשיו</w>
+                     <w xml:id="P000119941.2.4.2.5.00180">מותר</w>
+                     <w xml:id="P000119941.2.4.2.5.00190">המת</w>
+                     <lb xml:id="P000119941.189vB.19" n="19"/>
+                     <w xml:id="P000119941.2.4.2.5.00200">ליורשיו</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.2.5.02100">
+                     <w xml:id="P000119941.2.4.2.5.00210">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.2.5.02200">מאיר</w>
-                     <w xml:id="P000119941.2.4.2.5.02300">אומר</w>
-                     <w xml:id="P000119941.2.4.2.5.02400">מותר</w>
-                     <w xml:id="P000119941.2.4.2.5.02500">המת</w>
-                     <w xml:id="P000119941.2.4.2.5.02600">יהא</w>
-                     <w xml:id="P000119941.2.4.2.5.02700">מונח</w>
-                     <w xml:id="P000119941.2.4.2.5.02800">עד</w>
-                     <lb xml:id="P000119941.189B.05" n="5"/>
-                     <w xml:id="P000119941.2.4.2.5.02900">שיבא</w>
-                     <w xml:id="P000119941.2.4.2.5.03000">אליהו</w>
+                     <w xml:id="P000119941.2.4.2.5.00220">מאיר</w>
+                     <w xml:id="P000119941.2.4.2.5.00230">אומר</w>
+                     <w xml:id="P000119941.2.4.2.5.00240">מותר</w>
+                     <w xml:id="P000119941.2.4.2.5.00250">המת</w>
+                     <w xml:id="P000119941.2.4.2.5.00260">יהא</w>
+                     <w xml:id="P000119941.2.4.2.5.00270">מונח</w>
+                     <w xml:id="P000119941.2.4.2.5.00280">עד</w>
+                     <lb xml:id="P000119941.189vB.20" n="20"/>
+                     <w xml:id="P000119941.2.4.2.5.00290">שיבא</w>
+                     <w xml:id="P000119941.2.4.2.5.00300">אליהו</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.2.5.03100">רבי</w>
-                     <w xml:id="P000119941.2.4.2.5.03200">נתן</w>
-                     <w xml:id="P000119941.2.4.2.5.03300">אומר</w>
-                     <w xml:id="P000119941.2.4.2.5.03400">מותר</w>
-                     <w xml:id="P000119941.2.4.2.5.03500">המת</w>
-                     <w xml:id="P000119941.2.4.2.5.03600">בונה</w>
-                     <w xml:id="P000119941.2.4.2.5.03700">לו</w>
-                     <lb xml:id="P000119941.189B.06" n="6"/>
-                     <w xml:id="P000119941.2.4.2.5.03800">נפש</w>
-                     <w xml:id="P000119941.2.4.2.5.03900">על</w>
-                     <w xml:id="P000119941.2.4.2.5.04000">גבי</w>
-                     <w xml:id="P000119941.2.4.2.5.04100">קברו</w>
+                     <w xml:id="P000119941.2.4.2.5.00310">רבי</w>
+                     <w xml:id="P000119941.2.4.2.5.00320">נתן</w>
+                     <w xml:id="P000119941.2.4.2.5.00330">אומר</w>
+                     <w xml:id="P000119941.2.4.2.5.00340">מותר</w>
+                     <w xml:id="P000119941.2.4.2.5.00350">המת</w>
+                     <w xml:id="P000119941.2.4.2.5.00360">בונה</w>
+                     <w xml:id="P000119941.2.4.2.5.00370">לו</w>
+                     <lb xml:id="P000119941.189vB.21" n="21"/>
+                     <w xml:id="P000119941.2.4.2.5.00380">נפש</w>
+                     <w xml:id="P000119941.2.4.2.5.00390">על</w>
+                     <w xml:id="P000119941.2.4.2.5.00400">גבי</w>
+                     <w xml:id="P000119941.2.4.2.5.00410">קברו</w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-               </div3> 
-               <gap xml:id="P000119941.189B.06.d6e945" reason="talmud" extent="999"/>
-               <div3 n="Chapter3" type="chapter" subtype="chapter" xml:id="P000119941.2.4.3">
-                  <pb xml:id="P000119941.190v" n="190v"/> 
-                  <cb xml:id="P000119941.190A" n="190vA"/>
-                  <lb xml:id="P000119941.190A.01" n="1"/>
+               </div3>
+               <gap reason="talmud" extent="999"/>
+               <div3 xml:id="P000119941.2.4.3"
+                     n="Chapter3"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P000119941.190v"/>
+                  <cb xml:id="P000119941.190vA"/>
+                  <lb xml:id="P000119941.190vA.28" n="28"/>
                   <head xml:id="P000119941.2.4.3.H">
-                     <w xml:id="P000119941.2.4.3.H.00100">פרק</w>
-                     <w xml:id="P000119941.2.4.3.H.00200">ג</w>
+                     <w xml:id="P000119941.2.4.3.H.00010">פרק</w>
+                     <w xml:id="P000119941.2.4.3.H.00020">ג</w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.3.1">
+                  <ab xml:id="P000119941.2.4.3.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="3"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P000119941.2.4.3.1.00100">משנה</w>
+                     <w xml:id="P000119941.2.4.3.1.00010">משנה</w>
                      <milestone/>
-                     <w xml:id="P000119941.2.4.3.1.00200">כ<damageSpan type="damage" spanTo="#P000119941.190A.01.d5d3e423"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.190A.01.d5d3e424" subtype="damage"/>
+                     <w xml:id="P000119941.2.4.3.1.00020">כ<damageSpan spanTo="#P000119941.190vA.28.d271494e297" type="damage"/>
+                        <damageSpan spanTo="#P000119941.190vA.28.d271494e298"
+                                    type="unclear"
+                                    subtype="damage"/>
                         <am>׳</am>
-                        <anchor type="unclear" xml:id="P000119941.190A.01.d5d3e424"/>
-                        <anchor type="damage" xml:id="P000119941.190A.01.d5d3e423"/>ג</w>
-                     <w xml:id="P000119941.2.4.3.1.00300">אין</w>
-                     <lb xml:id="P000119941.190A.02" n="2"/>
-                     <w xml:id="P000119941.2.4.3.1.00400">התורם</w>
-                     <w xml:id="P000119941.2.4.3.1.00500">נכנס</w>
-                     <w xml:id="P000119941.2.4.3.1.00600">בפ<damageSpan type="damage" spanTo="#P000119941.190A.02.d5d3e430"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.190A.02.d5d3e431" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.190A.02.d5d3e431"/>
-                        <anchor type="damage" xml:id="P000119941.190A.02.d5d3e430"/>גוד</w>
-                     <w xml:id="P000119941.2.4.3.1.00700">חפות</w>
-                     <w xml:id="P000119941.2.4.3.1.00800">לא</w>
-                     <w xml:id="P000119941.2.4.3.1.00900">במנעל</w>
-                     <w xml:id="P000119941.2.4.3.1.01000">ולא</w>
-                     <w xml:id="P000119941.2.4.3.1.01100">בסנדל</w>
-                     <lb xml:id="P000119941.190A.03" n="3"/>
-                     <w xml:id="P000119941.2.4.3.1.01200">לא</w>
-                     <w xml:id="P000119941.2.4.3.1.01300">בתפלה</w>
-                     <w xml:id="P000119941.2.4.3.1.01400">לא</w>
-                     <w xml:id="P000119941.2.4.3.1.01500">בקמיע</w>
-                     <w xml:id="P000119941.2.4.3.1.01600">שמא</w>
-                     <w xml:id="P000119941.2.4.3.1.01700">יעני</w>
-                     <w xml:id="P000119941.2.4.3.1.01800">ויאמרו</w>
-                     <w xml:id="P000119941.2.4.3.1.01900">מעון</w>
-                     <surplus xml:id="P000119941.190A.03.surplus.d6e1040">א </surplus>
-                     <lb xml:id="P000119941.190A.04" n="4"/>
-                     <w xml:id="P000119941.2.4.3.1.02000">הלשכה</w>
-                     <w xml:id="P000119941.2.4.3.1.02100">העני</w>
-                     <w xml:id="P000119941.2.4.3.1.02200">ושמא</w>
-                     <w xml:id="P000119941.2.4.3.1.02300">יעשיר</w>
-                     <w xml:id="P000119941.2.4.3.1.02400">ויאמרו</w>
-                     <w xml:id="P000119941.2.4.3.1.02500">מתרומת</w>
-                     <w xml:id="P000119941.2.4.3.1.02600">הלשכה</w>
-                     <lb xml:id="P000119941.190A.05" n="5"/>
-                     <w xml:id="P000119941.2.4.3.1.02700">העשיר</w>
-                     <w xml:id="P000119941.2.4.3.1.02800">שא<damageSpan type="damage" spanTo="#P000119941.190A.05.d5d3e444"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.190A.05.d5d3e445" subtype="damage"/>ד<anchor type="unclear" xml:id="P000119941.190A.05.d5d3e445"/>
-                        <anchor type="damage" xml:id="P000119941.190A.05.d5d3e444"/>ם</w>
-                     <w xml:id="P000119941.2.4.3.1.02900">
+                        <anchor xml:id="P000119941.190vA.28.d271494e298" type="unclear"/>
+                        <anchor xml:id="P000119941.190vA.28.d271494e297" type="damage"/>ג</w>
+                     <w xml:id="P000119941.2.4.3.1.00030">אין</w>
+                     <lb xml:id="P000119941.190vA.29" n="29"/>
+                     <w xml:id="P000119941.2.4.3.1.00040">התורם</w>
+                     <w xml:id="P000119941.2.4.3.1.00050">נכנס</w>
+                     <w xml:id="P000119941.2.4.3.1.00060">בפ<damageSpan spanTo="#P000119941.190vA.29.d271494e303" type="damage"/>
+                        <damageSpan spanTo="#P000119941.190vA.29.d271494e304"
+                                    type="unclear"
+                                    subtype="damage"/>ר<anchor xml:id="P000119941.190vA.29.d271494e304" type="unclear"/>
+                        <anchor xml:id="P000119941.190vA.29.d271494e303" type="damage"/>גוד</w>
+                     <w xml:id="P000119941.2.4.3.1.00070">חפות</w>
+                     <w xml:id="P000119941.2.4.3.1.00080">לא</w>
+                     <w xml:id="P000119941.2.4.3.1.00090">במנעל</w>
+                     <w xml:id="P000119941.2.4.3.1.00100">ולא</w>
+                     <w xml:id="P000119941.2.4.3.1.00110">בסנדל</w>
+                     <lb xml:id="P000119941.190vA.30" n="30"/>
+                     <w xml:id="P000119941.2.4.3.1.00120">לא</w>
+                     <w xml:id="P000119941.2.4.3.1.00130">בתפלה</w>
+                     <w xml:id="P000119941.2.4.3.1.00140">לא</w>
+                     <w xml:id="P000119941.2.4.3.1.00150">בקמיע</w>
+                     <w xml:id="P000119941.2.4.3.1.00160">שמא</w>
+                     <w xml:id="P000119941.2.4.3.1.00170">יעני</w>
+                     <w xml:id="P000119941.2.4.3.1.00180">ויאמרו</w>
+                     <w xml:id="P000119941.2.4.3.1.00190">מעון</w>
+                     <surplus xml:id="P000119941.190vA.30d271494e310">א </surplus>
+                     <lb xml:id="P000119941.190vA.31" n="31"/>
+                     <w xml:id="P000119941.2.4.3.1.00200">הלשכה</w>
+                     <w xml:id="P000119941.2.4.3.1.00210">העני</w>
+                     <w xml:id="P000119941.2.4.3.1.00220">ושמא</w>
+                     <w xml:id="P000119941.2.4.3.1.00230">יעשיר</w>
+                     <w xml:id="P000119941.2.4.3.1.00240">ויאמרו</w>
+                     <w xml:id="P000119941.2.4.3.1.00250">מתרומת</w>
+                     <w xml:id="P000119941.2.4.3.1.00260">הלשכה</w>
+                     <lb xml:id="P000119941.190vA.32" n="32"/>
+                     <w xml:id="P000119941.2.4.3.1.00270">העשיר</w>
+                     <w xml:id="P000119941.2.4.3.1.00280">שא<damageSpan spanTo="#P000119941.190vA.32.d271494e315" type="damage"/>
+                        <damageSpan spanTo="#P000119941.190vA.32.d271494e316"
+                                    type="unclear"
+                                    subtype="damage"/>ד<anchor xml:id="P000119941.190vA.32.d271494e316" type="unclear"/>
+                        <anchor xml:id="P000119941.190vA.32.d271494e315" type="damage"/>ם</w>
+                     <w xml:id="P000119941.2.4.3.1.00290">
                         <choice>
                            <abbr>צרי<am>׳</am>
                            </abbr>
                            <expan>צריך</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.3.1.03000">לצאת</w>
-                     <w xml:id="P000119941.2.4.3.1.03100">ידי</w>
-                     <w xml:id="P000119941.2.4.3.1.03200">
+                     <w xml:id="P000119941.2.4.3.1.00300">לצאת</w>
+                     <w xml:id="P000119941.2.4.3.1.00310">ידי</w>
+                     <w xml:id="P000119941.2.4.3.1.00320">
                         <choice>
                            <abbr>
-                              <damageSpan type="damage" spanTo="#P000119941.190A.05.d5d3e459"/>
-                              <damageSpan type="unclear" spanTo="#P000119941.190A.05.d5d3e460" subtype="damage"/>ה<anchor type="unclear" xml:id="P000119941.190A.05.d5d3e460"/>
-                              <anchor type="damage" xml:id="P000119941.190A.05.d5d3e459"/>בריו<am>׳</am>
+                              <damageSpan spanTo="#P000119941.190vA.32.d271494e328" type="damage"/>
+                              <damageSpan spanTo="#P000119941.190vA.32.d271494e329"
+                                          type="unclear"
+                                          subtype="damage"/>ה<anchor xml:id="P000119941.190vA.32.d271494e329" type="unclear"/>
+                              <anchor xml:id="P000119941.190vA.32.d271494e328" type="damage"/>בריו<am>׳</am>
                            </abbr>
                            <expan>הבריות</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.3.1.03300">כדרך</w>
-                     <w xml:id="P000119941.2.4.3.1.03400">שצריך</w>
-                     <lb xml:id="P000119941.190A.06" n="6"/>
-                     <w xml:id="P000119941.2.4.3.1.03500">לצאת</w>
-                     <w xml:id="P000119941.2.4.3.1.03600">ידי</w>
-                     <w xml:id="P000119941.2.4.3.1.03700">המקום</w>
-                     <w xml:id="P000119941.2.4.3.1.03800">שנא</w>
-                     <w xml:id="P000119941.2.4.3.1.03900">והייתם</w>
-                     <w xml:id="P000119941.2.4.3.1.04000">נקיים</w>
-                     <w xml:id="P000119941.2.4.3.1.04100">מה׳</w>
-                     <w xml:id="P000119941.2.4.3.1.04200">ומישראל</w>
-                     <lb xml:id="P000119941.190A.07" n="7"/>
+                     <w xml:id="P000119941.2.4.3.1.00330">כדרך</w>
+                     <w xml:id="P000119941.2.4.3.1.00340">שצריך</w>
+                     <lb xml:id="P000119941.190vA.33" n="33"/>
+                     <w xml:id="P000119941.2.4.3.1.00350">לצאת</w>
+                     <w xml:id="P000119941.2.4.3.1.00360">ידי</w>
+                     <w xml:id="P000119941.2.4.3.1.00370">המקום</w>
+                     <w xml:id="P000119941.2.4.3.1.00380">שנא</w>
+                     <w xml:id="P000119941.2.4.3.1.00390">והייתם</w>
+                     <w xml:id="P000119941.2.4.3.1.00400">נקיים</w>
+                     <w xml:id="P000119941.2.4.3.1.00410">מה׳</w>
+                     <w xml:id="P000119941.2.4.3.1.00420">ומישראל</w>
+                     <lb xml:id="P000119941.190vA.34" n="34"/>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.3.1.04300">
+                     <w xml:id="P000119941.2.4.3.1.00430">
                         <choice>
                            <abbr>ואו<am>׳</am>
                            </abbr>
                            <expan>ואומר</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.3.1.04400">ומצא</w>
-                     <w xml:id="P000119941.2.4.3.1.04500">חן</w>
-                     <w xml:id="P000119941.2.4.3.1.04600">ושכל</w>
-                     <w xml:id="P000119941.2.4.3.1.04700">טוב</w>
-                     <w xml:id="P000119941.2.4.3.1.04800">בעיני</w>
-                     <w xml:id="P000119941.2.4.3.1.04900">
+                     <w xml:id="P000119941.2.4.3.1.00440">ומצא</w>
+                     <w xml:id="P000119941.2.4.3.1.00450">חן</w>
+                     <w xml:id="P000119941.2.4.3.1.00460">ושכל</w>
+                     <w xml:id="P000119941.2.4.3.1.00470">טוב</w>
+                     <w xml:id="P000119941.2.4.3.1.00480">בעיני</w>
+                     <w xml:id="P000119941.2.4.3.1.00490">
                         <choice>
                            <abbr>אלי<am rend="uncertain">׳</am>ם</abbr>
                            <expan>אלהים</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.3.1.05000">ואדם</w>
+                     <w xml:id="P000119941.2.4.3.1.00500">ואדם</w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-               </div3> 
-               <gap xml:id="P000119941.190A.07.d6e1193" reason="talmud" extent="999"/>
-               <div3 n="Chapter5" type="chapter" subtype="chapter" xml:id="P000119941.2.4.5">
-                  <cb xml:id="P000119941.190B" n="190vB"/>
-                  <lb xml:id="P000119941.190B.01" n="1"/>
+               </div3>
+               <gap reason="talmud" extent="999"/>
+               <div3 xml:id="P000119941.2.4.5"
+                     n="Chapter5"
+                     type="textpart"
+                     subtype="chapter">
+                  <cb xml:id="P000119941.190vB"/>
+                  <lb xml:id="P000119941.190vB.28" n="28"/>
                   <head xml:id="P000119941.2.4.5.H">
-                     <w xml:id="P000119941.2.4.5.H.00100">פרק</w>
-                     <w xml:id="P000119941.2.4.5.H.00200">ה<am>׳</am>
+                     <w xml:id="P000119941.2.4.5.H.00010">פרק</w>
+                     <w xml:id="P000119941.2.4.5.H.00020">ה<am>׳</am>
                      </w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.5.1">
+                  <ab xml:id="P000119941.2.4.5.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="5"/>
                      <milestone unit="MSMishnah"/>
-                     <w xml:id="P000119941.2.4.5.1.00100">משנה</w>
-                     <w xml:id="P000119941.2.4.5.1.00200">ראשונה</w>
+                     <w xml:id="P000119941.2.4.5.1.00010">משנה</w>
+                     <w xml:id="P000119941.2.4.5.1.00020">ראשונה</w>
                      <milestone/>
-                     <w xml:id="P000119941.2.4.5.1.00300">כ<am>׳׳</am>ה</w>
-                     <lb xml:id="P000119941.190B.02" n="2"/>
-                     <w xml:id="P000119941.2.4.5.1.00400">ואלו</w>
-                     <w xml:id="P000119941.2.4.5.1.00500">הם</w>
-                     <w xml:id="P000119941.2.4.5.1.00600">הממונים</w>
-                     <lb xml:id="P000119941.190B.03" n="3"/>
-                     <w xml:id="P000119941.2.4.5.1.00700">שהיו</w>
-                     <w xml:id="P000119941.2.4.5.1.00800">ע<damageSpan type="damage" spanTo="#P000119941.190B.03.d5d3e520"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.190B.03.d5d3e521" subtype="damage"/>ו<anchor type="unclear" xml:id="P000119941.190B.03.d5d3e521"/>
-                        <anchor type="damage" xml:id="P000119941.190B.03.d5d3e520"/>שין</w>
-                     <w xml:id="P000119941.2.4.5.1.00900">במקדש</w>
+                     <w xml:id="P000119941.2.4.5.1.00030">כ<am>׳׳</am>
+                     </w>
+                     <w xml:id="P000119941.2.4.5.1.00040">ה</w>
+                     <lb xml:id="P000119941.190vB.29" n="29"/>
+                     <w xml:id="P000119941.2.4.5.1.00050">ואלו</w>
+                     <w xml:id="P000119941.2.4.5.1.00060">הם</w>
+                     <w xml:id="P000119941.2.4.5.1.00070">הממונים</w>
+                     <lb xml:id="P000119941.190vB.30" n="30"/>
+                     <w xml:id="P000119941.2.4.5.1.00080">שהיו</w>
+                     <w xml:id="P000119941.2.4.5.1.00090">ע<damageSpan spanTo="#P000119941.190vB.30.d271494e376" type="damage"/>
+                        <damageSpan spanTo="#P000119941.190vB.30.d271494e377"
+                                    type="unclear"
+                                    subtype="damage"/>ו<anchor xml:id="P000119941.190vB.30.d271494e377" type="unclear"/>
+                        <anchor xml:id="P000119941.190vB.30.d271494e376" type="damage"/>שין</w>
+                     <w xml:id="P000119941.2.4.5.1.00100">במקדש</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.1.01000">יוחנן</w>
-                     <w xml:id="P000119941.2.4.5.1.01100">בן</w>
-                     <w xml:id="P000119941.2.4.5.1.01200">פנחס</w>
-                     <w xml:id="P000119941.2.4.5.1.01300">על</w>
-                     <w xml:id="P000119941.2.4.5.1.01400">החותמות</w>
-                     <lb xml:id="P000119941.190B.04" n="4"/>
-                     <w xml:id="P000119941.2.4.5.1.01500">אחיה</w>
-                     <w xml:id="P000119941.2.4.5.1.01600">על</w>
-                     <w xml:id="P000119941.2.4.5.1.01700">הסלתות</w>
+                     <w xml:id="P000119941.2.4.5.1.00110">יוחנן</w>
+                     <w xml:id="P000119941.2.4.5.1.00120">בן</w>
+                     <w xml:id="P000119941.2.4.5.1.00130">פנחס</w>
+                     <w xml:id="P000119941.2.4.5.1.00140">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00150">החותמות</w>
+                     <lb xml:id="P000119941.190vB.31" n="31"/>
+                     <w xml:id="P000119941.2.4.5.1.00160">אחיה</w>
+                     <w xml:id="P000119941.2.4.5.1.00170">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00180">הסלתות</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.1.01800">מתיא</w>
-                     <w xml:id="P000119941.2.4.5.1.01900">בן</w>
-                     <w xml:id="P000119941.2.4.5.1.02000">שמואל</w>
-                     <w xml:id="P000119941.2.4.5.1.02100">על</w>
-                     <w xml:id="P000119941.2.4.5.1.02200">הפייסות</w>
+                     <w xml:id="P000119941.2.4.5.1.00190">מתיא</w>
+                     <w xml:id="P000119941.2.4.5.1.00200">בן</w>
+                     <w xml:id="P000119941.2.4.5.1.00210">שמואל</w>
+                     <w xml:id="P000119941.2.4.5.1.00220">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00230">הפייסות</w>
                      <pc unit="stop">׃</pc>
-                     <lb xml:id="P000119941.190B.05" n="5"/>
-                     <w xml:id="P000119941.2.4.5.1.02300">פתהיה</w>
-                     <w xml:id="P000119941.2.4.5.1.02400">על</w>
-                     <w xml:id="P000119941.2.4.5.1.02500">הקינין</w>
+                     <lb xml:id="P000119941.190vB.32" n="32"/>
+                     <w xml:id="P000119941.2.4.5.1.00240">פתהיה</w>
+                     <w xml:id="P000119941.2.4.5.1.00250">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00260">הקינין</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.1.02600">פתחיה</w>
-                     <w xml:id="P000119941.2.4.5.1.02700">זה</w>
-                     <w xml:id="P000119941.2.4.5.1.02800">מרדכי</w>
-                     <w xml:id="P000119941.2.4.5.1.02900">ולמה</w>
-                     <w xml:id="P000119941.2.4.5.1.03000">נקרא</w>
-                     <lb xml:id="P000119941.190B.06" n="6"/>
-                     <w xml:id="P000119941.2.4.5.1.03100">שמו</w>
-                     <w xml:id="P000119941.2.4.5.1.03200">פתחיה</w>
-                     <w xml:id="P000119941.2.4.5.1.03300">שפותח</w>
-                     <w xml:id="P000119941.2.4.5.1.03400">
+                     <w xml:id="P000119941.2.4.5.1.00270">פתחיה</w>
+                     <w xml:id="P000119941.2.4.5.1.00280">זה</w>
+                     <w xml:id="P000119941.2.4.5.1.00290">מרדכי</w>
+                     <w xml:id="P000119941.2.4.5.1.00300">ולמה</w>
+                     <w xml:id="P000119941.2.4.5.1.00310">נקרא</w>
+                     <lb xml:id="P000119941.190vB.33" n="33"/>
+                     <w xml:id="P000119941.2.4.5.1.00320">שמו</w>
+                     <w xml:id="P000119941.2.4.5.1.00330">פתחיה</w>
+                     <w xml:id="P000119941.2.4.5.1.00340">שפותח</w>
+                     <w xml:id="P000119941.2.4.5.1.00350">
                         <choice>
                            <abbr>בדברי<am>׳</am>
                            </abbr>
                            <expan>בדברים</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.5.1.03500">ודורש</w>
-                     <w xml:id="P000119941.2.4.5.1.03600">ויודע</w>
-                     <w xml:id="P000119941.2.4.5.1.03700">
+                     <w xml:id="P000119941.2.4.5.1.00360">ודורש</w>
+                     <w xml:id="P000119941.2.4.5.1.00370">ויודע</w>
+                     <w xml:id="P000119941.2.4.5.1.00380">
                         <choice>
                            <abbr>בע<am rend="uncertain">׳</am>
                            </abbr>
                            <expan>בשבעים</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.5.1.03800">לשון</w>
+                     <w xml:id="P000119941.2.4.5.1.00390">לשון</w>
                      <pc unit="stop">׃</pc>
-                     <lb xml:id="P000119941.190B.07" n="7"/>
-                     <w xml:id="P000119941.2.4.5.1.03900">בן</w>
-                     <w xml:id="P000119941.2.4.5.1.04000">אחיה</w>
-                     <w xml:id="P000119941.2.4.5.1.04100">על</w>
-                     <w xml:id="P000119941.2.4.5.1.04200">חולי</w>
-                     <w xml:id="P000119941.2.4.5.1.04300">מעים</w>
+                     <lb xml:id="P000119941.190vB.34" n="34"/>
+                     <w xml:id="P000119941.2.4.5.1.00400">בן</w>
+                     <w xml:id="P000119941.2.4.5.1.00410">אחיה</w>
+                     <w xml:id="P000119941.2.4.5.1.00420">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00430">חולי</w>
+                     <w xml:id="P000119941.2.4.5.1.00440">מעים</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.1.04400">נחוניא</w>
-                     <w xml:id="P000119941.2.4.5.1.04500">איש</w>
-                     <w xml:id="P000119941.2.4.5.1.04600">הופו</w>
-                     <w xml:id="P000119941.2.4.5.1.04700">שיחין</w>
+                     <w xml:id="P000119941.2.4.5.1.00450">נחוניא</w>
+                     <w xml:id="P000119941.2.4.5.1.00460">איש</w>
+                     <w xml:id="P000119941.2.4.5.1.00470">הופו</w>
+                     <w xml:id="P000119941.2.4.5.1.00480">שיחין</w>
                      <pc unit="stop">׃</pc>
-                     <lb xml:id="P000119941.190B.08" n="8"/>
-                     <w xml:id="P000119941.2.4.5.1.04800">גביני</w>
-                     <w xml:id="P000119941.2.4.5.1.04900">
-                        <damageSpan type="damage" spanTo="#P000119941.190B.08.d5d3e573"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.190B.08.d5d3e574" subtype="damage"/>ב<anchor type="unclear" xml:id="P000119941.190B.08.d5d3e574"/>
-                        <anchor type="damage" xml:id="P000119941.190B.08.d5d3e573"/>רוז</w>
-                     <w xml:id="P000119941.2.4.5.1.05000">
+                     <lb xml:id="P000119941.190vB.35" n="35"/>
+                     <w xml:id="P000119941.2.4.5.1.00490">גביני</w>
+                     <damageSpan spanTo="#P000119941.190vB.35.d271494e423" type="damage"/>
+                     <damageSpan spanTo="#P000119941.190vB.35.d271494e424"
+                                 type="unclear"
+                                 subtype="damage"/>
+                     <w xml:id="P000119941.2.4.5.1.00500">ב<anchor xml:id="P000119941.190vB.35.d271494e424" type="unclear"/>
+                        <anchor xml:id="P000119941.190vB.35.d271494e423" type="damage"/>רוז</w>
+                     <w xml:id="P000119941.2.4.5.1.00510">
                         <choice>
                            <abbr>וכו<am>׳</am>
                            </abbr>
@@ -594,11 +646,11 @@
                         </choice>
                      </w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.1.05100">בן</w>
-                     <w xml:id="P000119941.2.4.5.1.05200">בבי</w>
-                     <w xml:id="P000119941.2.4.5.1.05300">על</w>
-                     <w xml:id="P000119941.2.4.5.1.05400">הפקיע</w>
-                     <w xml:id="P000119941.2.4.5.1.05500">
+                     <w xml:id="P000119941.2.4.5.1.00520">בן</w>
+                     <w xml:id="P000119941.2.4.5.1.00530">בבי</w>
+                     <w xml:id="P000119941.2.4.5.1.00540">על</w>
+                     <w xml:id="P000119941.2.4.5.1.00550">הפקיע</w>
+                     <w xml:id="P000119941.2.4.5.1.00560">
                         <choice>
                            <abbr>וכו<am>׳</am>
                            </abbr>
@@ -607,70 +659,76 @@
                      </w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-                  <gap xml:id="P000119941.190B.08.d6e1458" reason="talmud" extent="999"/>
-                  <pb xml:id="P000119941.193v" n="193v"/> 
-                  <cb xml:id="P000119941.193A" n="193vA"/>
-                  <lb xml:id="P000119941.193A.01" n="1"/>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.5.6">
+                  <gap reason="talmud" extent="999"/>
+                  <pb xml:id="P000119941.193v"/>
+                  <cb xml:id="P000119941.193vA"/>
+                  <lb xml:id="P000119941.193vA.1" n="1"/>
+                  <ab xml:id="P000119941.2.4.5.6" type="textpart" subtype="mishnah">
                      <milestone/>
-                     <w xml:id="P000119941.2.4.5.6.00100">ל<am>׳׳</am>א</w>
-                     <w xml:id="P000119941.2.4.5.6.00200">משנה</w>
-                     <w xml:id="P000119941.2.4.5.6.00300">שתי</w>
-                     <w xml:id="P000119941.2.4.5.6.00400">לשכות</w>
-                     <w xml:id="P000119941.2.4.5.6.00500">היו</w>
-                     <w xml:id="P000119941.2.4.5.6.00600">במקדש</w>
-                     <w xml:id="P000119941.2.4.5.6.00700">
+                     <w xml:id="P000119941.2.4.5.6.00010">ל<am>׳׳</am>
+                     </w>
+                     <w xml:id="P000119941.2.4.5.6.00020">א</w>
+                     <w xml:id="P000119941.2.4.5.6.00030">משנה</w>
+                     <w xml:id="P000119941.2.4.5.6.00040">שתי</w>
+                     <w xml:id="P000119941.2.4.5.6.00050">לשכות</w>
+                     <w xml:id="P000119941.2.4.5.6.00060">היו</w>
+                     <w xml:id="P000119941.2.4.5.6.00070">במקדש</w>
+                     <w xml:id="P000119941.2.4.5.6.00080">
                         <choice>
                            <abbr>א<am>׳</am>
                            </abbr>
                            <expan>אחת</expan>
                         </choice>
                      </w>
-                     <lb xml:id="P000119941.193A.02" n="2"/>
-                     <w xml:id="P000119941.2.4.5.6.00800">לשכת</w>
-                     <w xml:id="P000119941.2.4.5.6.00900">חשאים</w>
-                     <w xml:id="P000119941.2.4.5.6.01000">
+                     <lb xml:id="P000119941.193vA.2" n="2"/>
+                     <w xml:id="P000119941.2.4.5.6.00090">לשכת</w>
+                     <w xml:id="P000119941.2.4.5.6.00100">חשאים</w>
+                     <w xml:id="P000119941.2.4.5.6.00110">
                         <choice>
                            <abbr>וא<am>׳</am>
                            </abbr>
                            <expan>ואחת</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.5.6.01100">לשכת</w>
-                     <lb xml:id="P000119941.193A.03" n="3"/>
-                     <w xml:id="P000119941.2.4.5.6.01200">הכלים</w>
+                     <w xml:id="P000119941.2.4.5.6.00120">לשכת</w>
+                     <lb xml:id="P000119941.193vA.3" n="3"/>
+                     <w xml:id="P000119941.2.4.5.6.00130">הכלים</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.6.01300">לשכת</w>
-                     <w xml:id="P000119941.2.4.5.6.01400">חשאים</w>
-                     <w xml:id="P000119941.2.4.5.6.01500">יראי</w>
-                     <w xml:id="P000119941.2.4.5.6.01600">חטא</w>
-                     <w xml:id="P000119941.2.4.5.6.01700">נותנין</w>
-                     <w xml:id="P000119941.2.4.5.6.01800">ל<damageSpan type="damage" spanTo="#P000119941.193A.03.d5d3e634"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.193A.03.d5d3e635" subtype="damage"/>ה<anchor type="unclear" xml:id="P000119941.193A.03.d5d3e635"/>
-                        <anchor type="damage" xml:id="P000119941.193A.03.d5d3e634"/>וכה</w>
-                     <lb xml:id="P000119941.193A.04" n="4"/>
-                     <w xml:id="P000119941.2.4.5.6.01900">בחשאי</w>
-                     <w xml:id="P000119941.2.4.5.6.02000">ועניים</w>
-                     <w xml:id="P000119941.2.4.5.6.02100">בני</w>
-                     <w xml:id="P000119941.2.4.5.6.02200">טובים</w>
-                     <w xml:id="P000119941.2.4.5.6.02300">מתפרנסין</w>
-                     <w xml:id="P000119941.2.4.5.6.02400">מתוכה</w>
-                     <w xml:id="P000119941.2.4.5.6.02500">ב<damageSpan type="damage" spanTo="#P000119941.193A.04.d5d3e640"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.193A.04.d5d3e641" subtype="damage"/>ה<anchor type="unclear" xml:id="P000119941.193A.04.d5d3e641"/>
-                        <anchor type="damage" xml:id="P000119941.193A.04.d5d3e640"/>שאי</w>
-                     <lb xml:id="P000119941.193A.05" n="5"/>
+                     <w xml:id="P000119941.2.4.5.6.00140">לשכת</w>
+                     <w xml:id="P000119941.2.4.5.6.00150">חשאים</w>
+                     <w xml:id="P000119941.2.4.5.6.00160">יראי</w>
+                     <w xml:id="P000119941.2.4.5.6.00170">חטא</w>
+                     <w xml:id="P000119941.2.4.5.6.00180">נותנין</w>
+                     <w xml:id="P000119941.2.4.5.6.00190">ל<damageSpan spanTo="#P000119941.193vA.3.d271494e471" type="damage"/>
+                        <damageSpan spanTo="#P000119941.193vA.3.d271494e472"
+                                    type="unclear"
+                                    subtype="damage"/>ה<anchor xml:id="P000119941.193vA.3.d271494e472" type="unclear"/>
+                        <anchor xml:id="P000119941.193vA.3.d271494e471" type="damage"/>וכה</w>
+                     <lb xml:id="P000119941.193vA.4" n="4"/>
+                     <w xml:id="P000119941.2.4.5.6.00200">בחשאי</w>
+                     <w xml:id="P000119941.2.4.5.6.00210">ועניים</w>
+                     <w xml:id="P000119941.2.4.5.6.00220">בני</w>
+                     <w xml:id="P000119941.2.4.5.6.00230">טובים</w>
+                     <w xml:id="P000119941.2.4.5.6.00240">מתפרנסין</w>
+                     <w xml:id="P000119941.2.4.5.6.00250">מתוכה</w>
+                     <w xml:id="P000119941.2.4.5.6.00260">ב<damageSpan spanTo="#P000119941.193vA.4.d271494e477" type="damage"/>
+                        <damageSpan spanTo="#P000119941.193vA.4.d271494e478"
+                                    type="unclear"
+                                    subtype="damage"/>ה<anchor xml:id="P000119941.193vA.4.d271494e478" type="unclear"/>
+                        <anchor xml:id="P000119941.193vA.4.d271494e477" type="damage"/>שאי</w>
+                     <lb xml:id="P000119941.193vA.5" n="5"/>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.5.6.02600">לשכת</w>
-                     <w xml:id="P000119941.2.4.5.6.02700">הכלים</w>
-                     <w xml:id="P000119941.2.4.5.6.02800">כל</w>
-                     <w xml:id="P000119941.2.4.5.6.02900">מי</w>
-                     <w xml:id="P000119941.2.4.5.6.03000">שהוא</w>
-                     <w xml:id="P000119941.2.4.5.6.03100">מתנדב</w>
-                     <w xml:id="P000119941.2.4.5.6.03200">בלי</w>
-                     <w xml:id="P000119941.2.4.5.6.03300">זורקו</w>
-                     <lb xml:id="P000119941.193A.06" n="6"/>
-                     <w xml:id="P000119941.2.4.5.6.03400">לתוכה</w>
-                     <w xml:id="P000119941.2.4.5.6.03500">
+                     <w xml:id="P000119941.2.4.5.6.00270">לשכת</w>
+                     <w xml:id="P000119941.2.4.5.6.00280">הכלים</w>
+                     <w xml:id="P000119941.2.4.5.6.00290">כל</w>
+                     <w xml:id="P000119941.2.4.5.6.00300">מי</w>
+                     <w xml:id="P000119941.2.4.5.6.00310">שהוא</w>
+                     <w xml:id="P000119941.2.4.5.6.00320">מתנדב</w>
+                     <w xml:id="P000119941.2.4.5.6.00330">בלי</w>
+                     <w xml:id="P000119941.2.4.5.6.00340">זורקו</w>
+                     <lb xml:id="P000119941.193vA.6" n="6"/>
+                     <w xml:id="P000119941.2.4.5.6.00350">לתוכה</w>
+                     <w xml:id="P000119941.2.4.5.6.00360">
                         <choice>
                            <abbr>וכו<am>׳</am>
                            </abbr>
@@ -679,148 +737,158 @@
                      </w>
                      <pc unit="unitEnd">׃</pc>
                   </ab>
-               </div3> 
-               <gap xml:id="P000119941.193A.06.d6e1631" reason="talmud" extent="999"/>
-               <div3 n="Chapter6" type="chapter" subtype="chapter" xml:id="P000119941.2.4.6">
-                  <pb xml:id="P000119941.194r" n="194r"/> 
-                  <cb xml:id="P000119941.194B" n="194rB"/>
-                  <lb xml:id="P000119941.194B.01" n="1"/>
+               </div3>
+               <gap reason="talmud" extent="999"/>
+               <div3 xml:id="P000119941.2.4.6"
+                     n="Chapter6"
+                     type="textpart"
+                     subtype="chapter">
+                  <pb xml:id="P000119941.194r"/>
+                  <cb xml:id="P000119941.194rB"/>
+                  <lb xml:id="P000119941.194rB.11" n="11"/>
                   <head xml:id="P000119941.2.4.6.H">
-                     <w xml:id="P000119941.2.4.6.H.00100">פרק</w>
-                     <w xml:id="P000119941.2.4.6.H.00200">ו<am>׳</am>
+                     <w xml:id="P000119941.2.4.6.H.00010">פרק</w>
+                     <w xml:id="P000119941.2.4.6.H.00020">ו<am>׳</am>
                      </w>
                   </head>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.6.1">
+                  <ab xml:id="P000119941.2.4.6.1" type="textpart" subtype="mishnah">
                      <milestone unit="MSPereq" n="6"/>
                      <milestone unit="MSMishnah"/>
                      <milestone/>
-                     <w xml:id="P000119941.2.4.6.1.00100">ל<am>׳׳</am>ו</w>
-                     <w xml:id="P000119941.2.4.6.1.00200">משנה</w>
-                     <lb xml:id="P000119941.194B.02" n="2"/>
-                     <w xml:id="P000119941.2.4.6.1.00300">ראשונה</w>
+                     <w xml:id="P000119941.2.4.6.1.00010">ל<am>׳׳</am>
+                     </w>
+                     <w xml:id="P000119941.2.4.6.1.00020">ו</w>
+                     <w xml:id="P000119941.2.4.6.1.00030">משנה</w>
+                     <lb xml:id="P000119941.194rB.12" n="12"/>
+                     <w xml:id="P000119941.2.4.6.1.00040">ראשונה</w>
                      <pc unit="stop">׃</pc>
-                     <w xml:id="P000119941.2.4.6.1.00400">
+                     <w xml:id="P000119941.2.4.6.1.00050">
                         <choice>
                            <abbr>י<am>׳׳</am>ג</abbr>
                            <expan>שלשה עשר</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.00500">שופרות</w>
-                     <w xml:id="P000119941.2.4.6.1.00600">
+                     <w xml:id="P000119941.2.4.6.1.00060">שופרות</w>
+                     <w xml:id="P000119941.2.4.6.1.00070">
                         <choice>
                            <abbr>וי<am>׳׳</am>ג</abbr>
                            <expan>ושלשה עשר</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.00700">של<damageSpan type="damage" spanTo="#P000119941.194B.02.d5d3e708"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.194B.02.d5d3e709" subtype="damage"/>ח<anchor type="unclear" xml:id="P000119941.194B.02.d5d3e709"/>
-                        <anchor type="damage" xml:id="P000119941.194B.02.d5d3e708"/>נות</w>
-                     <w xml:id="P000119941.2.4.6.1.00800">
+                     <w xml:id="P000119941.2.4.6.1.00080">של<damageSpan spanTo="#P000119941.194rB.12.d271494e529" type="damage"/>
+                        <damageSpan spanTo="#P000119941.194rB.12.d271494e530"
+                                    type="unclear"
+                                    subtype="damage"/>ח<anchor xml:id="P000119941.194rB.12.d271494e530" type="unclear"/>
+                        <anchor xml:id="P000119941.194rB.12.d271494e529" type="damage"/>נות</w>
+                     <w xml:id="P000119941.2.4.6.1.00090">
                         <choice>
                            <abbr>וי<am>׳׳</am>ג</abbr>
                            <expan>ושלש עשרה</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.00900">השתחואות</w>
-                     <w xml:id="P000119941.2.4.6.1.01000">היו</w>
-                     <lb xml:id="P000119941.194B.03" n="3"/>
-                     <w xml:id="P000119941.2.4.6.1.01100">היו</w>
-                     <w xml:id="P000119941.2.4.6.1.01200">במקדש</w>
-                     <w xml:id="P000119941.2.4.6.1.01300">של</w>
-                     <w xml:id="P000119941.2.4.6.1.01400">בית</w>
-                     <w xml:id="P000119941.2.4.6.1.01500">
+                     <w xml:id="P000119941.2.4.6.1.00100">השתחואות</w>
+                     <w xml:id="P000119941.2.4.6.1.00110">היו</w>
+                     <lb xml:id="P000119941.194rB.13" n="13"/>
+                     <w xml:id="P000119941.2.4.6.1.00120">היו</w>
+                     <w xml:id="P000119941.2.4.6.1.00130">במקדש</w>
+                     <w xml:id="P000119941.2.4.6.1.00140">של</w>
+                     <w xml:id="P000119941.2.4.6.1.00150">בית</w>
+                     <w xml:id="P000119941.2.4.6.1.00160">
                         <choice>
                            <abbr>ר<am>׳׳</am>ג</abbr>
                            <expan>רבן גמליאל</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.01600">ושל</w>
-                     <w xml:id="P000119941.2.4.6.1.01700">בית</w>
-                     <w xml:id="P000119941.2.4.6.1.01800">
+                     <w xml:id="P000119941.2.4.6.1.00170">ושל</w>
+                     <w xml:id="P000119941.2.4.6.1.00180">בית</w>
+                     <w xml:id="P000119941.2.4.6.1.00190">
                         <choice>
                            <abbr>ר<am>׳</am>
                            </abbr>
                            <expan>רבי</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.01900">חנינה</w>
-                     <w xml:id="P000119941.2.4.6.1.02000">סגן</w>
-                     <lb xml:id="P000119941.194B.04" n="4"/>
-                     <w xml:id="P000119941.2.4.6.1.02100">הכהנים</w>
-                     <w xml:id="P000119941.2.4.6.1.02200">היו</w>
-                     <w xml:id="P000119941.2.4.6.1.02300">משתחוים</w>
-                     <w xml:id="P000119941.2.4.6.1.02400">
+                     <w xml:id="P000119941.2.4.6.1.00200">חנינה</w>
+                     <w xml:id="P000119941.2.4.6.1.00210">סגן</w>
+                     <lb xml:id="P000119941.194rB.14" n="14"/>
+                     <w xml:id="P000119941.2.4.6.1.00220">הכהנים</w>
+                     <w xml:id="P000119941.2.4.6.1.00230">היו</w>
+                     <w xml:id="P000119941.2.4.6.1.00240">משתחוים</w>
+                     <w xml:id="P000119941.2.4.6.1.00250">
                         <choice>
                            <abbr>י<am>׳׳</am>ד</abbr>
                            <expan>ארבע עשרה</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.1.02500">השתחואות</w>
-                     <w xml:id="P000119941.2.4.6.1.02600">והיכן</w>
-                     <w xml:id="P000119941.2.4.6.1.02700">היתה</w>
-                     <lb xml:id="P000119941.194B.05" n="5"/>
-                     <w xml:id="P000119941.2.4.6.1.02800">היתירה</w>
-                     <w xml:id="P000119941.2.4.6.1.02900">כנגד</w>
-                     <w xml:id="P000119941.2.4.6.1.03000">לשכת</w>
-                     <w xml:id="P000119941.2.4.6.1.03100">העצים</w>
-                     <w xml:id="P000119941.2.4.6.1.03200">שכן</w>
-                     <w xml:id="P000119941.2.4.6.1.03300">מסורת</w>
-                     <w xml:id="P000119941.2.4.6.1.03400">בידם</w>
-                     <lb xml:id="P000119941.194B.06" n="6"/>
-                     <w xml:id="P000119941.2.4.6.1.03500">מאבותם</w>
-                     <w xml:id="P000119941.2.4.6.1.03600">ששם</w>
-                     <w xml:id="P000119941.2.4.6.1.03700">ארון</w>
-                     <w xml:id="P000119941.2.4.6.1.03800">גנוז</w>
+                     <w xml:id="P000119941.2.4.6.1.00260">השתחואות</w>
+                     <w xml:id="P000119941.2.4.6.1.00270">והיכן</w>
+                     <w xml:id="P000119941.2.4.6.1.00280">היתה</w>
+                     <lb xml:id="P000119941.194rB.15" n="15"/>
+                     <w xml:id="P000119941.2.4.6.1.00290">היתירה</w>
+                     <w xml:id="P000119941.2.4.6.1.00300">כנגד</w>
+                     <w xml:id="P000119941.2.4.6.1.00310">לשכת</w>
+                     <w xml:id="P000119941.2.4.6.1.00320">העצים</w>
+                     <w xml:id="P000119941.2.4.6.1.00330">שכן</w>
+                     <w xml:id="P000119941.2.4.6.1.00340">מסורת</w>
+                     <w xml:id="P000119941.2.4.6.1.00350">בידם</w>
+                     <lb xml:id="P000119941.194rB.16" n="16"/>
+                     <w xml:id="P000119941.2.4.6.1.00360">מאבותם</w>
+                     <w xml:id="P000119941.2.4.6.1.00370">ששם</w>
+                     <w xml:id="P000119941.2.4.6.1.00380">ארון</w>
+                     <w xml:id="P000119941.2.4.6.1.00390">גנוז</w>
                      <pc unit="stop">׃</pc>
                   </ab>
-                  <ab type="textpart" subtype="mishnah" xml:id="P000119941.2.4.6.2">
-                     <w xml:id="P000119941.2.4.6.2.00100">ומעשה</w>
-                     <w xml:id="P000119941.2.4.6.2.00200">בכהן</w>
-                     <w xml:id="P000119941.2.4.6.2.00300">
+                  <ab xml:id="P000119941.2.4.6.2" type="textpart" subtype="mishnah">
+                     <w xml:id="P000119941.2.4.6.2.00010">ומעשה</w>
+                     <w xml:id="P000119941.2.4.6.2.00020">בכהן</w>
+                     <w xml:id="P000119941.2.4.6.2.00030">
                         <choice>
                            <abbr>א<am>׳</am>
                            </abbr>
                            <expan>אחד</expan>
                         </choice>
                      </w>
-                     <w xml:id="P000119941.2.4.6.2.00400">שהיה</w>
-                     <lb xml:id="P000119941.194B.07" n="7"/>
-                     <w xml:id="P000119941.2.4.6.2.00500">מתעסק</w>
-                     <w xml:id="P000119941.2.4.6.2.00600">וראה</w>
-                     <w xml:id="P000119941.2.4.6.2.00700">רצפה</w>
-                     <w xml:id="P000119941.2.4.6.2.00800">משונה</w>
-                     <w xml:id="P000119941.2.4.6.2.00900">מחב<damageSpan type="damage" spanTo="#P000119941.194B.07.d5d3e771"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.194B.07.d5d3e772" subtype="damage"/>ר<anchor type="unclear" xml:id="P000119941.194B.07.d5d3e772"/>
-                        <anchor type="damage" xml:id="P000119941.194B.07.d5d3e771"/>תה</w>
-                     <w xml:id="P000119941.2.4.6.2.01000">ובא</w>
-                     <w xml:id="P000119941.2.4.6.2.01100">לומר</w>
-                     <surplus xml:id="P000119941.194B.07.surplus.d6e1886">ש</surplus>
-                     <lb xml:id="P000119941.194B.08" n="8"/>
-                     <w xml:id="P000119941.2.4.6.2.01200">לחביריו</w>
-                     <w xml:id="P000119941.2.4.6.2.01300">ולא</w>
-                     <w xml:id="P000119941.2.4.6.2.01400">הספיק</w>
-                     <w xml:id="P000119941.2.4.6.2.01500">לגמור</w>
-                     <w xml:id="P000119941.2.4.6.2.01600">את</w>
-                     <w xml:id="P000119941.2.4.6.2.01700">הדבר</w>
-                     <w xml:id="P000119941.2.4.6.2.01800">עד</w>
-                     <w xml:id="P000119941.2.4.6.2.01900">שיצתה</w>
-                     <surplus xml:id="P000119941.194B.08.surplus.d6e1917">
-                        <damageSpan type="damage" spanTo="#P000119941.194B.08.d5d3e782"/>
-                        <damageSpan type="unclear" spanTo="#P000119941.194B.08.d5d3e783" subtype="damage"/>ח<anchor type="unclear" xml:id="P000119941.194B.08.d5d3e783"/>
-                        <anchor type="damage" xml:id="P000119941.194B.08.d5d3e782"/>
+                     <w xml:id="P000119941.2.4.6.2.00040">שהיה</w>
+                     <lb xml:id="P000119941.194rB.17" n="17"/>
+                     <w xml:id="P000119941.2.4.6.2.00050">מתעסק</w>
+                     <w xml:id="P000119941.2.4.6.2.00060">וראה</w>
+                     <w xml:id="P000119941.2.4.6.2.00070">רצפה</w>
+                     <w xml:id="P000119941.2.4.6.2.00080">משונה</w>
+                     <w xml:id="P000119941.2.4.6.2.00090">מחב<damageSpan spanTo="#P000119941.194rB.17.d271494e581" type="damage"/>
+                        <damageSpan spanTo="#P000119941.194rB.17.d271494e582"
+                                    type="unclear"
+                                    subtype="damage"/>ר<anchor xml:id="P000119941.194rB.17.d271494e582" type="unclear"/>
+                        <anchor xml:id="P000119941.194rB.17.d271494e581" type="damage"/>תה</w>
+                     <w xml:id="P000119941.2.4.6.2.00100">ובא</w>
+                     <w xml:id="P000119941.2.4.6.2.00110">לומר</w>
+                     <surplus xml:id="P000119941.194rB.17d271494e585">ש</surplus>
+                     <lb xml:id="P000119941.194rB.18" n="18"/>
+                     <w xml:id="P000119941.2.4.6.2.00120">לחביריו</w>
+                     <w xml:id="P000119941.2.4.6.2.00130">ולא</w>
+                     <w xml:id="P000119941.2.4.6.2.00140">הספיק</w>
+                     <w xml:id="P000119941.2.4.6.2.00150">לגמור</w>
+                     <w xml:id="P000119941.2.4.6.2.00160">את</w>
+                     <w xml:id="P000119941.2.4.6.2.00170">הדבר</w>
+                     <w xml:id="P000119941.2.4.6.2.00180">עד</w>
+                     <w xml:id="P000119941.2.4.6.2.00190">שיצתה</w>
+                     <surplus xml:id="P000119941.194rB.18d271494e588">
+                        <damageSpan spanTo="#P000119941.194rB.18.d271494e589" type="damage"/>
+                        <damageSpan spanTo="#P000119941.194rB.18.d271494e590"
+                                    type="unclear"
+                                    subtype="damage"/>ח<anchor xml:id="P000119941.194rB.18.d271494e590" type="unclear"/>
+                        <anchor xml:id="P000119941.194rB.18.d271494e589" type="damage"/>
                      </surplus>
-                     <lb xml:id="P000119941.194B.09" n="9"/>
-                     <w xml:id="P000119941.2.4.6.2.02000">נשמתו</w>
-                     <w xml:id="P000119941.2.4.6.2.02100">וידעו</w>
-                     <w xml:id="P000119941.2.4.6.2.02200">בייחוד</w>
-                     <w xml:id="P000119941.2.4.6.2.02300">ששם</w>
-                     <w xml:id="P000119941.2.4.6.2.02400">ארון</w>
-                     <w xml:id="P000119941.2.4.6.2.02500">גנוז</w>
+                     <lb xml:id="P000119941.194rB.19" n="19"/>
+                     <w xml:id="P000119941.2.4.6.2.00200">נשמתו</w>
+                     <w xml:id="P000119941.2.4.6.2.00210">וידעו</w>
+                     <w xml:id="P000119941.2.4.6.2.00220">בייחוד</w>
+                     <w xml:id="P000119941.2.4.6.2.00230">ששם</w>
+                     <w xml:id="P000119941.2.4.6.2.00240">ארון</w>
+                     <w xml:id="P000119941.2.4.6.2.00250">גנוז</w>
                   </ab>
-
                </div3>
             </div2>
-          </div1>
-         </body>
+         </div1>
+      </body>
    </text>
 </TEI>
